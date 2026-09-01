@@ -1,0 +1,309 @@
+{
+  "id": "gen-1788286722-H1ekrUExLzarmVQWMTxL",
+  "object": "chat.completion",
+  "created": 1788286722,
+  "model": "perplexity/sonar-pro",
+  "provider": "Perplexity",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "Brain.fm gets *mixed but generally positive* recent feedback on Reddit: many users say it noticeably improves focus or ADHD productivity and is better than generic music, but others feel it is only marginally better than lo\u2011fi/Endel or not worth a high subscription price, with common complaints about cost, repetition, and the need to use headphones. Estimates from third\u2011party app\u2011intelligence and startup\u2011data sites suggest Brain.fm is a **small but healthy subscription business** with **hundreds of thousands to ~500k+ downloads** and **low\u2011single\u2011digit millions of dollars in annual revenue**, but all specific figures are *estimates*, not official disclosures.\n\nBelow I\u2019ll separate (1) Reddit sentiment 2025\u20132026 and (2) download/revenue estimates, and I\u2019ll include a URL for each load\u2011bearing claim.\n\n---\n\n## 1. Reddit sentiment about Brain.fm (2025\u20132026)\n\n### a. 2025\u20132026 threads specifically mentioning Brain.fm\n\n**Week\u2011long review in r/ProductivityApps (May 2025)**  \nA 2025 thread titled *\u201cBrain.fm Review After Using It for a Week\u201d* in **r/ProductivityApps** (author: `TelephoneSame1920`, dated 2025\u201105\u201103) gives a short\u2011term review after a week of use.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)  \n\nKey points from that discussion (paraphrased from the post and replies):\n\n- The OP describes Brain.fm as a **focus/sleep music app that \u201cactually seems to help me stay on task\u201d compared with Spotify/YouTube background music**, especially for programming and reading.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)\n- Some commenters say it **\u201cputs me in a bubble\u201d where they forget the music and just work**, which they describe as the main benefit; others say they cannot tell a big difference vs. good instrumental playlists and are unsure it justifies a recurring subscription.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)\n- Value comments: several replies note that Brain.fm\u2019s pricing feels *high* compared with free alternatives, and recommend **using the free trial heavily before subscribing**.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)\n- Alternatives mentioned in that thread include **Endel**, **Spotify lo\u2011fi playlists**, and **YouTube focus mixes**; the rough consensus is *Brain.fm > generic playlists* if it \u201cclicks\u201d for you, but **Endel or good lo\u2011fi can be \u201cclose enough\u201d** for many users.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)\n\n**\u201cEndel or Brain.fm \u2013 is it working?\u201d in r/productivity (Feb 2026)**  \nA 2026 thread in **r/productivity** titled *\u201cEndel or Brain.fm \u2013 is it working?\u201d* (author: `Myrunningplace`, dated 2026\u201102\u201103) explicitly compares Brain.fm and Endel.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)  \n\nFrom that discussion (paraphrased):\n\n- The OP asks whether **Brain.fm or Endel \u201cactually do anything\u201d beyond normal music** for focus.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- Several replies say **Brain.fm \u201cfeels more stimulating/structured\u201d and better for deep work**, whereas **Endel is more \u201cambient/relaxing\u201d** and better for soft focus or winding down.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- People who like Brain.fm often describe a **subjective sense of entering focus faster (10\u201315 minutes) and staying in it longer**, though they acknowledge it\u2019s hard to separate placebo and ritual.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- A recurring complaint is **subscription fatigue**: users note that paying roughly **$99/year** (or even lower promo prices) \u201cfor music\u201d feels steep when Spotify/YouTube and Endel are already in their stack; several suggest **using Brain.fm only during heavy study or coding periods and canceling when not needed**.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- Alternatives mentioned in replies: **Endel**, **lofi\u2011girl/lo\u2011fi hip hop playlists on YouTube**, **Focus@Will**, and generic \u201cno\u2011lyrics\u201d Spotify playlists.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n\n**ADHD\u2011mode discussion in r/ADHS (March 2025)**  \nA 2025 thread in **r/ADHS** (German ADHD subreddit) titled *\u201cBrain.fm now has an ADHD mode\u201d* describes the new ADHD\u2011specific tracks.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)  \n\nParaphrased:\n\n- The OP explains Brain.fm as an app and website designed to **boost focus through specially engineered music**, mentioning an **ADHD mode** that adds extra stimulation for ADHD brains.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)\n- They note there is a **free trial**, encouraging others to try it for ADHD\u2011related focus problems.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)\n- A practical gripe: at that time, the **ADHD mode is available only on the website, not yet in the mobile app**, which some commenters find inconvenient.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)\n- While this thread is more informational than a deep review, replies reflect **cautious optimism** (\u201cworth a try\u201d) mixed with awareness that **scientific validation is limited** and effects may be individual.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)  \n\nSeparately, Brain.fm\u2019s own ADHD messaging on its site and app store listing reinforces that positioning: the iOS listing explicitly markets **\u201cADHD MODE FOR ADHD BRAINS\u201d** and likens Brain.fm to \u201ca fidget spinner for your brain,\u201d emphasizing extra stimulation for people with ADHD.[25](https://apps.apple.com/lr/app/brain-fm-focus-music/id1110684238) The dedicated ADHD landing page explains it as music that helps anchor attention by giving the brain consistent rhythmic input.[26](https://www.brain.fm/adhd)\n\n### b. Historical/aggregated Reddit opinions (pre\u20112025 but still referenced)\n\nReddit\u2011wide opinion aggregators, such as *RedditFavorites*\u2019 page *\u201cWhat is Reddit\u2019s opinion of Brain.fm?\u201d*, compile comments from 3.5 billion Reddit posts and show Brain.fm appearing as a **recommended focus music tool** in productivity and ADHD contexts.[20](https://redditfavorites.com/services/brain-fm) For example, one highlighted comment simply recommends \u201cthis site (https://www.brain.fm/)\u201d in the context of focus advice.[20](https://redditfavorites.com/services/brain-fm)\n\nOlder but often\u2011cited threads like *\u201cHave any of you used Brain.fm? It's really helping me focus.\u201d* in **r/ADHD** (2015) describe Brain.fm as **\u201creally helping\u201d with focus** and note that, at the time, there were **no native apps but the site worked well on mobile Chrome**.[27](https://www.reddit.com/r/ADHD/comments/3s0sq1/have_any_of_you_used_brainfm_its_really_helping/) There are also longer reviews such as *\u201cUsed Brain.fm for 1 year. Honest Review!\u201d* in **r/productivity** (2018), where the user lists pros/cons and mentions a **lifetime membership pricing tier** (~$149.90), suggesting that earlier pricing models included one\u2011time \u201cforever\u201d plans.[30](https://www.reddit.com/r/productivity/comments/7t9h9x/used_brainfm_for_1_year_honest_review/)\n\nThese historic threads are often referenced or linked in newer discussions, and they show a similar pattern to 2025\u20132026 comments: **many users report subjective benefits**, but **value perception and pricing are persistent friction points**.[27](https://www.reddit.com/r/ADHD/comments/3s0sq1/have_any_of_you_used_brainfm_its_really_helping/)[30](https://www.reddit.com/r/productivity/comments/7t9h9x/used_brainfm_for_1_year_honest_review/)\n\n### c. What Reddit users say *works* about Brain.fm\n\nAcross these threads and meta\u2011summaries, recent Reddit users tend to highlight:\n\n- **Faster \u201cdrop into\u201d focus**: Users describe being able to start working within 10\u201315 minutes and staying in \u201cthe zone\u201d longer than with ordinary playlists.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- **\u201cForget the music\u201d effect**: Several people note that the best sessions are ones where they **don\u2019t notice the music at all**, only that they stayed on task, which they interpret as a sign the soundscape is well\u2011designed for background use.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- **ADHD mode feels more stimulating**: ADHD users mention the **ADHD mode with extra stimulation/\u201cboost\u201d** as helpful, aligning with Brain.fm\u2019s own description of the mode as extra sensory input for ADHD brains.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)[25](https://apps.apple.com/lr/app/brain-fm-focus-music/id1110684238)\n- **Structured, less distracting than music with lyrics**: Many comments emphasize that Brain.fm\u2019s tracks are **purpose\u2011built, non\u2011lyrical, and predictable**, which makes them easier to work with than general Spotify playlists.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n\nBrain.fm\u2019s own blog posts echo these user reports, describing users who \u201cforget the music is playing\u201d yet stay focused longer, and emphasizing that its audio is engineered around **neural phase locking** (entrainment of brain rhythms).[22](https://www.brain.fm/blog/does-brain-fm-work-for-adhd)[23](https://www.brain.fm/blog/brain-fm-review)\n\n### d. Common complaints and skepticism on Reddit\n\nRecent and older threads surface recurring complaints:\n\n- **Price / subscription value**  \n  - Users compare Brain.fm\u2019s annual cost (often cited around **$48\u2013$99/year** in older press coverage and current pricing discussions) to free or bundled options (Spotify, YouTube, Endel in existing subscriptions), and **question whether incremental benefits justify a standalone subscription**.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)[29](https://www.cnet.com/tech/services-and-software/brain-fms-attention-boosting-app-gets-225k-national-science-grant/)  \n  - In the 2018 CNET article, Brain.fm\u2019s subscription is stated as **$6.95/month, $48/year, or $150 for \u201cforever\u201d**, which Reddit users in earlier threads referenced when debating value vs. lifetime deals.[29](https://www.cnet.com/tech/services-and-software/brain-fms-attention-boosting-app-gets-225k-national-science-grant/)[30](https://www.reddit.com/r/productivity/comments/7t9h9x/used_brainfm_for_1_year_honest_review/)  \n- **Repetition / limited variety**  \n  - Some Reddit users complain that tracks feel **repetitive** or that they notice patterns that become distracting over time, especially when using the app daily.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)  \n- **Placebo / science skepticism**  \n  - In discussions that link to third\u2011party reviews, users often note that **independent science has not clearly shown Brain.fm to be superior to well\u2011chosen instrumental music**, and some treat the effect as primarily placebo and ritual.[24](https://www.evro.ai/resources/brainfm-review-adhd-does-science-hold-up-2026)[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)  \n  - A 2026 external review of Brain.fm for ADHD, frequently shared in neurodivergent communities, concludes that the science is *plausible but not strongly proven*, and that Brain.fm is \u201calmost certainly not harmful\u201d but **not a clinically validated ADHD treatment**.[24](https://www.evro.ai/resources/brainfm-review-adhd-does-science-hold-up-2026)  \n- **App/platform issues**  \n  - Some ADHD users complain that **new modes or features appear on web first and lag on mobile**, as with ADHD mode being web\u2011only initially.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)  \n  - Older threads mention lack of native apps; newer complaints focus more on **UI quirks and occasional bugs**, though those are less central than pricing in recent discussions.[27](https://www.reddit.com/r/ADHD/comments/3s0sq1/have_any_of_you_used_brainfm_its_really_helping/)[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)\n\n### e. Alternatives Redditors recommend\n\nWithin 2025\u20132026 discussions and older \u201chonest review\u201d posts, common alternatives mentioned alongside Brain.fm:\n\n- **Endel** \u2013 Widely cited as the closest direct competitor for \u201cfunctional/ambient focus soundscapes,\u201d often described as **more relaxing** and less \u201cdriving\u201d than Brain.fm.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- **YouTube lo\u2011fi / \u201clofi girl\u201d** \u2013 Popular for free, non\u2011lyrical focus music; many users say **good lo\u2011fi playlists plus noise blocking get them \u201c80\u201390% of Brain.fm\u2019s effect\u201d**.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- **Spotify or Apple Music instrumental playlists** \u2013 \u201cFocus,\u201d \u201cdeep work,\u201d classical, or movie\u2011score playlists; often suggested as a **zero\u2011extra\u2011cost alternative** if you already pay for a streaming service.[16](https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/)[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n- **Focus@Will** \u2013 Mentioned occasionally, particularly in older productivity threads, as another subscription focus\u2011music app competing with Brain.fm.[21](https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/)\n\n---\n\n## 2. App\u2011intelligence estimates of Brain.fm downloads and revenue\n\nAll figures in this section are **estimates** from third\u2011party tools or startup\u2011data sites; they are *not* official Brain.fm disclosures. I\u2019ll flag each source and date.\n\n### a. Download estimates\n\n**Google Play Store listing (2026)**  \nThe Google Play listing for *Music for Focus by Brain.fm* shows a **download band of \u201c500,000+\u201d** for the Android app.[6](https://play.google.com/store/apps/details?id=com.brainfm.app&hl=de)  \n- This is **store\u2011reported**, not a third\u2011party estimate, and indicates that the Android app alone has surpassed 500k installs since launch as of mid\u20112026.[6](https://play.google.com/store/apps/details?id=com.brainfm.app&hl=de)\n\n**Peekly app\u2011intelligence estimates (August 2026)**  \nA tracking page for *Brain.fm \u2013 Focus Music* on the app\u2011analytics site **Peekly** provides estimated downloads and revenue for the iOS app.[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)  \n\nKey estimated metrics (explicitly labelled as estimates on the page):\n\n- **Estimated downloads per month (App Store):** ~**20k downloads/month**.[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)  \n- **Price:** The app is **free to download**; revenue is assumed to come from in\u2011app subscriptions.[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)  \n\nThe page makes clear these are **Peekly\u2019s proprietary estimates**, not ground\u2011truth data.[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)\n\n### b. Revenue estimates\n\n**Peekly monthly revenue estimate (August 2026)**  \nThe same Peekly page estimates that **Brain.fm \u2013 Focus Music \u201cmakes $200k per month\u201d** from subscriptions, based on its daily tracking and models.[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)  \n\nParaphrased from the site:\n\n- \u201cBrain.fm \u2013 Focus Music is **estimated to make $200k per month**, according to Peekly\u2019s daily tracking.\u201d\n- Under \u201cDownloads / mo\u201d and \u201cEstimated MRR,\u201d they display **20k downloads/month** and **$200k estimated monthly recurring revenue (MRR)**.[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)\n\nIf we take $200k/month as a rough benchmark, that implies **~$2.4M/year in recurring revenue** from the iOS app and related subscriptions, *assuming stability*. This extrapolation is a simple multiplication (not provided by Peekly) and should be treated as a rough inference, not a measured figure.[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)\n\n**Startup\u2011data revenue estimate (Growjo)**  \nThe startup\u2011data site **Growjo** has a profile for **Brain.fm** that lists:\n\n- **\u201cBrain.fm's estimated annual revenue is currently $2.6M per year.\u201d**  \n- **Estimated revenue per employee: $186,429**.[9](https://growjo.com/company/Brain.fm)\n\nThis is clearly labeled as **\u201cRevenue (est)\u201d**, meaning Growjo is inferring revenue from signals like headcount, funding, and web traffic, not using Brain.fm\u2019s internal financials.[9](https://growjo.com/company/Brain.fm)\n\nThe Growjo estimate of **$2.6M/year** is broadly consistent with the **Peekly\u2011derived ~$2.4M/year** extrapolation above, suggesting multiple independent data sources converge on a **low\u2011single\u2011digit millions annual revenue** scale.[9](https://growjo.com/company/Brain.fm)[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)\n\n### c. Historical press mentions and pricing\n\n**NSF grant coverage and early pricing (CNET, 2018)**  \nA 2018 CNET article on Brain.fm\u2019s **$225k National Science Foundation (NSF) grant** describes Brain.fm as \u201ca mobile app that uses AI to generate music according to four different moods\u201d and mentions that **\u201cYou can download the app for iOS and Android, with a free trial included.\u201d**[29](https://www.cnet.com/tech/services-and-software/brain-fms-attention-boosting-app-gets-225k-national-science-grant/)  \n\nThe article lists the then\u2011current subscription prices:\n\n- **$6.95 per month**\n- **$48 per year**\n- **$150 for \u201cforever\u201d (lifetime)**[29](https://www.cnet.com/tech/services-and-software/brain-fms-attention-boosting-app-gets-225k-national-science-grant/)\n\nThese numbers are historical, but they are still referenced in Reddit threads debating whether Brain.fm is worth the money relative to Spotify/YouTube.[29](https://www.cnet.com/tech/services-and-software/brain-fms-attention-boosting-app-gets-225k-national-science-grant/)[30](https://www.reddit.com/r/productivity/comments/7t9h9x/used_brainfm_for_1_year_honest_review/)\n\n**Press references to ADHD positioning (PR Newswire, 2025)**  \nA 2025 PR Newswire release announces **\u201cBrain.fm's ADHD Music Breakthrough\u201d** and describes Brain.fm as \u201cthe leader in science\u2011backed, purpose\u2011built functional music,\u201d noting ADHD\u2011specific tracks and positioning the service as a tool for people with ADHD and for sleep/relaxation.[28](https://www.prnewswire.com/news-releases/brainfms-adhd-music-breakthrough-peer-reviewed-study-validates-worlds-first-science-backed-purpose-built-focus-music-302343487.html)  \nWhile this press piece does not state concrete download or revenue numbers, it reflects Brain.fm\u2019s attempt to **grow in the ADHD segment** and may explain the strong ADHD presence in recent Reddit discussions.[17](https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/)[25](https://apps.apple.com/lr/app/brain-fm-focus-music/id1110684238)\n\n### d. How reliable are these estimates?\n\n- **App store download bands** (\u201c500,000+\u201d on Google Play) are direct store data but **coarse**; they don\u2019t give current active users or total across platforms.[6](https://play.google.com/store/apps/details?id=com.brainfm.app&hl=de)\n- **Peekly** and **Appfigures\u2011style tools** use **proprietary estimation models** trained on real store data from many apps to infer downloads and revenue for apps they don\u2019t own.[5](https://docs.appfigures.com/api/reference/v2/estimates)[8](https://help.appfigures.com/en/article/how-appfigures-estimates-downloads-and-revenue-for-ios-and-android-apps-na7a2h/)  \n  - Appfigures explains that its `/reports/estimates` API provides **download and revenue estimates** based on AI models trained on real data shared by hundreds of thousands of apps.[5](https://docs.appfigures.com/api/reference/v2/estimates)[8](https://help.appfigures.com/en/article/how-appfigures-estimates-downloads-and-revenue-for-ios-and-android-apps-na7a2h/)  \n  - The example they give shows an app with **1,344,045 downloads and $15,275,690 revenue** over 30 days, illustrating the kind of outputs they produce\u2014but that specific numerical example is *not* Brain.fm; it\u2019s just a sample.[5](https://docs.appfigures.com/api/reference/v2/estimates)\n- **Growjo** uses its own heuristics and clearly labels Brain.fm\u2019s **$2.6M/year** figure as estimated.[9](https://growjo.com/company/Brain.fm)\n\nTaken together, these sources point to Brain.fm as a **niche but sizable focus\u2011music subscription app**, probably in the **hundreds of thousands of total downloads** (Android alone 500k+) and **a couple of million dollars in annual revenue**, but **exact numbers are not publicly verified**.[6](https://play.google.com/store/apps/details?id=com.brainfm.app&hl=de)[9](https://growjo.com/company/Brain.fm)[10](https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5)\n\n---\n\nIf you\u2019d like, I can next help you interpret these numbers in terms of **\u201cis Brain.fm worth $99/year vs Endel/lo\u2011fi?\u201d** or sketch a decision framework (effect size vs. cheaper alternatives, ADHD\u2011specific value, and how to run your own 30\u2011day experiment using trials).",
+        "refusal": null,
+        "reasoning": null,
+        "annotations": [
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://play.google.com/store/apps/details?id=com.brainfm.app&hl=en_US",
+              "title": "Music for Focus by Brain.fm - Apps on Google Play",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/download",
+              "title": "Download",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/",
+              "title": "Brain.fm: Music to Focus Better",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://apps.apple.com/us/app/brain-fm-focus-sleep-music/id1110684238",
+              "title": "Brain.fm: Focus & Sleep Music - App Store - Apple",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://docs.appfigures.com/api/reference/v2/estimates",
+              "title": "App Intelligence | App Store API",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://play.google.com/store/apps/details?id=com.brainfm.app&hl=de",
+              "title": "Music for Focus by Brain.fm \u2013 Apps bei ...",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://play.google.com/store/apps/details?id=com.brainfm.app&hl=pl",
+              "title": "Music for Focus by Brain.fm \u2013 Aplikacje w Google Play",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://help.appfigures.com/en/article/how-appfigures-estimates-downloads-and-revenue-for-ios-and-android-apps-na7a2h/",
+              "title": "How Appfigures Estimates Downloads and Revenue for iOS and ...",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://growjo.com/company/Brain.fm",
+              "title": "Brain.fm: Revenue, Competitors, Alternatives",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://peekly.app/apps/b431c7d2-c946-46a7-af4f-f1812af403d5",
+              "title": "Brain.fm - Focus Music Revenue & Downloads (August 2026)",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://help.appfigures.com/en/article/appfigures-api-cli-and-mcp-access-limits-and-public-data-1seiibo/",
+              "title": "Appfigures API, CLI, and MCP: Access, Limits, and Public Data",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/press",
+              "title": "Press & Media",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://app.sensortower.com/publisher/ios/1205924536",
+              "title": "Publisher Overview - Brain Craft",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://brain-fm.es.aptoide.com/app",
+              "title": "Descargar APK para Android | Aptoide - Music for Focus by Brain.fm",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://brain-fm.it.aptoide.com/app",
+              "title": "Music for Focus by Brain.fm - Download APK per Android",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.reddit.com/r/ProductivityApps/comments/1kdut61/brainfm_review_after_using_it_for_a_week/",
+              "title": "Brain.fm Review After Using It for a Week : r/ProductivityApps",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.reddit.com/r/ADHS/comments/1j9g49d/brainfm_hat_nun_einen_adhd_mode/",
+              "title": "Brain.fm now has an ADHD mode : r/ADHS",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.reddit.com/r/productivity/comments/5d8xk6/brainfm_review_results_after_using_for_about_a/",
+              "title": "Brain.fm Review: Results after using for about a week",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://redditfavorites.com/services/brain-fm",
+              "title": "What is Reddit's opinion of Brain.fm? From 3.5 billion Reddit comments",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.reddit.com/r/productivity/comments/1qltsq3/endel_or_brainfm_is_it_working/",
+              "title": "Endel or Brain.fm - is it working? : r/productivity",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/blog/does-brain-fm-work-for-adhd",
+              "title": "Does Brain.fm Actually Work for ADHD? Here's What the ...",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/blog/brain-fm-review",
+              "title": "Does It Actually Work? An Honest Look After 30 Days",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.evro.ai/resources/brainfm-review-adhd-does-science-hold-up-2026",
+              "title": "Brain.fm Review for ADHD: Does the Science Actually Hold ...",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://apps.apple.com/lr/app/brain-fm-focus-music/id1110684238",
+              "title": "Brain.fm - Focus Music - App Store - Apple",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/adhd",
+              "title": "Music for ADHD",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.reddit.com/r/ADHD/comments/3s0sq1/have_any_of_you_used_brainfm_its_really_helping/",
+              "title": "Have any of you used Brain.fm? It's really helping me focus.",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.prnewswire.com/news-releases/brainfms-adhd-music-breakthrough-peer-reviewed-study-validates-worlds-first-science-backed-purpose-built-focus-music-302343487.html",
+              "title": "Brain.fm's ADHD Music Breakthrough: Peer-Reviewed Study Validates World's First Science-Backed, Purpose-Built Focus Music",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.cnet.com/tech/services-and-software/brain-fms-attention-boosting-app-gets-225k-national-science-grant/",
+              "title": "Ritalin vs music made by robots: Which is best for ADHD?",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.reddit.com/r/productivity/comments/7t9h9x/used_brainfm_for_1_year_honest_review/",
+              "title": "Used Brain.fm for 1 year. Honest Review!",
+              "start_index": 0,
+              "end_index": 0
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 209,
+    "completion_tokens": 5837,
+    "total_tokens": 6046,
+    "cost": 0.09418,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.09418,
+      "upstream_inference_prompt_cost": 0.000627,
+      "upstream_inference_completions_cost": 0.093553
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

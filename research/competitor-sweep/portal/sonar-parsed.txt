@@ -1,0 +1,284 @@
+Portal – Escape Into Nature is a **small, self-funded indie app company based in London** building immersive nature soundscapes and visuals across Apple platforms (iOS, iPadOS, macOS, tvOS, visionOS) with smart‑lighting integrations like Philips Hue.[9][39][10] Most available data is qualitative; where quantitative data (funding, downloads, revenue) is missing or only indirectly hinted at, I’ll state that explicitly and label estimates clearly.
+
+---
+
+## 1. Funding raised & named investors
+
+### Portal (nature app, portal.app) vs other “Portal” companies
+
+Search results contain **multiple unrelated companies called “Portal” or “Portal Labs”** in crypto, Web3, rockets, and fintech with large funding rounds.[1][3][4][6][8][12][13][40][42] These are **not the same as the Portal – Escape Into Nature app**, which:
+
+- Is described on its App Store page as *“a small and proudly independent team building and funding the app ourselves.”*[10]  
+- States explicitly there is **“no VC funding here, the entire development is self-funded”** in an App Store reply to a pricing complaint.[10]  
+- Describes itself as a **small independent team of brothers and friends, based in London, working remotely around the UK**.[39]
+
+Given those direct statements, all crypto/Web3/rocket/fintech funding records associated with “Portal” or “Portal Labs” must be treated as unrelated companies.
+
+### Funding status for Portal – Escape Into Nature
+
+- In an App Store review response, the team writes:  
+  *“we're a small indie team made up of four friends… there's no VC funding here, the entire development is self-funded which comes with a lot of financial pressures.”[10]*  
+- The “About Us” page reinforces the narrative of a **small, independent team** with no mention of external investors.[39]
+
+**Total funding raised:**  
+- No credible source reports any external funding or venture rounds for Portal – Escape Into Nature.  
+- Based on the team’s own wording, the app appears to be **bootstrapped/self‑funded**, with **no disclosed institutional or angel investors**.[10][39]
+
+**Named investors:**  
+- **None publicly disclosed.** All named investors in the search results refer to other companies called Portal / Portal Labs (crypto exchange, Web3 platform, rocket engine, etc.), not the nature‑soundscape app.[1][3][4][6][8][12][13][40]
+
+Because of your requirement: where I can’t find hard funding data, I must say so explicitly: there is **no reliable database entry (Crunchbase, PitchBook, etc.) specifically tied to portal.app / Portal Escape Into Nature** that lists fundraising rounds. All large funding figures for “Portal/Portal Labs” appear to belong to other entities.
+
+---
+
+## 2. Team size / headcount
+
+The Portal app’s own content gives the clearest picture:
+
+- The App Store reply states they are **“a small indie team made up of four friends (including two brothers)”**.[10]  
+- The “About Us” page describes **a small, independent team** and names three core people:
+  - **Nick Daniels – Founder** (product, design, development, content).[39]  
+  - **Tim Daniels – Co‑Founder** (commercial and marketing).[39]  
+  - **Andy Kent – Tech** (environmentalist, nature‑focused technologist).[39]  
+
+This strongly indicates a **core team of ~3–4 people**, with possibly some collaborators or contractors.
+
+Other company profiles for “Portal Labs” (London, California, Georgia, Denver) are clearly about **different businesses** (Web3, IT services, portals, etc.) and not the nature app.[31][35][37][40][41][43] Using those for headcount would be misleading.
+
+**Best-supported headcount for Portal – Escape Into Nature:**
+
+- **4‑person indie team** (founders + tech) based in London, working remotely across the UK, as per their own statements.[10][39]  
+- No credible evidence of a larger staff; LinkedIn company pages for similarly named entities do not match the portal.app product positioning.[31][34][35][40][41]
+
+---
+
+## 3. Downloads & revenue (estimated)
+
+Direct download or revenue counts for Portal – Escape Into Nature are **not publicly listed** by Apple or the company. However, one third‑party paywall analytics entry gives indicative figures:
+
+- Adapty’s paywall library entry for a **Portal paywall** reports:  
+  **“Last month’s estimates were < 5k downloads and $7k revenue.”**[28]  
+  - This is explicitly labeled as **“estimates”**, not official data.[28]  
+  - It appears to be per‑month performance, not lifetime totals.
+
+Because the Adapty entry does not explicitly state that it’s **Portal – Escape Into Nature on portal.app**, but the paywall name matches and Adapty is a mobile monetization tool, this is a reasonable but still **indirect** attribution. Treat it strictly as an **external estimate**, not company‑reported data.
+
+We do not have:
+
+- Aggregate lifetime downloads (iOS + macOS + Vision Pro).  
+- Total historical revenue.  
+- Sensor Tower / data.ai / Appfigures numeric exports in these results; only generic product pages indicating such tools can estimate downloads and revenue.[19][22][29]
+
+**So, for (3):**
+
+- **Estimated recent performance:** a third‑party paywall analytics record suggests **< 5k downloads and about $7k revenue in a recent month**, clearly labeled as estimates.[28]  
+- **Lifetime downloads and cumulative revenue:** not available in the gathered information. Any further numbers would be speculative, so I won’t invent them.  
+
+If you need more granular data, you’d have to pull them directly from Sensor Tower, data.ai, or Appfigures with your own credentials; we only know from their marketing that they can provide such estimates, not the concrete figures for this app.[19][22][29]
+
+---
+
+## 4. Business model & current pricing tiers
+
+### Core business model
+
+Portal monetizes via **in‑app purchases / subscriptions for “Portal Premium”**, layered on top of a free tier.[16][18][17][20][21][25]
+
+From the App Store listing and FAQ:
+
+- **Free tier** (recent wording on iOS/macOS):
+  - **Portal Free / Open Access**:  
+    - Access to a limited number of portals (e.g., 3–6 nature scenes).[16][18]  
+    - Periodically refreshed library.[18][16]  
+    - No subscription required.[16]
+- **Premium tier (“Portal Premium”)**:
+  - **Unlimited access** to a regularly updated library of **100+ portals**.[16]  
+  - Features such as **Spatial Audio**, Circadian Flow, and **smart lighting integration** (e.g., Philips Hue).[16][18]  
+  - Covers **iPhone, iPad, Mac, and Vision Pro** – “Premium includes access to Mac, iPhone, iPad & Vision Pro apps.”[18]  
+
+### Pricing tiers (USD, US App Store example)
+
+From the macOS App Store listing for Portal – Escape Into Nature:[18]
+
+- **Monthly Membership:** **$12.99** (US).[18]  
+- **Annual Membership:** **$69.99** (US).[18]  
+- **Lifetime Membership (Portal Membership – Lifetime):** **$299.99** one‑time purchase.[18]  
+- Legacy/unavailable items:
+  - “V2 (No Longer Available)” – $5.99 one‑time.[18]  
+  - “Upgrade (No Longer Available)” – $9.99.[18]
+
+Pricing FAQs emphasize:
+
+- **Monthly and annual Premium subscriptions auto‑renew** unless turned off in the App Store account.[20][21]  
+- Billing is **one up‑front payment per month/year**; **Lifetime** is a single one‑off payment.[20][21]  
+- **Prices vary by country’s App Store**, and users should check the “In‑App Purchases” section for local pricing.[17]  
+
+### Lifetime upgrade behavior
+
+- Lifetime Memberships are **occasionally available**; not always visible.[25]  
+- To upgrade from monthly/annual to Lifetime, users must manually **turn off auto‑renewal**, let the current membership expire, then purchase Lifetime.[25]  
+- Previous membership payments **cannot be credited** toward the Lifetime upgrade cost; overlapping charges may occur if users don’t follow the steps.[25]
+
+---
+
+## 5. 2024–2026 news: growth, layoffs, pivots, platforms, pricing changes
+
+### Platform expansion (including Vision Pro)
+
+From the macOS App Store listing:
+
+- Portal Premium **explicitly includes Vision Pro**: “Premium includes access to Mac, iPhone, iPad & Vision Pro apps.”[18]  
+- This indicates that by the time of that listing (updated in 2025), Portal had **launched or at least positioned a Vision Pro version** alongside iOS and macOS.[18]  
+
+The main site similarly markets Portal as:
+
+- An immersive spatial audio app for focus, sleep, and work, **“Try free on iPhone, iPad and Mac”**, emphasizing Apple platforms.[9]
+
+No search results mention Android, Windows, or non‑Apple platforms, so the product remains **Apple‑ecosystem focused**, now including **visionOS/Apple Vision Pro**.[9][18][16]
+
+### Pricing and product evolution (2024–2026)
+
+Evidence of changes:
+
+- Earlier App Store metadata shows **lower or different prices** (e.g., Annual Membership $14.99, Monthly $1.49, Lifetime $44.99 among in‑app purchases).[16]  
+  - This suggests that pricing has **increased significantly over time** for the same membership tiers, especially Lifetime.  
+- More recent macOS listing shows **higher pricing:** Annual $69.99, Monthly $12.99, Lifetime $299.99.[18]  
+- The FAQ about Lifetime memberships refers to them being **available “from time to time”**, implying tactical use, possibly related to promotions or pricing experimentation.[25]  
+
+The team’s response to a 2020 pricing complaint emphasizes that:
+
+- Pricing is *“a little on the steep side (although comparable to other apps in the wellbeing space)”* because they are **self‑funded** and **small indie team**, suggesting earlier recognition of price‑sensitivity.[10]
+
+### Growth, layoffs, pivots, acquisitions
+
+Within the gathered information:
+
+- **No mention of layoffs** or downsizing.  
+- **No mention of acquisitions** (either acquiring other companies or being acquired).  
+- **No explicit growth metrics** (MAUs, retention, revenue growth), beyond the third‑party paywall estimate of <5k downloads and $7k monthly revenue.[28]  
+- **No evidence of a pivot** away from immersive nature soundscapes; the branding and product messaging remain focused on **“tech-for-good,” nature immersion, focus, rest, and sleep**.[9][11][39]  
+
+TechCrunch coverage (2023):
+
+- A TechCrunch article describes **Portal’s Mac app** as a tool to help users **“regain focus and become more productive with immersive backgrounds and natural sounds.”**[11]  
+- This highlights the Mac launch as a notable product development and situates Portal in the **productivity/wellbeing** space alongside other focus tools.[11]
+
+Other “Portal” funding/layoff news (crypto, rockets, Web3) are about unrelated companies and should not be attributed to Portal – Escape Into Nature.[1][3][4][6][8][12][13][40][42]
+
+---
+
+## 6. Reddit & forum sentiment: praise, complaints, comparisons (Endel / Calm / Brain.fm)
+
+Search results in this batch do not include Reddit pages themselves, but the App Store reviews and company messaging provide useful sentiment.
+
+### Praise (common themes)
+
+App Store reviews and editorial framing show that users and editors value:
+
+- **Immersive spatial audio and natural soundscapes** for focus, sleep, and relaxation.[9][11][16][18]  
+- **High production quality** of both audio and scenery (background visuals).[11][9]  
+- The app being **privacy‑respecting**: “Absolute Privacy (no 3rd party tracking, targeted ads, or personal data collection)” is highlighted in the Store listing.[16]  
+- Integration with **smart lighting** to create more holistic ambient environments (e.g., Philips Hue).[16][9]  
+- **Family Sharing** with up to 5 others at no extra cost, which is presented as part of the Portal experience.[14][16]
+
+The “About” page underscores a **mission-driven, nature‑loving team**, which tends to resonate positively with users who value “tech‑for‑good” and indie developers.[39]
+
+### Complaints
+
+The most explicit complaints in the data are around **pricing**:
+
+- In a highlighted App Store review thread, a user raises concerns about cost, to which the team responds by acknowledging that pricing is **“on the steep side”** and explaining their self‑funded status and small indie team.[10]  
+- The shift from earlier lower prices (Annual ~$14.99, Lifetime ~$44.99) to higher prices (Annual $69.99, Lifetime $299.99) likely contributes to **sticker shock**, especially for users comparing Portal to other wellbeing apps.[16][18]
+
+Other potential complaint vectors (inferred from category, though not directly quoted here):
+
+- **Limited free content** (only 3–6 portals) compared to fully free meditation apps; this is apparent from the tier description.[16][18]  
+- Need for **Apple hardware** (AirPods with head‑tracked Spatial Audio, Apple Vision Pro) to fully enjoy features like dynamic spatial audio.[16][18]
+
+Because we don’t have direct Reddit threads in these results, I cannot quote specific Reddit usernames or posts, but the **pricing and value for money** discussion seen in App Store reviews is likely mirrored on Reddit and forums.
+
+### Comparisons vs Endel / Calm / Brain.fm
+
+Direct comparative reviews or Reddit posts are not included in the retrieved results, so I need to rely on **positioning and feature differences**, clearly flagged as interpretation:
+
+- **Portal**:  
+  - Focuses on **high‑fidelity nature soundscapes + visuals + smart lighting** for an immersive environment.[9][11][16][18]  
+  - Emphasis on **spatial audio** and **environmental ambience**, rather than guided meditations or generative algorithms.[9][11]  
+  - Indie, self‑funded, privacy‑centric.[10][39][16]
+
+- **Endel** (in general, outside these specific results): algorithmic, generative soundscapes that adapt to circadian rhythms and user inputs; often cited for **AI‑generated focus/sleep audio**.  
+- **Calm**: dominated by **guided meditations, sleep stories, and mindfulness courses**, celebrity narrators, and broader mental‑health content.  
+- **Brain.fm**: science‑branded **functional music for focus/sleep/relaxation**, heavily using AI and neuro‑acoustic claims.
+
+Based on Portal’s own description, it is typically praised by users who:
+
+- Prefer **realistic nature immersion** over **AI‑generated sound**.  
+- Want **visual ambience and lighting integration** alongside audio.  
+- Value **no ads and minimal data collection**.[16]
+
+Complaints relative to those competitors are likely to center on:
+
+- **Higher one‑time Lifetime price** and **smaller library** than content giants like Calm.  
+- Lack of **Android support**, limiting cross‑platform usage.  
+
+However, without direct Reddit/forum posts in the gathered results, I cannot quote or link to specific user comparisons, and must emphasize this part as reasoned positioning rather than sourced sentiment.
+
+---
+
+## Where data is missing or uncertain
+
+To satisfy your “say so explicitly” requirement:
+
+- **Total funding**: no reliable evidence of external funding for Portal – Escape Into Nature; all large funding figures are for other “Portal” companies.[1][3][4][6][8][12][13][40][42]  
+- **Named investors**: none disclosed by portal.app; all investor lists found belong to crypto/Web3/rocket firms, not the nature app.[1][3][4][6][13][40]  
+- **Team size beyond 3–4 people**: only Portal’s own description of a small team and a single App Store reply stating “four friends”; no formal headcount or LinkedIn roster specific to portal.app.[10][39]  
+- **Lifetime downloads and revenue**: only a **single third‑party estimate** (<5k monthly downloads, ~$7k monthly revenue) from Adapty’s paywall library; no Sensor Tower/data.ai/Appfigures numeric exports in the results.[28][19][22][29]  
+- **Layoffs, acquisitions, major pivots**: no such events are mentioned in the retrieved sources for the portal.app nature app.[9][11][39][16][18]  
+- **Reddit/forum quotes**: not present in the provided search results; sentiment and comparisons must be inferred from app category and pricing, not directly quoted.
+
+If you’d like, I can help you design a specific check‑list for manual investigation (e.g., what to look for in Sensor Tower or Reddit, or how to disambiguate portal.app from other “Portal Labs” entities) in a follow‑up.
+=== ANNOTATIONS ===
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

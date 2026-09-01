@@ -1,0 +1,493 @@
+{
+    "version": "0.1.20260831",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0527 sec.",
+    "cost": 0.09,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "09011817-2400-0367-0000-a60d6e7e4946",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.0372 sec.",
+            "cost": 0.09,
+            "result_count": 6,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_ads",
+                "search_volume",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "search_volume",
+                "se": "google_ads",
+                "keywords": [
+                    "calm",
+                    "calm app",
+                    "calm review",
+                    "headspace",
+                    "headspace app",
+                    "headspace review"
+                ],
+                "location_code": 2276,
+                "language_code": "de"
+            },
+            "result": [
+                {
+                    "keyword": "calm",
+                    "spell": null,
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 26,
+                    "search_volume": 6600,
+                    "low_top_of_page_bid": 0.9,
+                    "high_top_of_page_bid": 3.64,
+                    "cpc": 1.42,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 6600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "calm app",
+                    "spell": null,
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 14,
+                    "search_volume": 1000,
+                    "low_top_of_page_bid": 0.92,
+                    "high_top_of_page_bid": 3.19,
+                    "cpc": 2.5,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 1300
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 1000
+                        }
+                    ]
+                },
+                {
+                    "keyword": "calm review",
+                    "spell": null,
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 6,
+                    "search_volume": 10,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 10
+                        }
+                    ]
+                },
+                {
+                    "keyword": "headspace",
+                    "spell": null,
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 25,
+                    "search_volume": 6600,
+                    "low_top_of_page_bid": 0.61,
+                    "high_top_of_page_bid": 3.11,
+                    "cpc": 1.39,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 4400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 5400
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 8100
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 9900
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 6600
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 6600
+                        }
+                    ]
+                },
+                {
+                    "keyword": "headspace app",
+                    "spell": null,
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 27,
+                    "search_volume": 880,
+                    "low_top_of_page_bid": 0.71,
+                    "high_top_of_page_bid": 2.98,
+                    "cpc": 2.43,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 720
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 1000
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 880
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 880
+                        }
+                    ]
+                },
+                {
+                    "keyword": "headspace review",
+                    "spell": null,
+                    "location_code": 2276,
+                    "language_code": "de",
+                    "search_partners": false,
+                    "competition": "LOW",
+                    "competition_index": 5,
+                    "search_volume": 20,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 20
+                        },
+                        {
+                            "year": 2025,
+                            "month": 9,
+                            "search_volume": 10
+                        },
+                        {
+                            "year": 2025,
+                            "month": 8,
+                            "search_volume": 20
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

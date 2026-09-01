@@ -1,0 +1,378 @@
+Loóna and Mesmerize are distinct companies, but both operate in the sleep/meditation space with subscription-based apps and heavy paywalling. There is no credible evidence that Rockwell Ventures (Mesmerize) acquired or merged with Loóna, and recent update activity does not indicate a clear shift of Loóna’s sleep team to Mesmerize.[52][53][1][2]
+
+Below I’ll go through each requested item, with **citations in brackets** and **no URLs** as requested.
+
+---
+
+## 1. Loóna company – funding raised and investors
+
+### Total funding
+
+Multiple investor databases give consistent numbers for **Loóna (sleep app)**:
+
+- PitchBook’s profile for **Loóna** (Dover, DE) states: “Loóna has raised **$2M**” over time, based on a **Seed round (Sep 28, 2019)** and an **Early Stage VC round (Dec 1, 2021)**.[25]  
+- Tracxn also lists Loóna as a **funded company** with **Elefund and 4 more institutional investors**, though the table you see there mixes Loóna with other companies in its category and isn’t reliable for Loóna‑specific dollar amounts.[19]
+
+On that basis, the best-supported number for **Loóna the sleep app** is **~$2M total raised** (seed + early VC).[25]
+
+Note this is **not** the same as **Keyi Technology’s Loona robot**, which is a different “Loona Inc.” with its own hardware funding rounds.[24][48][56]
+
+### Investors
+
+Investor lists converge on a set of early‑stage VCs plus a few notable angels/corporate investors:
+
+- **PitchBook – Loóna investors (11)** includes:
+  - **Formic Ventures** (VC)  
+  - **Elefund** (VC)  
+  - **Elysium Venture Capital** (VC)  
+  - **Freud Communications** (corporate)  
+  - **Hoxton Ventures** (VC)  
+  - plus several others not fully visible in the excerpt.[25]
+
+- CB Insights similarly lists investors including:
+  - **Hoxton Ventures**  
+  - **Elefund**  
+  - **Elysium Venture Capital**  
+  - **Pretiosum Ventures**  
+  - **Michael Antonov** and others.[17]
+
+- Shizune’s write‑up of **freuds (Matthew Freud’s firm)** notes its **investment in Loóna**, describing Loóna as a sleep app founded in 2019 in Menlo Park, California, and listing Elefund, Hoxton Ventures, Elysium Venture Capital and Pretiosum Ventures as co‑investors in the same seed round.[18]
+
+- Public articles name notable angels:
+  - **Natalia Vodianova**, supermodel‑turned tech investor, is explicitly cited as an **investor in Loóna**, often via her Supernova vehicle.[16][21][27]  
+  - **Eugene Nevgen** (co‑founder of MSQRD) describes himself as **“Co‑Founder, founding investor”** of Loóna.[26]
+
+Putting these together, **Loóna’s investor set** for the sleep app includes:
+
+- **VCs / institutional**
+  - Hoxton Ventures[17][25]  
+  - Elefund[17][18][25]  
+  - Elysium Venture Capital[17][18][25]  
+  - Pretiosum Ventures[17][18]  
+  - Formic Ventures[25]  
+  - Freud Communications (Matthew Freud / freuds)[18][25]
+
+- **Angels / individuals**
+  - Natalia Vodianova[16][21][27]  
+  - Michael Antonov[17]  
+  - Founding team/insiders including Eugene Nevgen[26]
+
+Again, this all refers to the **Loóna sleep/sleepscape app**, not the Keyi robot.
+
+---
+
+## 2. Team size
+
+### Loóna (sleep app)
+
+The most relevant LinkedIn company profile appears to be **“Loóna” (sleep app)**:
+
+- A LinkedIn page titled **“Loóna”** shows it as **Privately Held, Founded 2019, 51–200 employees, 4,559 followers**, HQ at **8 The Green, Dover, DE 19901, USA**.[30]
+
+LinkedIn size bands are broad; 51–200 simply means **at least 51 listed employees** and at most 200.[15] So the best public estimate is:
+
+- **Loóna sleep app team size (LinkedIn band): 51–200 employees.**[30]
+
+Note: there is also a “LOONA” page and other “Loona Inc” entities for unrelated businesses (K‑pop, robotics, Gabon partnership, etc.), so the **sleep app profile** is the one with the Dover address and 2019 founding date.[30][20][24]
+
+### Mesmerize – Visual Meditation (Rockwell Ventures)
+
+For **Mesmerize**, there is no widely‑cited LinkedIn company profile specific to the app; public listings include a generic “Measmerize” software dev company and unrelated “Mesmerize” entities.[9][11][14][12] These are likely **not** the Rockwell Ventures app.
+
+However, Mesmerize’s ownership is clearly shown in store listings:
+
+- App Store: **Seller – Rockwell Ventures Inc**.[2][3]  
+- Google Play: developer contact **Rockwell Ventures, Inc., Fort Lauderdale, FL**.[1]
+
+Without a dedicated Mesmerize company LinkedIn entry, we don’t have a reliable staff count from public data. The safest statement is:
+
+- **Mesmerize team size: not reliably public; Rockwell Ventures Inc is the publishing entity.**[1][2]
+
+Any numeric estimate here would be speculative beyond the available sources.
+
+---
+
+## 3. Estimated downloads and revenue (Sensor Tower / Appfigures / data.ai)
+
+You asked for specific figures from Sensor Tower / Appfigures / data.ai. The search results we have here describe **how** those platforms estimate downloads/revenue, but don’t expose **per‑app numbers** for Loóna or Mesmerize.[31][32][34][36][37][40][41]
+
+What we can say **with citations**:
+
+- **Appfigures** documents that its `/reports/estimates` API returns **estimated downloads and revenue** for any iOS/Google Play app, based on proprietary models.[31] It emphasizes these are **estimates** with typical error rates between **5–25%**.[34]
+- Appfigures also notes that it provides **“download and revenue estimates for any mobile app or game”**, and that a monthly snapshot for any app is visible via its Explorer/Top Apps/Keyword tools.[33][40][41]
+- **Sensor Tower** similarly markets **App Performance Insights** with **estimated downloads, revenue, usage, and rankings**, using **proprietary modeling and panel‑based methodologies**.[36][44]
+- Sensor Tower’s Digital Market Index PDF clarifies that its figures are **download and consumer spend estimates** over a given period.[39]
+
+Because we don’t have direct views into those dashboards here, I **cannot give reliable per‑app numbers** for Loóna or Mesmerize (e.g., “X million downloads, Y $ revenue”) without over‑speculating beyond the sources. Any specific numeric per‑app figures would be unsourced guesses.
+
+If you want those, you’d need direct access to:
+
+- Appfigures – Competitor Intelligence or Explorer, search for “Loóna: Sleep, reduce anxiety” and “Mesmerize – Visual Meditation”.[40]  
+- Sensor Tower – App Performance Insights or similar, filtered by app bundle IDs.[44][36]
+
+For context only (non‑Appfigures/Sensor Tower, **not global**):
+
+- Google Play **Loona** (robot companion app) shows **“50K+ downloads”** in its listing, last updated May 8, 2025.[43] This is **robot**, not the sleepscape app; the listing belongs to Keyi Technology.[43][48][54]
+- Google Play **Mesmerize – Visual Meditation (Android)**: AppBrain reports it has been available since May 2020, with about **890 downloads in the last 30 days**, total ratings ~1.3K, rating 3.08/5.[5]
+- iOS **Mesmerize**: AppBrain’s iOS page reports **51K ratings** with average rating 4.73/5, and last update October 22, 2025.[4] That implies **substantial iOS usage**, but not total installs.
+
+These platform figures are **point statistics from store pages/AppBrain, not third‑party cross‑store estimates**, and must be treated as **partial indicators only**.[4][5][43]
+
+---
+
+## 4. Business model and pricing (subscription tiers)
+
+### Loóna – Sleep app
+
+Loóna is consistently described as a **subscription‑based sleep app** with a free trial and heavy paywall:
+
+- Common Sense Media review: Loóna is a “subscription-based tool designed to help users shut down and prepare themselves for a restful night”, with **free trial then $9.99/month or $39.99/year**.[70]
+- CBC’s comparative sleep‑app feature: Loóna is described as a **mood‑altering app** combining activity‑based relaxation and immersive storytelling; pricing: **“Limited access for free. Seven-day free trial, then $59.99/year”** in the tested market.[72]
+- Apple App Store listing “Loóna: Sleep, reduce anxiety” shows **in‑app purchases** including:
+  - **Loóna Plus: 1 Year Membership – $39.99**  
+  - **Loóna Plus: 1 Month Membership – $12.99**  
+  - **Loóna Yearly – $59.99**  
+  (Apple’s in‑app product list includes several variations and legacy pricing tiers).[53]
+- Adapty’s “Loóna sleep paywall” screenshot and breakdown (September 19, 2024) lists active/legacy products:
+  - **Loóna Plus: 1 Year Membership – $39.99**  
+  - **Loóna Plus: 1 Month Membership – $12.99**  
+  - **Loóna Yearly – $59.99**  
+  - Legacy Loóna Yearly tiers at lower prices ($19.99, etc.), likely historical/region‑variant.[74]
+
+An external 2026 review summarises typical pricing as:
+
+- **Loóna Premium** around **$69.99/year** list, heavily discounted to **$39.99 or lower during promotions**, with a **3‑day free trial** and very minimal free tier (one or two sleepscapes).[55]
+
+From these sources, Loóna’s **business model** is:
+
+- **Free app download** with a very limited free tier.[52][70]  
+- **Paywall‑gated content** (sleepscapes, meditations, sounds). Access to full content requires subscription.[70][74][55]  
+- **Trial**: 3–7 day free trial depending on market/offer.[70][55]  
+- **Pricing tiers (indicative, vary by region/time)**:
+  - Monthly: around **$12.99/month**.[53][74]  
+  - Yearly: historically **$39.99/year**, later **$59.99/year**, some promotions higher/lower; external reviews mention **$69.99/year list with heavy discounting**.[53][74][55]  
+
+### Mesmerize – Visual Meditation
+
+Mesmerize is also a **free‑to‑download, subscription monetised app**:
+
+- iOS App Store listing for **Mesmerize – Visual Meditation** (Health & Fitness) shows **free with in‑app purchases**, with the developer **Rockwell Ventures Inc**.[2][3]
+- The in‑app purchase list includes**:
+  - **Yearly – $49.99**  
+  - **Yearly – $59.99**  
+  - **Monthly – $12.99**  
+  - **Weekly – $4.99**  
+  (multiple entries likely represent testing of different price points or localized versions).[2][3]
+- Google Play listing: Mesmerize is free to download, with a **7‑day free trial** that auto‑renews to a subscription; instructions mention that the subscription automatically renews via Google account billing.[1]
+- ScreensDesign’s product teardown notes Mesmerize uses a **free trial model gated by a paywall appearing ~13 seconds into the user journey**, offering a **single yearly subscription** in the tested flow.[10]
+- Mesmerize’s site (“Download” page) markets content such as hypnotic visuals, meditations for sleep/anxiety/depression, psychoacoustic music, sleep stories, and timers—consistent with ongoing subscription value.[8][75]
+
+So Mesmerize’s **business model**:
+
+- **Free download**, then **short free trial (typically 7 days)**.[1][10]  
+- A **strong early paywall**; many flows quickly require opting into a subscription.[10]  
+- **Pricing**:
+  - Weekly: **~$4.99/week**.[2][3]  
+  - Monthly: **~$12.99/month**.[2][3]  
+  - Yearly: **~$49.99–$59.99/year**, depending on current offer.[2][3][1]  
+
+---
+
+## 5. 2024–2026 news: growth, layoffs, pivots, acquisitions, app abandonment
+
+### Loóna – sleep app (Palta ecosystem, pivot and de‑prioritisation)
+
+A 2023 profile of the Loóna team on a Belarus tech site describes a **pivot and layoffs**:
+
+- The article reports that the **Loóna sleep app is “no longer in the focus of attention of the founders”**, that the creators of MSQRD are **switching to extended reality projects**, and that a **large part of the team had to be laid off**.[57]
+- The co‑founder emphasises that this is **not a full shutdown**, but a **“pause”**: the product remains available, they **continue to support it and “slowly add content”**, but **development plans are no longer being actively implemented**.[57]
+
+Separately, Palta’s profile notes that **Palta’s portfolio includes Flo, Prisma, Simple (fasting), the sleep app Loóna, and Wannaby**, with majority ownership by Palta’s founders.[28] This reinforces that Loóna is part of a broader health/wellness product group, but **sleep is no longer the main focus**.[57][28]
+
+These sources strongly indicate:
+
+- **Layoffs** at the Loóna sleep team (mid‑2023).[57]  
+- A **strategic pivot away from sleep** to XR/other projects; Loóna maintained as a slower‑updated legacy product.[57]  
+- Loóna is considered **“on pause” rather than completely closed**, with limited content additions and maintenance only.[57]
+
+### Loóna – ongoing app & update status (2024–2026)
+
+Despite the pivot, Loóna continues to be available:
+
+- Official site **Loona.app** states the app is **“available globally for download on iOS at the App Store and Android at Google Play Market”**, and advertises gift cards.[52]
+- Apple App Store listing for **Loóna: Sleep, reduce anxiety** shows ongoing presence and in‑app subscriptions.[53]
+- Paywall library (Adapty) shows updates to pricing and paywall configuration in **September 2024**.[74]
+- A 2025–2026 review notes Loóna Premium still actively marketed with discount campaigns and minimal free tier.[55]
+
+From search results, earlier user information suggested “last updated March 2025” for Loóna, but we also have evidence of **continued app updates tied to the Loona robot**:
+
+- ChoZan’s article on **Keyi’s Loona robot** mentions the **Loona app updated March 16, 2026 on Google Play**, with **app version 2.8.6**, and notes this app is the companion for the Loona robot.[54]
+- The Google Play listing for **Loona (com.keyitech.loona)** shows “Updated on May 8, 2025” in an English locale, and a Vietnamese locale page showing “Last update March 16, 2026”.[43][59]
+- Multiple robotics‑focused articles and press releases show Keyi Technology actively updating **Loona Petbot** and the **Loona app** in 2024–2026 with new language support and features.[48][49][54][60]
+
+This produces an important distinction:
+
+- **Loóna sleep app** (Palta, sleepscapes) – on **low‑development “pause” since 2023**, still live and monetised but not heavily expanded.[57][52][53]  
+- **Loona robot / Loona app (Keyi Technology)** – active hardware product in **2024–2026** with frequent software/app updates and new products like **Loona DeskMate**.[48][50][54][56]
+
+Because of the naming collision, “Loona app last updated March 2025” is ambiguous; the **robot companion app** definitely shows updates in 2025–2026, while **information on the pure sleepscape app’s last major content release is more limited** and consistent with a slow‑update maintenance phase post‑pivot.[57][54]
+
+### Mesmerize – 2024–2026 status and updates
+
+Mesmerize appears **active and growing** over 2024–2026:
+
+- iOS App Store listing shows the app compatible with **iOS 18, iPadOS 18, macOS 15, visionOS 2.0, tvOS 13**, reflecting **recent platform updates** as of late August 2026.[3]
+- The listing’s metadata shows a **recent update date in April 2026**, while another index shows updated August 25, 2026 for Apple Vision/tv variants.[2][3]
+- AppBrain’s iOS page records the last iOS update as **October 22, 2025**, with continued high rating and visibility.[4]
+- AppBrain’s Android page shows last Android update **June 25, 2025**.[5]
+- Mesmerize’s own “Download” page and marketing content were updated around **July 2026**, still actively promoting the app’s capabilities and subscription value.[8][75]
+- ScreensDesign’s 2026‑dated app showcase describes Mesmerize’s paywall and UX, implying ongoing product optimisation, not abandonment.[10]
+
+Together, this indicates:
+
+- **Mesmerize is actively maintained** across iOS, Android, and new Apple platforms in 2025–2026.[3][4][5][8][10][75]  
+- No credible sources mention layoffs, shutdown, or a pivot away from Mesmerize.
+
+### Did Rockwell Ventures acquire or merge with Loóna?
+
+Search results including Rockwell Ventures, Mesmerize, Loona robot, and Loóna sleep app show **no evidence** of:
+
+- Acquisition of **Loóna (sleep app)** by Rockwell Ventures.  
+- Acquisition of **Loona robot / Keyi Technology** by Rockwell Ventures.  
+- Merger between Rockwell Ventures and Palta / Loóna.
+
+The available corporate references show **Rockwell Ventures Inc** as the developer/seller for Mesmerize.[1][2][3] Loóna sleep is linked to **Palta** and a group of wellness apps.[28][21][57] Loona robot is linked to **Keyi Technology**.[48][49][50][56]
+
+Given the absence of any press, M&A announcements, or investor database entries tying Rockwell Ventures to Loóna, the **most defensible conclusion** is:
+
+- **No public evidence of any acquisition/merger between Rockwell Ventures and Loóna (sleep or robot).**
+
+### Did the Loóna sleep team shift focus to Mesmerize?
+
+There is **no source** connecting Palta’s Loóna team to Rockwell Ventures’ Mesmerize. The only documented shift is:
+
+- Loóna sleep founders and team **pivoting to extended reality projects** and **laying off much of the sleep app staff**, while maintaining Loóna on “pause”.[57]
+
+Mesmerize’s evolution is described independently, without mention of Loóna or Palta.[1][2][3][4][5][8][10][75]
+
+So based on available data:
+
+- **No evidence** that the Loóna sleep team moved to Mesmerize or Rockwell Ventures.  
+- Loóna sleep’s pivot is **internal to its founders and Palta**, not a shift to Mesmerize.[57][28]
+
+---
+
+## 6. Reddit and forum sentiment: paywalls, billing complaints, abandonment, comparisons
+
+### Loóna – user sentiment and complaints
+
+Reddit and review sites show a **mixed but generally positive sentiment about content quality**, paired with **frustration about paywalls and billing**:
+
+- A user on r/sleep describes Loóna as an app with “stories, calming sounds, music, and amazing interactive stories”, and discusses buying a **year‑long subscription** but then feeling they had used it enough.[64] This suggests **strong initial engagement**, then diminishing marginal value.
+- Another Reddit thread in r/POTS recounts a user asking for **50% off** and successfully obtaining a discounted year subscription, indicating that **Loóna offers promo discounts and negotiates with users**.[63]
+- A **review on Common Sense Media** warns parents that:
+  - “Much of the content is behind a **paywall** with no parent gate.”  
+  - Free version includes **persistent ads encouraging buying a subscription**.  
+  - Full access requires a subscription; free tier is limited.[70]  
+  This highlights concerns about **aggressive upselling** and **lack of parental control** over purchases.
+- A Reddit post in r/loonaapp titled **“WARNING! This app scammed me out of $65. be careful”** describes:
+  - A promotion with a one‑week free trial that transitions to a yearly subscription.  
+  - The user claims they initiated a free trial and then cancelled, but were charged for a year and couldn’t use the subscription.  
+  - Support responded that the **subscription was started without enabling the free trial toggle**, so the charge applied immediately.  
+  - Some commenters argue this is **user error**, others feel the UI is misleading and that the support response is unsatisfactory.[68]  
+  This thread clearly reflects **user suspicion about billing practices and confusing trial toggles.**
+- Several reviews and paywall breakdowns stress that Loóna’s **free tier is extremely limited**; the app leans heavily on the paywall.[55][70][74]
+
+Overall Reddit/forum sentiment for Loóna:
+
+- **Pros**:
+  - Unique and visually rich sleepscapes; many users find it genuinely relaxing and aesthetically impressive.[64][72][55]  
+- **Cons (frequent themes)**:
+  - **Aggressive paywalling**, minimal free content.[70][55][74]  
+  - **Confusing free trial UX** leading to surprise annual charges.[68]  
+  - Concerns about **subscription pricing and value vs alternatives**.
+
+### Mesmerize – user sentiment and complaints
+
+Reddit posts referencing **Mesmerize – Visual Meditation** generally highlight:
+
+- High praise for visuals, sometimes in psychedelic/meditation contexts:
+  - r/LSD: multiple posts recommend Mesmerize for trippy visual experiences; one user says “download this app called Mesmerize next time you trip, you won’t be disappointed”, indicating strong positive sentiment for visuals.[62][61]
+  - r/Meditation: suggestion to “check out the Mesmerize app for open‑eye meditation”, again as a positive recommendation.[69]
+  - r/projectors: a user wants to **project Mesmerize’s psychedelic visuals onto a wall for students**, implying they find the visuals uniquely valuable.[65]
+- Criticism of **subscription price**:
+  - A Reddit comment notes Mesmerize costs **€64 per year**, and suggests users are better off trying **Fraksl**, a free alternative with visual effects.[61] This reflects **price sensitivity and comparisons to cheaper or free visual‑meditation apps.**
+- A thread in r/AppHookup discusses a different app (“Kaleidoscope Visual Meditation – Mesmerize Mandala Art Therapy”) but the context is similar: people look for visual meditation tools at lower prices.[67]
+- ScreensDesign’s UX analysis for Mesmerize notes that its **paywall appears at ~13 seconds** and pushes a **single yearly subscription**, which some users may experience as **aggressive gating**.[10]
+
+From all this, Mesmerize’s forum sentiment:
+
+- **Pros**:
+  - Strong appreciation of **visual quality and open‑eye meditation experience**.[62][65][69]  
+- **Cons**:
+  - Complaints that **yearly pricing (~€64 / $49–59)** is high relative to other options.[61][2][3]  
+  - Perception that the **paywall comes very quickly**, leaving little free exploration.[10][71]
+
+### Comparisons to Calm, Headspace, BetterSleep and other competitors
+
+Loóna and Mesmerize are frequently discussed within a broader ecosystem of **sleep/meditation apps**:
+
+- A CBC feature comparing nine sleep apps describes:
+  - **Calm** as having “dreamy features” and the best sleep stories, but acknowledges it is expensive (“access to A‑listers never comes cheap”).[72]  
+  - **Loóna** in the same article as a **mood‑altering app** with immersive storytelling; price **$59.99/year**; is tested alongside apps like Calm and others.[72]  
+  This suggests Loóna is seen as a **premium competitor** to Calm and BetterSleep.
+- Reddit posts highlight the **paid nature** of Calm and Mesmerize:
+  - A user in r/Meditation notes they love the look of Calm’s slow visuals but point out that both **Calm and Mesmerize are paid subscriptions**, and they are seeking **free alternatives**.[71]
+- A thread in r/Anxiety discusses Calm, Headspace, and DARE; some comments mention that **Calm is expensive for what it offers**.[73] While not directly about Loóna/Mesmerize, this sets the general sentiment that **premium meditation apps
+
+=== ANNOTATIONS ===
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None
+- None

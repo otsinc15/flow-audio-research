@@ -1,0 +1,19 @@
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+{"id":"gen-1788286829-k8q8KK5NihtmSpXDBZmw","object":"chat.completion","created":1788286829,"model":"perplexity/sonar-pro","provider":"Perplexity","system_fingerprint":null,"service_tier":null,"choices":[{"index":0,"logprobs":null,"finish_reason":"stop","native_finish_reason":"stop","message":{"role":"assistant","content":"In the US, Calm’s **consumer subscription prices** currently appear to vary by checkout channel: the app/store listings show **$14.99/month** and **$69.99/year** in some places, while Calm’s own website and several 2026 pricing trackers show **$16.99/month** and **$79.99/year**; reported **lifetime** pricing also varies between **$399.99** and **$499.99** depending on where it is purchased or displayed.[2][4][6][10] I could not verify a public US list price for **Calm Business** or **Calm Health** on a per-employee basis from the provided sources; Calm’s business/health offerings are typically sold via custom enterprise quotes rather than posted per-seat pricing, so you’d need a sales quote for current employee pricing.[3][5] Sources: Calm plans page and pricing update[2][3], Sensor Tower/App Store pricing snapshots[4], and 2026 pricing roundups[6][10].","refusal":null,"reasoning":null,"annotations":[{"type":"url_citation","url_citation":{"url":"https://carepaths.com/calm-app-pricing/","title":"Calm App Pricing 2026: Full Breakdown - CarePaths","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://www.calm.com/freetrial/plans","title":"Subscription Plans","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://support.calm.com/hc/en-us/articles/37467219653915-Calm-App-Pricing-Update","title":"Calm App Pricing Update","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://app.sensortower.com/overview/571800810?country=US","title":"Calm - Overview - Apple App Store - US - Sensor Tower","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://localsinsider.com/healthy-travel/calm-app-review-prices-and-discounts/","title":"Calm App Reviewed: Sleep, Relax & Meditate With 40% Off First ...","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://subbuddy.io/en/services/calm","title":"Calm Price History & How to Cancel (2026)","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://www.choosingtherapy.com/calm-app-review/","title":"Calm App Review 2026: Pros & Cons, Cost, & Who It's ...","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://www.thepricer.org/how-much-does-calm-app-cost/","title":"How Much Does Calm App Cost?","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://thedolceway.com/blog/calm-app-cost-pricing-guide","title":"Calm App Cost: Full Pricing Breakdown for 2026","start_index":0,"end_index":0}},{"type":"url_citation","url_citation":{"url":"https://lifestack.ai/blog/calm-pricing","title":"Calm Pricing in 2026: Is It Worth It?","start_index":0,"end_index":0}}]}}],"usage":{"prompt_tokens":53,"completion_tokens":225,"total_tokens":278,"cost":0.00953,"is_byok":false,"prompt_tokens_details":{"cached_tokens":0,"cache_write_tokens":0,"audio_tokens":0,"video_tokens":0},"cost_details":{"upstream_inference_cost":0.00953,"upstream_inference_prompt_cost":0.000159,"upstream_inference_completions_cost":0.009371},"completion_tokens_details":{"reasoning_tokens":0,"image_tokens":0,"audio_tokens":0}}}

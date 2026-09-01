@@ -1,0 +1,417 @@
+{
+  "id": "gen-1788286680-RM442kWadJlbz3Pnmjoq",
+  "object": "chat.completion",
+  "created": 1788286680,
+  "model": "perplexity/sonar-pro",
+  "provider": "Perplexity",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "Brain.fm appears to be a **small, privately held, revenue-generating app company** with a relatively modest funding history and a team in the **low teens to mid-teens**. Current pricing on its own site is **$14.99/month** or **$99.99/year**, with **no lifetime plan** shown on the pricing page.[1][31][33]\n\n- **Funding raised:** Publicly surfaced sources point to only a few disclosed financing events: a **$100K seed investment from co-founders** and a **$225K NSF grant in 2018**; one profile also lists **Slow Ventures** and an angel investor among investors.[16][17][24][28]\n- **Investors:** The named investors that show up in the sources are **National Science Foundation**, **Slow Ventures**, and an **angel investor** (named in one interview as **Dave Morin**).[17][28]\n- **Team size:** LinkedIn lists Brain.fm as **11\u201350 employees**.[31] Other company databases cluster around **13\u201315 employees** in 2025\u20132026, which is consistent with a very small team.[33][35][43]\n- **Business model:** Brain.fm is a **subscription app** for focus/sleep/relaxation; the pricing page says it offers a **monthly plan** and a **yearly plan**, and explicitly states there is **no lifetime plan** on the page.[1]\n- **Current pricing tiers:** The official pricing page shows **$14.99/month** and **$99.99/year**.[1]\n\nFor the rest of your request, the best available public estimates and recent community sentiment are:\n\n- **Downloads / revenue estimates:** I do not have a reliable public estimate in the gathered material from Sensor Tower, data.ai, or Appfigures to quote as a verified figure. The non-specialist company databases surfaced here suggest annual revenue is likely in the **low single-digit millions or below**, but those are **not authoritative app-intelligence estimates**, so I would not treat them as load-bearing without a direct Sensor Tower/Appfigures/data.ai source.[37][39]\n- **2024\u20132026 news:** The strongest concrete 2024\u20132026 item in the material is that Brain.fm continues to emphasize its **NSF-funded research**, patented audio approach, and ADHD/focus positioning in 2025 press coverage.[25] I did not surface a clear 2024\u20132026 layoff, acquisition, or major pivot announcement in the material gathered here.\n- **Reddit/forums sentiment in 2025\u20132026:** The material gathered here does not include direct Reddit threads, so I can\u2019t responsibly attribute recent community opinions verbatim. What *is* visible from review-style/forum-like sources is a recurring split: supporters say it helps them focus or relax, while critics complain about **price**, **subscription-only access**, and inconsistent personal benefit; several comparison pieces also note alternatives such as **Endel** and sometimes position Brain.fm as relatively expensive versus rivals.[11][13][15]\n\nA few important caveats:\n- The public funding story is **not a classic venture-capital heavy story**; the disclosed financing is much thinner than many startups, and some profiles disagree or omit details.[16][17][18]\n- Pricing on third-party review sites is **inconsistent** with the official pricing page, so for pricing you should treat the **official site** as the source of record.[1][4][7][11][13]\n- For downloads/revenue, the missing piece is a direct app-intelligence source; without that, any numeric estimate would be too shaky to present as fact.\n\nIf you want, I can turn this into a **clean diligence memo table** with columns for **claim / best source / confidence / notes**.",
+        "refusal": null,
+        "reasoning": null,
+        "annotations": [
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/pricing",
+              "title": "Pricing",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.neurobeatx.com/blog/brain-fm-cost-pricing-2026",
+              "title": "Brain.fm Cost & Pricing (2026): Plans, Trial, Alternatives",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://intercom.help/insideverdict/en/articles/16559904-brain-fm-review-2026-i-tested-it-for-7-days-focus-music-app-people-swear-by",
+              "title": "Brain.fm Review 2026: I Tested It For 7 Days",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://outliyr.com/brainfm-review",
+              "title": "Brain.fm Review 2026: Neurotech For Focus, Sleep, Or Deep ...",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://intercom.help/insideverdict/en/articles/16559799-brain-fm-free-trial-how-to-get-30-days-free-instead-of-7",
+              "title": "Brain.fm Free Trial: How to Get 30 Days Free (Instead of 7) - Intercom",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://earlystagemarketing.com/brain-fm-review/",
+              "title": "BrainFM Review 2026: My 8-Year Journey & Results",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.neurobeatx.com/blog/does-brain-fm-work-review-pricing",
+              "title": "Does Brain.fm Actually Work? Review + Pricing (2026) - NeuroBeatX",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://thetechreviewer.com/brain-fm-review/",
+              "title": "Brain.FM Review - BEST Service for Boosting Focus? [2025]",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://techjury.net/online-therapy/brain-fm/",
+              "title": "Brain.fm Coupons & Promo Codes",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://aisotools.com/blog/brain-fm-review-2026",
+              "title": "Brain.fm Review 2026: Pricing, Features, Pros & Cons",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.asianefficiency.com/productivity/brain-fm-review/",
+              "title": "Brain.fm Review (2026): 12+ Months of Daily Use",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://thetoolsverse.com/tools/brain-fm",
+              "title": "Brain.fm Review 2026: Cost, Free Trial & Is It Worth It",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://makeheadway.com/blog/brain-fm-review/",
+              "title": "Brain.FM Review 2026: Complete Guide and Alternatives",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.techbargains.com/deals/brain-fm",
+              "title": "Brain.fm: Lifetime Subscription $39.99 - TechBargains",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.producthunt.com/products/brain-fm/questions/how-much-does-brain-fm-cost",
+              "title": "How much does Brain.fm cost? - Product Hunt",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://oryndex.co/tools/brainfm/funding",
+              "title": "Brain.fm Funding & Company Data | Oryndex",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://pitchbook.com/profiles/company/133694-11",
+              "title": "Brain.fm 2025 Company Profile: Valuation, Funding & Investors | PitchBook",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://tracxn.com/d/companies/brainfm/__bscmRhdvoNVz0_so9As7INi2qJr6PG1pzkWBecg4hUU",
+              "title": "Brain.fm - 2026 Company Profile & Team",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://data.crunchbase.com/reference/getfundingroundcard-2",
+              "title": "Lookup FundingRound's single card",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://support.crunchbase.com/hc/en-us/articles/29654908091923-AI-Search-Builder",
+              "title": "AI Search Builder",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.healthtechalpha.com/venture/brain-fm",
+              "title": "Brain.fm Company Profile: Funding, Investors & Partnerships",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://wellfound.com/company/crunchbase/funding",
+              "title": "Crunchbase Funding Information",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://pitchbook.com/profiles/company/85884-22",
+              "title": "Crunchbase - Valuation, Funding & Investors",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://finance.yahoo.com/news/brain-fms-adhd-music-breakthrough-140100580.html",
+              "title": "Brain.fm's ADHD Music Breakthrough: Peer-Reviewed ...",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://apify.com/parseforge/crunchbase-scraper",
+              "title": "Crunchbase Scraper - Company & People Profile Data",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://wellfound.com/company/brain-fm/funding",
+              "title": "Checking if the site connection is secure",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://mixergy.com/interviews/brain-fm-with-dan-clark/",
+              "title": "How to grow your software company through enterprise customers",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://growjo.com/company/Brain.fm",
+              "title": "Brain.fm: Revenue, Competitors, Alternatives - Growjo",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://prospeo.io/c/brain-revenue",
+              "title": "Brain Revenue, Funding & Valuation",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.linkedin.com/company/brain.fm",
+              "title": "brain.fm",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://crustdata.com/profiles/company/brainfm",
+              "title": "brain.fm - Crustdata Company Profile, Funding and Growth",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://leadiq.com/c/brainfm/5a1db7862300005200b313e4",
+              "title": "brain.fm Company Overview, Contact Details & Competitors",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.datanyze.com/companies/the-brainfm/374946237",
+              "title": "The Brain.fm Company Profile | Management and Employees List",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.linkedin.com/in/danclark-brainfm",
+              "title": "Dan Clark - CEO at Brain.fm",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.signalhire.com/companies/brain-fm",
+              "title": "brain.fm Overview | SignalHire Company Profile",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.zoominfo.com/c/the-brainfm/374946237",
+              "title": "The Brain.fm - Overview, News & Similar companies | ZoomInfo.com",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.signalhire.com/overview/brain-fm",
+              "title": "brain.fm Information | SignalHire Company Profile",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.zoominfo.com/pic/the-brainfm/374946237",
+              "title": "The Brain.fm: Employee Directory | ZoomInfo.com",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://articles.helpscout.com/customers/brain-fm/",
+              "title": "Customer Story: Brain.fm - Growth & Culture",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://www.brain.fm/about",
+              "title": "About us",
+              "start_index": 0,
+              "end_index": 0
+            }
+          },
+          {
+            "type": "url_citation",
+            "url_citation": {
+              "url": "https://craft.co/brain-fm",
+              "title": "Brain.fm Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+              "start_index": 0,
+              "end_index": 0
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 176,
+    "completion_tokens": 820,
+    "total_tokens": 996,
+    "cost": 0.01883,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.01883,
+      "upstream_inference_prompt_cost": 0.000528,
+      "upstream_inference_completions_cost": 0.018302
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}
