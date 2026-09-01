@@ -97,3 +97,13 @@ downloads a year, every year. Without a channel, the number is not a business pl
 2. Whether "a few thousand subscribers with no proven channel" is an acceptable ceiling.
 3. Whether his Brain.fm trial (started ~Aug 31) produced flow sessions — that is primary evidence for
    whether the incumbent already solves his need.
+
+## Addendum 2026-09-02: Endel is stem assembly, not generative composition
+
+Daniel challenged the claim (made in conversation, not in this doc) that Endel's Deeper Focus is
+generative and "never repeats." He is right. Endel's own docs describe human-made stems recombined in real
+time by a rules engine; no audio is composed at runtime. Raw captures and sources in
+`research/competitor-sweep/endel/` (correction section of `card.md`). This strengthens, not weakens, the
+rotating-palette thesis: the incumbent's repetitiveness comes from a small fixed palette, so the open
+question is only whether new palettes can be produced at Deeper Focus quality and cost, which is what the
+ear test measures.

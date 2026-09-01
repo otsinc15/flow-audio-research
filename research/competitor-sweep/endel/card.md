@@ -74,3 +74,20 @@ Reddit (via sonar-pro, 2025–2026 threads): mixed-to-negative lately. Recurring
 - **Copy:** The proof that functional audio works — users genuinely credit Endel with focus and sleep outcomes, and the UMG partnership shows the "generative functional music" category has industry legitimacy. Real-time generative soundscapes (not playlists) is the right technical bet; multi-platform presence (Watch, widgets) drives daily habit.
 - **Avoid:** Endel's monetization reputation is burning down its brand. Cancellation dark patterns, trial-to-annual surprise charges, and ad claims the product doesn't match are generating "scam" reviews in bulk in 2026 — and Apple-store billing trust is the whole ballgame for a subscription app. Also avoid the upsell-heavy UX.
 - **Opening:** Variety and honesty. "Not much variety," "repetitive," and "ads don't match the app" are Endel's exact weak spots — a high-variety generative techno engine with transparent, App-Store-only billing and an ad promise the product actually keeps is a direct wedge. Endel's 8,100/mo US brand searches show real demand; its recent-review wall shows a large angry user base actively looking for alternatives.
+
+## Correction (2026-09-02, verified via Perplexity sonar-pro, raw in this folder)
+
+"Generative" above is misleading. Endel's own technology page and help center say every sound is a
+human-made stem (in-house sound team, a classical composer; Plastikman's stems for Deeper Focus), and the
+engine is a real-time *assembly* system that layers and modulates those fixed stems from inputs like time of
+day, weather and heart rate. Endel states it does "not use AI to create random audio files from scratch."
+Nothing is composed at runtime. Deeper Focus is one fixed Plastikman stem palette, re-mixed; number of stems
+and cadence of new material: unknown (no source). Streaming albums are pre-recorded static renders of the
+same system.
+
+Sources: endel.io/technology, endel.io/soundscapes, Endel help "What is Endel" / "How Endel Works",
+Endel×Plastikman press release + help article, Beatportal Hawtin interview, r/ProductivityApps
+"Why Endel isn't actually AI-generated sound".
+
+Consequence for the thesis: Endel's boredom is a *small fixed palette* problem, which is exactly the gap a
+rotating-palette product attacks. It is not evidence that "infinite variety still bores people."
