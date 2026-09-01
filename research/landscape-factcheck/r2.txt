@@ -1,0 +1,322 @@
+Brain.fm is directly involved in a **peer‑reviewed Communications Biology paper published in 2024** on amplitude‑modulated music and attention, and the music used in the study was created by Brain.fm; the study finds that specially modulated music improves sustained attention, with **larger effects in people with more ADHD‑range attentional difficulties**.[19][21][22][24][26][29][20]  
+I could not find **any published, citable source** for the specific quantitative claim that **“74% of Brain.fm power users have ADHD”**; based on available materials, that looks like marketing lore rather than something traceable to a survey, paper, or press release.[31][33][40][43]  
+As of mid‑2026, Brain.fm’s own pages describe **paid subscriptions sold via their website and apps**, with **no permanent free tier**, typical pricing of **$14.99/month or $99.99/year**, and a **short free trial before billing**.[1][15][23][13]
+
+Below I’ll go through each part of your query in detail, with primary‑source citations and careful separation of what is in the sources vs. reasonable inference.
+
+---
+
+## 1) Communications Biology paper: publication details, findings, and Brain.fm’s role
+
+### a. Existence, year, journal, exact title, and authors
+
+A paper in **Communications Biology (Nature Portfolio)** explicitly covers rapid amplitude modulation in music and attention, and is repeatedly identified by Brain.fm and third‑party sources as using **Brain.fm’s music and technology** and as their key peer‑reviewed study.
+
+The **journal’s article page** lists the paper:
+
+- Journal: **Communications Biology** (Nature Portfolio)[19]  
+- Year: **2024** (online publication 23 October 2024)[19]  
+- Title: **“Rapid modulation in music supports attention in listeners with attentional difficulties”**[19]  
+- Citation line (abbreviated on the Nature page): *Rapid modulation in music supports attention in listeners with attentional difficulties. Commun Biol 7, 1376 (2024).*[19]
+
+Brain.fm’s own blog and marketing pages repeatedly quote this title and identify it as their Nature‑family publication.[24][18][16][26][29][20] A Brain.fm press‑release‑style announcement re‑states the citation with authors: *“Woods, K.J.P., Sampaio, G., James, T. et al. Rapid modulation in music supports attention in listeners with attentional difficulties. Commun Biol 7, 1376 (2024).”*[21]
+
+Thus, you can be confident the **primary paper is Woods et al., 2024, Communications Biology, “Rapid modulation in music supports attention in listeners with attentional difficulties.”**[19][21]
+
+For authorship and affiliation, the Nature article itself (and its PubMed/PMC metadata) list the author group as Woods, Sampaio, James, et al.[19][21][25][28] Brain.fm’s own descriptions emphasize:
+
+- **Lead academic PI**: Dr. **Psyche Loui**, Northeastern University’s MIND Lab[16][21][22]  
+- **Lead author / neuroscientist with ADHD focus** often referred to in media as **“Dr. Woods”**, with the paper credited to Woods et al.[21][41]  
+- Collaborating institutions: Northeastern University’s **Music, Imaging, and Neural Dynamics (MIND) Lab**, with funding from the **U.S. National Science Foundation (NSF)**[16][21][22][26]
+
+The exact full author list comes from the journal page, but at minimum:
+
+- **First author**: K.J.P. Woods  
+- Co‑authors: G. Sampaio, T. James, and others (“et al.”)[21][19]
+
+### b. Population studied, attention tasks, and effect pattern (including ADHD)
+
+Across Brain.fm’s explanations, Northeastern’s news article, and the Nature abstract, the study uses **adult participants with varying levels of attentional difficulty**, including ADHD‑range symptoms, and runs both **behavioral**, **fMRI**, and **EEG** experiments.
+
+Key points that are primary‑source backed:
+
+- **Population / sample**  
+  - The Nature page abstract states: *“Here we find that music with amplitude modulations added at specific rates can sustain attention differentially for those with varying levels of attentional difficulty.”*[19]  
+  - Northeastern University’s news coverage clarifies that the work focuses on **people with attentional difficulties, including ADHD**, and that the Brain.fm track used was an electronic instrumental piece created on their platform.[22]  
+  - Brain.fm’s own ADHD page summarizes: “Our latest peer‑reviewed publication in Nature Communications Biology shows how Brain.fm's technology affects the brain and performance, improving sustained attention in people with ADHD symptoms.”[29]
+
+  From this, we can safely infer that **participants included adults with a range of self‑reported attentional difficulties, including ADHD‑range symptoms, but not necessarily only formally diagnosed ADHD patients.**[19][22][26][29][39]
+
+- **Behavioral attention task**  
+  Brain.fm’s research pages and blog repeatedly describe **sustained attention tasks** administered while participants listened to either modulated or control music:
+
+  - Brain.fm’s “Does Brain.fm Actually Work?” article: “Participants performed significantly better on sustained attention tasks when listening to heavily modulated tracks” compared with unmodulated control music and pink noise.[26]  
+  - The “Brain.fm vs. Endel vs. Noisli” comparison blog: “The study … used behavioral tests, fMRI brain imaging, and EEG recordings to examine how Brain.fm's modulated music affects attention” and reports **improved sustained attention performance**, especially for participants with higher ADHD symptom scores.[24]
+
+  The Nature article’s abstract supports this by stating that amplitude‑modulated music “can sustain attention differentially for those with varying levels of attentional difficulty.”[19]
+
+- **fMRI findings (brain networks)**  
+  Brain.fm’s evidence‑focused posts translate the fMRI results:
+
+  - “In the study's fMRI experiment, participants doing an attention task while listening to the modulated music showed greater activation across brain networks associated with executive function, salience, and switching between focused and unfocused states.”[18]  
+  - Another Brain.fm review notes “significantly greater activation in brain networks associated with attention and cognitive control compared to unmodulated control music and pink noise,” with **increased blood flow to attention‑related brain regions**.[26]
+
+  Northeastern’s news article similarly reports that **rapid modulations in the Brain.fm music “elicited greater activity in attentional networks”** during fMRI readings.[22]
+
+- **EEG findings (entrainment / stimulus‑brain coupling)**  
+  The Brain.fm blog describes the EEG component:
+
+  - “EEG showed tighter coupling between the sound and brain activity.”[17]  
+  - Brain.fm’s evidence article: “The researchers reported stronger stimulus‑brain coupling, a measurable synchronization between the sound's rhythm and neural activity, during the modulated music than during the control music.”[18][26]
+
+- **ADHD‑related pattern**: stronger effects in higher symptom groups  
+  Multiple Brain.fm posts and the Northeastern article highlight the moderation by ADHD‑range symptoms:
+
+  - Brain.fm ADHD blog: “When the researchers grouped participants by ADHD symptom level, a particular range of modulation (in the beta band, described by the researchers as roughly 12 to 20 Hz) appeared to help the people with more ADHD symptoms most.”[17]  
+  - Brain.fm vs Endel vs Noisli: “Participants with higher ADHD symptoms showed **greater benefits** from the modulated music.”[24]  
+  - “Does Brain.fm Actually Work?”: “Participants with higher ADHD symptom scores showed the greatest benefits.”[26]  
+  - Northeastern’s news piece: after testing different modulation rates, “more intense rapid modulation helped that group even more” (referring to those with attentional difficulties).[22]
+
+Collectively, the primary sources support the claim that:
+
+- **Music with amplitude modulations at specific rates improves sustained attention vs control music/pink noise.**[19][18][24][26]  
+- **Brain activity in attentional networks and stimulus‑brain coupling are measurably stronger during modulated music.**[19][18][17][22][26]  
+- **Effects are larger in participants with higher ADHD‑range attentional difficulties; more intense beta‑range modulation (about 12–20 Hz) appears especially beneficial for this group.**[17][24][22][26][20][29]
+
+### c. Effect sizes
+
+The **exact numerical effect sizes** (e.g., Cohen’s d, percent change in behavioral performance) are not spelled out in the marketing summaries but some numbers are mentioned in Brain.fm’s own ADHD landing page:
+
+- Brain.fm’s ADHD page: “Our latest peer-reviewed publication in Nature Communications Biology shows how Brain.fm's technology affects the brain and performance, **boosting focus brainwaves by 119%+** and improving sustained attention in people with ADHD symptoms.”[29]
+
+This “119%+” refers to **EEG‑measured focus‑related oscillatory power (“focus brainwaves”)**, not directly to behavioral performance. It is a percentage change figure derived from the EEG entrainment metrics in the paper or a supplement.[29][38]
+
+However:
+
+- Brain.fm explicitly notes that they have not run **clinical ADHD treatment trials**, and that the research uses **self‑reported ADHD symptom scores, not formal diagnoses**.[39]  
+- Independent reviewers caution against overinterpreting these effect sizes as “clinically validated treatment effects.”[42]
+
+Thus, while a **>100% increase in focus‑related EEG activity** is claimed by Brain.fm based on the paper, the **behavioral effect sizes** (e.g., improvement in sustained attention scores or reaction time metrics) require direct access to the Nature paper’s figures and are **not quantitatively restated** in Brain.fm’s blog or press material.[19][26][18][29]
+
+### d. Funding and Brain.fm affiliation
+
+Primary sources are unambiguous that the work was:
+
+- **Using Brain.fm music / technology**  
+  - Northeastern’s news: the modulated music was **a piece of Brain.fm music** with “rapid modulations.”[22]  
+  - Brain.fm’s own blogs repeatedly state that **the music was created by Brain.fm and uses their patented amplitude‑modulation technology**.[16][20][26][29]
+
+- **Funded in part by NSF** and involved direct collaboration with Brain.fm  
+  - Brain.fm neuroscience blog: “Published in a Nature journal and conducted in collaboration with Northeastern University's MIND Lab, **funded in part by the U.S. National Science Foundation**.”[16]  
+  - Brain.fm evidence blog: “A 2024 peer‑reviewed study … conducted in collaboration with Northeastern University's MIND Lab and **funded by the National Science Foundation**.”[26]  
+  - A Yahoo Finance–hosted press release: “Developed through a collaboration with Dr. Psyche Loui and other researchers at Northeastern University's MIND lab and **funded in part by the U.S. National Science Foundation**, Brain.fm's patented music, made with targeted amplitude modulation, improves sustained attention and focus …”[21]
+
+Brain.fm’s involvement is **co‑production of the stimulus (music), co‑development of the proprietary amplitude‑modulation method, and likely co‑authorship**, as indicated by Brain.fm‑affiliated authors in the paper and subsequent press coverage, although the academic institution and NSF grant are the primary scientific credential.[19][21][16][22][26][29]
+
+### e. Earlier related research and whitepapers
+
+Brain.fm’s site and surrounding materials mention **earlier research and funding**:
+
+- **NSF grant and ADHD‑related research predating the 2024 paper**  
+  - A 2018 podcast description notes: “This March, Brain.FM received a grant from the National Science Foundation (NSF) to research the effects of music & soundwaves on people who have ADHD, and also those who suffer from difficulty focusing on the job.”[32]  
+  - Interviews with CEO Dan Clark mention NSF funding “specifically about ADHD and about how to help people with music to have effects of controlling those things.”[37]
+
+- **Pre‑Nature whitepaper / internal research**  
+  Brain.fm references pre‑publication studies and whitepapers on their blog and marketing, though they are not always linked as peer‑reviewed journal articles. For example, the “Does Brain.fm Actually Work?” article mentions **multiple studies** and implies a progression from internal trials/whitepapers to the Communications Biology publication.[18][26] Earlier collaborations (e.g., with MIT or Wesleyan) are hinted at in ADHD‑focused blog posts but the **primary peer‑reviewed linchpin** is clearly the 2024 Communications Biology paper.[30][20]
+
+Because those earlier works are not clearly published in peer‑reviewed journals in the sources you asked me to rely on, the safest statement is:
+
+- **Brain.fm had NSF‑funded and lab‑collaborative research efforts on ADHD and music prior to the 2024 Nature‑family publication**, but the **first clearly cited, peer‑reviewed journal paper involving Brain.fm’s modulated music and ADHD‑range attention is Woods et al. 2024 in Communications Biology.**[32][37][19][21][16][22][26][29][20]
+
+---
+
+## 2) The “74% of Brain.fm power users have ADHD” claim
+
+You asked whether there is **any published source**—press release, survey, blog, or interview—for the statement **“74% of Brain.fm power users have ADHD.”** Based on the sources available:
+
+### a. Direct search for the phrase
+
+- A search for the exact phrase **“74% of Brain.fm power users have ADHD”** returns **no primary‑source results**: no Brain.fm blog posts, no press releases, and no interviews with that wording.[31][33][40][43]  
+- It does not appear in Brain.fm’s ADHD blog articles, in the main site, or in the Nature/NSF press materials.[31][29][39][40][43]
+
+This strongly suggests the phrase is **not present in any public Brain.fm‑published content**.
+
+### b. What Brain.fm actually says about ADHD prevalence and users
+
+Brain.fm and its CEO talk about ADHD and attention difficulties in broad terms, but **not with that specific 74% figure**:
+
+- CEO Dan Clark, in an interview, notes: “I think it’s 40% of Americans or 40% of the population actually has some level of ADHD and only 20% are actually diagnosed.”[37] That is a **general epidemiological statement**, not user‑base data.
+- Brain.fm’s main site: “Brain.fm is highly effective for people with ADHD or attention difficulties, but it’s also helpful for people who don’t fall into that category.”[40] No prevalence number is attached.
+- Brain.fm’s ADHD page: “Affecting an estimated 5% of people worldwide, ADHD is a neurodevelopment condition….”[43] Again, this is general global prevalence, not a user statistic.
+- Their evidence‑based ADHD article references **self‑identified ADHD users reporting higher subjective benefit** and **internal user data** like “roughly 7 in 10 users report a noticeable focus improvement within the first session,” but these figures are about *effect*, not *diagnosis or user composition*.[31]
+
+Quote (from Brain.fm’s ADHD‑focused evidence article):
+
+> “The patterns from user-reported data are consistent across years:  
+> – Roughly 7 in 10 users report a noticeable focus improvement within the first session.  
+> – Self-identified ADHD users report higher subjective benefit on average than non-ADHD users…”[31]
+
+This is the closest they come to a **numerical ADHD‑related statistic**, and it concerns **subjective benefit**; it is not “74% of power users have ADHD.”
+
+### c. Press releases and Nature‑publication announcements
+
+A Brain.fm press release around the Nature paper (hosted via Yahoo Finance and as a PDF on Brain.fm’s CDN) calls Brain.fm “the world’s first music service supporting individuals with ADHD” and emphasizes increased focus brainwaves and sustained attention for individuals with ADHD symptoms.[21][33] However:
+
+- Neither the Yahoo Finance press release nor the Brain.fm PDF mentions any **percentage of users who have ADHD**.[21][33]
+- They are focused on the **study results** (e.g., increased activation in attention networks, blood flow, EEG entrainment) and not on demographic composition of the user base.[21][33]
+
+### d. Likely origin of the “74%” claim
+
+Given the absence of any **traceable, published source**, the “74% of Brain.fm power users have ADHD” statement is best characterized as:
+
+- **Not supported by any accessible, primary Brain.fm source** (no blog, press release, or official FAQ).[31][33][40][43]
+- Possibly arising from:
+  - A **misremembered or distorted anecdote** about “70% of our users report X” or “a large portion of our users are ADHD,” or  
+  - A **secondary‑source blog or podcast paraphrase** that is not currently indexed or was later corrected.
+
+Without a primary citation, the most rigorous answer is:
+
+> There is **no citable, published origin** for “74% of Brain.fm power users have ADHD” in Brain.fm’s own materials or major press coverage. It should be treated as **unsupported marketing lore or misquote**, not a documented statistic.[31][33][40][43]
+
+---
+
+## 3) Brain.fm current US pricing (2026) and subscription structure
+
+You asked specifically:
+
+> Do they sell subscriptions via their own website checkout with a web account, decoupled from Apple IAP? Do they offer a free trial, is it 3 days, and is a credit card required? What are the current monthly and annual prices on brain.fm (claimed: $14.99/month and $99.99/year)? Cite brain.fm pricing/checkout pages directly.
+
+### a. Subscriptions via Brain.fm website (web account vs Apple IAP)
+
+The **Brain.fm homepage and pricing page** show that:
+
+- Brain.fm has a **web platform** with user accounts and **subscription checkout directly on brain.fm**.[23][1]  
+- The main site copy: “Research funded by National Science Foundation and published in the journal Nature Communications.” (marketing) and then calls to action to **sign up and subscribe** via the web.[23]
+
+The **Apple App Store listing** for Brain.fm clearly lists **in‑app purchases for “Brain.fm Pro”** at various prices, which indicates they also sell subscriptions via Apple’s IAP channels.[11][12] But the existence of **distinct web pricing and a web‑app login** implies:
+
+- **Subscriptions can be purchased and used independently via the Brain.fm website**, with web account credentials, not exclusively through Apple IAP.[23][1][15]
+
+Thus: **Yes, they sell subscriptions via their own website with a web account, separate from Apple’s in‑app purchase system**, while also offering IAP options in the apps.[1][15][23][11][12]
+
+### b. Current US monthly and annual prices on Brain.fm (2026)
+
+The most authoritative sources for your specific price numbers are **Brain.fm’s own pricing page and a Brain.fm blog article on pricing.**
+
+- **Official pricing page**:  
+  The **brain.fm/pricing** page shows:
+
+  > “Monthly plan $14.99/month” and “Then $99.99 billed annually. Cancel anytime.”[1]
+
+  Although the snippet is truncated, it clearly presents:
+
+  - **Monthly plan**: **$14.99 per month**, billed monthly.[1]  
+  - **Annual plan**: **$99.99 per year** (“$99.99 billed annually”), with messaging about savings vs monthly.[1]
+
+- **Brain.fm blog on “Is Brain.fm Worth It?”**:  
+  This article explicitly states the pricing in US dollars:
+
+  > “Monthly: $14.99 per month, billed monthly.  
+  > Yearly: $99.99 per year, which works out to about $8.33 per month.  
+  > That is roughly 40 percent less than paying month to month.  
+  > There is no permanent free tier.”[15]
+
+These are *Brain.fm‑authored*, up‑to‑date (June 2026) and match your claimed numbers.
+
+Third‑party review and directory sites also report the same figures, but they are secondary:
+
+- A tool directory describes: “Monthly Plan — $14.99/month … Yearly Plan — $99.99/year … Free trial available. Cancel anytime.”[13]  
+- Another review (Inside Verdict) confirms: “Monthly plan: $14.99 per month, billed monthly, cancel anytime; Yearly plan: $99.99 per year… Annual billing saves roughly 44 percent.”[2]
+
+Given the direct **brain.fm/pricing** page and Brain.fm blog corroboration, the **current US baseline prices in 2026** are:
+
+- **Monthly**: **$14.99/month**[1][15]  
+- **Annual**: **$99.99/year** (effective ≈ **$8.33/month**, about 40% cheaper than month‑to‑month).[15][1]
+
+Promotions, coupons, and regional App Store variations exist (some reviews show $9.99/month or $69.99/year via promo codes or legacy plans), but **Brain.fm’s own site clearly anchors standard pricing at $14.99 / $99.99 as of mid‑2026.**[1][15][13][11][12]
+
+### c. Free trial details: duration and credit card requirement
+
+Brain.fm’s own materials give two different views of “free trial” and “no permanent free tier”:
+
+- **Brain.fm pricing blog**:  
+  - “There is no permanent free tier.”[15]  
+  This indicates that any free trial is **temporary and transitions into a paid subscription**.
+
+- **Brain.fm main site and directories**:  
+  - The pricing page snippet: “Try for Free Then $99.99 billed annually. Cancel anytime.”[1]  
+  - A directory summarizing Brain.fm’s pricing says: “Monthly Plan — $14.99/month … Free trial available. Cancel anytime.”[13]
+
+However, independent review sites vary in describing **trial length and payment requirements**:
+
+- One detailed comparative pricing article reports a **3‑day free trial with no card required**, but explicitly notes that “Prices may vary, so check the Brain.FM website for the most current figures.”[9]  
+- Other tools and review sites claim **5‑session or 7‑day trials**, sometimes requiring card details up front, but these are not Brain.fm‑authored and show inconsistent values.[4][8][14][10]
+
+Since you asked to **cite brain.fm pricing/checkout pages directly**, the cautious statement based on Brain.fm’s own pages is:
+
+- Brain.fm offers a **“Try for Free”** entry point on its pricing page and marketing materials, after which the subscription **converts to $14.99/month or $99.99/year** depending on chosen plan.[1][15][13]  
+- Brain.fm **explicitly states there is no permanent free tier**, meaning all ongoing use beyond the trial requires a paid subscription.[15]  
+- The **exact free‑trial duration (3 days vs 7 days vs sessions) and whether a credit card is required at signup** are **not clearly specified in the brain.fm/pricing snippet or the pricing blog text available**; those details are given only in third‑party reviews, which conflict.[1][15][9][4][14]
+
+In other words:
+
+- Your specific claim **“3‑day free trial, no card required”** is **supported by at least one third‑party review** but **not clearly confirmed on the first‑party brain.fm pages** I can cite.[9]  
+- Brain.fm itself only clearly confirms **“Try for free” followed by paid subscription**, no permanent free tier, and the **$14.99 / $99.99 prices**.[1][15]
+
+---
+
+### Summary of what is solid vs speculative
+
+- **Solid, primary‑source backed:**
+  - A **2024 Communications Biology** paper titled **“Rapid modulation in music supports attention in listeners with attentional difficulties”** uses **Brain.fm‑generated amplitude‑modulated music**, shows **improved sustained attention**, **greater activation in attentional networks**, and **stronger EEG stimulus‑brain coupling**, with **larger benefits for participants with higher ADHD symptom levels.**[19][22][24][26][17][18][29][20][21]
+  - The work is **collaborative** between Brain.fm and Northeastern’s MIND Lab and **funded in part by the NSF**.[16][21][22][26][32][37]
+  - Brain.fm’s **current US standard pricing** as of mid‑2026 is **$14.99/month** or **$99.99/year**, sold via **their own website checkout** and apps, with **no permanent free tier**.[1][15][23][13][11][12]
+- **Not supported / likely marketing lore:**
+  - The precise statement **“74% of Brain.fm power users have ADHD”** cannot be traced to any Brain.fm blog, press release, or interview in the sources at hand. It appears to be **uncited and should not be treated as a factual, published statistic.**[31][33][40][43]
+- **Partially supported but with missing detail:**
+  - **Free trial length and credit‑card requirement**: Brain.fm’s own copy confirms a **“Try for free”** period and no permanent free tier, but does **not specify 3‑day duration or payment requirements** in the accessible pricing snippets. Third‑party sites conflict on whether the trial is 3 days, 5 sessions, or 7 days and whether card–up‑front is required.[1][15][9][4][14][13]
+
+If you’d like, I can next reconstruct the likely **behavioral effect sizes** from the Communications Biology paper (e.g., percent performance improvement) by reasoning from the EEG and behavioral descriptions and independent commentary, while clearly marking what is inference vs directly stated.
+
+
+===== CITATIONS =====
+https://www.brain.fm/pricing
+https://intercom.help/insideverdict/en/articles/16559904-brain-fm-review-2026-i-tested-it-for-7-days-focus-music-app-people-swear-by
+https://www.neurobeatx.com/blog/brain-fm-cost-pricing-2026
+https://aisotools.com/blog/brain-fm-review-2026
+https://thetoolsverse.com/tools/brain-fm
+https://earlystagemarketing.com/brain-fm-review/
+https://outliyr.com/brainfm-review
+https://www.producthunt.com/products/brain-fm/questions/how-much-does-brain-fm-cost
+https://makeheadway.com/blog/brain-fm-review/
+https://www.toolfi.ai/pricing/brain-fm
+https://apps.apple.com/ca/app/brain-fm-focus-music/id1110684238
+https://apps.apple.com/pg/app/brain-fm-focus-music/id1110684238?uo=2&at=11lxCc
+https://aitoolscoop.com/tool/brain-fm/
+https://aisotools.com/pricing/brain-fm
+https://www.brain.fm/blog/is-brain-fm-worth-it
+https://www.brain.fm/blog/neuroscience-focus-music
+https://www.brain.fm/blog/focus-music-for-adhd
+https://www.brain.fm/blog/does-brain-fm-actually-work
+https://www.nature.com/articles/s42003-024-07026-3
+https://www.brain.fm/blog/does-music-help-adhd-research-guide
+https://finance.yahoo.com/news/brain-fms-adhd-music-breakthrough-140100580.html
+https://news.northeastern.edu/2025/01/14/music-for-adhd-focus/
+https://www.brain.fm/
+https://www.brain.fm/blog/best-focus-music-app-brain-fm-vs-endel-vs-noisli
+https://pmc.ncbi.nlm.nih.gov/articles/PMC13076772/
+https://www.brain.fm/blog/brain-fm-review
+https://pubmed.ncbi.nlm.nih.gov/15044682/?otool=icznmelib
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12420781/
+https://www.brain.fm/adhd
+https://www.brain.fm/blog/does-brain-fm-work-for-adhd
+https://cdn.brain.fm/pdfs/Press%20Release%20-%20Brain.fm%20Peer%20Reviewed%20Study.pdf
+https://www.linkedin.com/posts/tmeyeratwork_myadhdmusic-activity-7307776531521515520-BKtL
+https://www.linkedin.com/posts/brain.fm_brainfm-ceo-dan-clark-shares-a-story-about-activity-7307784554642030592-li-p
+https://podcasts.apple.com/us/podcast/music-as-a-game-changer-for-adhders-with-dan-clark/id1087851721?i=1000697803417
+https://thecopywriterclub.com/brain-fm-dan-clark/
+https://www.linkedin.com/posts/danclark-brainfm_adhd-focus-brainfm-activity-7307763210579759105-zpn3
+https://www.forbes.com/sites/cherylrobinson/2025/08/20/music-is-the-overlooked-biohacking-tool-that-rewires-your-brain/
+https://www.evro.ai/resources/brainfm-review-adhd-does-science-hold-up-2026
+https://podcasts.apple.com/au/podcast/the-faster-than-normal-podcast-add-adhd-health/id1087851721
+https://www.brain.fm/blog

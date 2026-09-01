@@ -1,0 +1,266 @@
+Sleep Cycle’s reported revenues have grown in recent years and did **not** decline by −21.5% YoY in the latest annual period; the only clear revenue decline is about **−5.2% in 2024 vs 2023** on one reported net‑sales figure, while other company/aggregator data show **+10.7–11.4% growth** for 2024 vs 2023.[38][40][42][39] The claim that the total **paid sleep‑app market is under $200M per year is not supported**: multiple market‑research reports place sleep/sleep‑sound/sleep‑monitoring apps in the **$1–4B+ annual range**.[16][18][23][26][28][30] Of the three patents you listed, only **US 7,674,224** appears as a valid Google Patents entry; US 11,275,350 and US 12,248,289 cannot be found and are likely incorrect or nonexistent numbers.[1][2][9][10]
+
+---
+
+## A) Sleep Cycle AB – Financials, revenue growth, and take‑private offer
+
+### Annual revenue figures and growth
+
+From Sleep Cycle’s year‑end reports and PDFs:
+
+- **2020–2023 annual net sales (SEK):**  
+  The 2023 annual report PDF lists net sales as:  
+  - 2020: **158,006 tSEK**  
+  - 2021: **181,530 tSEK**  
+  - 2022: **212,034 tSEK**  
+  - 2023: **236,146 tSEK**[33]  
+  This corresponds to YoY growth in net sales of roughly:
+  - 2021 vs 2020: about **+14.9%** (181,530 / 158,006 − 1)[33]  
+  - 2022 vs 2021: about **+16.8%** (212,034 / 181,530 − 1)[33]  
+  - 2023 vs 2022: about **+11.4%** (236,146 / 212,034 − 1)[33]  
+
+  StockAnalysis, summarizing the company’s figures, shows almost identical numbers for revenue (in millions of SEK) and growth:  
+  - 2020: 159.45M, 2021: 182.94M, 2022: 212.03M, 2023: 236.15M, with YoY growth **29.97%, 14.73%, 15.91%, 11.37%** respectively.[39][34]  
+  The slight differences are rounding/aggregation, not substantive discrepancy.
+
+- **2024 annual net sales / revenue:**  
+  A year‑end press release titled “Sleep Cycle Year‑end report: A year of deliberate choices” states:  
+  - Net sales **2024: 247,879 tSEK**  
+  - Net sales **2023: 261,529 tSEK**  
+  - Change: **−5.2%** (247,879 vs 261,529)[38][40]  
+
+  A separate 2024 annual report PDF gives net sales as:  
+  - **2024: 261,529 tSEK**  
+  - **2023: 236,146 tSEK**  
+  and explicitly says “The group’s net sales increased over the year by **10.7% (11.4%)** compared to prior year and amounted to tSEK 261,529 (236,146).”[42]  
+
+  Aggregator data likewise show **FY 2024 revenue 261.53M SEK vs 236.15M in 2023, +10.75% YoY**.[39]
+
+There is therefore **inconsistent reporting around 2024**: one press release uses 261,529 as the prior‑year figure and reports a **−5.2%** change to 247,879; the annual report PDF and third‑party financial sites treat 261,529 as **2024** and 236,146 as **2023**, implying **+10.7–10.8% growth**.[38][40][42][39] In all cases, **no −21.5% decline** appears in any of the official year‑end revenue numbers.
+
+### Most recent quarterly data
+
+- **Q2 2024 interim report (April–June 2024):**  
+  Nasdaq’s hosted release for Sleep Cycle’s interim report states:  
+  - Net sales **tSEK 65,442 (57,952)**  
+  - YoY net‑sales growth **+12.9%** (11.0%)[41]  
+  - Currency‑adjusted net‑sales growth **+10.5%**[41]  
+  The CEO comment notes “continued revenue growth of **13 percent** and an operating margin of **32 percent**.”[41]
+
+Earlier 2023 interim releases show nine‑month net sales of **175,745 tSEK vs 157,569 tSEK**, i.e. **+11.5%** for January–September 2023.[43]
+
+### Was there a −21.5% YoY decline? Which period?
+
+None of the cited annual or interim reports show a YoY revenue change of approximately **−21.5%**.[33][38][40][41][42][39]  
+
+- The **largest reported decline** is **−5.2%** on net sales (247,879 vs 261,529), described for the year‑end period in the “A year of deliberate choices” release.[38][40]  
+- All other annual figures from 2020 through 2024 show **positive growth** in the 10–30% range, depending on source.[33][42][39]
+
+If someone is claiming **−21.5%**, it is **not supported by these company‑level revenue figures**; it might be a mis‑reading of a sub‑metric (e.g., regional revenue, specific product line, or currency‑adjusted metric) but that does not appear in the accessible headline financials.
+
+### Take‑private / buyout offer
+
+A Nasdaq‑hosted news release states that **Snark BidCo AB**, a company controlled by **Altor Fund V (No.1) AB and Altor Fund V (No.2) AB**, announced **a public takeover offer to the shareholders of Sleep Cycle AB**.[45]
+
+Key facts from that release:
+
+- **Offeror:** Snark BidCo AB, controlled by **Altor Fund V** entities.[45]  
+- **Offer:** Public takeover offer to acquire all shares in Sleep Cycle AB.[45]  
+- **Offer price:** **SEK 24.50 in cash per share**.[45]  
+- **Announcement date:** **11 May 2026**.[45]  
+- The Board of Directors of Sleep Cycle stated it was **evaluating** the offer.[45]
+
+From the materials accessible here, this confirms a **public takeover offer** from Altor‑controlled Snark BidCo AB. The data do not yet confirm whether the offer has been completed, the company delisted, or fully taken private; only that the Board was evaluating the offer as of the announcement.[45] For the actual outcome (acceptance, settlement date, delisting), you would need the subsequent company press releases or Nasdaq notices.
+
+---
+
+## B) Paid sleep‑app market size – is “< $200M per year” credible?
+
+Multiple market‑research firms estimate sleep‑related app markets in the **hundreds of millions to several billions USD**, not under $200M. Available data are generally **category‑level (sleep apps, sleep monitoring apps, sleep sound apps, healthy sleep apps)** rather than per‑app revenue, but even these high‑level estimates contradict a <$200M total.
+
+### Market‑research estimates
+
+Several reports:
+
+- **Coherent Market Insights – Global Sleep App Market**  
+  Describes a “Global sleep app market” valued at **US$ 1,233.1 million in 2026** and expected to reach **US$ 3,240.3 million by 2033**, with a CAGR of **14.8%**.[16]  
+  Another figure in the same context mentions an estimate of about **US$ 1,074.0 million in 2026**, but all values are **~US$ 1–1.2B+**, not below $200M.[16]
+
+- **Persistence Market Research – Sleep Monitoring Apps Market**  
+  Reports the global **sleep monitoring apps market** size is likely to be **US$ 1.4 billion in 2026**, projected to reach **US$ 3.6 billion by 2033**, with a CAGR of **14.4%**.[18]  
+  The table explicitly notes: “Sleep Monitoring Apps Market Size (2026E): US$1.4 Bn.”[18]
+
+- **DataHorizzon Research – Sleep Sound App Market**  
+  Gives a **sleep sound app market** valued at **USD 2.87 billion in 2025** and projected to reach **USD 6.94 billion by 2033**, with **11.7% CAGR**.[23]  
+  They state Calm and Headspace control **48% of consumer revenue** in this segment.[23]
+
+- **Business Research Insights – Healthy Sleep Apps Market**  
+  States the global **healthy sleep apps market** was valued at **USD 4.08 billion in 2026**, projected to reach **USD 18.1 billion by 2035**, with a projected CAGR of **18%**.[26]
+
+- **WiseGuy Reports – Sleeping App Market**  
+  Describes a “Sleeping App Market” valued at **USD 1.64 billion in 2025**, expected to grow to **USD 6 billion by 2035**, with a CAGR of **13.9%**.[28]  
+  It also notes a market size of **1,440 USD million in 2024**, i.e. **$1.44B**.[28]
+
+- **HTF Market Insights – Sleeping Apps Market**  
+  Indicates the sleeping apps market was valued at **1.8 billion** (the currency is contextual but clearly in the billions) and expected to reach **5 billion by 2032**, with a **13.50% CAGR**.[30]  
+  The market explicitly includes apps like **Calm, Headspace, Sleep Cycle, BetterSleep, Brain.fm**, etc.[30]
+
+While methodologies and definitions differ, **every cited market report is measured in billions of dollars**, not hundreds of millions.[16][18][23][26][28][30]
+
+### App‑level revenue signals from Sensor Tower / data.ai‑style data
+
+Public blog and dashboard snippets (where available) show per‑app revenues that alone exceed annualized $200M when scaled:
+
+- A Sensor Tower blog on Q2 2024 wellness apps in the US reports **Calm** starting the quarter at **$1M weekly revenue**, ending at **$752K weekly**, with BetterSleep starting at **$291K weekly**.[29]  
+  If Calm averaged around ~$0.9M/week over 52 weeks, that would be on the order of **$45–50M/year** for **one app in one region/platform category**.[29]  
+  BetterSleep’s weekly numbers similarly annualize into **tens of millions**.[29]
+
+- Sensor Tower dashboards show monthly revenue estimates like:  
+  - **Calm**: e.g., last month ~**$700K revenue** in the US Google Play store alone, with ~200K downloads.[24]  
+  - **Calm (iOS, AU)**: ~**$3M revenue** in a single month in Australia’s App Store.[25]  
+  - **Sleep Cycle**: US Google Play monthly revenue estimates **$100K** with ~80K downloads, and another cut showing ~**$600K monthly** for Sleep Cycle on iOS in some regions.[17][27][19]  
+
+  These numbers are **per platform per market** for individual apps; global multi‑platform totals across Calm, Headspace, BetterSleep/Relax Melodies, Sleep Cycle, Pzizz, Brain.fm, etc., will be **far higher**.
+
+Given that multiple individual apps show **multi‑million annual revenues** and aggregate market reports show **>$1B** category sizes, the proposition that the **entire paid sleep‑app market is under $200M per year is inconsistent** with available data.[16][18][23][26][28][30][29][24][25][27]
+
+### Is there any credible source for a “< $200M” total?
+
+None of the accessible sources—Sensor Tower blog posts, app‑level dashboards, or the cited market‑research reports—provide an estimate that the **total global paid sleep‑app market is under $200M per year**.[16][18][23][26][28][30][29]  
+
+- The **lowest market size** among the listed reports is still in the **$1B+ range**.  
+- Several describe **Calm and Headspace** alone controlling **nearly half of consumer revenue** in markets valued at **multiple billions**.[23][30]  
+
+On this basis, **no reliable source supports the <$200M figure**; it appears either outdated, restricted to a very narrow sub‑segment, or simply incorrect relative to current data.
+
+---
+
+## C) Patent verification
+
+Here I focus on **Google Patents** entries and USPTO‑related information. Only **US 7,674,224** resolves as a valid patent at Google Patents; the other two numbers do not.
+
+### 1. US 7,674,224 – Brain.fm‑related amplitude modulation for brain states?
+
+Google Patents entry **US7674224B2** (United States Patent) appears under the title:
+
+- **Title:** “Method for incorporating brain wave entrainment into sound production”[1]  
+- **Publication number / grant:** US 7,674,224 B2.[1]  
+- **Authority:** United States.[1]  
+- **Application number:** US 11/251,051.[1]  
+- **Prior art date:** 2005‑10‑14.[1]  
+- **Publication (grant) date:** 2010‑03‑09.[1]  
+- **Inventor:** **Adam Hewett**.[1]  
+- **Current assignee:** **Brainfm Inc** (with note that assignee lists may not be fully accurate).[1]  
+  The history shows the application was originally filed by **VitrePixel Holdings LLC**.[1]
+
+**One‑line technical summary (based on title and abstract):**  
+This patent covers methods of integrating **brain‑wave entrainment** (e.g., using specific audio protocols, modulation patterns, and frequencies designed to influence brain states) directly into sound production, such as music or audio streams, to guide listeners toward targeted mental states (relaxation, focus, sleep, etc.).[1]
+
+In relation to your description:
+
+- It **predates Brain.fm’s commercial operations** (priority 2005, granted 2010), and the **inventor is Adam Hewett**.[1]  
+- The **assignee is Brainfm Inc** (current, per Google Patents), so it is indeed **Brain.fm‑related**.[1]  
+- The patent involves **brain‑wave entrainment in sound production**, which is consistent with “amplitude modulation for brain states,” although the exact wording is “brain wave entrainment” rather than your paraphrase.[1]
+
+**Google Patents URL:**  
+- `https://patents.google.com/patent/US7674224B2/en`[1]
+
+### 2. US 11,275,350 – claimed: Endel
+
+A search for **US11275350** via Google Patents and related guidance returns **no matching patent record** and a generic “Sorry, we couldn't find this patent number” message.[2][7][9][10]
+
+Based on that:
+
+- **Title:** Not found.[2]  
+- **Assignee:** Not found (no record).[2]  
+- **Inventor(s):** Not found.[2]  
+- **Grant date:** Not found.[2]  
+
+Given US utility patents with numbers in the 11,2xx,xxx range do exist generally, this particular number **either does not correspond to a granted patent in the Google Patents index or may be mistyped**. There is no accessible evidence that an Endel‑related patent uses **US 11,275,350** as its grant number, at least in this database.[2][9]
+
+So, as far as the accessible source is concerned, **US 11,275,350 cannot be verified** as an Endel patent; you would need the correct patent number or direct USPTO records for Endel’s filings.
+
+### 3. US 12,248,289 – claimed: Endel
+
+Similarly, searching for **US12248289** in Google Patents does **not** return a specific patent document; generic help pages about Google Patents’ coverage and searching appear instead.[2][8][9][10]
+
+Thus:
+
+- **Title:** Not found.[2]  
+- **Assignee:** Not found.[2]  
+- **Inventor(s):** Not found.[2]  
+- **Grant date:** Not found.[2]  
+
+The **12‑million range** would correspond to very recent US patents, but Google Patents indicates that patent documents originate from USPTO collections and should be searchable by number.[9][12] Since this exact number is not found, it is likely **either incorrect, not yet published, or outside the accessible dataset**.
+
+Therefore, **US 12,248,289 cannot be verified** as an Endel patent from Google Patents or the referenced guidance; there is no matching primary record for that number in the accessible sources.[2][9]
+
+---
+
+### Summary of patent verification
+
+- **US 7,674,224 (US7674224B2)**  
+  - **Title:** “Method for incorporating brain wave entrainment into sound production.”[1]  
+  - **Inventor:** Adam Hewett.[1]  
+  - **Assignee:** Brainfm Inc (current; originally VitrePixel Holdings LLC).[1]  
+  - **Grant date:** 2010‑03‑09.[1]  
+  - **Coverage:** Techniques for embedding brain‑wave entrainment protocols into audio production, aligning with Brain.fm’s kind of technology.[1]  
+  - **Google Patents URL:** `https://patents.google.com/patent/US7674224B2/en`.[1]
+
+- **US 11,275,350**  
+  - No patent record found in Google Patents; cannot confirm title, assignee, inventors, or grant date.[2][9]  
+  - Cannot be verified as Endel‑related on the basis of these sources.
+
+- **US 12,248,289**  
+  - No patent record found; same situation as above.[2][9]  
+  - Cannot be verified as Endel‑related.
+
+If you have internal Endel documentation referring to different patent numbers (e.g., application rather than grant numbers, or PCT/EP equivalents), those should be cross‑checked directly in USPTO/EPO databases; the specific US grant numbers you listed beyond **US 7,674,224** do not resolve in Google Patents.
+
+
+===== CITATIONS =====
+https://patents.google.com/patent/US7674224B2/en
+https://patents.google.com/
+https://support.google.com/faqs/answer/6390996?hl=en
+https://patents.justia.com/company/google
+https://library.bath.ac.uk/websearch/google-patents
+https://library.bath.ac.uk/patents/google
+https://support.google.com/faqs/answer/7049475?hl=en
+https://support.google.com/faqs/answer/7049585?hl=en
+https://support.google.com/faqs/answer/2539193?rd=1
+https://en.wikipedia.org/wiki/Google_Patents
+https://neustel.com/patents/google-patents-search/
+https://www.uspto.gov/patents/search
+https://ipo.org/wp-content/uploads/2019/11/2019-10-Patent-Searching-Google-Patents.pdf
+https://search.library.wisc.edu/database/UWI41234
+https://library.shu.edu/patents/google
+https://www.coherentmarketinsights.com/industry-reports/global-sleep-app-market
+https://app.sensortower.com/overview/320606217?os=ios&start_date=2026-03-31&end_date=2026-04-29&edit=1&granularity=daily&country=US&category=6013&breakdown_attribute=appId&device=iphone&chart_type=free&metricType=absolute&time_period=day&retention_period=day&measure=revenue&rolling_days=0&selected_tab=0&time_spent=timeSpent&install_base_measure=installBase&active_user_measure=DAU&ad_monetization_measure=adsPerMau&retention_measure=retentionD1&retention_chart_type=curve&impression_share_metric_option=all&platform_type=networks&ad_monetization_metric=adImpressions&chart_plotting_type=line
+https://www.persistencemarketresearch.com/market-research/sleep-monitoring-apps-market.asp
+https://app.sensortower.com/overview/320606217?os=ios&start_date=2026-05-09&end_date=2026-06-07&edit=1&granularity=daily&country=CA&category=6013&breakdown_attribute=appId&device=iphone&chart_type=free&metricType=absolute&time_period=day&retention_period=day&measure=revenue&rolling_days=0&selected_tab=0&time_spent=timeSpent&install_base_measure=installBase&active_user_measure=DAU&ad_monetization_measure=adImpressions&retention_measure=retentionD1&retention_chart_type=curve&demographics_measure=percentageOfUsers&impression_share_metric_option=all&platform_type=networks&ad_objective=app_install&ad_monetization_metric=adImpressions&chart_plotting_type=line
+https://sensortower.com/blog/2024-q2-unified-top-5-wellness%20apps-revenue-europe-63e274e1e1714cfff10eaa2f
+https://sensortower.com/blog/2024-q2-unified-top-5-wellness%20apps-revenue-de-63e274e1e1714cfff10eaa2f
+https://sensortower.com/blog/2024-q2-unified-top-5-wellness%20apps-revenue-gb-63e274e1e1714cfff10eaa2f
+https://datahorizzonresearch.com/sleep-sound-app-market-77466
+https://app.sensortower.com/overview/com.calm.android?os=android&start_date=2026-04-25&end_date=2026-05-24&edit=1&granularity=daily&country=US&category=health_and_fitness&breakdown_attribute=appId&device=android&chart_type=free&metricType=absolute&time_period=day&retention_period=day&measure=revenue&rolling_days=0&selected_tab=0&time_spent=timeSpent&install_base_measure=installBase&active_user_measure=DAU&ad_monetization_measure=adImpressions&retention_measure=retentionD1&retention_chart_type=curve&impression_share_metric_option=all&platform_type=networks&ad_monetization_metric=adImpressions&chart_plotting_type=line
+https://app.sensortower.com/overview/571800810?os=ios&start_date=2026-04-08&end_date=2026-05-07&edit=1&granularity=daily&country=AU&category=6013&breakdown_attribute=appId&device=iphone&chart_type=free&metricType=absolute&time_period=day&retention_period=day&measure=revenue&rolling_days=0&selected_tab=0&time_spent=timeSpent&install_base_measure=installBase&active_user_measure=DAU&ad_monetization_measure=adsPerMau&retention_measure=retentionD1&retention_chart_type=curve&impression_share_metric_option=all&platform_type=networks&ad_monetization_metric=adImpressions&chart_plotting_type=line
+https://www.businessresearchinsights.com/market-reports/healthy-sleep-apps-market-115710
+https://app.sensortower.com/overview/com.northcube.sleepcycle?country=US
+https://www.wiseguyreports.com/reports/sleeping-app-market
+https://sensortower.com/blog/2024-q2-unified-top-5-wellness%20apps-revenue-us-63e274e1e1714cfff10eaa2f
+https://www.htfmarketinsights.com/report/4358020-sleeping-apps-market
+https://sleepcycle.com/newsroom/press-release/sleep-cycle-ab-publ-publishes-annual-report-2023-2
+https://www.inderes.fi/en/releases/sleep-cycle-year-end-report-2023-continued-subscription-growth-sums-up-a-strong-full-year
+https://mb.cision.com/Main/18579/3942324/2654211.pdf
+https://stockanalysis.com/quote/sto/SLEEP/revenue/
+https://investors.sleepcycle.com/all-analyst-reports
+https://investors.sleepcycle.com/financials
+https://www.investing.com/equities/sleep-cycle-ab-financial-summary
+https://sleepcycle.com/newsroom/press-release/sleep-cycle-year-end-report-a-year-of-deliberate-choices
+https://stockanalysis.com/quote/sto/SLEEP/financials/
+https://mfn.se/a/sleep-cycle/sleep-cycle-year-end-report-a-year-of-deliberate-choices
+https://view.news.eu.nasdaq.com/view?id=b02ff36ea01d3e35b774fe0a46001f402&lang=en&src=listed
+https://mb.cision.com/Main/18579/4117992/3316709.pdf
+https://sleepcycle.com/newsroom/press-release/sleep-cycle-interim-report-july-september-2023-increased-operating-margin-and-trend-shift-in-subscription-development-2
+https://investors.sleepcycle.com/
+https://view.news.eu.nasdaq.com/view?id=bb345d54d0ca71066986be6defa2f7791&lang=en&src=micro

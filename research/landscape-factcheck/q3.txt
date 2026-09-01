@@ -1,0 +1,14 @@
+How did Brain.fm (founded ~2013-2015, functional music for focus) actually acquire users and grow historically? This is the key question — dig deep and cite every source with URLs. Look for evidence of their real growth channels:
+
+- Early traction: Kickstarter or crowdfunding? Launch press? Product Hunt?
+- Founder interviews (Adam Hewett, Junaid Kalmadi, Dan Woods/Dan Clark) — what did they say about how they got their first users and what channels worked?
+- SEO / content marketing around "focus music" and ADHD keywords
+- PR around their neuroscience claims (science-as-marketing)
+- App store featuring by Apple/Google
+- Partnerships, B2B deals, integrations
+- Lifetime deals (AppSumo, StackSocial) or heavy discounting
+- Paid advertising (Facebook/Google ads)
+- Affiliate or influencer marketing
+- App download / usage numbers over time (Sensor Tower, press mentions)
+
+Summarize what the evidence actually shows about which channels drove their growth, with URLs.

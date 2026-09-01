@@ -1,0 +1,292 @@
+Brain.fm appears to have raised **low–hundreds of thousands of dollars**, not only ~$1M, and third‑party data generally puts its **annual revenue somewhere in the low single‑digit millions**, consistent with a **rough \$2–\$7M/year** range. Employee data from LinkedIn and company profiles suggest a **team size in the mid‑teens** rather than just a handful of people.
+
+Below I separate **confirmed facts** (from Brain.fm or primary sources) from **third‑party estimates** (Crunchbase‑style databases, revenue scrapers, etc.) and note when sources conflict.
+
+---
+
+## 1) Funding history — total venture/seed funding
+
+### Confirmed facts
+
+- Brain.fm states on its own site that it is **funded by a grant from the National Science Foundation (NSF‑STTR #1720698)**, indicating at least one NSF grant is a core funding source.[38]  
+- An AMA with the CEO on Reddit links directly to the NSF award page for **NSF STTR Phase I grant 1720698**, describing this as an **STTR Phase I** grant and quoting NSF guidance that such awards “normally do not exceed **\$150,000 total costs for 1 year**.”[41]  
+  - This strongly supports a **Phase I grant of about \$150k** in 2018 as confirmed public funding.
+- A Yahoo Finance news release on Brain.fm’s ADHD research states that their work is “**funded in part by the U.S. National Science Foundation**.”[45] This confirms NSF support but not the exact dollar amount beyond the Phase I figure above.
+
+These are the only **primary, clearly confirmed numbers**: an NSF STTR Phase I grant around **\$150k** and the fact that NSF funding is central.
+
+### Third‑party funding databases and secondary sources (estimates / partially documented)
+
+These sites compile funding data from filings, NSF databases, and private reports; they sometimes disagree on totals.
+
+1. **Oryndex company profile (funding timeline)**  
+   - States **“Total Raised: \$325K”** for Brain.fm.[31]  
+   - Funding timeline:  
+     - **Seed: \$100K** (June 2016) — “initial capital was a small \$100,000 seed investment from its co‑founders Adam Hewett and Junaid Kalmadi.”[31]  
+     - **Grant: \$225K** (March 2018) — “their most significant capital infusion came from a \$225,000 grant from the National Science Foundation (NSF) in 2018.”[31]  
+   - This implies total external + founder capital of **\$325k**, with **\$225k** being NSF grant money and **\$100k** founder seed.  
+   - Classification: **Derived/compiled estimate** using NSF and other data — not a direct Brain.fm statement.
+
+2. **Caplight funding overview**  
+   - Lists **“Total Funding Raised: \$325,000”**; last round: **Grant, Mar 20, 2018**.[33]  
+   - Confirms the same **\$325k** total as Oryndex, but the grant line omits a specific amount in the visible table.[33]  
+   - Classification: **Aggregated funding database**, consistent with Oryndex’s total.
+
+3. **PitchBook company profile**  
+   - Shows a deal history table including:  
+     - **Capitalization: \$100K on Jan 1, 2013** (startup stage).[32]  
+     - **Seed Round: 12 Apr 2017** (amount not clearly shown in the snippet).[32]  
+     - **Grant: \$225K on 20 Mar 2018** (latest deal type: Grant, latest deal amount: \$225K).[32]  
+   - The same page also includes a contradictory line: “**Brain.fm has raised \$125K**” as total raised, despite showing \$100k capitalization + \$225k grant in the table.[32]  
+   - Classification: **Partially conflicting database** — the **\$225k grant** is well supported; the **\$125k total** is clearly inconsistent with its own table and with Oryndex/Caplight.
+
+4. **TheCompanyCheck profile**  
+   - Lists “**Latest Funding Round: \$225K (USD), Grant, Mar 20, 2018**” and indicates **1 round** with a **total funding of \$225K**.[39]  
+   - This supports at least **\$225k** NSF grant funding, but ignores founder capitalization or any seed round.  
+   - Classification: **Partial record** – captures the grant, not the seed/founder capital.
+
+5. **Tracxn profile**  
+   - States **“Brain.fm has raised funding over 1 round… Grant (prize money), Mar 20, 2018, \$***** … Brain.fm is a funded company, having raised a total of \$***** in its 1st and only funding round”**.[37]  
+   - The numeric amounts are obfuscated in the visible portion (represented as placeholders), but this confirms there is at least one **grant round on 20 Mar 2018** from NSF.[37]  
+   - Classification: **Round confirmed, amount masked** in the snippet.
+
+6. **Owler funding page**  
+   - Lists 2 rounds (Grant Mar 2018 and Seed Apr 2017) but shows **“In total Brain.FM has raised \$0”** and round amounts as “--”.[34]  
+   - This is clearly a **data error or placeholder** rather than a real figure.
+
+7. **Gaebler profile**  
+   - Shows a “**Last Transaction 5/31/2017**” line and a “Financing History” with **“Online Capital — \$25,000”** together with mention of investor **Othman Laraki**.[35]  
+   - This suggests some kind of **\$25k financing event** around 2017, possibly a small bridge or online funding product.[35]  
+   - Classification: **Secondary data**; the amount is specific but not cross‑validated elsewhere in the search results.
+
+8. **Aiifi AI tools directory**  
+   - Notes “**Undisclosed seed round raised Apr 12, 2017**.”[44]  
+   - No amount given; consistent only with the existence of a seed round on that date.
+
+9. **PitchBook competitor listing (WiredVibe AI page)**  
+   - Lists Brain.fm as **“Venture Capital‑Backed”** but does not show amounts in the snippet.[43]  
+   - Confirms presence of at least one VC investor (PitchBook earlier mentions **Slow Ventures** as a minority investor).[32][43]  
+   - Classification: **Status indication**, not a funding total.
+
+### Reconciling the numbers
+
+- **Minimum clearly documented external funding**:  
+  - NSF STTR Phase I grant: **≈\$150k** (from NSF’s own program description and AMA citation).[41]  
+  - Third‑party databases and company‑profilers converge around **\$225k** as the NSF grant figure.[31][32][39]  
+- **Founder / seed capital**:  
+  - Oryndex explicitly describes **\$100k seed from co‑founders** in 2016.[31]  
+  - PitchBook lists a **\$100k capitalization** in 2013, which may be the same or an earlier internal capitalisation.[32]  
+  - Aiifi notes an **undisclosed seed round on Apr 12, 2017**, and PitchBook mentions a 2017 seed round with **Slow Ventures** as an investor.[32][44]  
+- **Additional small financing** (less solid):  
+  - Gaebler reports a **\$25k Online Capital transaction** in May 2017 and mentions investor **Othman Laraki**.[35]
+
+Given these:
+
+- The **most consistent third‑party totals** (Oryndex + Caplight) are **\$325k raised**:  
+  - **\$225k NSF grant** (2018)  
+  - **\$100k seed/founder capital** (2016/2013 capitalization)[31][33]  
+- PitchBook’s **“\$125k total raised”** line contradicts its own deal table and is likely an error or partial tally.[32]  
+- There is **no credible source** in these results showing total funding anywhere near **\$1M**, nor any substantial Series A/B venture rounds.
+
+### Direct answer to your funding question
+
+- **Is it true they raised only about \$1M total?**  
+  Based on the available data, **no**. All credible aggregators put total funding closer to **\$225k–\$325k**, with one outlier (PitchBook text) incorrectly reporting **\$125k** despite listing a \$225k grant.[31][32][33][39]  
+- **Known/estimated rounds (with year, amount, source)**
+
+| Year / date      | Round / type                | Amount (confirmed/estimated) | Primary sources/notes |
+|------------------|----------------------------|------------------------------|------------------------|
+| Jan 1, 2013      | Capitalization (startup)   | **\$100k** (internal capital) | PitchBook deal table shows \$100k capitalization.[32] |
+| Jun 2016         | Seed / founder investment  | **\$100k** (from co‑founders) | Oryndex describes \$100k seed from Adam Hewett & Junaid Kalmadi; may overlap with 2013 capitalization.[31] |
+| Apr 12, 2017     | Seed round (VC‑backed)     | **Undisclosed** (possibly >\$0) | Aiifi notes “undisclosed seed round”; PitchBook/Tracxn list a seed round with Slow Ventures, but snippet doesn’t show amount.[32][44] |
+| May 31, 2017     | Online Capital transaction | **\$25k**                     | Gaebler lists “Online Capital — \$25,000” and investor Othman Laraki.[35] |
+| Mar 20, 2018     | NSF STTR grant (Phase I)   | **\$150k–\$225k**            | Reddit AMA & NSF program guidance indicate ≈\$150k; Oryndex, PitchBook, TheCompanyCheck all list \$225k.[31][32][39][41] |
+
+**Best evidence total**: approximately **\$225k–\$325k**, far below \$1M. The explicit claim that Brain.fm “raised only about \$1M total” is **not supported**; instead, evidence points to a **much smaller, grant‑heavy funding history**.
+
+---
+
+## 2) Current employee headcount
+
+### Company and LinkedIn statements
+
+- **Brain.fm official “About” page** lists its **team members by name and role**, showing at least ~13 individuals, including CEO, Director of Science, Director of Growth, engineering, operations, and multiple user success roles.[8]  
+  - This is not a declared “employee count” but implies a **double‑digit team** in practice.
+
+- **LinkedIn company page for brain.fm** shows the company as **“Privately Held … 11–50 employees”**, which is LinkedIn’s standard employee‑count band.[1]  
+  - This band confirms they are not a solo or micro‑team, but it does not give an exact figure.
+
+### Third‑party employee estimates (all are estimates)
+
+1. **Tracxn**  
+   - States: “**Brain.fm has 15 employees as of May 31, 2026**,” and repeats “**Brain.fm has 15 employees as of May 26**.”[4]  
+   - This is the **most precise and recent numeric estimate** in the search results.
+
+2. **PitchBook**  
+   - Brain.fm profile lists **“Employees: 13 total employees.”**[5]  
+   - Likely based on earlier data; shows a similar magnitude to Tracxn.
+
+3. **Growjo**  
+   - Brain.fm page: “Brain.fm has **14 Employees**.”[10]  
+   - Also gives a revenue‑per‑employee figure, but 14 is the key for headcount.
+
+4. **ZoomInfo**  
+   - Company overview: “The Brain.fm corporate office … has **19 employees**,” broken down by department.[11]  
+   - ZoomInfo often over‑counts contractors and historical staff, so this may be on the high side.
+
+5. **Crustdata**  
+   - Shows **“Employees: 12”** for brain.fm.[3]  
+   - Again, consistent with a mid‑teens team size.
+
+6. **SignalHire / other directories**  
+   - SignalHire and similar sources show an **employee range of 10–50** or “1–25” but not a precise figure.[15]  
+   - These ranges are generic, but again consistent with a small but not tiny company.
+
+### Direct answer on headcount
+
+- **Is it around 15 people?**  
+  Yes, that is well supported. Recent third‑party company‑data providers converge around **12–15 employees**, with Tracxn explicitly stating **15 employees as of late May 2026**.[3][4][5][10]  
+- **LinkedIn range**:  
+  - LinkedIn shows **“11–50 employees”**, which is a **range band**, not a precise count.[1]  
+- **Reasonable current estimate**:  
+  - Taking the official team page (≈13 named individuals)[8] and the latest numeric data (12–15, Tracxn/Growjo/PitchBook/Crustdata), a **current headcount of about 13–15 employees** is the most defensible range.  
+  - ZoomInfo’s 19‑employee figure is an upper bound that may include non‑current staff or contractors.[11]
+
+So the claim that Brain.fm has “about 15 people” is **well aligned** with these sources; the LinkedIn data supports only that they are in the **11–50 band**, but multiple independent datasets point to **mid‑teens** as the best estimate.
+
+---
+
+## 3) Annual revenue estimates (Growjo, ZoomInfo, RocketReach, Sensor Tower, etc.)
+
+Brain.fm does not publicly disclose precise revenue in the material surfaced, so all concrete numbers here are **third‑party estimates**. I’ll list each source and its figure, then assess whether they support the **\$2M–\$7M/year** range.
+
+### Third‑party revenue estimates
+
+1. **Growjo**  
+   - Brain.fm profile: “Brain.fm’s **estimated annual revenue is currently \$2.6M per year**,” and “estimated revenue per employee is \$186,429.”[16]  
+   - Classification: **Model‑based estimate**, typical Growjo methodology; not confirmed by Brain.fm.
+
+2. **ZoomInfo**  
+   - Brain.fm “Overview” page lists **“Revenue \$7.1 Million”** for The Brain.fm.[17]  
+   - Classification: **Directory estimate**; ZoomInfo often uses ranges and modeled data, not company filings in cases like this.
+
+3. **RocketReach**  
+   - Brain.fm profile: “Revenue **\$7.1 million**” and “The brain.fm annual revenue was **\$7.1 million in 2024**.”[20]  
+   - This matches ZoomInfo’s figure, suggesting they may share a data source or model.
+
+4. **Owler**  
+   - Brain.fm company profile: “Est. **Annual Revenue \$100K–5.0M**,” and a separate note that Brain.FM generates \$316.7K revenue per employee.[24]  
+   - The wide range **\$100k–\$5M** is clearly approximate, but it **overlaps** the lower part of the \$2M–\$7M band.
+
+5. **AppRank / app‑revenue estimator (similar to Sensor Tower)**  
+   - A Brain.fm app revenue page reports:  
+     - **Monthly revenue \$200.0K**  
+     - **Yearly revenue \$2.4M**  
+     - Plus in‑app purchase price points for Brain.fm PRO subscriptions.[29]  
+   - This appears to be an **in‑app revenue estimate**, not necessarily total company revenue (Brain.fm also sells web subscriptions). But it directly supports at least **low‑single‑digit millions per year**.
+
+6. **PitchBook**  
+   - The Brain.fm profile has a Q&A section “What is Brain.fm’s current revenue?” but the snippet we saw does not include the numeric answer.[21]  
+   - So we cannot rely on a number here without the full entry.
+
+7. **Other sources (GetLatka, etc.)**  
+   - The Latka site snippet we have is for **The Brain** (a different company: personal knowledge software), not Brain.fm, with a **\$389.8k** estimate.[23] That should not be applied to Brain.fm.  
+   - The general GetLatka landing page notes its numbers are CEO‑reported ARR for featured companies, but Brain.fm is not visible in the retrieved snippet.[28]
+
+### How these estimates compare
+
+- **Lower bound evidence**:  
+  - AppRank / app‑revenue style tool gives **\$2.4M/year** from mobile app alone.[29]  
+  - Owler range **\$100k–\$5M** includes this level but is too broad to be precise.[24]
+
+- **Mid‑range evidence**:  
+  - Growjo’s model estimate is **\$2.6M/year**.[16]  
+  - This is close to the AppRank figure and within Owler’s band.
+
+- **Upper bound evidence**:  
+  - ZoomInfo: **\$7.1M revenue**.[17]  
+  - RocketReach: **\$7.1M annual revenue in 2024**.[20]  
+  - These align almost exactly, suggesting a shared underlying dataset; they define a **high single‑digit revenue estimate**.
+
+Because all of these are **estimates**, they should be treated as a **range** rather than precise truth. None of the surfaced sources provide audited financial statements or explicit Brain.fm disclosures. Still:
+
+- Multiple independent tools (Growjo, AppRank, Owler) point toward **low‑single‑digit millions**.
+- Directory estimates (ZoomInfo, RocketReach) suggest **around \$7M**.
+
+### Direct answer to the revenue‑range question
+
+- **Claimed range: roughly \$2M–\$7M/year after ~10 years of operation. Does evidence support this?**  
+  Yes, the **third‑party estimates collectively support a range between about \$2.4M and \$7.1M per year**:
+
+  - **Lower/mid estimates**:  
+    - Growjo: **\$2.6M**.[16]  
+    - AppRank: **\$2.4M** (app revenue).[29]  
+  - **Upper estimates**:  
+    - ZoomInfo: **\$7.1M**.[17]  
+    - RocketReach: **\$7.1M (2024)**.[20]  
+  - **Range source**:  
+    - Owler: **\$100k–\$5M** (supports at least up to \$5M).[24]
+
+  Given that app‑only revenue is estimated at \$2.4M and broader company revenue is estimated as high as \$7.1M, a **working range of roughly \$2–\$7M/year** is **consistent** with available data, with the **strongest cluster** of estimates in the **\$2–\$3M** zone and directory‑style tools pushing the top toward **\$7M**.
+
+---
+
+### Summary of “confirmed facts” vs “estimates”
+
+- **Confirmed / primary facts**  
+  - Brain.fm is funded by at least one **NSF STTR grant (Phase I, award 1720698)**; Phase I grants typically are **≤\$150k**, and multiple third‑party sources list **\$225k** as the grant amount.[38][41][31][32][39]  
+  - Brain.fm’s own site lists a team of **≈13 named staff**, clearly indicating a **double‑digit team size**.[8]
+
+- **Best supported quantitative estimates**  
+  - **Total funding**: Most consistent aggregators (Oryndex, Caplight) show **\$325k total** (founder capitalization + NSF grant).[31][33]  
+    - This is **far below \$1M**; no credible source points to \$1M+.  
+  - **Headcount**: Multiple independent data providers show **12–15 employees**, with Tracxn specifically noting **15 employees as of May 2026**.[3][4][5][10]  
+  - **Annual revenue**:  
+    - **Lower–mid band** around **\$2.4–\$2.6M** (Growjo, app‑revenue tools).[16][29]  
+    - **Upper band** around **\$7.1M** (ZoomInfo, RocketReach).[17][20]  
+    - Owler’s **\$100k–\$5M** range is broadly consistent but non‑specific.[24]
+
+Within the constraints of third‑party data, the most defensible picture is: **small grant‑backed company (~\$300k total funding), mid‑teens headcount, low‑single‑digit‑million annual revenue, plausibly in the \$2–\$7M band.**
+
+
+===== CITATIONS =====
+https://www.linkedin.com/company/brain.fm
+https://www.linkedin.com/in/danclark-brainfm
+https://crustdata.com/profiles/company/brainfm
+https://tracxn.com/d/companies/brainfm/__bscmRhdvoNVz0_so9As7INi2qJr6PG1pzkWBecg4hUU
+https://pitchbook.com/profiles/company/133694-11
+https://www.signalhire.com/companies/brain-fm
+https://www.linkedin.com/posts/danclark-brainfm_director-of-growth-at-brainfm-new-york-activity-7333857663660765185-DgOe
+https://www.brain.fm/about
+https://www.linkedin.com/in/steven-plappert-59477b3b
+https://growjo.com/company/Brain.fm
+https://www.zoominfo.com/pic/the-brainfm/374946237
+https://www.datanyze.com/companies/the-brainfm/374946237
+https://leadiq.com/c/brainfm/5a1db7862300005200b313e4
+https://www.linkedin.com/company/brain-fm-relaxation
+https://www.signalhire.com/overview/brain-fm
+https://www.zoominfo.com/c/the-brainfm/374946237
+https://growjo.com/company/BRAIN
+https://growjo.com/company/FM
+https://rocketreach.co/brainfm-profile_b4478952faca26d4
+https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-announces-fourth-quarter-and-full-year-2025-financial/
+https://getlatka.com/companies/the-brain
+https://www.owler.com/company/brain2
+https://companiesmarketcap.com/inr/zoominfo/revenue/
+https://growjo.com/company/NEUROGROW_BRAIN_FITNESS_CENTER
+https://companiesmarketcap.com/zoominfo/revenue/
+https://getlatka.com/
+https://apprank.io/brainfm-focus-sleep-music-4238
+https://growjo.com/
+https://oryndex.co/tools/brainfm/funding
+https://www.caplight.com/company/brain
+https://www.owler.com/company/brain2/funding
+https://www.gaebler.com/Funded-Company-BD69D91D-2362-44EA-A1F8-F2E7F401336C-Brain-fm
+https://www.brain.fm/pricing
+https://www.thecompanycheck.com/company/b/brainfm/pm9t54yylze4c314a
+https://www.healthtechalpha.com/venture/brain-fm
+https://www.reddit.com/r/IAmA/comments/85svjd/i_am_the_ceo_of_brainfm_and_were_making_music/
+https://wellfound.com/company/brain-fm/funding
+https://pitchbook.com/profiles/company/489486-16
+https://www.aiifi.ai/all-ai-tools/brain.fm
+https://finance.yahoo.com/news/brain-fms-adhd-music-breakthrough-140100580.html
