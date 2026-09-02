@@ -32,8 +32,14 @@ import packs
 from dsp import mono_below
 
 SR = 44100
-MAX_STRETCH_PCT = 1.5
-MAX_TRANSPOSE_SEMI = 1.0
+# Decision, 2026-09-02: "no processing" wins. No transposition and no
+# time-stretch of any size. A loop qualifies only if its BPM already matches the
+# target and its key already matches; anything else is reported as a gap, never
+# resampled into place. Plain sample-rate conversion (a 48 kHz file into a
+# 44.1 kHz engine) is NOT a stretch - it changes neither tempo nor pitch - and is
+# the one resample still allowed.
+MAX_STRETCH_PCT = 0.0
+MAX_TRANSPOSE_SEMI = 0.0
 
 
 # ------------------------------------------------------------- gain-only bus
@@ -72,25 +78,18 @@ def gain_only_master(x, sr=SR, target_lufs=-16.0, ceiling_dbtp=-1.0):
 # ------------------------------------------------------------ loop mechanics
 
 def load(root, entry, target_bpm=None, semitones=0.0):
-    """Load a loop, optionally resampled - within strict limits, or rejected."""
+    """Load a loop untouched. Rejects anything that would need pitch or tempo work."""
     y, sr = sf.read(os.path.join(root, entry["path"]), dtype="float32", always_2d=True)
     if y.shape[1] == 1:
         y = np.repeat(y, 2, axis=1)
-    ratio = 1.0
     if semitones:
-        if abs(semitones) > MAX_TRANSPOSE_SEMI:
-            raise ValueError(f"transpose {semitones} exceeds +/-{MAX_TRANSPOSE_SEMI}")
-        ratio *= 2 ** (semitones / 12.0)
-    if target_bpm and entry.get("bpm"):
-        ratio *= target_bpm / float(entry["bpm"])
-    pct = abs(ratio - 1.0) * 100.0
-    if pct > MAX_STRETCH_PCT:
-        raise ValueError(f"needs {pct:.2f}% resample, over the {MAX_STRETCH_PCT}% limit")
-    if sr != SR or abs(ratio - 1.0) > 1e-9:
-        # resampling changes pitch and tempo together; that is exactly why the
-        # tolerance is tight, and why transposition is effectively unavailable
-        up, down = SR, int(round(sr * ratio))
-        y = resample_poly(y, up, max(1, down), axis=0).astype(np.float32)
+        raise ValueError(f"transpose {semitones:+g} semitones refused: no processing")
+    if target_bpm and entry.get("bpm") and int(entry["bpm"]) != int(target_bpm):
+        raise ValueError(f"{entry['bpm']} BPM against a {target_bpm} BPM target: "
+                         "refused, no time-stretch")
+    if sr != SR:
+        # sample-rate conversion only - same duration, same pitch
+        y = resample_poly(y, SR, sr, axis=0).astype(np.float32)
     return y
 
 
@@ -232,11 +231,37 @@ LAYER_PLAN = [("kick", None), ("bass", None), ("chord", 8), ("atmos", 12),
 
 
 def compatible(a, b):
+    """Same BPM and same key, or unkeyed. Nothing is bent to fit."""
     if a is None or b is None:
         return True
     if a.get("bpm") and b.get("bpm") and a["bpm"] != b["bpm"]:
         return False
-    return key_distance(a.get("key_pc"), b.get("key_pc")) <= MAX_TRANSPOSE_SEMI
+    return key_distance(a.get("key_pc"), b.get("key_pc")) == 0
+
+
+def report_gaps(entries, bpm, key_pc, categories):
+    """Which categories have nothing usable at the target BPM and key, and why.
+
+    With transposition and time-stretching both refused, an empty category is a
+    fact about the pack that has to be surfaced rather than worked around.
+    """
+    gaps = {}
+    for cat in categories:
+        rows = [e for e in entries if e["category"] == cat]
+        ragged = [e for e in rows if e.get("bars_integer") is False]
+        wrong_bpm = [e for e in rows if e.get("bpm") and e["bpm"] != bpm]
+        wrong_key = [e for e in rows if e.get("key_pc") is not None and key_pc is not None
+                     and key_distance(e["key_pc"], key_pc) != 0]
+        usable = [e for e in rows
+                  if e.get("bars_integer") is not False
+                  and not (e.get("bpm") and e["bpm"] != bpm)
+                  and not (e.get("key_pc") is not None and key_pc is not None
+                           and key_distance(e["key_pc"], key_pc) != 0)]
+        gaps[cat] = {"total": len(rows), "usable": len(usable),
+                     "rejected_wrong_bpm": len(wrong_bpm),
+                     "rejected_wrong_key": len(wrong_key),
+                     "rejected_ragged": len(ragged)}
+    return gaps
 
 
 def cmd_combos(inv, out_dir, seconds=60.0, n_combos=4):
@@ -264,12 +289,25 @@ def cmd_combos(inv, out_dir, seconds=60.0, n_combos=4):
         return out
 
     pools = {c: pool(c) for c, _ in LAYER_PLAN}
+    gaps = report_gaps(entries, bpm, key_pc, [c for c, _ in LAYER_PLAN])
+    empty = [c for c, g in gaps.items() if g["usable"] == 0 and g["total"] > 0]
+    for c in empty:
+        g = gaps[c]
+        print(f"GAP: '{c}' has {g['total']} files but none usable at {bpm} BPM / "
+              f"{key or 'no key'} - {g['rejected_wrong_bpm']} wrong BPM, "
+              f"{g['rejected_wrong_key']} wrong key, {g['rejected_ragged']} ragged. "
+              "Not transposed and not stretched, by decision.")
+    for c, g in gaps.items():
+        if g["total"] == 0:
+            print(f"GAP: no '{c}' loops in this pack at all")
     kicks = sorted(pools["kick"], key=lambda e: low_fundamental(root, e) or 1e9)
     basses = sorted(pools["bass"],
                     key=lambda e: e["bands"]["<60"] + e["bands"]["60-150"], reverse=True)
     if not kicks or not basses:
-        raise RuntimeError(f"need at least one kick and one bass at {bpm} BPM "
-                           f"(have {len(kicks)} kicks, {len(basses)} basses)")
+        raise RuntimeError(
+            f"need at least one kick and one bass at {bpm} BPM in "
+            f"{key or 'the pack key'} (have {len(kicks)} kicks, {len(basses)} basses). "
+            "Nothing is transposed or stretched to fill the gap - see the gap report.")
 
     clips, rows = [], []
     for ci in range(n_combos):
@@ -322,6 +360,7 @@ def cmd_combos(inv, out_dir, seconds=60.0, n_combos=4):
                           "processing is a gain trim and mono below 120 Hz on the bus."),
                 "questions": ["Does this sound like a record now?",
                               "Which combo works best?", "What is still missing?"],
+                "gaps": gaps,
                 "groups": [{"name": "Layered combos", "hint": "kick + bass + chord/atmos "
                             "+ hat/top + percussion, entering and leaving on bar lines",
                             "clips": clips}]}
