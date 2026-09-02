@@ -446,3 +446,9 @@ drum-synth licence is unavailable) · `src-faust-demos-lib.txt` · `src-faust-re
 `src-odin2-readme.txt` · `src-pedalboard-readme.txt` · `src-roland-eula.txt` (HTTP 404) ·
 `src-sos-909.txt` (soundonsound.com TR-909 review, **HTTP 410 Gone**) · `src-vcvrack-license.txt` ·
 `src-vital-readme.txt` · `src-wotja-about.txt`.
+
+---
+
+## Decision (2026-09-02, Fable orchestrator)
+
+**Track A.** The product plan since the moat pass is Endel-style stem assembly inside our own playback engine, i.e. audio rendered offline on the mini and shipped as files. That makes GPLv3 tooling a non-issue and picks stack #1 (`pedalboard` + Surge XT + Surge XT Effects) for the coded arm's real-synth rebuild, with drum voices written in Faust per the recommendation so an on-device move later needs no rewrite. Track B is not being pursued. Sample packs with "no sampler / no un-integrated content" clauses are out; CC0 Freesound hits remain allowed.
