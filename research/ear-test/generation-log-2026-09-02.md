@@ -153,3 +153,11 @@ Follow-up feedback (Daniel): "definitely elements that need to be worked on — 
 - Reading: the base clip (no motif) was "not bad at all"; the only new melodic element across all three is the motif generator, so the motif's note/timing choices read as random. "Hypnotic" means a short fixed phrase repeating on the grid, not stochastic note picking. Bass/pad changes cannot be judged from this listen because the motif dominates.
 - Action: motif becomes a fixed 2–3 note phrase, repeated every 1–2 bars, identical each time, through the tempo-synced delay; no random note selection, no random timing. Re-audition before any further balance judgements.
 - Blind-set effect: all three variants known to Daniel → excluded.
+
+## 2026-09-02 ~05:30 CEST — Daniel, unblinded, headphones: surge round 2 (r2)
+
+- Files: `surge-a-11-r2.wav`, `surge-a-11-v1-r2.wav`, `surge-b-41-r2.wav` (LISTEN-NOW 01–03).
+- Verdict, paraphrased closely: "the arrangement is not bad." All three are "very paddy" — the sustained washy chord element dominates every clip. "The sounds themselves, the instruments, the bass, everything sounds very generic, very computer-like; it's missing the right nice real synthesizer sounds."
+- Reading: sequencer/arrangement rules from the pattern book pass; the sound source fails. Patches built from parameters by an agent with no ears = generic. Two levers: (1) human-designed patches (Surge factory library, OB-Xd, Dexed, TAL) and analogue-modelled synths; (2) chord/stab element far smaller, shorter, drier — second time Daniel has asked for less pad.
+- Process change: audition sounds individually (4-bar solo renders of candidate bass/hook/chord patches in LISTEN-NOW) and let Daniel pick before the next arrangement render. His ear is the patch designer.
+- Blind-set effect: the three r2 clips known to Daniel → excluded.
