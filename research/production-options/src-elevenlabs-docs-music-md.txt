@@ -1,0 +1,97 @@
+URL: https://elevenlabs.io/docs/capabilities/music.md
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:     7983
+----
+> This is a page from the ElevenLabs documentation. For a complete page index, fetch https://elevenlabs.io/docs/llms.txt. For the full documentation in a single file, fetch https://elevenlabs.io/docs/llms-full.txt.
+# Eleven Music
+## Overview
+Eleven Music is a Text to Music model that generates studio-grade music with natural language prompts in any style. It's designed to understand intent and generate complete, context-aware audio based on your goals. The model understands both natural language and musical terminology, providing you with state-of-the-art features:
+* Complete control over genre, style, and structure
+* Vocals or just instrumental
+* Multilingual, including English, Spanish, German, Japanese and more
+* Edit the sound and lyrics of individual sections or the whole song
+Listen to a sample:
+Created in collaboration with labels, publishers, and artists, Eleven Music is cleared for nearly all commercial uses, from film and television to podcasts and social media videos, and from advertisements to gaming. For more information on supported usage across our different plans, [see our music terms](https://elevenlabs.io/music-terms).
+## Audio Reference
+Audio Reference lets you upload a short audio track to guide the style and sound of a new Music v2 generation. This gives the model an additional creative reference alongside your text prompt.
+To use Audio Reference, navigate to **Music** > **Generations** and use the **+ Reference** button in the **Prompt** section to add an audio reference.
+You can upload a reference track of up to approximately 30 seconds in commonly used audio formats. Every uploaded reference is screened for copyright compliance before it can be used.
+Audio Reference influences characteristics such as the overall sound, production style, instrumentation, tempo, and mood of the generated track. It does not copy or remix the uploaded audio, and the result remains a newly generated composition.
+Audio Reference is intended to guide a generation toward a similar style and sound. It is not
+designed for genre transformation — for example, uploading a jazz track and requesting a rap
+version may not produce reliable results.
+Audio Reference is available with Music v2 on all paid plans.
+## Music Finetunes
+Fine-tune the ElevenLabs Music model to your sound. Music Finetunes lets you fine-tune the model to your own audio. By uploading non-copyrighted tracks you own, you can create a personalized version of our music model that consistently reflects your style, sonic identity, or brand.
+Standard music generation can produce high-quality tracks, but outputs may vary significantly in instrumentation, texture, production style, and feel. Finetunes grounds generation in your specific audio identity. Once trained, every track generated with your Finetune reflects the tone, structure, and character of your dataset - while remaining a new, original composition.
+Finetunes addresses three core challenges in AI music generation:
+* Brands cannot build a proprietary sound with prompting alone
+* Creators cannot reliably replicate their style across projects
+* Musicians exploring new ideas want outputs that feel authentic to their body of work
+By fine-tuning on your tracks, the custom Finetune you create captures stylistic patterns across instrumentation, tempo, production style, timbre, and vocal character.
+### How it works
+* Upload non-copyrighted tracks - we automatically screen them for copyright compliance
+* The Finetune is ready for use in approximately 5-10 minutes
+* You generate music using your custom Finetune inside ElevenCreative
+Qualifying Enterprise customers may fine-tune on proprietary intellectual property that they fully
+own and control, without third-party copyright screening. This is designed for organizations with
+catalogs they exclusively own. Contact your account manager to enable this capability.
+### Curated Finetunes
+In addition to custom training, ElevenCreative includes curated Finetunes created by ElevenLabs across global genres and styles, including:
+* Afro House Beats
+* Reggaeton
+* Arabic Groove
+* 70s Cambodian Rock
+* 80s Nu-Disco Revival
+* Mozart-Style Symphony
+These are available instantly to eligible subscribers. No uploads required.
+## Usage
+Eleven Music is available today on the ElevenLabs website. The Music API is available for paid subscribers, with integration into our Agents Platform coming soon.
+Created in collaboration with labels, publishers, and artists, Eleven Music is cleared for nearly all commercial uses, from film and television to podcasts and social media videos, and from advertisements to gaming. For more information on supported usage across our different plans, [see our music terms](https://elevenlabs.io/music-terms).
+#### [Music](/docs/eleven-creative/products/music)
+Step-by-step guide for using Eleven Music on the ElevenCreative Platform.
+#### [Developers](/docs/eleven-api/guides/cookbooks/music)
+Step-by-step guide for using Eleven Music with the API.
+#### [Prompting guide](/docs/overview/capabilities/music/best-practices)
+Learn how to use Eleven Music with natural language prompts.
+#### [Music Finetunes](/docs/eleven-creative/products/music/finetunes)
+Learn how to train a custom music model on your own audio.
+## Key facts
+#### What is Music v2?
+Music v2 is the next generation of ElevenLabs' AI music model, with improved prompt adherence,
+composition, prompt understanding, multilingual output, and vocal delivery over Music v1. New capabilities
+include:
+* Audio Reference for guiding generations with a short uploaded track
+* Long-form section-by-section composition
+* Mid-track genre transitions
+* Faster and more complex vocal delivery, including fast rap and dense lyrical patterns
+* Improved inpainting
+* Sound effects embedded inside tracks
+#### Is Music v1 still available?
+Music v1 will remain available during a transition period. Music v2 is the new default model in
+the UI. For API generations, Music v1 will remain the default model for transition period. After
+this, Music v2 will be the default in both UI and API. When Music v1 is deprecated, this will be
+with at least a few months' notice.
+#### How does inpainting work?
+In the UI, select a specific section of a generated song and regenerate just that section
+without affecting the rest of the track. Inpainting quality is improved in v2.
+#### What's the maximum duration for generated music?
+Generated music has a minimum duration of 3 seconds and a maximum duration of 5 minutes.
+#### Is there an API available?
+Yes, refer to the [developer quickstart](/docs/eleven-api/guides/cookbooks/music) for more
+information.
+#### Can I use Eleven Music for my business?
+Yes, Eleven Music is cleared for nearly all commercial uses, from film and television to
+podcasts and social media videos, and from advertisements to gaming. For more information on
+supported usage across our different plans, [see our music terms](https://elevenlabs.io/music-terms).
+#### What audio formats are supported?
+Generated audio is available in MP3 (44.1kHz, 128-192kbps) and WAV formats.
+#### What is Audio Reference?
+Audio Reference lets you upload a track of up to approximately 30 seconds to guide the style and sound of a new
+Music v2 generation. The uploaded track is used as creative guidance alongside your prompt, and every upload is
+screened for copyright compliance.
+#### Can Audio Reference remix a song or change its genre?
+Audio Reference is not a remixing or genre-transfer tool. It guides characteristics such as sound, mood,
+instrumentation, and production style. Results may be less reliable when the requested output is substantially
+different from the uploaded reference — for example, when using a jazz reference to request a rap track.

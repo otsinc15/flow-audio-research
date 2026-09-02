@@ -1,0 +1,1310 @@
+URL: https://mubert.com/api/docs
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:  1549659
+----
+Mubert API Docs — AI Music Generation API Documentation 
+ ')">
+ Documentation
+ Mubert AI Music API
+ Version 3.0
+ Table of Contents
+ Install Skill 
+ Authentication 
+ License 
+ User Registration 
+ Track Generation 
+ Track Store 
+ Mubert Music Library 
+ Tracks 
+ Swagger 
+ Welcome to the Mubert AI Music API v3! 
+ This API allows to integrate track generation and music streaming features into apps, games or services. To start using the API please request your API Keys from Mubert team (via [email protected] ). 
+ The REST API communicates exclusively in JSON over SSL (HTTPS). All endpoint URLs begin with https://music-api.mubert.com/api/v3/ (except streaming urls, they begin with https://stream.mubert.com/b2b/v3/ ) 
+ Parameters must be serialized in JSON and passed in the request body. 
+ You should use the media type designation of application/json . 
+ There are two main directories in the API:
+ service — https://music-api.mubert.com/api/v3/service/ — used by the company to manage licenses and customers. 
+ public — https://music-api.mubert.com/api/v3/public/ — used by customers to receive streaming features and tracks.
+ Install Mubert Skill
+ Github: https://github.com/MubertAI/skills 
+ npx skills add MubertAI / skills 
+ Authentication
+ The REST API accepts API Key - based authentication.
+ For Companies
+ curl - X POST "https://music-api.mubert.com/api/v3/service/*" \
+- H "Content-Type: application/json" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ For Customers
+ curl - X POST "https://music-api.mubert.com/api/v3/public/*" \
+- H "Content-Type: application/json" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ The REST API communicates exclusively in JSON over SSL (HTTPS). All endpoint URLs begin with https://music-api.mubert.com/api/v3/ (except streaming urls, they begin with https://stream.mubert.com/b2b/v3/ ) 
+ For the service directory use a pair of COMPANY_ID and LICENSE_TOKEN and for the public directory use a pair of CUSTOMER_ID and ACCESS_TOKEN .
+ You must replace COMPANY_ID / LICENSE_TOKEN / CUSTOMER_ID / CUSTOMER_TOKEN with your actual tokens.
+ License
+ For your convenience, we have made it so that a company can have several licenses with their own capabilities and limits. It is made so that you can separate users under different licenses. By default, the company has one license and in most cases this is enough. 
+ You can get information about your licenses and limits.
+ Use model licenses with GET request
+ curl - X GET "https://music-api.mubert.com/api/v3/service/licenses" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ You can also get information about a specific license
+ curl - X GET "https://music-api.mubert.com/api/v3/service/licenses/LICENSE_ID" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ Response
+ 200 OK
+ { 
+ "data" : { 
+ "id" : "9e113460-1125-4c09-83c0-94a3b36b0bf3" , 
+ "company_id" : "9e1133df-0ac2-4824-bb1a-827fb0698380" , 
+ "type" : "paid" , 
+ "status" : "active" , 
+ "webhook_url" : "https://b2b3-webhook.mubert.com/" , 
+ "webhook_enabled" : true , 
+ "track_expiration_time" : 900 , 
+ "allow_all_features" : true , 
+ "features" : [ 
+ "track" , 
+ "ttm" , 
+ "itm" , 
+ "streaming" 
+ ] , 
+ "allow_all_bitrates" : true , 
+ "bitrates" : [ 
+ 32 , 
+ 96 , 
+ 128 , 
+ 192 , 
+ 256 , 
+ 320 
+ ] , 
+ "default_bitrate" : 128 , 
+ "allow_all_intensities" : true , 
+ "intensities" : [ 
+ "low" , 
+ "medium" , 
+ "high" 
+ ] , 
+ "default_intensity" : "high" , 
+ "allow_all_formats" : true , 
+ "track_formats" : [ 
+ "mp3" , 
+ "wav" 
+ ] , 
+ "default_format" : "mp3" , 
+ "allow_all_modes" : true , 
+ "track_modes" : [ 
+ "track" , 
+ "jingle" , 
+ "loop" , 
+ "mix" 
+ ] , 
+ "default_mode" : "track" , 
+ "expired_at" : "2025-02-01T00:00:00.000000Z" , 
+ "license_limits" : { 
+ "id" : "9e113460-140f-409d-a5e8-c755bd6cf7f2" , 
+ "license_id" : "9e113460-1125-4c09-83c0-94a3b36b0bf3" , 
+ "max_track_duration" : 1500 , 
+ "max_concurrent_track_generations" : - 1 , 
+ "total_tracks_count" : 5 , 
+ "total_tracks_count_limit" : - 1 , 
+ "total_tracks_duration" : 306 , 
+ "total_tracks_duration_limit" : - 1 , 
+ "monthly_tracks_count" : 5 , 
+ "monthly_tracks_count_limit" : - 1 , 
+ "monthly_tracks_duration" : 306 , 
+ "monthly_tracks_duration_limit" : - 1 , 
+ "daily_tracks_count" : 0 , 
+ "daily_tracks_count_limit" : - 1 , 
+ "daily_tracks_duration" : 0 , 
+ "daily_tracks_duration_limit" : - 1 , 
+ "total_streaming_duration" : 70 , 
+ "total_streaming_duration_limit" : - 1 , 
+ "monthly_streaming_duration" : 70 , 
+ "monthly_streaming_duration_limit" : - 1 , 
+ "daily_streaming_duration" : 0 , 
+ "daily_streaming_duration_limit" : - 1 , 
+ "customers_count" : 2 , 
+ "customers_count_limit" : 5 , 
+ "customer_max_concurrent_track_generations" : - 1 , 
+ "customer_total_tracks_count_limit" : - 1 , 
+ "customer_total_tracks_duration_limit" : - 1 , 
+ "customer_monthly_tracks_count_limit" : - 1 , 
+ "customer_monthly_tracks_duration_limit" : - 1 , 
+ "customer_daily_tracks_count_limit" : 5 , 
+ "customer_daily_tracks_duration_limit" : - 1 , 
+ "customer_total_streaming_duration_limit" : - 1 , 
+ "customer_monthly_streaming_duration_limit" : 0 , 
+ "customer_daily_streaming_duration_limit" : - 1 , 
+ "daily_reset_at" : "2025-01-01T00:00:00.000000Z" , 
+ "monthly_reset_at" : "2025-01-01T00:00:00.000000Z" 
+ } 
+ } 
+ } 
+ This is the license model. Here you can find license features, default parameters, limits and statistics.
+ You can notice -1 in some limit's values, it means a limit is not set ( unlimited ).
+ Webhooks
+ In this version of the API, you can add a webhook to the license through which you will receive notifications about the status of the tracks generation process.
+ Use PUT method to set a webhook
+ curl - L - X PUT "https://music-api.mubert.com/api/v3/service/licenses/LICENSE_ID" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "webhook_url\": \"https://YOUR_WEBHOOK_URL\",
+ \ "webhook_enabled\": true
+ } " 
+ you will receive updated license model. 
+ After you add the webhook, you will start to receive messages with tracks models. Like this:
+ { 
+ "id" : "TRACK_ID" , 
+ "session_id" : "SESSION_ID" , 
+ "parent_session_id" : null , 
+ "playlist_index" : "1.0.0" , 
+ "prompt" : null , 
+ "duration" : 61 , 
+ "intensity" : "high" , 
+ "mode" : "track" , 
+ "key" : "A#" , 
+ "bpm" : 120 , 
+ "generations" : [ 
+ { 
+ "session_id" : "GENERATION_SESSION_ID" , 
+ "format" : "mp3" , 
+ "bitrate" : 128 , 
+ "status" : "done" , 
+ "generated_at" : "2025-01-01T00:00:00.000000Z" , 
+ "expired_at" : "2025-01-02T00:00:00.000000Z" , 
+ "created_at" : "2025-01-01T00:00:00.000000Z" , 
+ "url" : "YOUR_TRACK_LINK" 
+ } ] 
+ } 
+ You can find out more about track model in the section Track generation .
+ User Registration
+ Each end-user of your product (service) is identified by a unique token pair: customer-id and access-token . These tokens are required to access the content and features. 
+ Make as many customers as there are users you want to be provided with music.
+ To create it use model customers with POST request described below. 
+ curl - X POST "https://music-api.mubert.com/api/v3/service/customers" \
+- H "Content-Type: application/json" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" \
+- d "{
+ \ "custom_id\": \"YOUR_CUSTOM_ID\"
+ } " 
+ Input parameters 
+ custom_id — your internal unique customer ID, which can consist of Latin letters, numbers and allowed special characters: ".", "_", "@", "-"' and should not be longer than 255 characters. 
+ company-id and license-token — provided by Mubert team 
+ Responds with a 200 OK response and JSON response if successful. 
+ There is customer model 
+ { 
+ "data" : { 
+ "id" : "CUSTOMER_ID" , 
+ "company_id" : "COMPANY_ID" , 
+ "custom_id" : "YOUR_CUSTOM_ID" , 
+ "status" : "active" , 
+ "access" : { 
+ "id" : "ACCESS_ID" , 
+ "customer_id" : "CUSTOMER_ID" , 
+ "license_id" : "LICENSE_ID" , 
+ "token" : "ACCESS_TOKEN" , 
+ "expired_at" : "2025-02-01T00:00:00.000000Z" , 
+ "customer_limits" : { 
+ "id" : "CUSTOMER_LIMITS_ID" , 
+ "customer_id" : "CUSTOMER_ID" , 
+ "license_id" : "LICENSE_ID" , 
+ "max_concurrent_track_generations" : - 1 , 
+ "total_tracks_count" : 0 , 
+ "total_tracks_count_limit" : - 1 , 
+ "total_tracks_duration" : 0 , 
+ "total_tracks_duration_limit" : - 1 , 
+ "monthly_tracks_count" : 0 , 
+ "monthly_tracks_count_limit" : - 1 , 
+ "monthly_tracks_duration" : 0 , 
+ "monthly_tracks_duration_limit" : - 1 , 
+ "daily_tracks_count" : 0 , 
+ "daily_tracks_count_limit" : 5 , 
+ "daily_tracks_duration" : 0 , 
+ "daily_tracks_duration_limit" : - 1 , 
+ "total_streaming_duration" : 0 , 
+ "total_streaming_duration_limit" : - 1 , 
+ "monthly_streaming_duration" : 0 , 
+ "monthly_streaming_duration_limit" : - 1 , 
+ "daily_streaming_duration" : 0 , 
+ "daily_streaming_duration_limit" : - 1 , 
+ "daily_reset_at" : null , 
+ "monthly_reset_at" : null 
+ } 
+ } 
+ } 
+ } 
+ Here:
+ customer-id = data->access->customer_id ( CUSTOMER_ID ) 
+ access-token = data->access->access_token ( ACCESS_TOKEN ) 
+ daily_reset_at , monthly_reset_at — nullable date
+ Also you can see personal customer limits and statistics.
+ User Management
+ User(s) Information
+ You can get information about all your users with pagination.
+ Use GET request with model customers 
+ curl - X GET "https://music-api.mubert.com/api/v3/service/customers" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ The response contains a list of customers models. 
+ Use pagination to see all data.
+ curl - L - X GET "https://music-api.mubert.com/api/v3/service/customers?limit=10&offset=2" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ You can also get information about a specific customer using his custom or customer identifier. Like this:
+ curl - X GET "https://music-api.mubert.com/api/v3/service/customers/CUSTOMER_ID" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ Or
+ curl - X GET "https://music-api.mubert.com/api/v3/service/customers/custom-id/YOUR_CUSTOM_ID" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ The answers also contains the customer model.
+ User Deleting
+ Use DELETE request with model customers 
+ curl - X DELETE "https://music-api.mubert.com/api/v3/service/customers/CUSTOMER_ID" \
+- H "company-id: COMPANY_ID" \
+- H "license-token: LICENSE_TOKEN" 
+ Responds with a 204 No Content response if successful.
+ List of channels
+ User(s) Information
+ Both streaming and track generation require that you select a music channel. 
+ Use GET in model playlists to get a list of all available categories, groups, channels and their playlist indexes. 
+ curl - X GET "https://music-api.mubert.com/api/v3/public/playlists" \ 
+- H "customer-id: CUSTOMER_ID" \ 
+- H "access-token: ACCESS_TOKEN" 
+ Response 200 OK
+ { 
+ "data" : [ 
+ { 
+ "playlist_index" : "3.0.0" , 
+ "category" : "Calm" , 
+ "group" : "Ambient" , 
+ "channel" : "Meditation" , 
+ "params" : [ 
+ { 
+ "bpm" : { 
+ "gt" : 45 , 
+ "lt" : 83 
+ } , 
+ "keys" : [ 
+ "Cm" , 
+ "C" , 
+ "C#m" , 
+ "C#" , 
+ "Dm" , 
+ "D" , 
+ "D#m" , 
+ "D#" , 
+ "Em" , 
+ "E" , 
+ "Fm" , 
+ "F" , 
+ "F#m" , 
+ "F#" , 
+ "Gm" , 
+ "G" , 
+ "G#m" , 
+ "G#" , 
+ "Am" , 
+ "A" , 
+ "A#m" , 
+ "A#" , 
+ "Bm" , 
+ "B" 
+ ] 
+ } 
+ ] 
+ } , 
+ { 
+ "playlist_index" : "3.0.1" , 
+ "category" : "Calm" , 
+ "group" : "Ambient" , 
+ "channel" : "Om" , 
+ "params" : [ ... ] 
+ } , 
+ { 
+ "playlist_index" : "3.0.2" , 
+ "category" : "Calm" , 
+ "group" : "Ambient" , 
+ "channel" : "Zen" , 
+ "params" : [ ... ] 
+ } , 
+ .
+ .
+ .
+ } 
+ Here you can also see bpm range and key list. These values are available for track generation.
+ Please note, the bpm parameter has an available range in which you can generate in a specific category. 
+ gt means greater than, lt means less than.
+ Music Streaming
+ Before you start using the streaming function, make sure it’s enabled under the contract agreement. Also you can find it in your license info. To get a link to streaming, use the request below 
+ Request
+ curl - X GET "https://music-api.mubert.com/api/v3/public/streaming/get-link" \
+- H "Content-Type: application/json" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- d "{
+ \ "playlist_index\": \"1.0.0\",
+ \ "bitrate\": 320,
+ \ "intensity\": \"medium\",
+ \ "type\": \"http\"
+ } " 
+ Response 200 Ok
+ { 
+ "data" : { 
+ "link" : "https://stream.mubert.com/b2b/v3?customer_id=CUSTOMER_ID&access_token=ACCESS_TOKEN&playlist=1.0.0&bitrate=320&intensity=medium" 
+ } 
+ } 
+ Parameters
+ playlist_index (mandatory) — channel index 
+ bitrate (optional) — sound quality measured in kbps 
+ intensity (optional) — the complexity of the arrangement, fewer or more instruments are playing simultaneously 
+ type (optional) — streaming protocol type
+ Possible values for bitrate : 32, 96, 128, 192, 256, 320 
+ Possible values for intensity : low, medium, high 
+ Possible values for type : http, webrtc 
+ If optional parameters are omitted or contain wrong values, then default parameters are applied with bitrate=128 , intensity=high and type=http .
+ gt means greater than, lt means less than.
+ Loop Mode
+ Use the set-loop-state url to loop the latest part of the music composition (or turn the loop mode off).
+ Parameters
+ loop (mandatory) — possible values: off , on 
+ time (optional) — set equal to the current stream playback time in seconds (since session start) to improve the UX 
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/streaming/set-loop-state" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "loop\": \"on\",
+ \ "time\": 0
+ } " 
+ Response
+ Responds with a 204 No content if successful.
+ Intensity
+ The set-intensity url allows changing the complexity of the arrangement. Different presets consist of fewer or more instruments playing simultaneously. Intensities change seamlessly without breaking the stream. 
+ Possible values for intensity : low , medium , high 
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/streaming/set-intensity" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "intensity\": \"medium\"
+ } " 
+ Response
+ Responds with a 204 No content if successful.
+ Generation Restart
+ To restart the stream, so that a different track (melody) starts playing with the same url , use the POST method with streaming/restart .
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/streaming/restart" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Response
+ Responds with a 204 No content if successful.
+ Track Generation
+ Before you start using the track generation function, make sure it’s enabled under the contract agreement. Also you can find it in your license info.
+ With this API you can create custom tracks by request. Each track is an exclusive music composition available for you to download via a special link.
+ To interact with tracks, use the model tracks .
+ Create Track
+ Use POST to create a track with a set of the selected characteristics.
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "playlist_index\": \"1.0.0\",
+ \ "duration\": 60,
+ \ "bitrate\": 128,
+ \ "format\": \"wav\",
+ \ "intensity\": \"high\",
+ \ "mode\": \"track\"
+ } " 
+ Parameters
+ playlist_index (mandatory) - channel index 
+ duration (mandatory) - track duration in seconds 
+ format (optional) - mp3 or wav 
+ bitrate (optional) - sound quality measured in kbps 
+ intensity (optional) - complexity of the arrangement, fewer or more instruments are playing simultaneously 
+ mode (optional) — composition type ( track , loop , jingle , mix )
+ Possible values for bitrate : 32, 96, 128, 192, 256, 320 
+ Possible values for intensity : low, medium, high 
+ If optional parameters are omitted or contain wrong values, then default parameters are applied with format=mp3 , bitrate=128 , intensity=high , mode=track 
+ track - means a track with common structure with intro, drops, breaks and outro 
+ loop - stands for a track that can be looped 
+ jingle - is best for music content up to 40 seconds long – these are short completed tracks with fixed and logical structure 
+ mix - is mimicking the DJ’s work tracks follow one after another, blending harmoniously 
+ playlist_index is a universal channel index in the “0.0.0” format, which is comprised of category_id . group_id . channel_id . Omit the latter digits to blend several channels. 
+For example: playlist=0.0 will play all the channels inside the “Calm” group; playlist=0 will play the entire “Moods” category. 
+ Response
+ { 
+ "data" : { 
+ "id" : "TRACK_ID" , 
+ "session_id" : "SESSION_ID" , 
+ "playlist_index" : "1.0.0" , 
+ "prompt" : null , 
+ "bitrate" : 128 , 
+ "duration" : 61 , 
+ "intensity" : "high" , 
+ "mode" : "track" , 
+ "key" : null , 
+ "bpm" : null , 
+ "generations" : [ 
+ { 
+ "session_id" : "GENERATION_SESSION_ID" , 
+ "format" : "mp3" , 
+ "bitrate" : 128 , 
+ "status" : "processing" , 
+ "generated_at" : null , 
+ "expired_at" : null , 
+ "created_at" : "2025-01-01T00:00:00.000000Z" , 
+ "url" : null 
+ } 
+ ] 
+ } 
+ } 
+ Here: 
+ prompt , key , bpm , url — nullable string 
+ generated_at , expired_at — nullable date
+ To check if a track is created use the tracks model with TRACK_ID . Like this:
+ Request
+ curl - X GET "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Or add a webhook to your license and receive messages when it's done.
+ Text-2-Music
+ You can create a track with a text prompt and a set of selected characteristics. This method is like the previous but instead of choosing a channel, you send us a text message. It goes to the transformer neural network with a tags base, and corresponding sets of sounds are chosen automatically. After that our composer engine creates a track and returns the file to you.
+ Before you start using it, make sure it’s enabled under the contract agreement.
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "prompt\": \"YOUR_TEXT_PROMPT\",
+ \ "duration\": 60,
+ \ "bitrate\": 128,
+ \ "mode\": \"track\",
+ \ "intensity\": \"medium\",
+ \ "format\": \"mp3\"
+ } " 
+ Parameters
+ prompt (mandatory) —your text prompt in English, 200 characters maximum 
+ duration (mandatory) — track duration in seconds 
+ format (optional) — mp3 or wav 
+ bitrate (optional) — sound quality measured in kbps 
+ intensity (optional) — complexity of the arrangement, fewer or more instruments are playing simultaneously 
+ mode (optional) — composition type ( track , loop ) 
+ Possible values for bitrate : 32, 96, 128, 192, 256, 320 
+ Possible values for intensity : low, medium, high 
+ prompt — text prompt that you can receive from your user input or any other connected inputs (language models, image-to-text, game mechanics etc.) 
+ track — means a track with common structure with intro, drops, breaks and outro 
+ loop — stands for a track that can be looped 
+If optional parameters are omitted or contain wrong values, then default parameters are applied with format=mp3 , bitrate=128 , intensity=high , mode=track 
+ Response
+ Responds with a 204 No content if successful.
+ Intensity
+ The set-intensity url allows changing the complexity of the arrangement. Different presets consist of fewer or more instruments playing simultaneously. Intensities change seamlessly without breaking the stream. 
+ Possible values for intensity : low , medium , high 
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/streaming/set-intensity" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "intensity\": \"medium\"
+ } " 
+ Response
+ Responds with a 204 No content if successful.
+ Generation Restart
+ To restart the stream, so that a different track (melody) starts playing with the same url , use the POST method with streaming/restart .
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/streaming/restart" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Response
+ Responds with a 204 No content if successful.
+ Image-2-Music
+ You can create a track with an image. Before you start using it, make sure it’s enabled under the contract agreement.
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- F "image=@\"/filepath\"" \
+- F "duration=\"60\"" \
+- F "bitrate=\"128\"" \
+- F "mode=\"track\"" \
+- F "intensity=\"medium\"" \
+- F "format=\"mp3\"" 
+ Parameters
+ image (mandatory) — your image in jpeg/png format, 10 MB maximum 
+ duration (mandatory) — track duration in seconds 
+ format (optional) — mp3 or wav 
+ bitrate (optional) — sound quality measured in kbps 
+ intensity (optional) — complexity of the arrangement, fewer or more instruments are playing simultaneously 
+ mode (optional) — composition type ( track , loop ) 
+ Possible values for bitrate : 32, 96, 128, 192, 256, 320 
+ Possible values for intensity : low, medium, high 
+ track — means a track with common structure with intro, drops, breaks and outro 
+ loop — stands for a track that can be looped 
+If optional parameters are omitted or contain wrong values, then default parameters are applied with format=mp3 , bitrate=128 , intensity=high , mode=track 
+ Bpm/Key Generation
+ You can add bpm and key to the playlist_index generation parameters.
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "playlist_index\": \"6.1.4\",
+ \ "duration\": 60,
+ \ "bitrate\": 320,
+ \ "format\": \"mp3\",
+ \ "intensity\": \"high\",
+ \ "mode\": \"track\",
+ \ "bpm\":112,
+ \ "key\":\"D\"
+ } " 
+ Response
+ Responds 200 OK with track model if if successful.
+ Generate Similar
+ You can generate a similar track to an existing one. It will not be exactly the same track, but similar.
+ Use POST with https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID/similar 
+ Request
+ curl - L - X POST "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID/similar" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "duration\": 90,
+ \ "bitrate\": 192,
+ \ "format\": \"mp3\",
+ \ "intensity\": \"high\",
+ \ "mode\": \"track\"
+ } " 
+ Track Editing
+ You can change some parameters of an existing track.
+ Request
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID/edit" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "duration\": 90,
+ \ "bitrate\": 256,
+ \ "format\": \"mp3\",
+ \ "intensity\": \"high\"
+ } " 
+ Response 200 OK
+ { 
+ "data" : { 
+ "id" : "TRACK_ID" , 
+ "session_id" : "SESSION_ID" , 
+ "playlist_index" : null , 
+ "prompt" : null , 
+ "duration" : 90 , 
+ "intensity" : "high" , 
+ "mode" : "track" , 
+ "key" : null , 
+ "bpm" : null , 
+ "generations" : [ 
+ { 
+ "session_id" : "GENERATION_SESSION_ID" , 
+ "format" : "mp3" , 
+ "bitrate" : 256 , 
+ "status" : "processing" , 
+ "generated_at" : null , 
+ "expired_at" : null , 
+ "created_at" : "2025-01-01T00:00:00.000000Z" , 
+ "url" : null 
+ } 
+ ] 
+ } 
+ } 
+ Also you can replace part of the track. Each track consists of instruments. The track may contain instruments such as:
+ DRUMS , PERCS , HATS , CLAPS , BASS , MIDS , LEADS , FX , VOCALS , PADS , RISER , IMPACT 
+ These instruments can be combined into stems such as
+ So, these stems contain the following instruments: 
+ DRUMS includes DRUMS , PERCS , HATS , CLAPS 
+ BASS includes BASS 
+ LEADS includes MIDS , LEADS , PADS 
+ VOCALS includes VOCALS 
+ FX includes FX , RISER , IMPACT 
+ You can replace both the instrument and the stem. Replace instrument(s):
+ Replace Instrument(s):
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID/edit" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "replace_instruments\":[\"HATS\"]
+ } " 
+ Replace Stems:
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID/edit" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "replace_stems\":[\"DRUMS\"]
+ } " 
+ Delete Instrument(s):
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID/edit" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "delete_instruments\":[\"PADS\", \"PERCS\"]
+ } " 
+ Delete Stem(s):
+ curl - X POST "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID/edit" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" \
+- H "Content-Type: application/json" \
+- d "{
+ \ "delete_stems\":[\"BASS\", \"FX\"]
+ } " 
+ All these requests receive track model.
+ List of Tracks
+ To get track list use GET with tracks model.
+ curl - X GET "https://music-api.mubert.com/api/v3/public/tracks" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ The response contains a list of tracks models. 
+ Use pagination to see all data. 
+ You can also get information about a specific track.
+ curl - X GET "https://music-api.mubert.com/api/v3/public/tracks/TRACK_ID" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ The response contains track model.
+ Track Store
+ The track store feature allows you to create a buffer with pre-generated tracks. It works great when you want to get a unique track of the exact duration, mode, and format without long responses. We create a cloud bucket and set up a dedicated generator to speed up the process of receiving files. Mubert creates a number of tracks with one set of parameters and puts them in the bucket. When you use one of these files, a similar track generation starts to fill the buffer.The quantity of files in the bucket depends on the average load of your service. To calculate this we also need to get a list of following parameters from you: mode, duration, bitrate, intensity, format. Please select the values of these parameters and send an email to our manager to continue creating the bucket. Also, you can choose playlists that you want to pre-generate, by default we use all channels. 
+ You will automatically get track from track store, when the track request parameters match the store parameters. Before you start using the track store, make sure it’s enabled under the contract agreement.
+ Mubert Music Library
+ We have prepared a library of more than 12,000 tracks created using Mubert artificial intelligence and selected by our music editors.
+ Parameters
+ Use GET method to see music library statistics and parameters that you can filter tracks by.
+ Request
+ curl - X GET "https://music-api.mubert.com/api/v3/public/music-library/params" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Response
+ [ 
+ { 
+ "param" : "activities" , 
+ "values" : [ 
+ { 
+ "value" : "Minimal 170" , 
+ "tracks_count" : 80 
+ } , 
+ { 
+ "value" : "Lovely" , 
+ "tracks_count" : 40 
+ } , 
+ { 
+ "value" : "Meditation" , 
+ "tracks_count" : 108 
+ } , 
+ .
+ .
+ .
+ ]
+ } , 
+ { 
+ "param" : "bpm" , 
+ "values" : [ 
+ { 
+ "value" : "100" , 
+ "tracks_count" : 684 
+ } , 
+ { 
+ "value" : "105" , 
+ "tracks_count" : 13 
+ } , 
+ { 
+ "value" : "108" , 
+ "tracks_count" : 186 
+ } , 
+ .
+ .
+ .
+ ]
+ } , 
+ .
+ .
+ .
+ ] 
+ You can also get information on a specific parameter. For example: BPM 120 
+ curl - X GET "https://music-api.mubert.com/api/v3/public/music-library/params?bpm=120" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Response
+ { 
+ "param" : "themes" , 
+ "values" : [ 
+ { 
+ "value" : "Corporate" , 
+ "tracks_count" : 315 
+ } , 
+ { 
+ "value" : "Podcast" , 
+ "tracks_count" : 12 
+ } , 
+ .
+ .
+ .
+ ]
+ } , 
+ { 
+ "param" : "genres" , 
+ "values" : [ 
+ { 
+ "value" : "Nu Disco" , 
+ "tracks_count" : 138 
+ } , 
+ { 
+ "value" : "Folk" , 
+ "tracks_count" : 27 
+ } , 
+ .
+ .
+ .
+ ]
+ } , 
+ This means that you can find 315 tracks with BPM 120 in the theme "Сorporate", 12 tracks in the theme "Podcast", 138 tracks in the "Nu Disco" genre and 27 tracks in the genre "Folk".
+ You can specify several parameters and then logical AND will be applied to them.
+ Request
+ curl - X GET "https://music-api.mubert.com/api/v3/public/music-library/params?bpm=120&genres=Nu%20Disco" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Response
+ [ 
+ { 
+ "param" : "bpm" , 
+ "values" : [ 
+ { 
+ "value" : "120" , 
+ "tracks_count" : 138 
+ } 
+ ] 
+ } , 
+ { 
+ "param" : "genres" , 
+ "values" : [ 
+ { 
+ "value" : "Nu Disco" , 
+ "tracks_count" : 138 
+ } , 
+ { 
+ "value" : "EDM" , 
+ "tracks_count" : 3 
+ } , 
+ { 
+ "value" : "Tropical House" , 
+ "tracks_count" : 11 
+ } , 
+ .
+ .
+ .
+ ]
+ } , 
+ .
+ .
+ .
+ { 
+ "param" : "duration" , 
+ "values" : [ 
+ { 
+ "value" : "15" , 
+ "tracks_count" : 7 
+ } , 
+ { 
+ "value" : "60" , 
+ "tracks_count" : 18 
+ } , 
+ { 
+ "value" : "120" , 
+ "tracks_count" : 11 
+ } , 
+ { 
+ "value" : "165" , 
+ "tracks_count" : 14 
+ } , 
+ { 
+ "value" : "180" , 
+ "tracks_count" : 64 
+ } , 
+ { 
+ "value" : "420" , 
+ "tracks_count" : 12 
+ } , 
+ { 
+ "value" : "1500" , 
+ "tracks_count" : 12 
+ } 
+ ] 
+ } 
+ ] 
+ In the response you can also see the count of tracks of each duration corresponding to the request BPM 120 AND Genre Nu Disco 
+ Tracks
+ Use GET method to receive list of tracks.
+ Request
+ curl - X GET "https://music-api.mubert.com/api/v3/public/music-library/tracks" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Response
+ { 
+ "data" : [ 
+ { 
+ "id" : "TRACK_ID" , 
+ "session_id" : "SESSION_ID" , 
+ "playlist_index" : "0.6.1" , 
+ "prompt" : null , 
+ "duration" : 120 , 
+ "intensity" : "high" , 
+ "mode" : "track" , 
+ "bpm" : 100 , 
+ "key" : "D#m" , 
+ "generations" : [ 
+ { 
+ "session_id" : "GENERATION_SESSION_ID" , 
+ "format" : "mp3" , 
+ "bitrate" : 320 , 
+ "status" : "done" , 
+ "generated_at" : "2025-02-01T00:00:00.000000Z" , 
+ "created_at" : "2025-02-01T00:00:00.000000Z" , 
+ "url" : "YOUR_TRACK_LINK" 
+ } 
+ ] 
+ } , 
+ .
+ .
+ .
+ ] , 
+ "meta" : { 
+ "offset" : 0 , 
+ "limit" : 100 , 
+ "total" : 10075 
+ } 
+ } 
+ The response contains a list of tracks models. Use pagination to see all data. You can also use one or more parameters to filter tracks and find the most suitable ones. For example: BPM 120 AND Genre Nu Disco AND Duraton 180 
+ Request
+ curl - X GET "https://music-api.mubert.com/api/v3/public/music-library/tracks?bpm=120&genres=Nu%20Disco&duration=180" \
+- H "customer-id: CUSTOMER_ID" \
+- H "access-token: ACCESS_TOKEN" 
+ Response
+ { 
+ "data" : [ 
+ { 
+ "id" : "TRACK_ID" , 
+ "session_id" : "SESSION_ID" , 
+ "playlist_index" : null , 
+ "prompt" : null , 
+ "duration" : 180 , 
+ "intensity" : "high" , 
+ "mode" : "track" , 
+ "bpm" : 120 , 
+ "key" : "G" , 
+ "generations" : [ 
+ { 
+ "session_id" : "GENERATION_SESSION_ID" , 
+ "format" : "mp3" , 
+ "bitrate" : 320 , 
+ "status" : "done" , 
+ "generated_at" : "2022-02-01T00:08:00.000000Z" , 
+ "created_at" : "2022-02-01T00:00:00.000000Z" , 
+ "url" : "YOUR_TRACK_LINK" 
+ } 
+ ] 
+ } , 
+ ] , 
+ "meta" : { 
+ "offset" : 0 , 
+ "limit" : 100 , 
+ "total" : 64 
+ } 
+ } 
+ In the response also list of tracks models. Use pagination to see all data.
+ Swagger
+ For more technical information you can use swagger: https://music-api.mubert.com/api/v3/swagger 
+ ')">
+ Pricing
+ Transparent & Flexible
+ Transparent & Flexible
+ Try as low as $49 per month
+ Sale:
+ 06 
+ : 
+ 19 
+ : 
+ 00 
+ Trial Plan
+ For custdev & tests
+ $99
+ $49
+ / month
+ Start Now
+ 100 generations / month
+ 100 streaming minutes / month
+ Included features:
+ 100 Generated Tracks
+ 100 Streaming Minutes
+ Text-2-Music
+ Image-2-Music
+ High Quality
+ Non-refundable
+ Monetized Content
+ Curated Library
+ Sub-licensing
+ Distribution
+ Dedicated Support
+ Popular" style="background-color:var(--token-d1d48784-91ca-4c4e-bc07-85a7f073d262, rgb(85, 93, 255));border-bottom-left-radius:6px;border-bottom-right-radius:6px;border-top-left-radius:6px;border-top-right-radius:6px;transform:translateX(-50%)"> Popular
+ Startup Plan
+ For small products
+ $249
+ $199
+ / month
+ Start Now
+ 5,000 generations / month
+ 5,000 streaming minutes / month
+ Included features:
+ All Trial Features
+ 5,000 Generated Tracks
+ 5,000 Streaming Minutes
+ 12,000+ Curated Library
+ Webhooks
+ Lossless Quality
+ Monetized Content 
+ Non-refundable
+ Sub-licensing
+ Distribution
+ Dedicated Support
+ Startup+ Plan
+ For large apps
+ $999
+ $499
+ / month
+ Start Now
+ 30,000 generations / month
+ 30,000 streaming minutes / month
+ Included features:
+ All Startup Features
+ 30,000 Generated Tracks
+ 30,000 Streaming Minutes
+ Non-refundable
+ Sub-licensing
+ Dedicated Support
+ Distribution
+ Custom Plan
+ For special requests text us on [email protected] or submit the form below
+ Possible features:
+ Vocals
+ Custom Music Stems
+ Audio Branding
+ Music Schedules
+ Advertising
+ Company Name
+ Email
+ Industry
+ Select… AI Tools Content Tools Games Venues Other 
+ Submit
+ Sale:
+ 06 
+ : 
+ 19 
+ : 
+ 00 
+ Trial Plan
+ For custdev & tests
+ $99
+ $49
+ / month
+ Start Now
+ 100 generations / month
+ 100 streaming minutes / month
+ Included features:
+ 100 Generated Tracks
+ 100 Streaming Minutes
+ Text-2-Music
+ Image-2-Music
+ High Quality
+ Non-refundable
+ Monetized Content
+ Curated Library
+ Sub-licensing
+ Distribution
+ Dedicated Support
+ Popular" style="background-color:var(--token-d1d48784-91ca-4c4e-bc07-85a7f073d262, rgb(85, 93, 255));border-bottom-left-radius:6px;border-bottom-right-radius:6px;border-top-left-radius:6px;border-top-right-radius:6px;transform:translateX(-50%)"> Popular
+ Startup Plan
+ For small products
+ $249
+ $199
+ / month
+ Start Now
+ 5,000 generations / month
+ 5,000 streaming minutes / month
+ Included features:
+ All Trial Features
+ 5,000 Generated Tracks
+ 5,000 Streaming Minutes
+ 12,000+ Curated Library
+ Webhooks
+ Lossless Quality
+ Monetized Content 
+ Non-refundable
+ Sub-licensing
+ Distribution
+ Dedicated Support
+ Startup+ Plan
+ For large apps
+ $999
+ $499
+ / month
+ Start Now
+ 30,000 generations / month
+ 30,000 streaming minutes / month
+ Included features:
+ All Startup Features
+ 30,000 Generated Tracks
+ 30,000 Streaming Minutes
+ Non-refundable
+ Sub-licensing
+ Dedicated Support
+ Distribution
+ Custom Plan
+ For special requests text us on [email protected] or submit the form below
+ Possible features:
+ Vocals
+ Custom Music Stems
+ Audio Branding
+ Music Schedules
+ Advertising
+ Company Name
+ Email
+ Industry
+ Select… AI Tools Content Tools Games Venues Other 
+ Submit
+ Sale:
+ 06 
+ : 
+ 19 
+ : 
+ 00 
+ Trial Plan
+ For custdev & tests
+ $99
+ $49
+ / month
+ Start Now
+ 100 generations / month
+ 100 streaming minutes / month
+ Included features:
+ 100 Generated Tracks
+ 100 Streaming Minutes
+ Text-2-Music
+ Image-2-Music
+ High Quality
+ Non-refundable
+ Monetized Content
+ Curated Library
+ Sub-licensing
+ Distribution
+ Dedicated Support
+ Popular" style="background-color:var(--token-d1d48784-91ca-4c4e-bc07-85a7f073d262, rgb(85, 93, 255));border-bottom-left-radius:6px;border-bottom-right-radius:6px;border-top-left-radius:6px;border-top-right-radius:6px;transform:translateX(-50%)"> Popular
+ Startup Plan
+ For small products
+ $249
+ $199
+ / month
+ Start Now
+ 5,000 generations / month
+ 5,000 streaming minutes / month
+ Included features:
+ All Trial Features
+ 5,000 Generated Tracks
+ 5,000 Streaming Minutes
+ 12,000+ Curated Library
+ Webhooks
+ Lossless Quality
+ Monetized Content 
+ Non-refundable
+ Sub-licensing
+ Distribution
+ Dedicated Support
+ Startup+ Plan
+ For large apps
+ $999
+ $499
+ / month
+ Start Now
+ 30,000 generations / month
+ 30,000 streaming minutes / month
+ Included features:
+ All Startup Features
+ 30,000 Generated Tracks
+ 30,000 Streaming Minutes
+ Non-refundable
+ Sub-licensing
+ Dedicated Support
+ Distribution
+ Custom Plan
+ For special requests text us on [email protected] or submit the form below
+ Possible features:
+ Vocals
+ Custom Music Stems
+ Audio Branding
+ Music Schedules
+ Advertising
+ Company Name
+ Email
+ Industry
+ Select… AI Tools Content Tools Games Venues Other 
+ Submit
+ is live now — Soundtrack your videos
+ is live now — Soundtrack your videos
+ is live now — Soundtrack your videos
+ is live now — Soundtrack your videos
+ ')">
+ Products
+ Use Cases
+ Blog 
+ Select Language English 
+ English
+ Start Now
+ ')">
+ Products
+ Use Cases
+ Blog 
+ Select Language English 
+ English
+ Start Now
+ ')">
+ Products
+ Use Cases
+ Blog 
+ Select Language English 
+ English
+ Start Now
+ ')">
+ Mubert Render
+ Render 
+ Pricing 
+ License 
+ Use Cases 
+ How it works 
+ Mubert API
+ API 
+ Pricing 
+ Documentation 
+ Use Cases 
+ Tools
+ Mubert Fuse 
+ Mubert Cast 
+ Youtube Copyright Checker 
+ DMCA Twitch Checker 
+ Instagram Reels Checker 
+ TikTok Sound Checker 
+ Other Products
+ Mubert for Streamers 
+ Mubert for Business 
+ About
+ Blog 
+ FAQ 
+ About 
+ Contacts 
+ ')">
+ Generate music in 200+ moods and themes. Integrate Mubert API into your apps, AI agents, games and live streams. Royalty-free music.
+ Mubert Inc
+8 The Green Dover
+Delaware US 19901​
+ [email protected] 
+ Select Language English 
+ English
+ © 2016 – 2026, Mubert Inc. All music broadcasted on *.mubert.com domains is generated (created, composed, recorded) by Artificial Intelligence (algorightm, software, program) owned by Mubert® Inc and licensed by Mubert® Inc only for personal use. All rights are reserved. Public reproduction, recording, distribution of this music is prohibited.
+ Privacy Policy 
+ Terms of Use 
+ DMCA Policy 
+ Mubert Render
+ Render 
+ Pricing 
+ License 
+ Use Cases 
+ How it works 
+ Mubert API
+ API 
+ Pricing 
+ Documentation 
+ Use Cases 
+ Tools
+ Mubert Fuse 
+ Mubert Cast 
+ Youtube Copyright Checker 
+ DMCA Twitch Checker 
+ Instagram Reels Checker 
+ TikTok Sound Checker 
+ Other Products
+ Mubert for Streamers 
+ Mubert for Business 
+ About
+ Blog 
+ FAQ 
+ About 
+ Contacts 
+ ')">
+ Generate music in 200+ moods and themes. Integrate Mubert API into your apps, AI agents, games and live streams. Royalty-free music.
+ Mubert Inc
+8 The Green Dover
+Delaware US 19901​
+ [email protected] 
+ Select Language English 
+ English
+ © 2016 – 2026, Mubert Inc. All music broadcasted on *.mubert.com domains is generated (created, composed, recorded) by Artificial Intelligence (algorightm, software, program) owned by Mubert® Inc and licensed by Mubert® Inc only for personal use. All rights are reserved. Public reproduction, recording, distribution of this music is prohibited.
+ Privacy Policy 
+ Terms of Use 
+ DMCA Policy 
+ Mubert Render
+ Render 
+ Pricing 
+ License 
+ Use Cases 
+ How it works 
+ Mubert API
+ API 
+ Pricing 
+ Documentation 
+ Use Cases 
+ Tools
+ Mubert Fuse 
+ Mubert Cast 
+ Youtube Copyright Checker 
+ DMCA Twitch Checker 
+ Instagram Reels Checker 
+ TikTok Sound Checker 
+ Other Products
+ Mubert for Streamers 
+ Mubert for Business 
+ About
+ Blog 
+ FAQ 
+ About 
+ Contacts 
+ ')">
+ Generate music in 200+ moods and themes. Integrate Mubert API into your apps, AI agents, games and live streams. Royalty-free music.
+ Mubert Inc
+8 The Green Dover
+Delaware US 19901​
+ [email protected] 
+ Select Language English 
+ English
+ © 2016 – 2026, Mubert Inc. All music broadcasted on *.mubert.com domains is generated (created, composed, recorded) by Artificial Intelligence (algorightm, software, program) owned by Mubert® Inc and licensed by Mubert® Inc only for personal use. All rights are reserved. Public reproduction, recording, distribution of this music is prohibited.
+ Privacy Policy 
+ Terms of Use 
+ DMCA Policy

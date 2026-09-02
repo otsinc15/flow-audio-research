@@ -1,0 +1,38 @@
+URL: https://help.suno.com/en/articles/2746945-can-i-use-suno-songs-commercially
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:    92178
+----
+Do I have the copyrights to songs I made? 
+ Knowledge Base 
+ Make Music Now!
+ How can we help?
+ Results
+ No results found
+ More results 
+ We use cookies to analyze website traffic and help improve our visitor experience. Privacy Policy 
+ Reject
+ Accept
+ Home 
+ Rights & Ownership 
+ Ownership 
+ Do I have the copyrights to songs I made?
+ Edited
+ Copyrights are complex, and vary by region! To ensure you have the most up-to-date information, we suggest reaching your local copyright office before applying.
+ It is important to know there is a difference between ownership and copyrights . It is often said that if you come up with something on your own, you automatically assume the rights to it. In music, there are several other factors that help determine rights beyond ownership.
+ Relating to Suno:
+ If you make music with the Basic (free) plan, Suno is the owner of the songs. You are allowed to use the songs for non-commerical purposes .
+ If you make songs while subscribed to the Pro or Premier plan, you own the songs. Further, you are granted a commercial use license to monetize those songs.
+ In both cases, however, the material may not be eligible for copyright protection .
+ In the US, copyright laws protect material created by a human. Music made 100% with AI would not qualify for copyright protection because a human did not write the lyrics or the music. Writing the prompt does not constitute the creation of the song.
+ If you wrote the lyrics for your song(s), you own those lyrics. Most copyright offices will allow you to register those lyrics on their own, and you may be able to use those lyrics to register your whole song as well. Some regions/registrars may recognize you as the writer of the song and Suno as an instrument to help you create the song. If this happens, the song will likely be eligible for copyright protection.
+ In any case, if you made songs while subscribed to Pro or Premier, you should be the only person that is allowed to monetize those songs through distribution or other channels. Some distributors exclude songs that are not eligible for copyright protection, so it may be helpful to research several options, and as always, read the terms and conditions !
+ copyright
+ protection
+ ownership
+ writer
+ owner
+ Cookie preferences 
+ Terms of Service Privacy Policy Suno on iOS 
+ Community Guidelines Blog Suno on Android 
+ Leave us feedback

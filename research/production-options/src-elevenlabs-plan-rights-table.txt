@@ -1,0 +1,36 @@
+URL: https://elevenlabs.io/eleven-music-model-specific-terms
+Fetched: 2026-09-02
+Method: curl
+----
+"Eleven Music Model-Specific Terms — Last Updated: 26 May 2026"
+"These Model-Specific Terms apply to the following Music Models and all related Versions: v1, v2."
+
+DEFINITIONS (Section 5), verbatim:
+(e) "Music Libraries & Repositories means any arrangement in which Customer creates or permits others to
+create a library, catalogue, database, or other repository of Output with the intent of licensing it or
+otherwise making it available to third parties."
+(f) "Reseller means an entity that: (i) resells, repackages, redistributes, or otherwise makes available
+ElevenLabs' Music Models through its own platform or application without adding substantial functionality
+beyond basic user interface changes; or (ii) acts as a model aggregator..."
+(h) "Streaming means making Output(s) available on third party music streaming platforms."
+
+MUSIC COMMERCIAL RIGHTS TABLE (columns: Free | Starter | Creator | Pro | Scale | Business | Ent. Music Lite | Enterprise Music)
+
+Eligibility Restrictions:
+  Free/Starter/Creator/Pro: "For Individual Use Only"
+  Scale:    "Individuals, or entities or organizations with fewer than 10 employees"
+  Business: "Individuals, or entities or organizations with fewer than 50 employees"
+  Enterprise tiers: "None"
+
+Monthly Generation Limit: 11 min | 17 min | 62 min | 304 min | 1,100 min | 4,800 min | Custom | Custom
+Monthly Download Limit:  "Not permitted" | 30 min | 250 min | 500 min | 1,500 min | 4,000 min | Custom | Custom
+Streaming Rights:        Prohibited | Prohibited | Yes | Yes | Yes | Yes | Yes | Yes
+Media Rights (all self-serve and Ent. Lite): "All online and offline commercial use permitted, except film,
+  TV, radio, & Studio Games";  Enterprise Music: "All online and offline commercial use permitted"
+Reseller Rights:                 Prohibited on every self-serve tier; Custom on Enterprise
+Music Libraries & Repositories:  Prohibited on every self-serve tier; Custom on Enterprise
+Attribution: Free = "Required (denote Eleven Music when distributing)"; all paid = "No Attribution Required"
+Concurrency Limits: 0 | 2 | 2 | 2 | 5 | 5 | 5 | 10+
+High Quality Downloads: No | No | No | Yes | Yes | Yes | Yes | Yes
+API Access (Stems, Streaming, Word Timestamps): No | Yes | Yes | Yes | Yes | Yes | Yes | Yes
+Inpainting API Access: Yes on every tier

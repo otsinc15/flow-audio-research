@@ -1,0 +1,14 @@
+URL: https://www.elementary.audio/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:    20990
+----
+Elementary Audio 
+ Docs Docs Showcase Showcase Playground Playground 
+ GitHub GitHub (opens in a new tab) Discord Discord (opens in a new tab) 
+ Light 
+ A JavaScript library for digital audio signal processing
+ Generate and transform sound, both natively and in the browser with a functional, declarative API.
+ Get started Try now → 
+ Light 
+ MIT 2025 © Nick Thompson

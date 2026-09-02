@@ -1,0 +1,26 @@
+URL: https://mubert.com/api
+Fetched: 2026-09-02
+Method: WebFetch (mubert.com/api/pricing returned Cloudflare "error code: 1101" to curl)
+----
+VERBATIM / CLOSE-PARAPHRASE EXTRACTS:
+
+Endpoints:
+  POST https://music-api.mubert.com/api/v3/public/tracks              (track generation)
+  GET  https://music-api.mubert.com/api/v3/public/streaming/get-link  (streaming)
+
+Output: files ("wav" and "mp3", bitrate 128-320 kbps) and streams ("WebRTC" and "http", "sub-second latency").
+
+Track length: "from 15 seconds up to 25 minutes"; enterprise plans allow longer durations "by request".
+
+Stems / layers: the API allows customisation of "individual parts of a track: drums, percs, hats, claps,
+bass, mids, leads, fx, vocals, pads, riser, and impact which can be grouped into stems like drums, bass,
+leads, and vocals."
+
+Licence: music is "Royalty-free", "DMCA-free", and "Cleared for monetization". Sub-licensing options are
+available on paid tiers.
+
+Pricing (as displayed 2026-09-02):
+  Trial     $49/month   100 generations; 100 streaming minutes
+  Startup   $199/month  5,000 generations; 5,000 streaming minutes
+  Startup+  $499/month  30,000 generations; 30,000 streaming minutes
+  Custom    contact sales

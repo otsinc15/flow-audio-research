@@ -1,0 +1,160 @@
+URL: https://www.audiokinetic.com/en/pricing/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:    63554
+----
+Pricing | Audiokinetic 
+ Wwise for Games
+ Choose the plan that is right for your needs
+ This page is currently displaying pricing for International
+ Not your region? Please select it from the options below.
+ International 
+ Asia 
+ Greater China 
+ Wwise is the leading end-to-end interactive audio solution that gives you everything you need to create multi-platform immersive games. Choose the plan that is right for your needs. 
+ Watch video to learn more 
+ Indie
+ Full platform access, with unlimited sounds. Get the full Wwise experience for small budget productions. For non-commercial projects or academic projects, click here .
+ Watch video to learn more 
+ Free
+ Get Started 
+ keyboard_arrow_down 
+ Pro
+ Everything from the Indie Plan, and access to premium options such as direct engineering support.
+ Watch video to learn more 
+ Starting at $8,000 US 
+ Start free evaluation 
+ keyboard_arrow_down 
+ Premium
+ Everything from the Pro Plan, plus included direct support from our world-class audio engineering team.
+ Watch video to learn more 
+ Starting at $25,000 US 
+ Start free evaluation 
+ keyboard_arrow_down 
+ Platinum
+ Everything from the Premium Plan, plus all Audiokinetic-developed premium plug-ins and a 12-month DLC license.
+ Watch video to learn more 
+ Starting at $45,000 US 
+ Start free evaluation 
+ keyboard_arrow_down 
+ Compare Plans
+ Plan Description
+ Production Budget
+ Sound Files / Media Assets
+ Free Trial
+ All Engine Features
+ Continuous Updates
+ Community Q&A 
+ Royalty Free (0%)
+ Support - PAY2GO 
+ Support - Standard Plan 
+ Support - Unlimited Plan 
+ Creative Services 
+ Premium Plug-ins 
+ Wwise DLC License
+ Source Code Access (with support package)
+ See full price chart 
+ Indie
+ check_circle Production Budget: Less than $250K Less than $250K 
+ check_circle Sound Files / Media Assets: Unlimited Unlimited 
+ check_circle Free Trial 
+ check_circle All Engine Features 
+ check_circle Continuous Updates 
+ check_circle Community Q&A 
+ check_circle Royalty Free (0%) 
+ check_circle Support - PAY2GO 
+ clear Support - Standard Plan 
+ clear Support - Unlimited Plan 
+ clear Creative Services 
+ check_circle Premium Plug-ins Optional clear Wwise DLC License 
+ clear Source Code Access (with support package) 
+ Get Started 
+ Pro
+ check_circle Production Budget: Between $250K and $2M Between $250K and $2M 
+ check_circle Sound Files / Media Assets: Unlimited Unlimited 
+ check_circle Free Trial 
+ check_circle All Engine Features 
+ check_circle Continuous Updates 
+ check_circle Community Q&A 
+ check_circle Royalty Free (0%): Optional Optional 
+ check_circle Support - PAY2GO 
+ check_circle Support - Standard Plan : Optional Optional 
+ check_circle Support - : Optional Optional 
+ check_circle Creative Services : Custom Custom 
+ check_circle Premium Plug-ins : Optional Optional 
+ check_circle Wwise DLC License: Optional Optional 
+ check_circle Source Code Access (with support package) 
+ Start free evaluation 
+ Premium
+ check_circle Production Budget: Greater than $2M Greater than $2M 
+ check_circle Sound Files / Media Assets: Unlimited Unlimited 
+ check_circle Free Trial 
+ check_circle All Engine Features 
+ check_circle Continuous Updates 
+ check_circle Community Q&A 
+ check_circle Royalty Free (0%) 
+ check_circle Support - PAY2GO 
+ Support - Standard Plan : N/A N/A 
+ check_circle Support - : Included (1st year) Included (1st year) 
+ check_circle Creative Services : Custom Custom 
+ check_circle Premium Plug-ins : Optional Optional 
+ check_circle Wwise DLC License: Optional Optional 
+ check_circle Source Code Access (with support package) 
+ Start free evaluation 
+ Platinum
+ check_circle Production Budget: Greater than $2M Greater than $2M 
+ check_circle Sound Files / Media Assets: Unlimited Unlimited 
+ check_circle Free Trial 
+ check_circle All Engine Features 
+ check_circle Continuous Updates 
+ check_circle Community Q&A 
+ check_circle Royalty Free (0%) 
+ check_circle Support - PAY2GO 
+ Support - Standard Plan : N/A N/A 
+ check_circle Support - : Included (Duration of development + 6 months post-launch) Included (Duration of development + 6 months post-launch) 
+ check_circle Creative Services : Custom Custom 
+ check_circle Premium Plug-ins : Included (Audiokinetic-developed plug-ins only) Included (Audiokinetic-developed plug-ins only) 
+ check_circle Wwise DLC License: Included (1st year) Included (1st year) 
+ check_circle Source Code Access (with support package) 
+ Contact us 
+ See full price chart 
+ All prices are in US currency and exclude taxes. Please note that prices apply to the following regions: North America, South America, Africa, Europe and Australia.
+ Under this Price Chart the following will not be considered Games: automotive, advertising, gambling, film production, location-based entertainment (arcade, museum, theme park, other), robotics and embedded technologies, simulation (technical, scientific, military, training, architecture, other).
+ Non-commercial project
+ If you are working on a non-commercial project, please register your project here, and we will set you up with a free license of Wwise.
+ Non-gaming project
+ If you are working on a commercial project that does not fall within our definition of gaming, please register your project here, and we will contact you for a custom business solution.
+ Academic project
+ If you are a student looking to access your school's license key, or a teacher looking to register a new course, click here.
+ Platforms
+ Deploy everywhere. Mobile, desktop, console and AR/VR.
+ Get more details 
+ Thousands of happy customers, including
+ Frequently Asked Questions
+ keyboard_arrow_right 
+ What are the limitations of the Free Trial version?
+ The Free Trial version allows you to create a project for non-commercial use only and is limited to 200 media assets in the Wwise SoundBanks. If you need more media assets, you can also request a free and unrestricted Non-Commercial License. To do so, please register your project here . Note that if you decide to commercialize your project and need to go beyond the 200 media asset limit, you are required to purchase a Wwise Commercial License.
+ keyboard_arrow_right 
+ How can I evaluate Wwise plug-ins?
+ The Wwise Free Trial version includes access to all Integrated Wwise plug-ins for use in both the authoring environment and in SoundBanks. To start an evaluation of any Premium plug-in, you must first register your project here . If you have already created a project that has been approved, you can contact the Wwise Developer Relations Team to request an Evaluation License for the specific plug-ins you'd like to try.
+ Note that after the Evaluation period has expired, Premium plug-ins will not be included in any built SoundBanks until you purchase the appropriate plug-in license.
+ keyboard_arrow_right 
+ Can I use my Wwise product License for another project?
+ The Wwise Project License is tied to a specific project (Licensee Title), so it cannot be used to create new titles. Doing so breaches the terms of the Audiokinetic Master License Agreement, or the Audiokinetic License Agreement, and the EULA. If you require an Evaluation License for a new project, please register your project here .
+ keyboard_arrow_right 
+ Will I be reminded when a current license is going to expire?
+ Yes, you will be reminded on your Audiokinetic Customer Portal project account page as well as in the SoundBanks Generation Log in Wwise. You will also receive a courteous email reminder from Audiokinetic.
+ keyboard_arrow_right 
+ Do you provide a Wwise License for educational use?
+ Absolutely! If you are a school, please go to the Teach Wwise section and click on the option that best suits you to contact us. If you are a student, please check out the list of schools under the Audiokinetic Creators Directory and find out if your school is registered. If not, please encourage your teacher to register your school. Otherwise please register your project here to obtain a Wwise Non-Commercial License.
+ Getting started
+ Discover
+ Discover Wwise, a powerful interactive audio solution that supports projects across various sectors. Contact us about your project today!
+ Download
+ Download the Audiokinetic Launcher to install the most recent Wwise version, or a previous supported version of your choosing, alongside all associated content.
+ Learn
+ Learn Wwise and get creative. Get certified and enrich your career.
+ Have a question?
+ Contact us 
+ Working on a non-gaming project and need information on pricing? 
+ Contact us

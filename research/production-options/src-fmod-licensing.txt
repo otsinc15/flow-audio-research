@@ -1,0 +1,32 @@
+URL: https://www.fmod.com/licensing
+Fetched: 2026-09-02
+Method: Browser pane (JS-rendered; curl returns an empty shell)
+----
+VERBATIM:
+
+"Pricing for games
+A license gives the holder permission to distribute the FMOD Engine in a game."
+
+License Level        Indie              Basic                     Premium
+Development Budget   Under $600k        Between $600k and $1.8M   Over $1.8M
+Fee (per game)       Free or $2,000     $6,000                    $18,000
+Distribution rights  Lifetime           Lifetime                  Lifetime
+FMOD Features        All                All                       All
+Platforms            All                All                       All
+FMOD Logo            Required           Required                  Required
+Logo Waiver          No                 $6,000                    $12,000
+
+"Note: Free Indie License available for developers with less than $200k revenue per year, on a small
+(under $600k) development budget."
+
+"Pricing for non-game projects
+For pricing on non-game projects, such as Location Based Entertainment (LBE), automotive, simulators,
+embedded systems, engines, B2B products, hardware installations and casino based entertainment,
+contact us for custom license models."
+
+"Are there any royalties or other recurring fees?" appears as a licensing-FAQ item (accordion not expanded
+in this fetch).
+
+NOTE FOR THIS PROJECT: a consumer focus-music iOS app is NOT a game. The published Indie/Basic/Premium
+table is explicitly "Pricing for games"; non-game projects are quoted individually by sales@fmod.com.
+The cost for this use case is therefore NOT PUBLISHED.
