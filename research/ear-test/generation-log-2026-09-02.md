@@ -168,3 +168,10 @@ Follow-up feedback (Daniel): "definitely elements that need to be worked on — 
 - Reading: preset-picking by name does not produce a club bass; the bass needs a designed layer stack (mono sub + saturated body + width on the harmonics only), and Daniel's ear must approve the bass ALONE before any other element is auditioned.
 - Action: round 4 redirected to bass-only audition over kick only; sampled real synths (Legowelt) and Riemann bass loops included as candidates; no full mixes until a bass passes.
 - Blind-set effect: none new (audition clips are not blind candidates).
+
+## 2026-09-02 ~07:45 CEST — Daniel, phone player: round 4 bass-only audition
+
+- Verdict, verbatim: "They all sound the same. ... sound computer-generated. It doesn't sound like it's part of a library."
+- Measured on the laptop (long-term spectrum, 8 kHz mono): the eight clips are within ~1 dB of each other in EVERY band (sub<80: 48.1–50.1 dB, body 80–250: 48.7–49.6, mid: 39.2–40.1, hi: 31.3–32.2; RMS −11.8 to −13.1). Largest smoothed spectral difference between any pair 2–6.6 dB at narrow spots. Daniel's ear is right: the layer stack (sine sub + body band-limited to 78–205 Hz + drive + −14 LUFS master) erases the source; a Prophet 600, a Jupiter 8 and a synthetic square come out identical.
+- Conclusion for the process: four rounds of "agent designs the sound by measurement, Daniel rejects" — sound design by numbers does not converge. Sequencer/arrangement passed by ear (r2); SOUND needs either professionally produced material used as-is or a human sound designer. Measurement stays as a screen only.
+- Options put to Daniel: (A) Riemann free Techno Starter (€0 Shopify checkout, his click) and/or 1–2 paid hypnotic/dub-techno packs (~€20–30 each) used as-is with minimal processing, engine = layering/crossfading; (B) micro-commission a sound designer (~€100–300) for a bass/kick/chord/hook stem set in our key/tempo; (C) both.
