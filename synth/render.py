@@ -456,11 +456,11 @@ def bass_glue(kick, sub, drive):
 
 def render_and_write(palette, seed, bpm, outdir, name=None, stems_dir=None,
                      unmastered_lufs=-16.0, mastered_lufs=-14.0, variant=None,
-                     engine="numpy", pattern_book=True):
+                     engine="numpy", pattern_book=True, samples=None):
     if engine == "surge":
         from surge_engine import render_surge_clip
         buses, meta = render_surge_clip(palette, seed, bpm, variant=variant,
-                                        pattern_book=pattern_book)
+                                        pattern_book=pattern_book, samples=samples)
     else:
         buses, meta = render_clip(palette, seed, bpm, variant=variant)
     if not variant:

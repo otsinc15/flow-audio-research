@@ -352,8 +352,51 @@ def make_clap(rng):
     return dsp.highpass(clap, 500.0, 0.707) * 0.8
 
 
+def _sampler_for(spec, inv_path=None):
+    """Build a Sampler from a selection spec, or return None."""
+    if not spec:
+        return None
+    import sampler as smp
+    root = spec.get("root", os.path.expanduser("~/flow-synth/samples"))
+    inv = smp.load_inventory(inv_path or os.path.join(root, "inventory.json"))
+    ents = smp.select(inv, pack=spec.get("pack"),
+                      path_contains=spec.get("contains"),
+                      min_midi=spec.get("min_midi"), max_midi=spec.get("max_midi"),
+                      min_seconds=spec.get("min_seconds"),
+                      max_seconds=spec.get("max_seconds"),
+                      exclude=spec.get("exclude"), min_low=spec.get("min_low"),
+                      max_mid=spec.get("max_mid"), sort_by=spec.get("sort_by"))
+    if spec.get("name"):
+        ents = [e for e in ents if os.path.basename(e["path"]) == spec["name"]] or ents
+    if not spec.get("sort_by"):
+        ents = sorted(ents, key=lambda e: e["path"])
+    if not ents:
+        raise RuntimeError(f"no samples matched {spec}")
+    pick = ents[spec.get("index", 0) % len(ents)]
+    sp = smp.Sampler(root, [pick])
+    _AUDIT.append((os.path.basename(pick["path"]), "sampled_root_midi", pick["midi"]))
+    return sp, pick
+
+
+def _shift_notes(notes, semis):
+    """Transpose a note list. Needed because these packs were recorded low.
+
+    Legowelt's Prophet 600 pads span midi 25.7-42.6, so a chord voiced two
+    octaves above the sub (midi 57) is out of reach: the sampler would have to
+    shift more than an octave, which is exactly the chipmunking the +/-7 cap
+    exists to prevent. Voicing the chord an octave down instead is a musical
+    choice the genre is happy with, and keeps every shift small.
+    """
+    return [(a, b, m + semis, v) for a, b, m, v in notes]
+
+
+def _to_sampler_notes(notes):
+    """(t_on, t_off, midi, vel0-127) -> (t_on, duration, midi, vel0-1)."""
+    return [(a, max(0.02, b - a), m, v / 127.0) for a, b, m, v in notes]
+
+
 def render_surge_clip(palette, seed, bpm, seconds=60.0, variant=None,
-                      pattern_book=True):
+                      pattern_book=True, samples=None):
     """Same schedule contract as render.render_clip; Surge XT + Faust voices.
 
     With pattern_book=True the arrangement follows the ten rules; False restores
@@ -398,7 +441,29 @@ def render_surge_clip(palette, seed, bpm, seconds=60.0, variant=None,
     swing_s = dsp.swing_offset_s(bpm, 52.0) if pattern_book else 0.0
 
     # ---- kick: steps 1/5/9/13, Faust, per-hit drift (rule 1) -----------------
-    variants = faust_kicks(rng)
+    if samples and samples.get("kick"):
+        import soundfile as sf
+        import sampler as smp
+        kroot = samples["kick"].get("root", os.path.expanduser("~/flow-synth/samples"))
+        kinv = smp.load_inventory(os.path.join(kroot, "inventory.json"))
+        cand = [e for e in kinv if e["pack"] == samples["kick"].get("pack", "drumnibus")
+                and samples["kick"].get("contains", "Bassdrums") in e["path"]]
+        if samples["kick"].get("name"):
+            cand = [e for e in cand
+                    if os.path.basename(e["path"]) == samples["kick"]["name"]] or cand
+        pk = sorted(cand, key=lambda e: e["path"])[0]
+        y, ksr = sf.read(os.path.join(kroot, pk["path"]), dtype="float32", always_2d=True)
+        if ksr != SR:
+            from scipy.signal import resample_poly
+            y = resample_poly(y, SR, ksr, axis=0).astype(np.float32)
+        # sampled bass drums in this pack run 1-5 s; at four to the bar they
+        # would smear into a drone, so the tail is shaped to fit the beat
+        km = y.mean(axis=1)
+        kt = np.arange(len(km)) / SR
+        variants = [(km * np.exp(-kt / 0.32)).astype(np.float32)]
+        _AUDIT.append((os.path.basename(pk["path"]), "sampled_kick", round(pk["seconds"], 3)))
+    else:
+        variants = faust_kicks(rng)
     kick_buf = np.zeros(n2, dtype=np.float32)
     kick_times = []
     for b in range(bars * 8):
@@ -446,7 +511,13 @@ def render_surge_clip(palette, seed, bpm, seconds=60.0, variant=None,
     probe = [(0.0, 1.0, base, 100)]
     assert_param_matters("bass", bass, probe, 1.5, "a_filter_1_cutoff", 120.0, 1200.0)
     set_near(bass, "a_filter_1_cutoff", 430.0 + 60.0 * (V["sub_drive"] - 2.6))
-    sub_audio = render_notes(bass, sub_notes, dur2)
+    picks = {}
+    if samples and samples.get("bass"):
+        sp, pick = _sampler_for(samples["bass"])
+        picks["bass"] = pick
+        sub_audio = sp.render(_to_sampler_notes(sub_notes), n2)
+    else:
+        sub_audio = render_notes(bass, sub_notes, dur2)
     assert_audible("bass", sub_audio)
     sub_audio = sub_audio * bass_env[:, None]
 
@@ -465,7 +536,13 @@ def render_surge_clip(palette, seed, bpm, seconds=60.0, variant=None,
     bed_notes = ([(b * bar, b * bar + 1.5 * beat, t, 88)
                   for b in range(bars * 2) for t in triad] if pattern_book
                  else [(0.0, dur2, t, 88) for t in triad])
-    bed_audio = render_notes(bed, bed_notes, dur2)
+    if samples and samples.get("chord"):
+        sp, pick = _sampler_for(samples["chord"])
+        picks["chord"] = pick
+        ct = samples["chord"].get("transpose", -12)
+        bed_audio = sp.render(_to_sampler_notes(_shift_notes(bed_notes, ct)), n2)
+    else:
+        bed_audio = render_notes(bed, bed_notes, dur2)
     assert_audible("pad", bed_audio)
 
     stabp = patch_stab_hp() if pattern_book else patch_stab()
@@ -477,7 +554,12 @@ def render_surge_clip(palette, seed, bpm, seconds=60.0, variant=None,
                 break
             stab_notes += [(t0, t0 + (step if pattern_book else 0.30), t, 96)
                            for t in triad]
-    stab_audio = render_notes(stabp, stab_notes, dur2)
+    if samples and samples.get("chord"):
+        sp, _ = _sampler_for(samples["chord"])
+        ct = samples["chord"].get("transpose", -12)
+        stab_audio = sp.render(_to_sampler_notes(_shift_notes(stab_notes, ct)), n2)
+    else:
+        stab_audio = render_notes(stabp, stab_notes, dur2)
     assert_audible("stab", stab_audio)
 
     # ---- motif: one fixed phrase, identical every bar ------------------------
@@ -495,7 +577,13 @@ def render_surge_clip(palette, seed, bpm, seconds=60.0, variant=None,
                 if t0 >= dur2:
                     break
                 mnotes.append((t0, t0 + 0.28, base + 24 + semi, 100))
-        motif_audio = render_notes(mp, mnotes, dur2)
+        if samples and samples.get("hook"):
+            sp, pick = _sampler_for(samples["hook"])
+            picks["hook"] = pick
+            ht = samples["hook"].get("transpose", 0)
+            motif_audio = sp.render(_to_sampler_notes(_shift_notes(mnotes, ht)), n2)
+        else:
+            motif_audio = render_notes(mp, mnotes, dur2)
         assert_audible("motif", motif_audio)
 
     # ---- percussion: hats on 3/7/11/15 with swing; one clap per bar ----------
@@ -661,7 +749,8 @@ def render_surge_clip(palette, seed, bpm, seconds=60.0, variant=None,
                 motif_phrase="beats 0.0/1.5/2.5, root/fifth/minor-third, every bar",
                 sparse_period_bars=3 if pattern_book else None,
                 variant_params={k: v for k, v in V.items()},
-                surge_dir=SURGE_DIR, audit=audit())
+                surge_dir=SURGE_DIR, audit=audit(),
+                samples={k: v["path"] for k, v in picks.items()} if samples else None)
     return buses, meta
 
 
