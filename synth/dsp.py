@@ -232,3 +232,37 @@ def true_peak_db(x, sr=SR, oversample=4):
     up = resample_poly(np.asarray(x, dtype=np.float64), oversample, 1, axis=0)
     p = float(np.max(np.abs(up)))
     return 20 * np.log10(p + 1e-12)
+
+
+def _rbj_peak(f0, q, gain_db, sr=SR):
+    a_ = 10 ** (gain_db / 40.0)
+    w0 = 2 * np.pi * float(np.clip(f0, 20.0, sr * 0.45)) / sr
+    alpha = np.sin(w0) / (2 * q)
+    cw = np.cos(w0)
+    b = np.array([1 + alpha * a_, -2 * cw, 1 - alpha * a_])
+    a = np.array([1 + alpha / a_, -2 * cw, 1 - alpha / a_])
+    return b / a[0], a / a[0]
+
+
+def peaking(x, f0, q, gain_db, sr=SR):
+    """Bell EQ. Negative gain scoops (pattern book: -7 dB at 600 Hz, wide Q)."""
+    b, a = _rbj_peak(f0, q, gain_db, sr)
+    return lfilter(b, a, x).astype(np.float32)
+
+
+def mono_below(stereo, f0=120.0, sr=SR):
+    """Sum the two channels below `f0`, keep the stereo image above it.
+
+    Linear, so applying it per stem and summing gives the same result as
+    applying it to the mix - which is what keeps the stem export exact.
+    """
+    x = np.asarray(stereo, dtype=np.float32)
+    lo_l = lowpass(x[:, 0], f0, 0.707, sr)
+    lo_r = lowpass(x[:, 1], f0, 0.707, sr)
+    mono = 0.5 * (lo_l + lo_r)
+    return np.stack([x[:, 0] - lo_l + mono, x[:, 1] - lo_r + mono], axis=1)
+
+
+def swing_offset_s(bpm, swing_pct):
+    """MPC-style swing: even 16ths pushed later by (15000/BPM)x(s-50)/50 ms."""
+    return (15000.0 / float(bpm)) * (float(swing_pct) - 50.0) / 50.0 / 1000.0

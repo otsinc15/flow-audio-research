@@ -398,6 +398,14 @@ GAIN_BOUNDS = (0.30, 3.2)
 VARIANT_GAIN_BOUNDS = {"kick": (0.65, 1.80), "sub": (0.65, 1.80),
                        "chords": (0.80, 1.25), "motif": (0.85, 1.25),
                        "perc": (0.60, 1.60), "fx": (0.85, 1.25)}
+# Pattern-book renders fix the chord's SHAPE - high-passed at 80 Hz, scooped at
+# 600 Hz, capped at 4.5 kHz, short envelope - so its level no longer carries the
+# "sits behind" intent and the solver can move it freely. With the variant's
+# 1.25x chord ceiling it could not: v1 sat at 39.6 % in the body region with
+# 35 % below 60 Hz, because the chord was the binding constraint, not the bass.
+VARIANT_GAIN_BOUNDS_BOOK = dict(VARIANT_GAIN_BOUNDS,
+                                kick=(0.35, 1.80), sub=(0.30, 1.80),
+                                chords=(0.60, 3.20), fx=(0.15, 2.00))
 
 
 def balance(buses, target=BAND_TARGET, passes=2, bounds=GAIN_BOUNDS):
@@ -448,13 +456,20 @@ def bass_glue(kick, sub, drive):
 
 def render_and_write(palette, seed, bpm, outdir, name=None, stems_dir=None,
                      unmastered_lufs=-16.0, mastered_lufs=-14.0, variant=None,
-                     engine="numpy"):
+                     engine="numpy", pattern_book=True):
     if engine == "surge":
         from surge_engine import render_surge_clip
-        buses, meta = render_surge_clip(palette, seed, bpm, variant=variant)
+        buses, meta = render_surge_clip(palette, seed, bpm, variant=variant,
+                                        pattern_book=pattern_book)
     else:
         buses, meta = render_clip(palette, seed, bpm, variant=variant)
-    gains = balance(buses, bounds=VARIANT_GAIN_BOUNDS if variant else GAIN_BOUNDS)
+    if not variant:
+        bounds = GAIN_BOUNDS
+    elif meta.get("pattern_book"):
+        bounds = VARIANT_GAIN_BOUNDS_BOOK
+    else:
+        bounds = VARIANT_GAIN_BOUNDS
+    gains = balance(buses, bounds=bounds)
     scaled = {k: gains[k] * buses[k] for k in BUSES}
     glue = meta["variant_params"]["bass_glue"]
     if glue > 0:
@@ -508,12 +523,15 @@ def main():
     ap.add_argument("--out", default="./out")
     ap.add_argument("--name", default=None)
     ap.add_argument("--variant", default=None, choices=sorted(VARIANT_SPECS))
+    ap.add_argument("--no-pattern-book", action="store_true",
+                    help="surge engine only: restore the round-1 arrangement")
     ap.add_argument("--engine", default="numpy", choices=["numpy", "surge"],
                     help="numpy = the original oscillators (earlier clips "
                          "reproduce byte for byte); surge = Surge XT + Faust")
     args = ap.parse_args()
     p, meta = render_and_write(args.palette, args.seed, args.bpm, args.out, args.name,
-                               variant=args.variant, engine=args.engine)
+                               variant=args.variant, engine=args.engine,
+                               pattern_book=not args.no_pattern_book)
     print(json.dumps({"wav": p, **meta}, indent=1))
 
 
