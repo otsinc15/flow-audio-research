@@ -1,0 +1,445 @@
+URL: https://legowelt.org/samples/
+Fetched: 2026-09-02
+HTTP: 200
+---
+<!DOCTYPE html>
+
+<!--[if IE 7]>
+	<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+	<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+	<html lang="en-US">
+<!--<![endif]-->
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name='robots' content='index,follow' />
+  	<meta name="description" content="the official legowelt homepage with hot mixes, software, sample packs, cyberzines, radioshows and more">
+  	<meta name="keywords" content="legowelt, danny wolfers, nightwind records, synthesizers, shadowwolf, sample packs">
+
+	<title>LEGOWELT OFFICIAL WEBSITE</title>
+	<!--[if lt IE 9]>
+		<script src="https://legowelt.org/V2/html5.js"></script>
+	<![endif]-->
+	<link rel='stylesheet' id='roboplayer-css'  href='https://legowelt.org/V2/roboplayer.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='genericons-css'  href='https://legowelt.org/V2/genericons/genericons.css?ver=3.3.1' type='text/css' media='all' />
+	<link rel='stylesheet' id='Robber-style-css'  href='https://legowelt.org/V2/style.css' type='text/css' media='all' />
+	<link rel="icon" type="image/png" href="https://legowelt.org/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="https://legowelt.org/favicon-16x16.png" sizes="16x16" />
+
+	<script src="https://legowelt.org/V2/roboplayer.js"></script>
+
+	<!--[if lt IE 9]>
+		<link rel='stylesheet' id='twentyfourteen-ie-css'  href='https://legowelt.org/V2/ie.css?ver=20131205' type='text/css' media='all' />
+	<![endif]-->
+</head>
+
+<body class="home grid">
+
+<div id="navTop">
+	<div id="barTop">
+		<div class="site-title"><a href="https://www.legowelt.org" rel="home">Legowelt.org</a></div>
+		<div class="search-button hide" id="search-button">Search</div>
+		<div class="menu-button hide" id='menu-button'>Menu</div>
+	</div>
+
+	<div id='menu-overlay'>
+		<ul id="menuTop" class="menuTop hide">
+		<li style="padding-left:0px;"><a href="https://legowelt.org/category/news/">News</a></li><li style="padding-left:px;"><a href="https://legowelt.org/releases/">Releases</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/agenda/">Agenda</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/mixes/">Mixes</a></li><li style="padding-left:px;"><a href="https://legowelt.org/interviews/">Interviews</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/synthesizers/">Synthesizers</a></li><li style="padding-left:px;"><a href="https://legowelt.org/animation-films/">Animation Films</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/nightwind/">Nightwind</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/samples/">Samples</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/software/">Software</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/cyberzine/">Cyberzine</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/photos/">Flyers</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/paintings/">Art Gallery</a></li><li style="padding-left:px;"><a href="https://legowelt.org/booking-legowelt/">Bookings</a></li>		</ul>
+
+		<div id="search-container" class="search-box-wrapper hide">
+		<div class="search-box">
+			<form role="search" method="get" class="search-form" action="https://www.legowelt.org/index.php">
+				<label><input type="text" class="search-field" placeholder="search &hellip;" value="" name="s" title="Search for:" /></label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>
+		</div>
+
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+	<!-- #masthead -->
+
+
+<div id="navSide">
+	<ul id="menuSide" class="menuSide">
+	<li style="padding-left:0px;"><a href="https://legowelt.org/category/news/">News</a></li><li style="padding-left:px;"><a href="https://legowelt.org/releases/">Releases</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/agenda/">Agenda</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/mixes/">Mixes</a></li><li style="padding-left:px;"><a href="https://legowelt.org/interviews/">Interviews</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/synthesizers/">Synthesizers</a></li><li style="padding-left:px;"><a href="https://legowelt.org/animation-films/">Animation Films</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/nightwind/">Nightwind</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/samples/">Samples</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/software/">Software</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/cyberzine/">Cyberzine</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/photos/">Flyers</a></li><li style="padding-left:0px;"><a href="https://legowelt.org/paintings/">Art Gallery</a></li><li style="padding-left:px;"><a href="https://legowelt.org/booking-legowelt/">Bookings</a></li>	</ul>
+			<div class="search-box">
+			<form role="search" method="get" class="search-form" action="https://www.legowelt.org/index.php">
+				<label><input type="text" class="search-field" placeholder="search &hellip;" value="" name="s" title="Search for:" /></label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>
+			</div>
+			<div id="logodiv">
+			<div id="nightwindlink">
+			<a href="https://www.nightwindrecords.org/" target="_blank" border="0" alt="nightwindrecords"><img src="https://www.legowelt.org/V2/gfx/nightwind.png"></a>
+			</div>
+
+			<div id="ifmlink">
+			<a href="https://www.intergalactic.fm/" target="_blank" border="0" alt="intergalacticfm"><img src="https://www.legowelt.org/V2/gfx/ifm.png"></a>
+			</div>
+
+			<div style='clear: both;'> </div>
+			</div>
+
+</div>
+
+<div id="page">
+<div id="contentblock">
+	<div id='content'><div id='content'>			<div id="headeranim" style="max-width:460px;margin:auto;">
+			<img src="https://legowelt.org/V2/gfx/headeranimation.gif" alt="" style="width: 100%;"/>       
+			</div>
+			<div><marquee style='max-width:450px;' scrollamount='3' scrolldelay='5' direction='left' onmouseover='this.stop()' onmouseout='this.start()'>Welcome to legowelt.org running in a dusty corner of cyberspace since the dawn of internet ********** OUT NOW ZORLOK COMPRESSOR II &amp; Legowelt Ambient Trip Commander original soundtrack on 2x Vinyl LP!!!!!!!!!! check more info below ******* Next gig is 3 September 013 TILBURG opening Draaimolen festival with ZORLOK COMPRESSOR LIVE AV SHOW and 4 September LEGOWELT LIVE at FIELDNOTES Amsterdam!!! 17 September Legowelt Live at EXPORT ROTTERDAM !!!!!!!!! ok thats it for today laterzzzzzzzzzz *****************************</marquee></div>
+			
+<article id="post-113" class="post-113 page type-page status-publish hentry">
+		<!---
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://legowelt.org/samples/" rel="bookmark">Samples</a></h2>	</header>
+	---->
+
+	<div class="entry-content">
+		<p style="text-align: center;"><span style="font-size: 24pt; color: #00ffff;"><strong><span style="font-family: Arial,Helvetica,sans-serif;"><span style="color: #00ff00;">L<span style="color: #24ff83;">E<span style="color: #3cff36;">G<span style="color: #8dff70;">OW<span style="color: #95ff87;">E<span style="color: #baffbe;">L<span style="color: #d7ffc9;">T <span style="color: #e8ffe6;">S<span style="color: #ffffff;">A</span>M</span>P</span>L</span>E</span> K</span>I</span>T</span>S</span></span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 24pt; color: #00ffff;"><strong><span style="font-family: Arial,Helvetica,sans-serif;"><img class="alignnone wp-image-238 size-full" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/emax2-1.gif" alt="" width="349" height="126" /><br />
+</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #0000ff;">updated 5 April 2024</span></p>
+<p style="text-align: center;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 18pt;">Here are some ZIP files with sample packs from Legowelts synthesizer collection &#8211; all in 16 bit WAV format. Feed your sampler with some fresh juice -&gt; Load them into you DAW SPX0X, Polyend Tracker, Fruityloops, Ableton, AKAI MPC, Renoize, Roland TR8S, Reason, Octamed, Electribe, Ensoniq ASR Maschine Octatrack Analog Rhythm whatever you use!</span></p>
+<p style="text-align: center;"><span style="font-size: 18pt; font-family: Arial, Helvetica, sans-serif;">The samples are free to download and use in your productions, if you use them you can always donate some $$$ for good karma on <strong><span style="color: #00f7ff;"><a style="color: #00f7ff;" href="https://www.paypal.com/donate/?hosted_button_id=ELXJUJCKUFXTL" target="_blank" rel="noopener noreferrer">my paypal</a></span></strong> or buy some music from <strong><span style="color: #bfff00;"><a style="color: #bfff00;" href="https://legowelt.bandcamp.com" target="_blank" rel="noopener noreferrer">my bandcamp page</a></span></strong></span></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 14pt; font-family: Arial, Helvetica, sans-serif;"><strong><span style="color: #fff700;">NEW NEW NEW NEW NEW NEW !!!!!!</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 24pt; font-family: Arial, Helvetica, sans-serif; color: #33f233;"><strong>S<span style="color: #4dff4d;">EQ<span style="color: #65fc65;">UE<span style="color: #82ff82;">NT<span style="color: #a1ffa1;">IA<span style="color: #b5ffb5;">L CIR<span style="color: #c2ffc2;">CUITS </span></span></span></span></span></span><br />
+<span style="color: #4dff4d;"><span style="color: #65fc65;"><span style="color: #82ff82;"><span style="color: #a1ffa1;"><span style="color: #b5ffb5;"><span style="color: #a8ffa8;"><span style="color: #c2ffc2;">PR</span>OP</span>HET 6</span>00 S</span>AMP</span>LE P</span>AC</span>K</strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-8028 size-large" src="https://legowelt.org/golemXIV/wp-content/uploads/2025/12/Prophet6002-1024x697.png" alt="" width="660" height="449" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2025/12/Prophet6002-1024x697.png 1024w, https://legowelt.org/golemXIV/wp-content/uploads/2025/12/Prophet6002-300x204.png 300w, https://legowelt.org/golemXIV/wp-content/uploads/2025/12/Prophet6002-768x523.png 768w, https://legowelt.org/golemXIV/wp-content/uploads/2025/12/Prophet6002.png 1117w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p style="text-align: center;"><span style="font-size: 14pt; font-family: Arial, Helvetica, sans-serif;">386 artisanally handmade wav samples from my Sequential Circuits Inc Prophet 600 synthesizer! Thick Basses, synthwavy pads &amp; chords, poly modulated FX,  haunting strings and much more! size = 198 Megabytezzzz<br />
+</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><a href="https://we.tl/t-h6Xm1vSvf9" target="_blank" rel="noopener noreferrer"><span style="font-family: Arial, Helvetica, sans-serif; color: #d4ff00;"><strong>DOWNLOAD HERE</strong></span></a></span></p>
+<form action="https://www.paypal.com/donate" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="YHMR5HL7FZN3G" /><br />
+<input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" type="image" /><br />
+<img src="https://www.paypal.com/en_NL/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
+<hr />
+<p style="text-align: center;"><span style="font-size: 24pt;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><span style="caret-color: #00ff00; color: #00ff00;">D</span><span style="caret-color: #47ff19; color: #47ff19;">R</span><span style="caret-color: #90ff36; color: #90ff36;">U</span><span style="caret-color: #afff5e; color: #afff5e;">M</span><span style="caret-color: #caff69; color: #caff69;">NIB</span><span style="caret-color: #daff6b; color: #daff6b;">US ELE</span><span style="caret-color: #efffa6; color: #efffa6;">CT</span><span style="caret-color: #daff6b; color: #daff6b;">RO </span><span style="caret-color: #caff69; color: #caff69;">D</span><span style="caret-color: #afff5e; color: #afff5e;">RU</span><span style="caret-color: #90ff36; color: #90ff36;">MS SAMPLEPA</span><span style="color: #47ff19;">C</span><span style="color: #00ff00;">K</span></span></strong></span></p>
+<p style="text-align: center;"><a href="https://we.tl/t-8vNUQ60Z5g" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-7017" src="https://legowelt.org/golemXIV/wp-content/uploads/2024/12/Drumnibus-909x1024.png" alt="" width="485" height="591" /></a></p>
+<p><span style="font-size: 14pt; font-family: Arial, Helvetica, sans-serif;">230 Fresh new 16 bit wav Electro drum sounds from my studio. To use in your own music productions. Fantasy drummachines, Basedrums, Snaredrums, Lazers, Hypnotic FX sounds, crunchy hihats and lots more! Mostly synthetic stuff made with synths. Build your own drumkits and make up your own fantasy drummachines from the 230 sounds and elevate yourself from the mundane 909 techno totalitarianism ;p</span></p>
+<p><span style="font-size: 14pt; font-family: Arial, Helvetica, sans-serif; color: #97ff05;"><a style="color: #97ff05;" href="https://we.tl/t-8vNUQ60Z5g" target="_blank" rel="noopener noreferrer"><strong>DOWNLOAD HERE Wetransfer 30 Megabytezzz use chrome</strong></a></span></p>
+<form action="https://www.paypal.com/donate" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="WH5Y3Y97BS5XQ" /><br />
+<input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/NL/i/btn/btn_donateCC_LG.gif" type="image" /><br />
+<img src="https://www.paypal.com/en_NL/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 24pt;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><span style="caret-color: #00ff00;"><span style="color: #00ff00;">O</span></span><span style="caret-color: #47ff19; color: #47ff19;">B</span><span style="color: #90ff36;">E</span><span style="color: #afff5e; caret-color: #afff5e;">R</span><span style="color: #caff69; caret-color: #caff69;">H</span><span style="color: #daff6b;"><span style="caret-color: #daff6b;">EIM</span></span><span style="color: #efffa6;"> MATRI</span><span style="caret-color: #daff6b; color: #daff6b;">X </span><span style="caret-color: #caff69; color: #caff69;">10</span><span style="caret-color: #afff5e; color: #afff5e;">0</span><span style="caret-color: #90ff36; color: #90ff36;"><span style="color: #ebff66;">0 SA</span>MPLEPA</span><span style="color: #47ff19;">C</span><span style="color: #00ff00;">K</span></span></strong></span></p>
+<p style="text-align: center;"><a href="https://we.tl/t-9vgTak5M43"><img class="alignnone wp-image-657 size-full" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/08/matrix1000front.png" alt="" width="643" height="219" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/08/matrix1000front.png 643w, https://legowelt.org/golemXIV/wp-content/uploads/2017/08/matrix1000front-300x102.png 300w" sizes="(max-width: 643px) 100vw, 643px" /></a></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Update 15 April This one is back online 😉</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Here are 181 samples from the Oberheim Matrix 1000 synthesizer I made a few years ago (apparently on a lonely christmas evening looking at the file date!) – all free for you to use in your own music productions to load up in your sampler – all in 16 bit WAV format!  Lots of typical Oberheim spacey pads, strings, brassy stuff etc.etc.etc. Fresh ingredients for your MPC, Octatrack, Electribe, Ableton, FruityLoops, Tracker whatever you use to further your experiments in musical alchemy! More info and sound demos <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="http://legowelt.org/655-2/" target="_blank" rel="noopener noreferrer">&gt;&gt;&gt; here &lt;&lt;&lt;</a></span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Download it <strong><span style="color: #d0ff00;"><a style="color: #d0ff00;" href="https://we.tl/t-9vgTak5M43" target="_blank" rel="noopener noreferrer">&gt;&gt;&gt; here &lt;&lt;&lt;</a></span></strong></span></p>
+<p style="text-align: center;"><span style="color: #ebff66;"><i style="font-size: 12pt;">The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 24pt;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><span style="caret-color: #00ff00; color: #00ff00;">J</span><span style="caret-color: #47ff19; color: #47ff19;">U</span><span style="color: #47ff19;"><span style="color: #90ff36;">P<span style="color: #afff5e;">I<span style="color: #caff69;">T<span style="color: #daff6b;">E<span style="color: #efffa6;">R 8 SA</span>MPL</span>E</span>P</span>A</span>C</span><span style="color: #00ff00;">K</span></span></strong></span></p>
+<p style="text-align: center;"><a href="https://we.tl/t-7PPcDeCklV" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5716" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/Jupiter-8-pack-2-1024x768.png" alt="" width="535" height="401" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2022/09/Jupiter-8-pack-2-1024x768.png 1024w, https://legowelt.org/golemXIV/wp-content/uploads/2022/09/Jupiter-8-pack-2-300x225.png 300w, https://legowelt.org/golemXIV/wp-content/uploads/2022/09/Jupiter-8-pack-2-768x576.png 768w" sizes="(max-width: 535px) 100vw, 535px" /></a></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;"><strong>500 wav samples</strong> from Legowelt’s Jupiter 8 synthesizer for you to use in your own music productions! Synths, Pads, FX, Basses, Leads, Arpeggios and more!!! Load them up in your Fruityloops, Ableton, Polyend Tracker, MPC, Electribe, Octatrack, SP404, OP1, Octamed, Protracker whatever sampler/synth/software you use and start making music! <strong><a href="https://youtu.be/fh38Jq3V6pE" target="_blank" rel="noopener noreferrer">The Roland Jupiter 8</a></strong> doesn’t need any introduction – perhaps the most legendary Japanese polyphonic analog synthesizer in history – Its dreamy and powerfull sound is instantly recognizable. Now available at your fingertips for free without splashing out 20000$ or whatever these things cost nowadays.</span></p>
+<p style="text-align: center;"><span style="font-family: Arial, Helvetica, sans-serif; color: #99ccff;"><em>U<span style="color: #abd5ff;">PDAT<span style="color: #c7e3ff;">E 14 ja<span style="color: #d4e9ff;">nua<span style="color: #ffffff;">ry 2024 ;BACK O</span>NLIN</span>E A</span>GAI</span>N</em></span></p>
+<p style="text-align: center;"><span style="font-family: 'Arial Black', 'Avant Garde';"><strong><span style="color: #00ff00;"><a style="color: #00ff00;" href="https://we.tl/t-7PPcDeCklV" target="_blank" rel="noopener noreferrer">DOWNLOAD HERE</a> </span></strong></span></p>
+<p style="text-align: center;"><span style="color: #d4ff00;"><i style="font-size: 12pt;">The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #ff99cc;"><strong><span style="font-family: Arial, Helvetica, sans-serif;">D<span style="color: #f7b2f0;">R<span style="color: #e3c0fc;">U<span style="color: #99d8ff;">M <span style="color: #99fcff;">W<span style="color: #99ffd8;">IZ<span style="color: #99ff9b;">A<span style="color: #c0ff99;">R<span style="color: #dfff99;">D<span style="color: #f3ffd6;"><span style="color: #ffffff;">RY S</span>A</span>M</span></span>P</span>L</span>E</span> P</span>A</span>C</span>K</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-4277 " src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/Drum-Wizardry-artwork-1024x724.jpg" alt="" width="525" height="311" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">325 unique one shot drum samples from the Legowelt studio archive! Sourced from various samplers/instruments such as the Amiga 1200, EMAX II, Soundblaster, S900, Prophet 2000 and lots more!!! <a href="https://we.tl/t-kqHGj387ng" target="_blank" rel="noopener noreferrer"><strong><span style="color: #99ff9b;">Download here</span></strong></a></span></p>
+<p style="text-align: center;"><span style="color: #c8ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; color: #00ffff;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></span></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #00ff00;"><strong><span style="font-family: Arial, Helvetica, sans-serif;">Q<span style="color: #47ff19;">U<span style="color: #90ff36;">A<span style="color: #afff5e;">S<span style="color: #caff69;">I<span style="color: #daff6b;">M<span style="color: #efffa6;">I<span style="color: #ffffff;">DI</span></span> S</span>I</span>R</span>I</span>U</span>S</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-3742 " src="http://legowelt.org/golemXIV/wp-content/uploads/2020/03/Screen-Shot-2020-03-18-at-14.46.34-1024x536.png" alt="" width="505" height="256" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">300+ 16 BIT WAV samples from this fun digital German synthesizer from 1998 </span><br />
+<span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Lots of pads, atmosphere sounds and drumsounds too!</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Download the sample pack <strong><span style="color: #bbff00;">&gt;&gt;&gt;<a style="color: #bbff00;" href="https://we.tl/t-0ci2clOVTz" target="_blank" rel="noopener noreferrer">here</a>&lt;&lt;&lt;</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #c8ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #ff61c0;"><strong><span style="font-family: Arial,Helvetica,sans-serif;"><span style="color: #cfff75;">K<span style="color: #c5ff82;">A<span style="color: #ebffc2;">W<span style="color: #ffffff;">A</span>I</span> K</span>4</span><br />
+</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-2602 " src="http://legowelt.org/golemXIV/wp-content/uploads/2018/12/KawaiK4inGarden2-1024x768.jpg" alt="" width="445" height="307" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">385 samples from this Japanese digital synth from 1989<br />
+</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Download the sample pack&gt;&gt;&gt;&gt; <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/t-NWnK4IqrbX" target="_blank" rel="noopener noreferrer">here</a></span></strong><br />
+</span></p>
+<p style="text-align: center;"><span style="color: #c8ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #ff61c0;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">M<span style="color: #ff94d4;">O<span style="color: #ffa1d9;">O<span style="color: #ffa3da;"><span style="color: #ffc7e9;">G <span style="color: #ffd6ef;">M<span style="color: #ffffff;">I</span>N</span>I</span>M</span>O</span>O</span>G</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-2023 " src="http://legowelt.org/golemXIV/wp-content/uploads/2018/03/IMG_1187-1-1024x768.jpg" alt="" width="490" height="346" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">223 samples from my 1970s Moog Minimoog synthesizer Serial number#5529.  Including all the noise, dust, crackle, unstableness and sheer uncorrupted walnut-wooden sensuality you can get with a real MINIMOOG. All in 16 bit WAV format! Use its brute discrete analog power in your own sampler!</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Download the sample pack &gt;&gt;&gt;&gt;&gt; <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/AjC4FCLeMv" target="_blank" rel="noopener noreferrer">here</a> <span style="color: #ffffff;"> &lt;&lt;&lt;&lt;</span></span></strong>(108.9 MEGaByTeZ)</span></p>
+<p style="text-align: center;"><span style="color: #d0ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr class="pagespacer" />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #6fff00;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">E<span style="color: #94ff42;">M<span style="color: #b1ff75;">U <span style="color: #c8ff9e;">V<span style="color: #dbffbf;"><span style="color: #e6ffd4;">IN<span style="color: #ffffff;">T</span>A</span>G</span>E</span> P</span>R</span>O</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-1738 " src="http://legowelt.org/golemXIV/wp-content/uploads/2017/11/0EMUvintagePRO1-1-1024x658.png" alt="" width="525" height="337" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/11/0EMUvintagePRO1-1-1024x658.png 1024w, https://legowelt.org/golemXIV/wp-content/uploads/2017/11/0EMUvintagePRO1-1-300x193.png 300w, https://legowelt.org/golemXIV/wp-content/uploads/2017/11/0EMUvintagePRO1-1-768x494.png 768w, https://legowelt.org/golemXIV/wp-content/uploads/2017/11/0EMUvintagePRO1-1.png 1232w" sizes="(max-width: 525px) 100vw, 525px" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">375 samples from this 2002 digital space synthesizer get it <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/mBBrpeFpoe" target="_blank" rel="noopener noreferrer">here</a></span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">More information about this exotic piece of American Synth history <a href="http://legowelt.org/emu-vintage-pro/">here</a></span></p>
+<p style="text-align: center;"><span style="color: #ccff12;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr class="pagespacer" />
+<p style="text-align: center;"><b><big><big><small></small></big></big></b><span style="font-size: 18pt; color: #00ccff;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">Y<span style="color: #37d3fa;">A<span style="color: #5edfff;">M<span style="color: #8ce4fa;">A<span style="color: #acecfc;">H<span style="color: #ffffff;">A P</span>S</span>S</span>3</span>8</span>0</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-791 size-full" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/pss380.jpeg" alt="" width="480" height="360" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/pss380.jpeg 480w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/pss380-300x225.jpeg 300w" sizes="(max-width: 480px) 100vw, 480px" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">A bunch of samples from this cool little 2 operator FM keyboard<br />
+<span style="color: #d4ff00; font-size: 14pt;"><strong><em>this pack will be back soon</em></strong></span></span></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #ff00ff;"><strong><span style="font-family: Arial,Helvetica,sans-serif;"> </span></strong></span><span style="font-size: 18pt; color: #ff00ff;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">Y<span style="color: #fc38fc;">A<span style="color: #fa6efa;">M<span style="color: #fcaefc;">AH<span style="color: #ffe0ff;">A<span style="color: #ffffff;"> PS</span>S</span>7</span>9</span>5</span></span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone wp-image-607 " src="http://legowelt.org/golemXIV/wp-content/uploads/2017/08/pss7952.png" alt="" width="426" height="297" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">120 samples from this early 90s PPU style LO-FI funk machine! get it <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/iFmqFvsKCH" target="_blank" rel="noopener noreferrer">here</a></span></strong><br />
+</span></p>
+<p style="text-align: center;"><span style="color: #ddff00; font-size: 12pt;"><i>The samples are free but please consider a donation for good musical </i><i>magic and sonic karma:</i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #ff00ff;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">R<span style="color: #fc38fc;">O<span style="color: #fa6efa;">L<span style="color: #fcaefc;">A<span style="color: #ffe0ff;">N<span style="color: #ffffff;">D J</span>V</span>2</span>0</span>8</span>0</span></strong></span></p>
+<p style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><big><span style="color: #ff99ff;"><big><big><span style="color: #33ff33;"><span style="color: #33ffff;"><big><big><small><small><small><small><span style="color: #ffffff;"><img class="alignnone wp-image-209 size-full" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/jv2080sampleding.jpg" alt="" width="527" height="350" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/jv2080sampleding.jpg 527w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/jv2080sampleding-300x199.jpg 300w" sizes="(max-width: 527px) 100vw, 527px" /></span></small></small></small></small></big></big></span></span></big></big></span></big></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">322 samples from the 1997 Roland JV2080 MONSTER synthesizer This time Legowelts studio intern engineer prof.Dr.Dr.Elektrovolt joins the party and uses his sophisticated deep synth programming skills to squeeze out the absolute freakness of this machine. Atmospheres, pads, strings, thick juicy basses, mesmerizing synth tines, tantalizing sequences, Ethno Synthesis + much more&#8230;The Roland JV2080 is a digital rack synth that used wave rom sounds into a fathomless semi modular synthesis engine. </span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">Download it &gt;&gt;&gt; <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/Yv0cVYjzjs" target="_blank" rel="noopener noreferrer">here</a></span></strong> 203.9 MB Zip file.</span></p>
+<p style="text-align: center;"><span style="color: #bbff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #00ccff;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">Y<span style="color: #66dcfa;">A<span style="color: #91e9ff;">M<span style="color: #b8f1ff;">A<span style="color: #ebfbff;">H<span style="color: #ffffff;">A DX</span>-F</span>I</span>L</span>E</span>S</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone size-medium wp-image-210" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/DX-Filessmall-255x300.jpg" alt="" width="255" height="300" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/DX-Filessmall-255x300.jpg 255w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/DX-Filessmall.jpg 420w" sizes="(max-width: 255px) 100vw, 255px" /><br />
+<big><big><big><big><big><small><small><small><small></small></small></small></small></big></big></big></big></big></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">300 artisan FM sounds from various legendary Yamaha DX synthesizers &#8211; hand programmed by Legowelt and used in many hit records. Hear the mystic digital power of the Yamaha DX100, TX81Z, DX21, DX7 and DX5 all in 16 bit 44khZ WAV format ready to load into your sampler of choice!!! </span></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">Download it <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/uTi4InZZXQ" target="_blank" rel="noopener noreferrer">here</a></span></strong> 239 Megabytezzz</span></p>
+<p style="text-align: center;"><span style="color: #bfff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #0b99bd;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">Y<span style="color: #28a1bf;">A<span style="color: #5dc0d9;">M<span style="color: #a9dce8;">A<span style="color: #ffffff;">HA</span> S</span>Y</span>3</span>5</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone size-medium wp-image-212" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/YamahaSY352-300x196.png" alt="" width="300" height="196" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/YamahaSY352-300x196.png 300w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/YamahaSY352.png 538w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: center;"><span style="font-family: Arial,Helvetica,sans-serif; font-size: 12pt;">121 samples from the quaint Yamaha SY35 Digital Vector Synthesizer &#8211; a classic 1990s Ambient House &amp; Techno Space Machine combining gritty rompler waves with shady disreputable 2 operator FM synthesis. </span></p>
+<p style="text-align: center;"><span style="font-family: Arial,Helvetica,sans-serif; font-size: 12pt;">Download <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/PiCzpICmOm" target="_blank" rel="noopener noreferrer">here</a></span></strong></span></p>
+<p style="text-align: center;"><span style="color: #ddff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #00ad00;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">K<span style="color: #12c912;">O<span style="color: #35e835;">R<span style="color: #52ff52;">G E<span style="color: #87ff87;">LE<span style="color: #ffffff;">CT</span>RI</span>BE E</span>R</span>&#8211;</span>1</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone size-medium wp-image-213" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/korgER1tokyo-300x227.png" alt="" width="300" height="227" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/korgER1tokyo-300x227.png 300w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/korgER1tokyo.png 633w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">150 samples from the Korg Electribe ER-1 Drum synthesizer. Download <strong><span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/EdVedAs7eI" target="_blank" rel="noopener noreferrer">here</a></span></strong></span></p>
+<p style="text-align: center;"><span style="color: #d0ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><b><span style="color: #ff99ff;"><big><big><span style="color: #33ff33;"><span style="color: #ff55ff;">Y<span style="color: #ff77ff;">A<span style="color: #ff88ff;">MAH<span style="color: #ffbbff;">A D<span style="color: #ffddff;">X<span style="color: #ffeeff;">2<span style="color: #ffffff;">00 FM S</span>YNT</span>H</span>E</span>SIZ</span>E</span>R</span></span></big></big></span></b></span></p>
+<p style="text-align: center;"><img class="alignnone size-medium wp-image-219" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/dx200august-300x221.png" alt="" width="300" height="221" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/dx200august-300x221.png 300w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/dx200august.png 721w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">The drumkit of the Yamaha DX200 87 drumsounds &amp; more &#8211; Download <span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/hqgRqrVE8b" target="_blank" rel="noopener noreferrer">here</a></span></span></p>
+<p style="text-align: center;"><span style="color: #d0ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><b><span style="color: #ff99ff;"><big><big><span style="color: #33ff33;"><span style="color: #33cc00;"><span style="font-size: 18pt;">R<span style="color: #44dd00;">O<span style="color: #66ee00;">L<span style="color: #88ff00;">A<span style="color: #aaff00;">N<span style="color: #ddff55;">D</span> J</span>D</span> 8</span>0</span>0</span></span></span></big></big></span></b></span></p>
+<p style="text-align: center;"><img class="alignnone size-medium wp-image-218" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/jd800Samplessmall-300x296.jpg" alt="" width="300" height="296" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/jd800Samplessmall-300x296.jpg 300w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/jd800Samplessmall.jpg 375w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">350 samples from the mighty 1992 Roland JD800 flagship synthesizer! Download <span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/2mZX11PRFp">here</a></span></span></p>
+<p style="text-align: center;"><span style="color: #d4ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #ff99cc;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">K<span style="color: #fca7d2;">O<span style="color: #ffd6eb;">R<span style="color: #ffe3f1;"><span style="color: #fae3ef;">G <span style="color: #fce6f1;">M<span style="color: #ffffff;">O</span>N</span>O</span>/P</span>O</span>L</span>Y</span></strong></span></p>
+<p style="text-align: center;"><a href="https://we.tl/mrc47v7cyI" target="_blank" rel="noopener noreferrer"><img class="alignnone size-medium wp-image-217" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/Korg-MonoPoly-Samples-288x300.jpg" alt="" width="288" height="300" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/Korg-MonoPoly-Samples-288x300.jpg 288w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/Korg-MonoPoly-Samples.jpg 395w" sizes="(max-width: 288px) 100vw, 288px" /></a></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">300 samples from this mighty 1981 cult beast! Everything from Juicy big basses occult space pads, interdimensional arpeggios, futuristic synthetic drums, metaphysical atmospheres + a lot more&#8230;all ready to take your music into the next sphere of existence! Download <span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/mrc47v7cyI" target="_blank" rel="noopener noreferrer">here</a></span></span></p>
+<p style="text-align: center;"><span style="color: #d4ff00;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p style="text-align: center;"><span style="font-size: 18pt; color: #00ff00;"><strong><span style="font-family: Arial,Helvetica,sans-serif;">R<span style="color: #20fa20;">O<span style="color: #45ff45;">L<span style="color: #66ff66;">A<span style="color: #8aff8a;">N<span style="color: #cfffcf;">D <span style="color: #ffffff;">J</span>U</span>N</span>O</span> 1</span>0</span>6</span></strong></span></p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-216" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/legoweltsamples106.jpg" alt="" width="296" height="296" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/legoweltsamples106.jpg 296w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/legoweltsamples106-150x150.jpg 150w" sizes="(max-width: 296px) 100vw, 296px" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt; font-family: Arial,Helvetica,sans-serif;">250 samples from this classic workhorse synthesizer big basses, mysterious pads, chords, haunting strings, sequences, arpeggios, drums etc.! Download <span style="color: #bbff00;"><a style="color: #bbff00;" href="https://we.tl/3umMw1cl7D" target="_blank" rel="noopener noreferrer">here</a></span></span></p>
+<p style="text-align: center;"><span style="color: #deff05;"><i>The samples are free but please consider a donation for good musical </i><i><span style="font-size: medium;">magic and sonic karma:</span></i></span></p>
+<p style="text-align: center;"><strong><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://www.paypal.com/donate/?hosted_button_id=7VJUN5NEM8H9S" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5726" src="http://legowelt.org/golemXIV/wp-content/uploads/2022/09/PayPal-Donate-Button-Download-PNG-2.png" alt="" width="140" height="65" /></a></span></strong></p>
+<hr />
+<p><img class="alignnone size-medium wp-image-211 aligncenter" src="http://legowelt.org/golemXIV/wp-content/uploads/2017/06/akais900jaja-300x107.jpg" alt="" width="300" height="107" srcset="https://legowelt.org/golemXIV/wp-content/uploads/2017/06/akais900jaja-300x107.jpg 300w, https://legowelt.org/golemXIV/wp-content/uploads/2017/06/akais900jaja.jpg 708w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+					</footer><!-- .entry-footer -->
+
+	<hr class="postspacer">
+</article><!-- #post-## -->
+<div class="nav-previous alignleft"></div>
+<div class="nav-next alignright"></div>
+				<BR><BR>
+<!---
+DEBUGGIn :: 
+<B>Page</B> ---->
+</div></div>
+</div><div>
+
+<script type='text/javascript'>
+
+/*** ============================================================================================================= ***/
+/*** ===============================================   Utilities   =============================================== ***/
+/*** =============================================== _____________ =============================================== ***/
+
+_addEvent = function (o, t, f) {
+	  if (o.addEventListener) o.addEventListener(t, f, false);
+	  else if (o.attachEvent) o.attachEvent('on'+ t, f);
+	  else o['on'+ t] = f;
+};
+
+_removeEvent = function (o, t, f) {
+	  if (o.removeEventListener) o.removeEventListener(t, f, false);
+	  else if (o.detachEvent) o.detachEvent('on'+ t, f);
+	  else o['on'+ t] = null;
+};
+
+function isRetinaDisplay() {
+		if (window.matchMedia) {
+    		var mq = window.matchMedia("only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6/2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen  and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx)");
+				return (mq && mq.matches || (window.devicePixelRatio > 1));
+    }
+}
+// requestAnimationFrame polyfill by Erik Möller.
+// Fixes from Paul Irish, Tino Zijdel, Andrew Mao, Klemen Slavič, Darius Bacon
+
+// MIT license
+
+if (!Date.now)
+    Date.now = function() { return new Date().getTime(); };
+
+(function() {
+    'use strict';
+
+    var vendors = ['ms', 'moz', 'webkit', 'o'];
+    for (var i = 0; i < vendors.length && !window.requestAnimationFrame; ++i) {
+        var vp = vendors[i];
+        window.requestAnimationFrame = window[vp+'RequestAnimationFrame'];
+        window.cancelAnimationFrame = (window[vp+'CancelAnimationFrame']
+                                   || window[vp+'CancelRequestAnimationFrame']);
+    }
+    if (/iP(ad|hone|od).*OS 6/.test(window.navigator.userAgent) // iOS6 is buggy
+        || !window.requestAnimationFrame || !window.cancelAnimationFrame) {
+        var lastTime = 0;
+        window.requestAnimationFrame = function(callback) {
+            var now = Date.now();
+            var nextTime = Math.max(lastTime + 16, now);
+            return setTimeout(function() { callback(lastTime = nextTime); },
+                              nextTime - now);
+        };
+        window.cancelAnimationFrame = clearTimeout;
+    }
+}());
+
+function getsupportedprop(proparray){
+    var root=document.documentElement 				//reference root element of document
+    for (var i=0; i<proparray.length; i++) { 	//loop through possible properties
+        if (proparray[i] in root.style){ 			//if property exists on element (value will be string, empty string if not set)
+            return proparray[i] 							//return that string
+        }
+    }
+}
+
+var supports3d = (function () { // immidiatly invoke and put result in supports3d
+    var el = document.createElement('p');
+    var has3d;
+    var transforms = {
+        'webkitTransform':'-webkit-transform',
+        'OTransform':'-o-transform',
+        'msTransform':'-ms-transform',
+        'MozTransform':'-moz-transform',
+        'transform':'transform'
+    };
+
+    // Add it to the body to get the computed style.
+    document.body.insertBefore(el, null);
+
+    for (var t in transforms) {
+        if (el.style[t] !== undefined) {
+            el.style[t] = 'translate3d(1px,1px,1px)';
+            has3d = window.getComputedStyle(el).getPropertyValue(transforms[t]);
+        }
+    }
+
+    document.body.removeChild(el);
+    return (has3d !== undefined && has3d.length > 0 && has3d !== 'none');
+})();
+
+/*** ==================================================================================================== ***/
+/*** =============================================== init =============================================== ***/
+/*** =============================================== ____ =============================================== ***/
+
+function init() {
+	var menuTop = document.getElementById('menuTop');
+	var menubutton = document.getElementById('menu-button');
+	menubutton.onclick = function (e) {
+		if ((' ' + menuTop.className + ' ').indexOf(' show ') > -1 ) {
+				menuTop.className = "menuTop hide";
+				menubutton.className="menu-button hide";
+		} else {
+				menuTop.className = "menuTop show";
+				menubutton.className="menu-button show";
+		}
+		if ((' ' + searchbutton.className + ' ').indexOf(' show ') > -1 ) {
+			searchbutton.className = "search-button hide";
+			search.className = "search-box-wrapper hide";
+		}
+	}
+
+
+
+	var searchbutton = document.getElementById('search-button');
+	var search = document.getElementById('search-container');
+	//var menu2 = document.getElementById('menu2');
+	searchbutton.onclick = function (e) {
+		if ((' ' + searchbutton.className + ' ').indexOf(' show ') > -1 ) {
+			searchbutton.className = "search-button hide";
+			search.className = "search-box-wrapper hide";
+			//menu2.style.backgroundColor="#BBB";
+		} else {
+			searchbutton.className = "search-button show";
+			search.className = "search-box-wrapper show";
+			//menu2.style.backgroundColor="#B0B6A7";
+		}
+		if ((' ' + menuTop.className + ' ').indexOf(' show ') > -1 ) {
+				menuTop.className = "menuTop hide";
+				menubutton.className="menu-button hide";
+		} 
+	}
+
+	var page = document.getElementById('page');
+	var header = document.getElementById('site-header');
+
+	/*
+	header.onclick = function (e) {
+		if ((' ' + menu2.className + ' ').indexOf(' show ') > -1 ) {
+				menu2.className = "menu2 hide";
+				menubutton.className="menu-button hide";
+		} 
+		if ((' ' + searchbutton.className + ' ').indexOf(' show ') > -1 ) {
+			searchbutton.className = "search-button hide";
+			search.className = "search-box-wrapper hide";
+			menu2.style.backgroundColor="#BBB";
+		}
+	}
+	*/
+	
+	page.onclick = function (e) {
+		if ((' ' + menuTop.className + ' ').indexOf(' show ') > -1 ) {
+				menuTop.className = "menuTop hide";
+				menubutton.className="menu-button hide";
+		} 
+		if ((' ' + searchbutton.className + ' ').indexOf(' show ') > -1 ) {
+			searchbutton.className = "search-button hide";
+			search.className = "search-box-wrapper hide";
+			//menu2.style.backgroundColor="#BBB";
+		}
+	}
+
+}
+
+_addEvent(window,"load",init)
+var cssTransform=getsupportedprop(['transform', 'MozTransform', 'webkitTransform','msTransform','OTransform']);
+
+
+</script>
+
+<audio id='aud1' style='width:1px;height:1px;font-size:1px;line-height:1px;border:0px solid #fff;' preload='auto'></audio>
+<div id='audfl' style='width:1px;height:1px;font-size:1px;line-height:1px;border:0px solid #000;'>
+
+</body></html>

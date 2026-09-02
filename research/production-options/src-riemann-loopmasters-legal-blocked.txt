@@ -1,0 +1,4 @@
+URL: https://www.loopmasters.com/legal (and /faq) -- Cloudflare bot-challenge page ('Just a moment...'), licence text unreachable via curl
+Fetched: 2026-09-02
+---
+Both /legal and /faq return HTTP 403 with a Cloudflare interstitial challenge page (title 'Just a moment...'). No licence text obtainable without solving a CAPTCHA, which is out of scope for this task.
