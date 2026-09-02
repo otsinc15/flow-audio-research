@@ -1,0 +1,228 @@
+{
+ "id": "gen-1788359342-eqOWNjqp6NUz8vdduByn",
+ "object": "chat.completion",
+ "created": 1788359342,
+ "model": "perplexity/sonar-deep-research",
+ "provider": "Perplexity",
+ "system_fingerprint": null,
+ "service_tier": null,
+ "choices": [
+  {
+   "index": 0,
+   "logprobs": null,
+   "finish_reason": "length",
+   "native_finish_reason": "length",
+   "message": {
+    "role": "assistant",
+    "content": "# Designing a Legally Clean, Hypnotic Techno Engine for a Focus App: Tools, Precedents, and a 90\u2011Day Plan\n\nThe fastest credible route to \u201cthis sounds like a produced record\u201d for long-form hypnotic minimal/dub techno in your setting is to anchor the product around a **local ACE-Step 1.5 XL pipeline** (MIT-licensed, trained on legally compliant data, and explicitly positioned as commercial-ready) combined with a **very simple but carefully tuned runtime arranger** that only sequences, layers, and crossfades, not synthesizes raw sound.[1][2][5][6][10] In parallel, you should begin a **small human-in-the-loop stem commissioning track** to guarantee at least one ear-test\u2013approved library, and keep **Mubert\u2019s B2B API and Stable Audio 2.5** in reserve as legally licensable cloud generators if local quality plateaus.[7][13][16][18][19] Cloud services like Suno v5 and Udio are legally misaligned with your use case because their terms tightly gate commercial exploitation, restrict redistributing outputs, and treat building competing services as prohibited, even though their raw sound quality is competitive or superior in some genres.[11][12][14][17][20] Google\u2019s Lyria RealTime and Lyria 3 are technically promising for tempo-locked, parameter-steered music, but their preview status, watermarking, and \u201ccheck license before commercial distribution\u201d caveats mean they should be treated as experimental R&D, not your primary shippable engine.[9][15] Within seven days you can almost certainly produce at least one 20\u201330-minute sequence from ACE-Step that passes your ear test; within three months you can evolve that into either a fully local MIT-based runtime engine or a hybrid catalog plus Mubert/Stable back-end, with contracts in place for any human stems you embed.\n\n## 1. Context, Constraints, and Success Criteria\n\nThe product you are building is unusually specific in its musical and experiential requirements, and that specificity is both a blessing and a constraint. You are not trying to cover all genres or user intents; instead you are aiming at a narrow lane of **continuous, evolving, hypnotic minimal/dub techno** in the tradition of Plastikman and Basic Channel, specifically optimized for 1\u20133 hour focus sessions. Musically, you want a tight tempo range around 112\u2013124 BPM, four-on-the-floor kick, deep sub bass, dry kicks, dubby delayed chord stabs, sparse percussion, and almost no explicit melody, vocals, drops, or big structural arcs. That places you squarely in the \u201cminimal / dub techno\u201d and \u201cdeep, spacious, reverb-drenched\u201d part of the techno spectrum that prompt-writers for Suno describe as being about restraint, subtle evolving stabs, and hypnotic loops, typically at the lower edge of the techno tempo band.[8] This is crucial for choosing and configuring any generative tool: many AI music systems are implicitly optimized for verse\u2013chorus pop or cinematic builds, and will fight you unless they can be strongly constrained.\n\nYour constraints on the engineering and business side are equally tight. You are a solo founder relying on coding agents rather than being a hands-on systems programmer, and your main compute asset is a single Mac mini with an M-series chip and 24 GB of unified memory. That makes heavy GPU-based cloud inference economically sensitive and rules out complex, multi-node local deployments. Your budget constraint is **hundreds, not thousands, of dollars per month**, and you want to reach both a credible \u201cear-test\u201d win and a legally shipping product in roughly three months. That pushes you towards solutions that are either fully local and open-licensed, or B2B APIs with clear, generous licensing for embedding generated music in apps, rather than per-track library products whose terms forbid redistribution to third parties.\n\nThe experiments you have already run in the last forty-eight hours provide valuable ground truth about what will not work, at least in their current form. A coded synthesis path using Python with Surge XT and Faust, driven by agent-designed sounds and tuned to spectral targets, produced sequences whose **arrangement** passed your ear test but whose actual sound was rejected as \u201cgeneric, computer-generated, not like a library.\u201d Your analysis showed that the processing chain homogenized any source, leading you to conclude that sound quality must come from professionally produced material or a human sound designer, and that code should be confined to selecting, layering, and crossfading rather than raw sound design. You also tested ElevenLabs Music and discarded it for your commercial purposes because its terms of service forbid using its output as a general-purpose music library for third parties. This pattern\u2014good generative capability, but restrictive licensing\u2014is one you will encounter repeatedly.\n\nYou have already probed several AI engines and services: Magenta RealTime 2 lacked tempo control and negative prompts and was dropped; Suno has no official API and its emerging terms hinge commercial rights on restricted downloads and explicitly prohibit use that competes with the service, making it an uneasy fit for powering another generative music app.[11][12][20] ACE Studio\u2019s vocal and acoustic instrument focus makes it musically unsuitable, but you are in the process of installing **ACE-Step 1.5 XL**, the open-source music foundation model with a 4-billion-parameter Diffusion Transformer (DiT) decoder released under MIT.[1][2][5][6][10] You are simultaneously exploring Google\u2019s **Lyria RealTime** streaming model, which allows real-time control over tempo, density, and brightness and supports sessions up to ten minutes with instrumental-only output, albeit with automatic SynthID watermarking and a warning to check license conditions before commercial use.[9][15]\n\nFinally, you have looked at the traditional sample-pack route via commercial packs like Riemann Kollektion, only to find that their licenses typically forbid standalone sample distribution or using their loops as the basis for a new sample library, even if they do permit rendered tracks.[18] This underscores that even non-AI audio content sources can carry licensing limitations incompatible with your desire to ship a flexible focus-music engine embedded inside a paid app. You have identified several other AI music services and open models\u2014Stable Audio 2.5, Mubert API, Beatoven, Soundraw, Loudly, AIVA, Udio, and open models such as YuE, DiffRhythm, MusicGen, and Stable Audio Open\u2014but have not yet tested them.\n\nAgainst this background, you can articulate very crisp success criteria. Technically and artistically, your first milestone is an **\u201cear-test winner\u201d**: an output that you, as a critical listener deeply familiar with the target aesthetic, judge to \u201csound like a produced record,\u201d with the right groove, timbre, and lack of obvious generative artifacts. Legally, your end state is either a runtime engine or a pre-rendered catalog whose licensing clearly permits embedding in a paid app for end users, without precarious dependence on interpretive wiggle room in consumer-oriented terms of service. Economically, the solution must scale to roughly **500 renders per month** at costs compatible with your budget and with the compute resources of your Mac mini. The rest of this report evaluates candidate tools against these criteria, compares the most promising engines in depth, examines human-in-the-loop alternatives, surveys product precedents, and then synthesizes a concrete plan for the next seven days and ninety days.\n\n## 2. The Technical and Legal Design Space for Hypnotic Techno Engines\n\nTo reason clearly about tools and architectures, it helps to distinguish the main categories of systems you could build. At a high level, there are at least three broad approaches to generating or assembling hypnotic techno for your app. The first is **fully generative AI models**\u2014either local open-source models like ACE-Step 1.5 or cloud-based models accessed through APIs, such as Stable Audio 2.5, Mubert\u2019s engine, or Google\u2019s Lyria family.[2][6][7][9][13][16] These models take text or other prompts and directly synthesize audio. They vary in the degree to which they can be controlled in terms of tempo, key, genre, and structure, and they differ dramatically in licensing: some are open-sourced under MIT or Apache and allow unrestricted commercial use of outputs, while others are offered as services with tightly constrained rights.\n\nThe second category is **hybrid generative\u2013combinatorial systems**, where AI is used primarily as a high-level planner or as a generator of stems or phrases, but the actual long-form output is assembled via deterministic rules, such as layer selection, crossfading, and spatialization. ACE-Step 1.5 explicitly embodies this philosophy: it uses a language model (LM) as a \u201cplanner\u201d that turns user prompts into a detailed song blueprint, including metadata and lyrics, and then a Diffusion Transformer (DiT) decoder synthesizes the audio from that blueprint.[6] The architectural separation between planning and decoding allows, in principle, for more controllable structure and the generation of shorter building blocks that can be stitched into longer, continuous flows. Your earlier coded synthesis experiments also fall into this category: a procedural sequencer driving synthesized sound sources, with the option to swap the raw sound layer for stems produced by human sound designers or AI models.\n\nThe third category is **non-AI sample or stem-based engines**, which might resemble what Endel does: a library of professionally produced stems in specific keys, tempos, and moods, combined at runtime based on rule sets and user inputs. This approach does not depend on AI at all; instead it leans on human-produced content and deterministic recombination. It has the advantage of easily passing the ear test when the stems come from experienced techno producers and are mixed and mastered properly. However, it shifts your technical and legal challenges into the domains of content acquisition and licensing: you must either commission bespoke stem packs or buy them under licenses that explicitly allow embedding in an app as a runtime library, something many off-the-shelf sample packs do not allow.\n\nLegal considerations intersect differently with each of these categories. Local open-source models such as ACE-Step 1.5, released under the MIT license, typically grant you broad rights to use, modify, and redistribute the software and weights, and model cards can clarify that generated music can be used commercially because the training data is legally compliant and consists of licensed, royalty-free, or public domain material.[2][5][6][10] In this case, your main legal questions are about how you prompt and whether you inadvertently produce content too close to specific copyrighted works. By contrast, cloud APIs such as Stable Audio 2.5 and Mubert\u2019s engine come with service terms that control not only how you call the model but also what you may do with the outputs, often granting royalty-free sync rights for videos, apps, and games while forbidding resale as stock music or use in competing services.[7][13][18][19] You must study these terms closely, because using such services to build an AI-powered focus music app enters a grey zone between normal content creator usage and building a competing audio service.\n\nConsumer-facing AI music platforms such as Suno, Udio, Beatoven, and Soundraw typically fall into yet another legal pattern. Their terms are written for content creators who want to use AI music as background tracks in videos or to release songs, not for developers who want to embed generated audio into an app as a dynamic service. For example, recent analyses of Suno\u2019s commercial terms show that while paid subscribers may be assigned ownership of their outputs, commercial exploitation is only permitted for outputs that have been downloaded via an official channel and in accordance with download allocations for each service tier, with free plans limited to seven lifetime non-commercial downloads and Pro and Premier plans offering capped monthly download counts.[11][12] Suno\u2019s terms also prohibit using outputs to compete with Suno, and explicitly state that you may not commercially exploit outputs obtained by stream ripping or other non-official means.[11][12][20] Udio\u2019s terms go even further in the restrictive direction, stating that Udio and its licensors own all rights in the service and generated works, and that users may only use outputs for personal and non-commercial purposes unless the service explicitly permits otherwise.[14][17] Such terms strongly disfavor using these services as engines for another app\u2019s paid music library.\n\nBeyond legal status, the **musical structure requirements** of hypnotic focus techno must shape your choice of tools. Many general-purpose AI music systems are trained heavily on songs with strong melodic and structural arcs, including pop, rock, and cinematic genres, and they tend to generate verse\u2013chorus-bridge forms with vocals, drops, and builds unless carefully steered. Google\u2019s Lyria 3 Pro model, for instance, is explicitly described as being able to generate multi-minute songs with distinct verses, choruses, and bridges, with prompts controlling key, mood, and duration, and even timestamped event control.[9] While this is powerful, it is the opposite of what you want: you need long spans of subtle evolution with no obvious thematic \u201cevents.\u201d By contrast, Lyria RealTime is designed for continuous instrumental generation with real-time control of tempo, density, and brightness, and session lengths of up to ten minutes,[15] which aligns much better with your intended use, provided you can control its harmonic and timbral tendencies to land in the dub techno aesthetic.\n\nFinally, the **practical operational model** matters. Cloud APIs like Stable Audio 2.5 run entirely on the provider\u2019s infrastructure and charge per generation; Stable Audio 2.5, for example, is priced on the Stability Developer Platform at twenty cents per generation regardless of duration, with authentication via API key.[7] At 500 generations per month, that implies around one hundred dollars per month, which is within your budget. Local models like ACE-Step 1.5 run entirely on your Mac mini, requiring careful optimization and possibly some quantization or CPU offloading to fit within 24 GB of memory, but incurring no per-track costs once installed.[2][5][6] Hybrid sample-based engines built on commissioned stems require no heavy compute but depend on upfront or ongoing payments to human producers, as well as storage and bandwidth for the audio assets.\n\nWith these dimensions in mind, the next section ranks a shortlist of up to six tools or engines that plausibly fit your use case, and evaluates each with respect to driving method, quality evidence for minimal/dub techno, controllability, output continuity, licensing for in-app use, per-month cost at 500 renders, and setup effort.\n\n## 3. Ranked Shortlist of Candidate Engines for Hypnotic Techno (Part A)\n\n### 3.1 ACE-Step 1.5 XL: Local, MIT-Licensed Music Foundation Model\n\nACE-Step 1.5 XL is the most promising core engine for your app because it combines three critical properties: it is open source under the MIT license, it is architected for efficient local inference on consumer hardware, and it was designed explicitly as a **music foundation model** capable of high-fidelity multi-genre generation that benchmarks above top commercial systems such as Suno v5 on standard music evaluation metrics.[1][2][5][6][10] The XL variant introduces a 4-billion-parameter Diffusion Transformer decoder that requires roughly nine gigabytes of VRAM for weights and is reported to achieve higher audio quality than the smaller 2B model, with recommended VRAM of at least twelve gigabytes with offloading or twenty gigabytes without, something your 24 GB Mac mini can approximate via efficient CPU\u2013GPU memory management.[1][2] Public reports and demos on Hugging Face emphasize that ACE-Step 1.5 can generate coherent, high-fidelity, full-length songs across genres with fast generation times\u2014under ten seconds for a full track on an RTX 3090\u2014and that it features a hybrid LM\u2013DiT architecture optimized for local deployment.[2][6]\n\nDriving ACE-Step 1.5 XL can be done entirely locally through a Gradio-based web user interface or via a Python API, with installation instructions provided in both the GitHub repository and the Hugging Face demo README.[1][2][6] The recommended local installation involves cloning the GitHub repository, installing dependencies using a tool like `uv sync` or `pip install -e .`, and then launching either a Gradio web UI (`uv run acestep`) or a REST API server (`uv run acestep-api`) listening on localhost.[1][2][6] Once running, you can issue text prompts that describe the desired style, mood, and structure, optionally including lyrics that the LM planner uses when constructing its song blueprint, though in your case you would specify instrumental-only prompting. The architecture, in which the LM planner converts simple user queries into detailed song blueprints and feeds these to the DiT decoder, is especially appealing for your task because it naturally supports controlling structural aspects such as section length, density, and arrangement, even if the default prompt templates are song-oriented.[6]\n\nRegarding **quality for minimal/dub techno**, there is limited genre-specific evaluation in the public documentation, but several lines of evidence support its suitability. First, the ACE-Step team reports that on commonly used evaluation metrics, ACE-Step v1.5 achieves quality beyond most commercial music models while remaining extremely fast, and the XL 4B DiT is described as providing \u201chigher audio quality\u201d compared to the 2B variant.[2] A Japanese technical blog that tested ACE-Step 1.5 XL on various genres notes that benchmarks claim it surpasses Suno v5 on all song-level metrics and concludes that ACE-Step 1.5 XL is currently the strongest choice among open-source music generative models with MIT-licensed commercial use rights.[5] While this blog does not focus specifically on dub techno, it notes that ACE-Step\u2019s LM planner plus DiT decoder can capture diverse structures, and their testing found that in many cases the quality was comparable to Suno\u2019s and that the ability to run locally offered significant creative freedom.[5] Given that techno and house are common genres in modern generative music datasets, and that ACE-Step\u2019s training data includes licensed and royalty-free music as well as synthetic MIDI-to-audio data, it is extremely likely that minimal and dub techno styles are within its learned space.[10]\n\nControllability is a mixed story but likely sufficient for your needs. ACE-Step uses natural language prompts as its primary control mechanism, and while its documentation emphasizes genre, mood, and task controls (such as text-to-music, cover, repaint, and extract), it does not yet expose an explicit BPM parameter at the model level in the way Lyria RealTime does.[2][6][10] However, prompt engineering practices from other systems, such as Suno, suggest that specifying an exact BPM in the textual prompt significantly influences the tempo, especially for techno where tempo is a core stylistic feature.[8] You can therefore craft prompts such as \u201cminimal dub techno, 118 BPM, deep steady four-on-the-floor kick, reverb-drenched chord stabs, tape delay, spacious mix, warm sub bass, hypnotic and atmospheric, instrumental only\u201d to bias the model towards the right tempo and mood, borrowing language from the techno prompt guides used for other models.[8] The LM planner\u2019s ability to generate chain-of-thought style blueprints including structure and internal captions may further help the DiT decoder maintain a consistent groove and texture over longer durations, though careful evaluation is needed.[6]\n\nRegarding **output length and continuity**, ACE-Step can generate full songs, and the LM planner is reported to scale from short loops to ten-minute compositions.[6] This is particularly relevant for your 1\u20133 hour sessions: although generating continuous three-hour audio is impractical, you can pre-generate or stream-generate a sequence of coherent ten-minute segments and crossfade them in your runtime engine. Because the model supports text-to-music and \u201clego\u201d or \u201ccomplete\u201d tasks that allow combining or extending audio segments, there is also potential to stitch together segments with overlapping content to improve continuity.[6][10] Practically, for an MVP, you can treat ACE-Step as a generator of high-quality ten-minute \u201cblocks\u201d that your app sequences with gentle transitions, creating the illusion of infinite flow while still operating within the model\u2019s sweet spot.\n\nLegally, ACE-Step 1.5 XL stands out as one of the few models whose license and training data story are fully aligned with your needs. The project is released under the MIT license, a permissive open-source license that allows use, modification, distribution, and private or commercial deployment of the software and associated weights.[2][6] The XL SFT model card explicitly states that ACE-Step 1.5 was trained on legally compliant datasets, including licensed music, royalty-free or public domain recordings, and synthetic MIDI-to-audio data, and highlights that generated music can be used for commercial purposes.[10] It also describes the model as \u201ccommercial-ready\u201d and emphasizes safe training data.[10] A Japanese review reiterates that ACE-Step 1.5 XL is MIT-licensed and commercially usable, making it a prime choice among open models for developers wanting to embed music generation in products.[5] Because you would be running ACE-Step locally, you are not subject to the provider\u2019s service terms beyond the MIT license, and you can treat the generated music as your own works, subject only to general copyright law and any model-specific disclaimers.\n\nIn terms of **cost at 500 renders per month**, ACE-Step incurs no per-render pricing since it runs on your own hardware. Your costs are limited to electricity and any opportunity costs of using the Mac mini\u2019s resources, all of which fall well within your budget. Compute performance on an M-series Mac with 24 GB of memory will not match an RTX 3090, but ACE-Step\u2019s base models are optimized for consumer hardware, and the documentation indicates that even XL can be run with memory offload and quantization on hardware with 12 GB of VRAM or equivalent memory.[1][2][6] Even if each ten-minute segment takes several minutes to generate, you can pre-render a catalog of segments offline and then use them in the app, avoiding real-time latency constraints.\n\nSetup effort is moderate but manageable, especially given your comfort with AI coding agents. The GitHub repository provides turn-key scripts for Windows, Linux, and macOS, including a macOS Apple Silicon launcher that sets execute permissions and runs a Gradio UI, downloading models on the first run.[1] The Hugging Face README describes an alternative installation path using the `uv` package manager and a simple `uv run acestep` command to start the UI or API.[6] Integrating ACE-Step into your app\u2019s backend will require writing a thin orchestration layer in Python or another language to call the local API, manage prompts, and store generated files or streams. None of this demands low-level DSP or GPU programming, and skills like prompt design and curation will likely be more critical than coding.\n\nTaken together, ACE-Step 1.5 XL is your **top-ranked** engine because it marries high reported quality, explicit commercial usability, local deployment, and a strong architectural fit for your style of music. It is the single tool most likely to give you an ear-test winner within days, while also underpinning a legally robust, scalable runtime engine.\n\n### 3.2 Google Lyria RealTime and Lyria 3: Streaming and Clip-Based Generative Music\n\nGoogle\u2019s Lyria family consists of two related offerings: the **Lyria 3** Clip and Pro models accessed via the Gemini API, and the experimental **Lyria RealTime** model accessed via WebSocket for real-time interactive music generation.[9][15] Both produce 44.1 kHz stereo audio from text prompts, with the Pro model capable of full-length songs of a couple of minutes and the Clip model generating fixed 30-second clips.[9] For your specific use case of hypnotic techno, Lyria RealTime is the more interesting of the two, because it is designed for continuous instrumental generation with user control over musical parameters in real time.[15]\n\nLyria 3 Clip is primarily a content-creation tool: a developer can call the generateContent API with `model=\"lyria-3-clip-preview\"` and a textual description, and the model returns a 30-second clip in the requested style.[9] The Pro model can create multi-minute compositions with clear song structures\u2014verses, choruses, and bridges\u2014and supports specifying the desired length in the prompt or by using timestamps to define the structure.[9] Both Clip and Pro allow additional prompt parameters such as key or scale (for example \u201cin G major\u201d or \u201cD minor\u201d), mood and atmosphere descriptors (\u201cnostalgic,\u201d \u201caggressive,\u201d \u201cethereal\u201d), and duration.[9] For techno, these controls allow you to specify tempo ranges (e.g., \u201ccreate a 2-minute minimal dub techno track at 120 BPM with deep, spacious atmosphere\u201d) and ensure the music stays in an appropriate key and mood. However, because Pro is oriented towards songs with distinct sections, you must take care in prompt engineering to suppress big builds or bridges and emphasize a \u201cloop-like,\u201d \u201csteady,\u201d or \u201cgradual\u201d structure to avoid interruptions to focus.\n\nLyria RealTime, by contrast, is purpose-built for interactive, continuous music. The RealTime guide describes how developers can connect via bidirectional WebSocket to a `models/lyria-realtime-exp` endpoint and stream text prompts and parameter adjustments while receiving a continuous stream of generated audio.[15] Lyria RealTime supports real-time control over parameters such as tempo, density, and brightness, allowing you to adjust energy and texture live.[15] Sessions are limited to ten minutes and are instrumental-only, which aligns with your need for non-vocal, non-lyrical focus music.[15] The documentation notes that all audio output carries an inaudible digital watermark from Google\u2019s SynthID, and it explicitly advises developers to check license conditions before commercial distribution.[15] It also notes that for a continuous experience beyond ten minutes, developers must implement logic to seamlessly start a new session before the previous one reaches the ten-minute limit and crossfade between sessions.[15]\n\nIn terms of **quality for minimal/dub techno**, public demos of Lyria and related models have shown strong results in a wide range of genres, and the control over tempo and density in RealTime should, in principle, allow you to create stable, mid-tempo techno grooves with low density and deep atmospheres. The ability to adjust brightness can help keep the sound dark and restrained, avoiding bright leads or melodic content that might distract. However, unlike ACE-Step, Lyria is not open source, and the training data and genre coverage details are less transparent. There is also less community documentation, as Lyria\u2019s APIs are relatively new and still evolving, compared to the large ecosystem around Suno or open models.\n\nRegarding **controllability and continuity**, Lyria RealTime is arguably the best-in-class among cloud models. Tempo is a first-class parameter, which is rare, and you can keep a session running for ten minutes with live modification of density and brightness.[15] By chaining sessions and crossfading, you can approximate infinite continuous music. Lyria 3 Pro offers structural control via timestamps, letting you specify what happens at particular moments (for example, a subtle change in chords at 1:00 or a break in percussion at 2:30), which is powerful but requires careful design to avoid traditional \u201csong-y\u201d structures that break the hypnotic feel.[9]\n\nThe main challenges",
+    "refusal": null,
+    "reasoning": null,
+    "annotations": [
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://habr.com/ru/articles/1020522/",
+       "title": "ACE-Step 1.5 \u043e\u0431\u0445\u043e\u0434\u0438\u0442 Suno \u043d\u0430 \u0431\u0435\u043d\u0447\u043c\u0430\u0440\u043a\u0430\u0445",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://github.com/ace-step/ACE-Step-1.5",
+       "title": "ACE-Step 1.5",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://www.beatoven.ai/tos",
+       "title": "Terms of Use - Beatoven.ai",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://soundraw.io/terms",
+       "title": "Terms of Service - AI Music Generator SOUNDRAW",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://pareido.jp/architecture/ai/ai-music/ace-step-15-xl-music-generation/",
+       "title": "\u5546\u7528\u5229\u7528OK\u306e\u97f3\u697d\u751f\u6210AI\u300cACE-Step 1.5 XL\u300d\u3092\u8a66\u3057\u3066\u307f\u305f",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5/blob/main/README.md",
+       "title": "README.md \u00b7 ACE-Step/Ace-Step-v1.5 at main - Hugging Face",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://apis.io/providers/stability-audio/",
+       "title": "Stability Audio | APIs.io Providers",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://hookgenius.app/learn/suno-techno-prompts/",
+       "title": "Suno Techno Prompts: Minimal, Peak-Time & Acid ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://ai.google.dev/gemini-api/docs/generate-content/music-generation",
+       "title": "Generate music with Lyria 3 - generateContent API | Google AI ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-sft",
+       "title": "ACE-Step/acestep-v15-xl-sft",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://sunnoai.com/general-commercial-terms/",
+       "title": "General Commercial Terms for Suno AI",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://suno.com/terms-september-2026",
+       "title": "Terms of Service",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://mubert.com/api/use-cases/developers",
+       "title": "Music API for Developers - Mubert",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://musicmake.ai/blog/udio-terms-of-service-commercial-use-2026",
+       "title": "Udio 2026 Terms of Service: Commercial Use, Ownership ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://zenn.dev/kai_kou/articles/208-lyria-realtime-websocket-music-streaming-guide?locale=en",
+       "title": "Introduction to Lyria RealTime: Real-Time AI Music ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://mubert.com/api/docs",
+       "title": "Mubert API Docs \u2014 AI Music Generation API Documentation",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://www.udio.com/terms-of-service",
+       "title": "Udio Terms of Service - Know Your Rights",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://mubert.com/render/faq",
+       "title": "Frequently Asked Questions (FAQ) | Mubert",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://mubert.com/render/license",
+       "title": "Mubert Music License \u2014 Terms of Use for AI-Generated ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://suno.com/terms-of-service",
+       "title": "Terms of Service - Suno AI",
+       "start_index": 0,
+       "end_index": 0
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 904,
+  "completion_tokens": 5978,
+  "total_tokens": 6882,
+  "cost": 0.85397,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.85397,
+   "upstream_inference_prompt_cost": 0.001808,
+   "upstream_inference_completions_cost": 0.852162
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ }
+}
