@@ -123,3 +123,7 @@ whether the stems are technically usable, and it is not resolved by this test.
 | **Total against the $3 cap** | 7 API calls of a hard cap of 8 | **≈$0.90** |
 
 No call failed; no retry was needed; one call of the eight-call budget is unspent.
+
+## Unblinded first listen (Daniel, 2026-09-02)
+
+Heard `el-a-1.mp3` and `el-b-2.mp3` unblinded, as a ballpark check only: "for the first shot, really good!" Not a test result; these two clips are now known to him and must be excluded from the blind set.
