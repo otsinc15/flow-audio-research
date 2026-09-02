@@ -137,3 +137,11 @@ Follow-up feedback (Daniel): "definitely elements that need to be worked on — 
 - Reading: timbre/texture acceptable, temporal structure absent. Consistent with a 400M-param real-time model that has no beat grid. Magenta is not a candidate as a whole-track source; at most a texture-stem source layered over a coded rhythm section.
 - Effect on the blind set: mrt2-a-1 is now known to Daniel → excluded. Remaining mrt2 clips only enter Gate 1 if an objective rhythm screen (tempo peak ratio, beat-interval CV) passes.
 - Synth arm not yet auditioned by Daniel at this point.
+
+## 2026-09-02 ~03:30 CEST — Daniel, unblinded, headphones: first coded-synthesis clip
+
+- File: `synth-a-11.wav` (arm 2, Palette A, mastered −14 LUFS copy).
+- Verdict, verbatim: "not bad at all."
+- Reading: the rhythm section and structure from code work; the remaining lever is sound quality (thickness/warmth/organic drift), i.e. the sound source, not the sequencer. Direction for arm 2: keep the grid and stem layout, swap the numpy tones for real synth/drum-machine emulations once the instrument research ranks a pip-only, licence-clean stack.
+- Effect on the blind set: synth-a-11 is now known to Daniel → excluded (joins el-a-1, el-b-2, mrt2-a-1).
+- Score so far, unblinded, one clip each: ElevenLabs "really good for a first shot, but thin"; Magenta "no rhythm, sounds wrong"; coded synthesis "not bad at all."
