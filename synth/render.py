@@ -56,19 +56,19 @@ VARIANT_SPECS = {
                chord_width=0.60, verb_seconds=1.7,
                sub_drive=3.2, bass_oct=0.45, bass_body=0.20, kick_body=1.25, kick_decay=1.30,
                bass_glue=1.50,
-               motif_on=True, motif=0.85, motif_send=1.10, motif_oct=0.30,
+               motif_on=True, motif=0.85, motif_send=1.10, motif_oct=0.30, motif_fixed=True,
                feedback=0.58, repeats=14),
     "v2": dict(pad=0.28, stab=0.45, chord_verb=0.05, chord_delay_send=0.16,
                chord_width=0.45, verb_seconds=1.5,
                sub_drive=3.8, bass_oct=0.60, bass_body=0.55, kick_body=1.50, kick_decay=1.55,
                bass_glue=1.80,
-               motif_on=True, motif=1.50, motif_send=1.60, motif_oct=0.50,
+               motif_on=True, motif=1.50, motif_send=1.60, motif_oct=0.50, motif_fixed=True,
                feedback=0.64, repeats=16),
     "v3": dict(pad=0.06, stab=0.12, chord_verb=0.02, chord_delay_send=0.06,
                chord_width=0.35, verb_seconds=1.4,
                sub_drive=4.2, bass_oct=0.75, bass_body=0.60, kick_body=1.70, kick_decay=1.75,
                bass_glue=2.00,
-               motif_on=True, motif=1.70, motif_send=1.85, motif_oct=0.70,
+               motif_on=True, motif=1.70, motif_send=1.85, motif_oct=0.70, motif_fixed=True,
                feedback=0.68, repeats=18, sparse_fx=True),
 }
 
@@ -82,7 +82,7 @@ def variant_params(palette, variant):
                 sub_drive=2.6, bass_oct=0.0, bass_body=0.0, kick_body=1.0, kick_decay=1.0,
                 bass_glue=0.0,
                 motif_on=(palette == "b"), motif=0.90, motif_send=1.20,
-                motif_oct=0.0,
+                motif_oct=0.0, motif_fixed=False,
                 feedback=(0.52 if palette == "a" else 0.62), repeats=12,
                 sparse_fx=False)
     if variant:
@@ -253,13 +253,25 @@ def render_clip(palette, seed, bpm, seconds=60.0, variant=None):
 
     # ---- motif: 2-3 notes, one key, no runs. The echoes make the rhythm. -----
     if V["motif_on"]:
-        motif_steps, motif_notes = [0.0, 1.75, 2.5], [1.0, m3, p5]
+        if V["motif_fixed"]:
+            # ONE phrase: three notes, same pitches, same positions, every bar,
+            # for the whole clip. The previous generation gated the third note to
+            # every fourth bar and let a dotted-eighth echo smear the result;
+            # Daniel's verdict was "like a drunk child pressing buttons". A
+            # one-bar phrase also tiles any bar count, so the loop point is clean.
+            phrase = [(0.00, 1.0), (1.50, p5), (2.50, m3)]
+            bar_gate, note_gate = 1, ()
+        else:
+            phrase = [(0.00, 1.0), (1.75, m3), (2.50, p5)]
+            bar_gate, note_gate = 2, (2,)
+        motif_steps = [st for st, _ in phrase]
+        motif_notes = [r for _, r in phrase]
         mn = int(0.7 * SR)
         for b in range(bars):
-            if b % 2 != 0:
+            if b % bar_gate != 0:
                 continue
             for i, st in enumerate(motif_steps):
-                if i == 2 and (b % 4 != 0):
+                if i in note_gate and (b % 4 != 0):
                     continue
                 f = root * 4 * motif_notes[i]
                 v = (dsp.saw(f, mn, max_hz=4200.0, phase0=phases[i]) * 0.6
@@ -435,8 +447,13 @@ def bass_glue(kick, sub, drive):
 
 
 def render_and_write(palette, seed, bpm, outdir, name=None, stems_dir=None,
-                     unmastered_lufs=-16.0, mastered_lufs=-14.0, variant=None):
-    buses, meta = render_clip(palette, seed, bpm, variant=variant)
+                     unmastered_lufs=-16.0, mastered_lufs=-14.0, variant=None,
+                     engine="numpy"):
+    if engine == "surge":
+        from surge_engine import render_surge_clip
+        buses, meta = render_surge_clip(palette, seed, bpm, variant=variant)
+    else:
+        buses, meta = render_clip(palette, seed, bpm, variant=variant)
     gains = balance(buses, bounds=VARIANT_GAIN_BOUNDS if variant else GAIN_BOUNDS)
     scaled = {k: gains[k] * buses[k] for k in BUSES}
     glue = meta["variant_params"]["bass_glue"]
@@ -491,9 +508,12 @@ def main():
     ap.add_argument("--out", default="./out")
     ap.add_argument("--name", default=None)
     ap.add_argument("--variant", default=None, choices=sorted(VARIANT_SPECS))
+    ap.add_argument("--engine", default="numpy", choices=["numpy", "surge"],
+                    help="numpy = the original oscillators (earlier clips "
+                         "reproduce byte for byte); surge = Surge XT + Faust")
     args = ap.parse_args()
     p, meta = render_and_write(args.palette, args.seed, args.bpm, args.out, args.name,
-                               variant=args.variant)
+                               variant=args.variant, engine=args.engine)
     print(json.dumps({"wav": p, **meta}, indent=1))
 
 
