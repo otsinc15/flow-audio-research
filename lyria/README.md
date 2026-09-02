@@ -113,6 +113,62 @@ Safety-filtered prompts arrive as `filtered_prompt` on the server message and
 are logged loudly — a filtered prompt is *silently ignored* by the model
 otherwise.
 
+## The other Lyria models (not used here)
+
+Per https://ai.google.dev/gemini-api/docs/music-generation, the Gemini API also
+exposes two **Lyria 3** models. They are a different product to Lyria RealTime
+and are *not* rendered by this harness:
+
+| | `lyria-3-clip-preview` | `lyria-3-pro-preview` |
+| --- | --- | --- |
+| Best for | short clips, loops, previews | full songs with verses/choruses |
+| Duration | always 30 s | "a couple of minutes", steered by prompt |
+| Output | MP3, 44.1 kHz stereo | MP3, 44.1 kHz stereo |
+| API | Interactions API (`interactions.create`) | same |
+| Input | text **and images** | text and images |
+
+**Neither accepts a structured `bpm` or instrumental control.** There is no
+config object at all — the docs' only guidance is "Be specific. Vague prompts
+produce generic results. Mention instruments, BPM, key, mood, and structure for
+the best output." So tempo and key are *prose inside the prompt*, not parameters,
+and there is nothing equivalent to `density`, `brightness`, `scale` or
+`mute_drums`.
+
+They also **sing by default**: the response returns generated lyrics alongside
+the audio (`interaction.output_text`), and instrumental-only has to be asked for
+in words. Generation is single-turn — "Iterative editing or refining a generated
+clip through multiple prompts is not supported" — so there is no mid-stream
+steering, and results are explicitly non-deterministic between calls.
+
+For a continuously-steered functional-audio product that shape is wrong, which is
+why the ear test uses Lyria RealTime. Both Lyria 3 models watermark with SynthID.
+
+## Terms
+
+Google's Gemini API [Additional Terms of Service](https://ai.google.dev/gemini-api/terms)
+on ownership of generated output:
+
+> "Google won't claim ownership over that content. You acknowledge that Google
+> may generate the same or similar content for others and that we reserve all
+> rights to do so."
+
+and on responsibility:
+
+> "You're responsible for your use of generated content, and for the use of that
+> content by anyone you share it with."
+
+**No explicit commercial-use grant or prohibition for music output was found**
+on either Lyria page or in those terms — the terms neither authorise nor forbid
+commercial use in so many words, and they place no production/commercial
+restriction on Preview or Experimental models beyond "The Services include
+experimental technology and may sometimes provide inaccurate or offensive
+content." Data handling does differ by tier: on unpaid use "Google uses the
+content you submit to the Services and any generated responses to provide,
+improve, and develop Google products and services and machine learning
+technologies", whereas on paid use "Google doesn't use your prompts ... or
+responses to improve our products." Treat commercial licensing as an open
+question needing Google's own confirmation before anything ships.
+
 ## Notes and gotchas
 
 - **API version is load-bearing.** The SDK builds the socket URL as
@@ -126,5 +182,20 @@ otherwise.
   seam, logged). No chunk for 30 s counts as a drop.
 - **No session length limit is documented** on either page. Assume long runs may
   be cut and rely on the reconnect path.
+
+Observed live on 2026-09-02 (laptop, single API key):
+
+- `v1alpha` is the version that actually works. `v1beta` — what the docs' Python
+  sample shows — returns **HTTP 404** on the websocket upgrade.
+- Real `mime_type` on the wire is `audio/l16;rate=48000;channels=2`, confirming
+  48 kHz stereo. Chunks arrive roughly every 2 s of audio.
+- **It does not stream at 1x realtime**: 90 s of audio took ~125 s of wall clock,
+  with inter-chunk gaps up to ~5 s. Budget ~1.4x the clip length per render.
+- Sessions drop with `APIError: 1006 abnormal closure [internal]` at random.
+  This is transient — a 60 s and several 90 s renders completed clean afterwards
+  — but it is frequent enough that the reconnect path is load-bearing, not
+  decorative. A reconnect restarts the model's musical context, so the seam is
+  audible; the stats JSON reports `reconnects` per clip so a seamed clip can be
+  thrown out rather than trusted.
 - Lyria RealTime is **text-only**. Never send reference audio — there is no
   input for it, and the licensing questions that come with it stay off the table.

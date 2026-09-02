@@ -409,6 +409,8 @@ class Recorder:
     def abort(self) -> None:
         with contextlib.suppress(Exception):
             self.fh.close()
+        if self.bytes_written == 0:
+            self.part.unlink(missing_ok=True)
 
 
 async def _apply_step(session, step: dict[str, Any], config: dict[str, Any], rec: Recorder) -> None:
@@ -445,7 +447,9 @@ async def render_clip(spec: ClipSpec, client_factory, verbose: bool) -> dict[str
     api_version_used: str | None = None
 
     while True:
-        client, api_version_used = client_factory()
+        client, api_version_used = client_factory(
+            advance=reconnects > 0 and rec.bytes_written == 0
+        )
         connect_at = time.monotonic()
         try:
             async with client.aio.live.music.connect(model=MODEL) as session:
@@ -483,6 +487,7 @@ async def render_clip(spec: ClipSpec, client_factory, verbose: bool) -> dict[str
                     now = time.monotonic()
                     if first_chunk_latency is None:
                         first_chunk_latency = now - connect_at
+                        client_factory.lock()
                         log(f"  first audio chunk after {first_chunk_latency:.2f}s")
                     else:
                         max_gap = max(max_gap, now - last_chunk_at)
@@ -558,21 +563,33 @@ async def render_clip(spec: ClipSpec, client_factory, verbose: bool) -> dict[str
 
 
 def make_client_factory(api_key: str, api_version: str):
-    """Returns a callable producing (client, api_version). Falls back from the
-    requested API version to the one the current docs use, once."""
-    state = {"version": api_version, "tried_fallback": api_version == FALLBACK_API_VERSION}
+    """Returns a callable producing (client, api_version).
 
-    def factory():
-        version = state["version"]
+    Tries the requested API version, and falls back to the one the current docs
+    use ONLY while no version has ever produced audio. Once one works it is
+    latched for the rest of the run -- otherwise a mid-stream drop on a working
+    version would push every later connection onto a version that 404s.
+    """
+    versions = [api_version]
+    if api_version != FALLBACK_API_VERSION:
+        versions.append(FALLBACK_API_VERSION)
+    state = {"idx": 0, "locked": False}
+
+    def factory(advance: bool = False):
+        if advance and not state["locked"] and state["idx"] + 1 < len(versions):
+            state["idx"] += 1
+            log(f"  trying api_version={versions[state['idx']]}")
+        version = versions[state["idx"]]
         client = genai.Client(
             api_key=api_key,
             http_options=types.HttpOptions(api_version=version),
         )
-        if not state["tried_fallback"]:
-            state["version"] = FALLBACK_API_VERSION
-            state["tried_fallback"] = True
         return client, version
 
+    def lock() -> None:
+        state["locked"] = True
+
+    factory.lock = lock  # type: ignore[attr-defined]
     return factory
 
 
