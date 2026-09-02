@@ -1,0 +1,25 @@
+URL: https://pypi.org/pypi/pyo/json
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 114904
+----
+name: pyo
+latest version: 1.0.5
+license: 'LGPLv3+'
+license classifiers: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+requires_python: >=3.7, <4
+summary: Python module to build digital signal processing program.
+project_urls: {'Bug Tracker': 'https://github.com/belangeo/pyo/issues', 'Documentation': 'http://ajaxsoundstudio.com/pyodoc/', 'Homepage': 'http://ajaxsoundstudio.com/software/pyo/', 'Source Code': 'https://github.com/belangeo/pyo'}
+upload_time (latest ver): 2023-03-26T13:46:30
+--- macOS wheels for latest version ---
+pyo-1.0.5-cp310-cp310-macosx_12_0_x86_64.whl
+pyo-1.0.5-cp310-cp310-macosx_13_0_arm64.whl
+pyo-1.0.5-cp311-cp311-macosx_12_0_x86_64.whl
+pyo-1.0.5-cp311-cp311-macosx_13_0_arm64.whl
+pyo-1.0.5-cp37-cp37m-macosx_12_0_x86_64.whl
+pyo-1.0.5-cp38-cp38-macosx_12_0_x86_64.whl
+pyo-1.0.5-cp38-cp38-macosx_13_0_arm64.whl
+pyo-1.0.5-cp39-cp39-macosx_12_0_x86_64.whl
+pyo-1.0.5-cp39-cp39-macosx_13_0_arm64.whl
+(total files 19; sdist: True)

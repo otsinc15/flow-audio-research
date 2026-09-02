@@ -1,0 +1,600 @@
+URL: https://api.github.com/repos/pichenettes/eurorack/contents/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 29088
+----
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "ad9283369cfdcd313cf434c5b038813c008769dc",
+    "size": 400,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/ad9283369cfdcd313cf434c5b038813c008769dc",
+    "download_url": "https://raw.githubusercontent.com/pichenettes/eurorack/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/ad9283369cfdcd313cf434c5b038813c008769dc",
+      "html": "https://github.com/pichenettes/eurorack/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".gitmodules",
+    "path": ".gitmodules",
+    "sha": "a1cd9a9a66edcd917f4d19f3a78403df688e32ed",
+    "size": 509,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/.gitmodules?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/blob/master/.gitmodules",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/a1cd9a9a66edcd917f4d19f3a78403df688e32ed",
+    "download_url": "https://raw.githubusercontent.com/pichenettes/eurorack/master/.gitmodules",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/.gitmodules?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/a1cd9a9a66edcd917f4d19f3a78403df688e32ed",
+      "html": "https://github.com/pichenettes/eurorack/blob/master/.gitmodules"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "c856944313c832b7d020eabfd38a28c6cccba281",
+    "size": 2749,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/README.md?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/c856944313c832b7d020eabfd38a28c6cccba281",
+    "download_url": "https://raw.githubusercontent.com/pichenettes/eurorack/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/c856944313c832b7d020eabfd38a28c6cccba281",
+      "html": "https://github.com/pichenettes/eurorack/blob/master/README.md"
+    }
+  },
+  {
+    "name": "__init__.py",
+    "path": "__init__.py",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/__init__.py?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/blob/master/__init__.py",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/pichenettes/eurorack/master/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/__init__.py?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/pichenettes/eurorack/blob/master/__init__.py"
+    }
+  },
+  {
+    "name": "avr_audio_bootloader",
+    "path": "avr_audio_bootloader",
+    "sha": "0de2be5928afdf7fb3e5ada60544ed6c15ab808f",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/avr_audio_bootloader?ref=master",
+    "html_url": "https://github.com/pichenettes/avr-audio-bootloader/tree/0de2be5928afdf7fb3e5ada60544ed6c15ab808f",
+    "git_url": "https://api.github.com/repos/pichenettes/avr-audio-bootloader/git/trees/0de2be5928afdf7fb3e5ada60544ed6c15ab808f",
+    "download_url": null,
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/avr_audio_bootloader?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/avr-audio-bootloader/git/trees/0de2be5928afdf7fb3e5ada60544ed6c15ab808f",
+      "html": "https://github.com/pichenettes/avr-audio-bootloader/tree/0de2be5928afdf7fb3e5ada60544ed6c15ab808f"
+    }
+  },
+  {
+    "name": "avrlib",
+    "path": "avrlib",
+    "sha": "276b2887e4110ca913294fcbb313163dfb28a448",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/avrlib?ref=master",
+    "html_url": "https://github.com/pichenettes/avril/tree/276b2887e4110ca913294fcbb313163dfb28a448",
+    "git_url": "https://api.github.com/repos/pichenettes/avril/git/trees/276b2887e4110ca913294fcbb313163dfb28a448",
+    "download_url": null,
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/avrlib?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/avril/git/trees/276b2887e4110ca913294fcbb313163dfb28a448",
+      "html": "https://github.com/pichenettes/avril/tree/276b2887e4110ca913294fcbb313163dfb28a448"
+    }
+  },
+  {
+    "name": "avrlibx",
+    "path": "avrlibx",
+    "sha": "868d6e74eb8555f9575b5149202256156e5c03fa",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/avrlibx?ref=master",
+    "html_url": "https://github.com/pichenettes/avrilx/tree/868d6e74eb8555f9575b5149202256156e5c03fa",
+    "git_url": "https://api.github.com/repos/pichenettes/avrilx/git/trees/868d6e74eb8555f9575b5149202256156e5c03fa",
+    "download_url": null,
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/avrlibx?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/avrilx/git/trees/868d6e74eb8555f9575b5149202256156e5c03fa",
+      "html": "https://github.com/pichenettes/avrilx/tree/868d6e74eb8555f9575b5149202256156e5c03fa"
+    }
+  },
+  {
+    "name": "blades",
+    "path": "blades",
+    "sha": "c49fd0b940b48209370004885478f4239405b626",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/blades?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/blades",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/c49fd0b940b48209370004885478f4239405b626",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/blades?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/c49fd0b940b48209370004885478f4239405b626",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/blades"
+    }
+  },
+  {
+    "name": "blinds",
+    "path": "blinds",
+    "sha": "8512db0c152c4711eef9ccbe56dc07d04fb6e97a",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/blinds?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/blinds",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8512db0c152c4711eef9ccbe56dc07d04fb6e97a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/blinds?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8512db0c152c4711eef9ccbe56dc07d04fb6e97a",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/blinds"
+    }
+  },
+  {
+    "name": "braids",
+    "path": "braids",
+    "sha": "32e22d4a39b14836a6e7bfe0ca6eafbf8049e45a",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/braids?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/braids",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/32e22d4a39b14836a6e7bfe0ca6eafbf8049e45a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/braids?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/32e22d4a39b14836a6e7bfe0ca6eafbf8049e45a",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/braids"
+    }
+  },
+  {
+    "name": "branches",
+    "path": "branches",
+    "sha": "8c00cd94a0ab38abe51eb43da67c0c7c8c944e52",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/branches?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/branches",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8c00cd94a0ab38abe51eb43da67c0c7c8c944e52",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/branches?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8c00cd94a0ab38abe51eb43da67c0c7c8c944e52",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/branches"
+    }
+  },
+  {
+    "name": "clouds",
+    "path": "clouds",
+    "sha": "5749a8fa3ff4f7f60ab4318e64eba337cc26e249",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/clouds?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/clouds",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/5749a8fa3ff4f7f60ab4318e64eba337cc26e249",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/clouds?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/5749a8fa3ff4f7f60ab4318e64eba337cc26e249",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/clouds"
+    }
+  },
+  {
+    "name": "ears",
+    "path": "ears",
+    "sha": "e179acf31c641cedbe9b4220f555b327c9d608d3",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/ears?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/ears",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/e179acf31c641cedbe9b4220f555b327c9d608d3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/ears?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/e179acf31c641cedbe9b4220f555b327c9d608d3",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/ears"
+    }
+  },
+  {
+    "name": "edges",
+    "path": "edges",
+    "sha": "fe9d6653a22a5927cd0a47c0578b800a648cfb83",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/edges?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/edges",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/fe9d6653a22a5927cd0a47c0578b800a648cfb83",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/edges?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/fe9d6653a22a5927cd0a47c0578b800a648cfb83",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/edges"
+    }
+  },
+  {
+    "name": "elements",
+    "path": "elements",
+    "sha": "e55a614f5d11c1a0b66a24ca7c8e71eed2743982",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/elements?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/elements",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/e55a614f5d11c1a0b66a24ca7c8e71eed2743982",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/elements?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/e55a614f5d11c1a0b66a24ca7c8e71eed2743982",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/elements"
+    }
+  },
+  {
+    "name": "frames",
+    "path": "frames",
+    "sha": "c2cfb72fd448b3fdff05ce3fcedbd120eeea84f2",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/frames?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/frames",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/c2cfb72fd448b3fdff05ce3fcedbd120eeea84f2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/frames?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/c2cfb72fd448b3fdff05ce3fcedbd120eeea84f2",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/frames"
+    }
+  },
+  {
+    "name": "grids",
+    "path": "grids",
+    "sha": "3ffe8b1717abc9fbc43de901a4c1262d11c63d5b",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/grids?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/grids",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/3ffe8b1717abc9fbc43de901a4c1262d11c63d5b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/grids?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/3ffe8b1717abc9fbc43de901a4c1262d11c63d5b",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/grids"
+    }
+  },
+  {
+    "name": "kinks",
+    "path": "kinks",
+    "sha": "15907e2230145412519ae74aac5c46ea6f8db6f4",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/kinks?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/kinks",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/15907e2230145412519ae74aac5c46ea6f8db6f4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/kinks?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/15907e2230145412519ae74aac5c46ea6f8db6f4",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/kinks"
+    }
+  },
+  {
+    "name": "links",
+    "path": "links",
+    "sha": "cd59c47a6c8526341084d11492e965a8349f08a5",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/links?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/links",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/cd59c47a6c8526341084d11492e965a8349f08a5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/links?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/cd59c47a6c8526341084d11492e965a8349f08a5",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/links"
+    }
+  },
+  {
+    "name": "marbles",
+    "path": "marbles",
+    "sha": "c3d5deb106134a728a245d83e11cfd96088f2e20",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/marbles?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/marbles",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/c3d5deb106134a728a245d83e11cfd96088f2e20",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/marbles?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/c3d5deb106134a728a245d83e11cfd96088f2e20",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/marbles"
+    }
+  },
+  {
+    "name": "peaks",
+    "path": "peaks",
+    "sha": "43ddbd3a2586d5230a72a11dc1cdbdd640b49373",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/peaks?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/peaks",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/43ddbd3a2586d5230a72a11dc1cdbdd640b49373",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/peaks?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/43ddbd3a2586d5230a72a11dc1cdbdd640b49373",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/peaks"
+    }
+  },
+  {
+    "name": "plaits",
+    "path": "plaits",
+    "sha": "87a97c835abdad80ea62dbe439b901e5250e756b",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/plaits?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/plaits",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/87a97c835abdad80ea62dbe439b901e5250e756b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/plaits?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/87a97c835abdad80ea62dbe439b901e5250e756b",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/plaits"
+    }
+  },
+  {
+    "name": "rings",
+    "path": "rings",
+    "sha": "713c6527a379a800888bbd8055af3d46b385347a",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/rings?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/rings",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/713c6527a379a800888bbd8055af3d46b385347a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/rings?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/713c6527a379a800888bbd8055af3d46b385347a",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/rings"
+    }
+  },
+  {
+    "name": "ripples",
+    "path": "ripples",
+    "sha": "3a35f7adf20c3de76990ad87238e0cca125b4793",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/ripples?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/ripples",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/3a35f7adf20c3de76990ad87238e0cca125b4793",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/ripples?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/3a35f7adf20c3de76990ad87238e0cca125b4793",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/ripples"
+    }
+  },
+  {
+    "name": "shades",
+    "path": "shades",
+    "sha": "6e97ccd0655d39f3869298aa5311c4bd63bf5e88",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/shades?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/shades",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/6e97ccd0655d39f3869298aa5311c4bd63bf5e88",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/shades?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/6e97ccd0655d39f3869298aa5311c4bd63bf5e88",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/shades"
+    }
+  },
+  {
+    "name": "shelves",
+    "path": "shelves",
+    "sha": "a2f5e085b55fc1808022b2a9e51777c0ce561f5a",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/shelves?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/shelves",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/a2f5e085b55fc1808022b2a9e51777c0ce561f5a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/shelves?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/a2f5e085b55fc1808022b2a9e51777c0ce561f5a",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/shelves"
+    }
+  },
+  {
+    "name": "stages",
+    "path": "stages",
+    "sha": "d9e87d7535e8b61cd3717fce32238f580070662e",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/stages?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/stages",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/d9e87d7535e8b61cd3717fce32238f580070662e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/stages?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/d9e87d7535e8b61cd3717fce32238f580070662e",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/stages"
+    }
+  },
+  {
+    "name": "stm_audio_bootloader",
+    "path": "stm_audio_bootloader",
+    "sha": "1ec7d6374e2d305cb710170eb80de9b66e795792",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/stm_audio_bootloader?ref=master",
+    "html_url": "https://github.com/pichenettes/stm-audio-bootloader/tree/1ec7d6374e2d305cb710170eb80de9b66e795792",
+    "git_url": "https://api.github.com/repos/pichenettes/stm-audio-bootloader/git/trees/1ec7d6374e2d305cb710170eb80de9b66e795792",
+    "download_url": null,
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/stm_audio_bootloader?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/stm-audio-bootloader/git/trees/1ec7d6374e2d305cb710170eb80de9b66e795792",
+      "html": "https://github.com/pichenettes/stm-audio-bootloader/tree/1ec7d6374e2d305cb710170eb80de9b66e795792"
+    }
+  },
+  {
+    "name": "stmlib",
+    "path": "stmlib",
+    "sha": "e3bd7c9cc00e4364166f9905c0509b6ffd0535ec",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/stmlib?ref=master",
+    "html_url": "https://github.com/pichenettes/stmlib/tree/e3bd7c9cc00e4364166f9905c0509b6ffd0535ec",
+    "git_url": "https://api.github.com/repos/pichenettes/stmlib/git/trees/e3bd7c9cc00e4364166f9905c0509b6ffd0535ec",
+    "download_url": null,
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/stmlib?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/stmlib/git/trees/e3bd7c9cc00e4364166f9905c0509b6ffd0535ec",
+      "html": "https://github.com/pichenettes/stmlib/tree/e3bd7c9cc00e4364166f9905c0509b6ffd0535ec"
+    }
+  },
+  {
+    "name": "streams",
+    "path": "streams",
+    "sha": "7c102bf301277043e83ad71008f5c3195bc8be9d",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/streams?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/streams",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/7c102bf301277043e83ad71008f5c3195bc8be9d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/streams?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/7c102bf301277043e83ad71008f5c3195bc8be9d",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/streams"
+    }
+  },
+  {
+    "name": "tides",
+    "path": "tides",
+    "sha": "944e9c7dce8d7612f70e63981b6be665674c0340",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/tides?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/tides",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/944e9c7dce8d7612f70e63981b6be665674c0340",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/tides?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/944e9c7dce8d7612f70e63981b6be665674c0340",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/tides"
+    }
+  },
+  {
+    "name": "tides2",
+    "path": "tides2",
+    "sha": "055a5aaee5325a2b950889ba44d355126c02f918",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/tides2?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/tides2",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/055a5aaee5325a2b950889ba44d355126c02f918",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/tides2?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/055a5aaee5325a2b950889ba44d355126c02f918",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/tides2"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "tools",
+    "sha": "0be1e05befce5c73d9b7433b7be5073ae164eabb",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/tools?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/tools",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/0be1e05befce5c73d9b7433b7be5073ae164eabb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/tools?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/0be1e05befce5c73d9b7433b7be5073ae164eabb",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/tools"
+    }
+  },
+  {
+    "name": "veils",
+    "path": "veils",
+    "sha": "8a78bdf42aef18f4ecf4e02649a11bdd09e627b4",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/veils?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/veils",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8a78bdf42aef18f4ecf4e02649a11bdd09e627b4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/veils?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8a78bdf42aef18f4ecf4e02649a11bdd09e627b4",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/veils"
+    }
+  },
+  {
+    "name": "volts",
+    "path": "volts",
+    "sha": "bcc491d9e0d4db32d3ca70176e04ec3028689d88",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/volts?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/volts",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/bcc491d9e0d4db32d3ca70176e04ec3028689d88",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/volts?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/bcc491d9e0d4db32d3ca70176e04ec3028689d88",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/volts"
+    }
+  },
+  {
+    "name": "warps",
+    "path": "warps",
+    "sha": "70a886dc13f52d40a5803d36df0600f98520527d",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/warps?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/warps",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/70a886dc13f52d40a5803d36df0600f98520527d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/warps?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/70a886dc13f52d40a5803d36df0600f98520527d",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/warps"
+    }
+  },
+  {
+    "name": "yarns",
+    "path": "yarns",
+    "sha": "8077830007e4408371655a07113ff00ec4ef8418",
+    "size": 0,
+    "url": "https://api.github.com/repos/pichenettes/eurorack/contents/yarns?ref=master",
+    "html_url": "https://github.com/pichenettes/eurorack/tree/master/yarns",
+    "git_url": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8077830007e4408371655a07113ff00ec4ef8418",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/pichenettes/eurorack/contents/yarns?ref=master",
+      "git": "https://api.github.com/repos/pichenettes/eurorack/git/trees/8077830007e4408371655a07113ff00ec4ef8418",
+      "html": "https://github.com/pichenettes/eurorack/tree/master/yarns"
+    }
+  }
+]

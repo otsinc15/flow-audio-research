@@ -1,0 +1,47 @@
+URL: https://www.goldbaby.co.nz/terms-and-conditions.html
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 12282
+----
+404 error 
+
+ home 
+ products 
+ formats logic pro 
+ ableton live 
+ maschine 
+ kontakt 
+ battery 
+ geist 
+ 16 bit samplers 
+ prophet x 
+ tal-sampler 
+ tal-drum 
+ other samplers 
+ 
+ free packs 
+ reviews 
+ support contact 
+ faq 
+ 
+ artists 
+ about 
+
+ view cart 
+
+ whoops! nothing here! 
+
+ © goldbaby 2021 
+
+ terms and conditions 
+
+ privacy policy 
+
+ faq 
+
+ subscribe 
+
+ We use cookies to improve your site experience. By using our website, you consent to this in accordance with the cookie section in our Privacy Policy.
+
+ privacy policy agree/close

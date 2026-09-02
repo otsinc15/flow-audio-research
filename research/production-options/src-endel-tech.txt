@@ -1,0 +1,73 @@
+URL: https://endel.io/technology
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 256816
+----
+Endel - Personalized, real-time sound generation 
+ Endel 
+ ADHD Sleep Focus Relax Activity More Try Today
+ 
+ Sign In
+
+ Menu
+
+ Personalized,
+real-time sound generation
+
+ Endel Pacific is the patented technology that powers our apps and integrations.
+
+ What makes Endel Pacific
+ By taking inputs from devices or sensors, Endel Pacific can understand context, and generate the optimal soundscape for focus, relaxation, or sleep – in real-time, on-device.
+
+ Inputs: you and your environment
+ Depending on the device and permissions, Endel Pacific can use your bedtime, natural light levels, weather, and time of day to figure out your Circadian Rhythms. There are also reactive inputs, like head position for Spatial Audio, heart rate for Apple Watch, and motion data for Activity soundscapes.
+
+ Core AI Logic
+ The engine creates a profile of the listener based on their inputs and personalizes the experience. It then maps these inputs onto the soundscape logic accordingly, using the AI-powered node system.
+
+ Sound generation
+ The sound logic and elements are pre-designed by our sound team and assigned to every soundscape. Driven by the core logic, with any input change the sound adapts on-the-fly.
+
+ Output: your device
+ Endel is available on iOS, Android, Mac, Apple Watch, Apple TV, Apple Vision Pro, Alexa, and on the web.
+
+ Endel Pacific integrations
+ Endel Pacific is built to create personalized soundscapes across multiple platforms. It’s designed for both software and hardware integrations.
+
+ Mercedes Benz Research Group
+ A one-of-a-kind Endel Car Experience. Powered by Endel AI, it’s designed to keep drivers focused and relaxed while in motion with smart, adaptive soundscapes.
+
+ Sony's Devices
+ We partnered with Sony to seamlessly integrate Endel's science-backed soundscapes with the immersive sound of Sony LinkBuds and LinkBuds S.
+
+ Amazon Music
+ Endel Pacific was used to generate an 8 hour sleep playlist for Amazon Music. The playlist follows the scientific phase of Endel’s Sleep soundscape.
+
+ Smartbeats by Smartwater
+ A special web integrated created for Smart Water. Generative soundscapes created with artists and powered by Endel’s core technology.
+
+ This is how Endel sound is generated — but why does it work?
+ Endel's functional soundscapes are scientifically designed to have a focusing, relaxing or sleep-inducing effect.
+
+ Learn More
+
+ Explore
+ ADHD Focus Sleep Relax Activity 
+ Technology
+ Science Technology Streaming Soundscapes 
+
+ About
+ Team Manifesto Newsroom Community Blog Merch 
+
+ Offers
+ Endel for Students Endel for Teams Gift Endel 
+ Download Endel
+ Endel for iOS Endel for Android Endel for Alexa Endel for Mac Endel for Web Endel for Windows 
+
+ Endel Newsletter
+ Subscribe to be first to hear about new soundscapes and features. Read stories about the Endel world and its people. Plus, life-enhancing, science-backed tips and advice.
+
+ E-mail Subscribe
+
+ Endel © 2026 Privacy Policy Impressum Support

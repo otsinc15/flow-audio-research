@@ -1,0 +1,136 @@
+URL: https://api.github.com/repos/RobinSchmidt/Open303/contents/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 6467
+----
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "81df269c55a00ed8d5f855520d0445043652a225",
+    "size": 182,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/81df269c55a00ed8d5f855520d0445043652a225",
+    "download_url": "https://raw.githubusercontent.com/RobinSchmidt/Open303/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/81df269c55a00ed8d5f855520d0445043652a225",
+      "html": "https://github.com/RobinSchmidt/Open303/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "Build",
+    "path": "Build",
+    "sha": "ae51e8aa6ffd144e83cc6d3a61dff323665db213",
+    "size": 0,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Build?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/tree/main/Build",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/ae51e8aa6ffd144e83cc6d3a61dff323665db213",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Build?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/ae51e8aa6ffd144e83cc6d3a61dff323665db213",
+      "html": "https://github.com/RobinSchmidt/Open303/tree/main/Build"
+    }
+  },
+  {
+    "name": "Libraries",
+    "path": "Libraries",
+    "sha": "88b13045941140493fb3ec3ce815c1b53e073ed7",
+    "size": 0,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Libraries?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/tree/main/Libraries",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/88b13045941140493fb3ec3ce815c1b53e073ed7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Libraries?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/88b13045941140493fb3ec3ce815c1b53e073ed7",
+      "html": "https://github.com/RobinSchmidt/Open303/tree/main/Libraries"
+    }
+  },
+  {
+    "name": "License.txt",
+    "path": "License.txt",
+    "sha": "aed797907b4806428d990bf643f7cd31f2fe43ad",
+    "size": 1185,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/License.txt?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/blob/main/License.txt",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/aed797907b4806428d990bf643f7cd31f2fe43ad",
+    "download_url": "https://raw.githubusercontent.com/RobinSchmidt/Open303/main/License.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/License.txt?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/aed797907b4806428d990bf643f7cd31f2fe43ad",
+      "html": "https://github.com/RobinSchmidt/Open303/blob/main/License.txt"
+    }
+  },
+  {
+    "name": "Notes",
+    "path": "Notes",
+    "sha": "5717c524ad34013562ea734ca0da8758abc971ec",
+    "size": 0,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Notes?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/tree/main/Notes",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/5717c524ad34013562ea734ca0da8758abc971ec",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Notes?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/5717c524ad34013562ea734ca0da8758abc971ec",
+      "html": "https://github.com/RobinSchmidt/Open303/tree/main/Notes"
+    }
+  },
+  {
+    "name": "ReadMe.md",
+    "path": "ReadMe.md",
+    "sha": "1761de3726b0ad7bea7f24b43d36ff691c94c893",
+    "size": 306,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/ReadMe.md?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/blob/main/ReadMe.md",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/1761de3726b0ad7bea7f24b43d36ff691c94c893",
+    "download_url": "https://raw.githubusercontent.com/RobinSchmidt/Open303/main/ReadMe.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/ReadMe.md?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/1761de3726b0ad7bea7f24b43d36ff691c94c893",
+      "html": "https://github.com/RobinSchmidt/Open303/blob/main/ReadMe.md"
+    }
+  },
+  {
+    "name": "ReadMe.old.txt",
+    "path": "ReadMe.old.txt",
+    "sha": "19a674ea50977b250124a9528d1ef51788c2b5a7",
+    "size": 1203,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/ReadMe.old.txt?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/blob/main/ReadMe.old.txt",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/19a674ea50977b250124a9528d1ef51788c2b5a7",
+    "download_url": "https://raw.githubusercontent.com/RobinSchmidt/Open303/main/ReadMe.old.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/ReadMe.old.txt?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/blobs/19a674ea50977b250124a9528d1ef51788c2b5a7",
+      "html": "https://github.com/RobinSchmidt/Open303/blob/main/ReadMe.old.txt"
+    }
+  },
+  {
+    "name": "Source",
+    "path": "Source",
+    "sha": "e2d6f18a8f52f7eb12a263209c184138abda8ab6",
+    "size": 0,
+    "url": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Source?ref=main",
+    "html_url": "https://github.com/RobinSchmidt/Open303/tree/main/Source",
+    "git_url": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/e2d6f18a8f52f7eb12a263209c184138abda8ab6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/RobinSchmidt/Open303/contents/Source?ref=main",
+      "git": "https://api.github.com/repos/RobinSchmidt/Open303/git/trees/e2d6f18a8f52f7eb12a263209c184138abda8ab6",
+      "html": "https://github.com/RobinSchmidt/Open303/tree/main/Source"
+    }
+  }
+]

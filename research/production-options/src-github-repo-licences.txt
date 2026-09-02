@@ -1,0 +1,23 @@
+URL: https://api.github.com/repos/{owner}/{repo}  (unauthenticated, one call per repo)
+Fetched: 2026-09-02
+Method: curl
+Format: full_name|SPDX licence id|stars|last push|archived
+----
+DISTRHO/Cardinal|GPL-3.0|stars=3166|pushed=2026-07-28T11:06:35Z|archived=False
+michaelwillis/dragonfly-reverb|GPL-3.0|stars=1143|pushed=2026-05-21T15:59:51Z|archived=False
+TheWaveWarden/odin2|NOASSERTION|stars=808|pushed=2025-09-07T09:05:31Z|archived=False
+asb2m10/dexed|GPL-3.0|stars=3484|pushed=2026-07-25T14:14:30Z|archived=False
+lsp-plugins/lsp-plugins|LGPL-3.0|stars=879|pushed=2026-09-01T20:17:49Z|archived=False
+airwindows/airwindows|MIT|stars=1215|pushed=2026-08-29T23:13:40Z|archived=False
+mtytel/vital|GPL-3.0|stars=2119|pushed=2023-05-25T04:09:10Z|archived=False
+VCVRack/Rack|NOASSERTION|stars=4408|pushed=2025-11-04T08:47:14Z|archived=False
+pichenettes/eurorack|None|stars=3169|pushed=2023-12-13T18:32:04Z|archived=False
+surge-synthesizer/surge|GPL-3.0|stars=3989|pushed=2026-08-31T12:22:34Z|archived=False
+DBraun/DawDreamer|GPL-3.0|stars=1289|pushed=2026-09-01T04:25:36Z|archived=False
+spotify/pedalboard|GPL-3.0|stars=6286|pushed=2026-08-31T02:34:54Z|archived=False
+supriya-project/supriya|MIT|stars=405|pushed=2026-09-02T01:04:41Z|archived=False
+csound/csound|LGPL-2.1|stars=1504|pushed=2026-09-01T01:32:45Z|archived=False
+grame-cncm/faust|NOASSERTION|stars=3142|pushed=2026-09-01T08:34:56Z|archived=False
+libpd/libpd|NOASSERTION|stars=1245|pushed=2026-06-21T12:46:42Z|archived=False
+pure-data/pure-data|NOASSERTION|stars=2076|pushed=2026-09-01T13:39:41Z|archived=False
+supercollider/supercollider|GPL-3.0|stars=6709|pushed=2026-08-20T21:07:16Z|archived=False

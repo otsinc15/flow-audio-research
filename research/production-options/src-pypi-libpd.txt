@@ -1,0 +1,7 @@
+URL: https://pypi.org/pypi/libpd/json
+Fetched: 2026-09-02
+Method: curl
+HTTP: 404
+Raw bytes: 24
+----
+{"message": "Not Found"}

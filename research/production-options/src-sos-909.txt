@@ -1,0 +1,47 @@
+URL: https://www.soundonsound.com/reviews/roland-tr-909
+Fetched: 2026-09-02
+Method: curl
+HTTP: 410
+Raw bytes: 76584
+----
+Sound On Sound - Page or URL not found 
+
+ Sorry, page not found
+
+ We are unable to find the page or file you are looking for.
+
+ Please try one of the following options:
+
+ Check the spelling of the address (URL) in your browser.
+
+ Use our search engine to find what you are looking for: Click here .
+
+ Contact us if you think this is a valid URL which ought to be working: Click here .
+
+ More SOS articles on the way!
+
+ Missing past issues? Can't find an SOS article?
+ You have reached this page because you have tried to access a link to a Sound On Sound article which has not yet been migrated from our old site.
+ We are working hard to get the remaining issues brought over as soon as possible but this conversion and reformatting will take time, due to commitments to producing the new issue each month.
+ Generally, they will be added one past issue at a time (in reverse order back to January 1994), so please bear with us.
+ Sorry to make you wait!
+
+ Temporary Solution?
+
+ Thanks go to a wonderful non-profit organisation called Web.Archive.org, who run their Wayback Machine service that catalogues billions of web pages daily from all web sites. This means it has captured snapshots of the full SOS legacy site, as it used to be — meaning SOS articles not yet on our own site can still be found in Wayback's extensive web archived pages.
+
+ We have catalogued the SOS missing articles from January 1994 to December 2001 and built two indexes: one by issue and one listing all articles. Clicking article links on these Index pages will open the legacy site article on Wayback Machine.
+
+ SOS Archive Index - By Issue | 1994 - 2001 
+
+ SOS Archive Index - All Articles 1994 - 2001 
+
+ Synth Secrets (May 1999 to July 2004: 63 Parts)
+
+ All 63 instalments of the classic Synth Secrets series are now on the SOS site: Show me SYNTH SECRETS 
+
+ SOS Glossary of Technical Terms
+
+ Check out our regularly updated, indispensable Glossary of technical terms from the fields of Recording, Audio, MIDI, Computers, Music Technology, Electronics and Live Sound:
+
+ www.soundonsound.com/glossary

@@ -1,0 +1,139 @@
+URL: (local execution, not a web fetch)
+Fetched: 2026-09-02
+Method: executed on this machine
+Host: macOS 26.6.2, arm64, Python 3.12.13, uv venv at ./probe/.venv
+Homebrew present: yes
+sudo used: no
+----
+### STEP 1 - install, pip/uv only
+$ ~/.local/bin/uv venv .venv --python 3.12
+$ VIRTUAL_ENV=$PWD/.venv ~/.local/bin/uv pip install pedalboard numpy soundfile mido
+ + numpy==2.5.2
+ + pedalboard==0.9.24
+ + soundfile==0.14.0
+ + mido==1.3.3
+$ VIRTUAL_ENV=$PWD/.venv ~/.local/bin/uv pip install dawdreamer
+Prepared 1 package in 3m 07s
+ + dawdreamer==0.9.0
+
+### STEP 2 - no plugins are present on a clean box
+>>> from pedalboard import AudioUnitPlugin, VST3Plugin
+>>> AudioUnitPlugin.installed_plugins  ->  []   (len 0)
+>>> VST3Plugin.installed_plugins       ->  []
+$ ls /Library/Audio/Plug-Ins/Components  ->  (empty)
+$ ls /Library/Audio/Plug-Ins/VST3        ->  No such file or directory
+
+### STEP 3 - obtain Surge XT WITHOUT an installer or sudo
+$ curl -sS https://api.github.com/repos/surge-synthesizer/releases-xt/releases/latest
+  tag 1.3.4, published 2024-08-11T16:43:14Z
+  asset surge-xt-macos-1.3.4-pluginsonly.zip  186958216 bytes
+  asset surge-xt-macOS-1.3.4.dmg              416715686 bytes
+$ curl -sSL -o surge.zip <pluginsonly.zip> && unzip -q surge.zip -d surge
+  surge/Surge XT.vst3      surge/Surge XT.component
+  surge/Surge XT Effects.vst3   surge/Surge XT Effects.component
+$ find "surge/Surge XT.vst3" -name "*.fxp" | wc -l   ->  0     (no factory patches in the plugins-only zip)
+$ find "surge/Surge XT.vst3" -name "*.wt"  | wc -l   ->  0     (no factory wavetables)
+
+### STEP 4 - pedalboard load_plugin from an arbitrary path
+import time, numpy as np, soundfile as sf
+from pedalboard import load_plugin
+from pedalboard.io import AudioFile
+import mido
+p = load_plugin("./surge/Surge XT.vst3", initialization_timeout=30.0)
+print("loaded:", type(p).__name__, p.name)
+print("is_instrument:", getattr(p, "is_instrument", "n/a"))
+names = list(p.parameters.keys())
+print("num params:", len(names))
+print("first 25:", names[:25])
+--- output:
+loaded: VST3Plugin Surge XT
+is_instrument: True
+num params: 599
+first 25: ['m1', 'm2', 'm3', 'm4', 'm5', 'm6', 'm7', 'm8', 'send_fx_1_return', 'send_fx_2_return', 'send_fx_3_return', 'send_fx_4_return', 'global_volume', 'active_scene', 'scene_mode', 'split_point', 'fx_disable', 'polyphony_limit', 'fx_chain_bypass', 'fx_a1_fx_type', 'fx_a1', 'fx_a2_fx_type', 'fx_a2', 'fx_b1_fx_type', 'fx_b1']
+
+### STEP 5 - render MIDI to audio offline
+import time, numpy as np, soundfile as sf, mido
+from pedalboard import load_plugin
+p = load_plugin("./surge/Surge XT.vst3", initialization_timeout=30.0)
+sr=48000
+msgs=[]
+t=0.0
+for i,n in enumerate([36,43,48,55]):
+    msgs.append(mido.Message('note_on', note=n, velocity=100, time=t))
+    msgs.append(mido.Message('note_off', note=n, time=t+1.4))
+    t+=1.5
+t0=time.time()
+audio = p(msgs, duration=7.0, sample_rate=sr, num_channels=2)
+el=time.time()-t0
+a=np.asarray(audio)
+print("shape", a.shape, "dtype", a.dtype)
+print("peak %.4f rms %.5f" % (float(np.abs(a).max()), float(np.sqrt((a**2).mean()))))
+print("render wall time %.2fs for 7.0s audio -> %.1fx realtime" % (el, 7.0/el))
+sf.write("surge_test.wav", a.T, sr)
+# now change a parameter and re-render
+prm=[k for k in p.parameters if 'cutoff' in k.lower()][:5]
+print("cutoff-ish params:", prm)
+--- output:
+shape (2, 336000) dtype float32
+peak 0.3460 rms 0.08867
+render wall time 0.04s for 7.0s audio -> 166.8x realtime
+cutoff-ish params: ['a_filter_1_cutoff', 'a_filter_2_cutoff', 'b_filter_1_cutoff', 'b_filter_2_cutoff']
+
+### STEP 6 - parameter changes; the disabled-module gotcha
+import numpy as np, mido
+from pedalboard import load_plugin
+p = load_plugin("./surge/Surge XT.vst3", initialization_timeout=30.0)
+sr=48000
+msgs=[mido.Message('note_on', note=36, velocity=110, time=0.0), mido.Message('note_off', note=36, time=2.0)]
+def rms(a): return float(np.sqrt((np.asarray(a)**2).mean()))
+print("filter type param:", p.a_filter_1_type if hasattr(p,'a_filter_1_type') else [k for k in p.parameters if 'filter_1' in k][:8])
+base=rms(p(msgs, duration=3.0, sample_rate=sr))
+for name,val in [('global_volume',-12.0),('a_osc_1_pitch',12.0)]:
+    if name in p.parameters:
+        old=getattr(p,name); setattr(p,name,val)
+        r=rms(p(msgs,duration=3.0,sample_rate=sr))
+        print(f"{name}: {old} -> {getattr(p,name)}  rms {base:.5f} -> {r:.5f} changed={abs(base-r)>1e-5}")
+        setattr(p,name,old)
+    else:
+        print(name,"absent; candidates:",[k for k in p.parameters if name.split('_')[-1] in k][:6])
+--- output:
+filter type param: Off
+global_volume: 0.0 -> -12.0  rms 0.07833 -> 0.01973 changed=True
+Traceback (most recent call last):
+NOTE: a_filter_1_cutoff read back as 40.0 but produced a byte-identical render, because
+a_filter_1_type == 'Off' on the init patch. global_volume -12 dB moved RMS 0.07840 -> 0.01967.
+Lesson: assert on the AUDIO, not on the parameter read-back.
+
+### STEP 7 - Surge XT Effects fx list (read from the loaded plugin, not from a web page)
+name Surge XT Effects | is_effect True | params 13
+fx_type valid values: ['Delay', 'Reverb 1', 'Phaser', 'Rotary Speaker', 'Distortion', 'EQ', 'Frequency Shifter', 'Conditioner', 'Chorus', 'Vocoder', 'Reverb 2', 'Flanger', 'Ring Modulator', 'Airwindows', 'Neuron', 'Graphic EQ', 'Resonator', 'CHOW', 'Exciter', 'Ensemble', 'Combulator', 'Nimbus', 'Tape', 'Treemonster', 'Waveshaper', 'Mid-Side Tool', 'Spring Reverb', 'Bonsai', 'Audio Input']
+
+### STEP 8 - DawDreamer: Faust drum synthesis with NO external plugin, and the same VST3
+import dawdreamer as daw, numpy as np, time
+SR=48000
+eng=daw.RenderEngine(SR,512)
+f=eng.make_faust_processor("f")
+f.set_dsp_string("""
+import("stdfaust.lib");
+sy = library("synths.lib");
+gate = os.lf_pulsetrain(2.0, 0.05) > 0.5;
+k = sy.kick(55, 0.2, 0.01, 0.5, 6.0, gate);
+process = k <: _,_;
+""")
+print("faust compiled:", f.compile())
+eng.load_graph([(f,[])])
+t0=time.time(); eng.render(4.0); el=time.time()-t0
+a=eng.get_audio()
+print("faust sy.kick -> shape",a.shape,"peak %.3f"%float(np.abs(a).max()),"| %.3fs wall for 4.0s (%.0fx RT)"%(el,4.0/el))
+p=eng.make_plugin_processor("surge","./surge/Surge XT.vst3")
+print("plugin loaded:", p.get_name(), "| params:", p.get_plugin_parameter_size())
+p.add_midi_note(36,110,0.0,1.0); p.add_midi_note(48,100,1.0,1.0)
+eng.load_graph([(p,[])])
+t0=time.time(); eng.render(3.0); el=time.time()-t0
+b=eng.get_audio()
+print("Surge via DawDreamer -> shape",b.shape,"peak %.3f"%float(np.abs(b).max()),"| %.3fs wall for 3.0s (%.0fx RT)"%(el,3.0/el))
+--- output:
+faust compiled: True
+faust sy.kick -> shape (2, 192000) peak 1.000 | 0.002s wall for 4.0s (2357x RT)
+plugin loaded: surge | params: 2855
+Surge via DawDreamer -> shape (2, 144000) peak 0.346 | 0.021s wall for 3.0s (142x RT)

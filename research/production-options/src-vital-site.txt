@@ -1,0 +1,204 @@
+URL: https://vital.audio/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 28720
+----
+Vital - Spectral Warping Wavetable Synth 
+
+ Vital Audio
+
+ Forum 
+
+ Presets 
+
+ Account 
+
+ Get Vital 
+
+ VITAL
+
+ Spectral warping wavetable synth
+
+ Watch the video
+
+ Subscribe 
+
+ Warp waves in new ways
+
+ volume_off 
+ 
+ volume_off 
+
+ Give new life to wavetables by using Vital's spectral oscillator warping. 
+
+ Spectral warping acts on a waveform's harmonics and can create drastically different shapes and timbres from a simple source.
+
+ Customize your sound
+
+ volume_off 
+ 
+ volume_off 
+
+ Turn your own samples into wavetables by using Vital's pitch-splice or vocode wavetable converter. 
+
+ Create wavetables from scratch using the built-in wavetable editor and even generate wavetables from text!
+
+ See everything
+
+ Vital is a visual synthesizer. See what's happening behind the scenes with animated controls, filter responses, waveforms, smooth LFOs, oscilloscopes, spectrograms and more. 
+
+ All animations run at 60 frames per second and are GPU optimized which leaves your CPU to do its real job: the audio processing.
+
+ Connect anything
+
+ Modulate Vital's controls with a fast, drag and drop workflow.
+
+ Vital gives you a preview of the modulation before committing so you can quickly experiment without ruining your sound.
+
+ Design sounds with powerful tools
+
+ Modulate your sound with custom LFO shapes, snappy envelopes and randomized sources like perlin noise. 
+
+ Give your sound some human touch with velocity, aftertouch and MPE control modulation. 
+
+ Get deep into modulation
+
+ volume_off 
+ 
+ volume_off 
+
+ Use stereo modulation to split the left and right channels of every modulation to get extra wide stereo effects.
+
+ Then 'remap' the modulation curve to customize the shape of every modulation connection.
+
+ Get Vital
+
+ Subscribe 
+
+ ${ subscriptionAmount } 
+
+ Vital ​
+ The full synth with all features. 
+
+ ${ subscriptionAmount } credit in store ​
+ Use your entire subscription payment to build up your preset bank or use toward buying the Plus and Pro bundles. You keep everything even if you cancel your subscription and credit never expires. 
+
+ Subscriber-only packs ​
+ Free periodic preset packs only available to subscribers. 
+
+ Unlimited text-to-wavetable ​
+ Text-to-wavetable is a web service. This unlocks unlimited text-to-wavetable requests. (Normally limited to 5 requests / day) 
+
+ Additional skins ​
+ Change the look of Vital with more included skins 
+
+ Exclusive Discord perk ​
+ Get access to private subscriber/pro channels and unlock live mic/streaming in the Vital Discord server. 
+
+ Prioritized support ​
+ Support requests through private Discord channels or the forum are prioritized. 
+
+ First access to new features ​
+ There are a lot of new features in Vital's road map. Get access to these before the public. 
+
+ First access to new plugins ​
+ New (smaller) plugins are coming! Subscribers get first access. 
+
+ Basic 
+
+ Free 
+
+ Vital ​
+ The full synth with all features. 
+
+ 75 presets ​
+ Curated presets by professional sound designers. 
+
+ 25 wavetables ​
+ Curated wavetables to give you a starting timbre for sounds. 
+
+ Plus 
+
+ ${ plusAmount } 
+
+ Vital ​
+ The full synth with all features. 
+
+ 250 presets ​
+ Curated presets by professional sound designers 
+
+ 70 wavetables ​
+ Curated wavetables to give you a starting timbre for sounds. 
+
+ Pro 
+
+ ${ proAmount } 
+
+ Vital ​
+ The full synth with all features. 
+
+ 400+ presets ​
+ Curated presets by professional sound designers. 
+
+ 150 wavetables ​
+ Curated wavetables to give you a starting timbre for sounds. 
+
+ Unlimited text-to-wavetable ​
+ Text-to-wavetable is a web service. This unlocks unlimited text-to-wavetable requests. (Normally limited to 5 requests / day) 
+
+ Additional skins ​
+ Change the look of Vital with more included skins 
+
+ Exclusive Discord perk ​
+ Get access to private subscriber/pro channels and unlock live mic/streaming in the Vital Discord server. 
+
+ Prioritized support ​
+ Support requests through private Discord channels or the forum are prioritized. 
+
+ Supported Operating Systems:
+
+ Windows: 10 and higher
+
+ MacOS: 10.15 and higher (Intel or Apple Silicon)
+
+ Ubuntu Linux 18.04 and above
+ System Requirements:
+
+ 64 bit only
+
+ OpenGL 3 or higher
+
+ Feature List
+
+ High quality oscillators
+
+ Generate clean sounds using Vital's oscillators that have an extremely low noise floor and have a sharp cutoff at Nyquist for almost no aliasing.
+
+ Efficient unison
+
+ There are some clever SSE optimizations to keep the oscillators easy on your CPU, so don't be afraid to crank up the unison.
+
+ Microtonal
+
+ Vital loads .tun, .scl, and .kbd files so you can play microtonally.
+
+ MPE support
+
+ Vital fully supports MPE so use your ROLI keyboard, Linnstrument or other MPE compatible keyboard to add extra expression to your sound.
+
+ Audio-rate modulation
+
+ You can modulate many of the controls in Vital at audio-rate to create an even wider set of timbres.
+
+ Keytracked LFOs
+
+ Easily create keytracked basses with the keytracked LFO setting. Combine a keytracked LFO with the audio-rate modulation to use your LFOs as an oscillator modulation source.
+
+ SOMETIMES WHAT YOU WANT IS WHAT YOU NEED
+
+ Refund Policy
+ 
+ End User License Agreement
+ 
+ Privacy Policy
