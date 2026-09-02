@@ -20,3 +20,10 @@ deep sub, one filtered chord, no melody, no vocals, no build-ups, no drops. Temp
 
 ## Palette C — half-time / dubstep-ish (proposed earlier, not yet confirmed)
 Wobbly bass at half-time, no drops, stays calm. Daniel to confirm or drop.
+
+## Gate 2 trial conditions (Daniel, 2026-09-02)
+- Listening: headphones.
+- Working hours: 15:00–18:30 and 21:00–02:00, German time (CET/CEST). Two blocks/day → two
+  sessions/day, ~3.5 h + ~5 h; the late block is the long one and should get the most restrained
+  palette rotation.
+- Half-time / dubstep-ish palette C: dropped for now (assumed from "that's fine", 2026-09-02).
