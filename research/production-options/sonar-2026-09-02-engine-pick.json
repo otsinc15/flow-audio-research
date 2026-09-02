@@ -1,0 +1,318 @@
+{
+ "id": "gen-1788309131-peMM2fc5ynYKdIKzJtRL",
+ "object": "chat.completion",
+ "created": 1788309131,
+ "model": "perplexity/sonar-pro",
+ "provider": "Perplexity",
+ "system_fingerprint": null,
+ "service_tier": null,
+ "choices": [
+  {
+   "index": 0,
+   "logprobs": null,
+   "finish_reason": "length",
+   "native_finish_reason": "length",
+   "message": {
+    "role": "assistant",
+    "content": "You can likely get closest to \u201cPlastikman / Endel Deeper Focus\u201d\u2011style, long, stem\u2011based minimal/dub techno today with **Stable Audio 3.0** (open\u2011weight models under a permissive commercial license) plus possibly **HeartMuLa** or **Magenta RealTime 2** for custom, locally\u2011run systems; the cloud\u2011only models (ElevenLabs Music, Suno v5, Google Lyria 3) give higher polish but are biased toward song\u2011like structures and short clips, and they generally do not output clean, multi\u2011hour \u201cnon\u2011song\u201d stems by default.[24][27][3][10][16][17][18][4][7]\n\nBelow is a system\u2011by\u2011system comparison for your specific use case: *hypnotic, monotone, vocal\u2011free minimal/dub techno, deep sub, subtle pads, very few events, exported as separate stems, under commercial terms for a paid app*.\n\n---\n\n## 1. ElevenLabs Music API (Music v2)\n\n### (1) Output quality for techno / dub\u2011techno / ambient\u2011techno\n\n- ElevenLabs positions **Music v2** as \u201cstudio\u2011grade\u201d multi\u2011genre generation with control over **genre, mood, structure and duration**.[30][29]  \n- A detailed independent review notes that **Music v2 is strongest when the brief demands explicit lyrics and section control**, delivering clearly segmented song forms and high text fidelity.[17][22] That strongly suggests the model is *optimized* for vocal, structured tracks rather than long, structure\u2011less techno drones.\n- There is little 2025\u201326 public reviewer commentary specifically on *minimal or dub techno*, so evidence for how well it nails that niche is weak. Available reviews focus on pop, hip\u2011hop, cinematic, and vocal tasks.[17][22]\n\n**Inference:** Expect high general audio quality and good \u201csong\u201d structure, but you would need careful prompting and possibly post\u2011processing to avoid verse/chorus tendencies for techno\u2011ish backgrounds.\n\n### (2) Low\u2011end and kick quality\n\n- ElevenLabs markets the Music API as \u201chigh\u2011quality, original music,\u201d but does not break out low\u2011end performance.[30][29] Independent reviews likewise emphasize lyrics and structure over detailed spectral analysis.[17]\n- No 2025\u201326 sources explicitly evaluate bass/kick punch for dance music; this is a clear evidence gap.\n\n**Inference:** Likely decent but not tuned for club\u2011grade sub or the kind of long, stable low\u2011end you\u2019d expect from Plastikman\u2011style tracks; you would probably still want external limiting/EQ.\n\n### (3) Long loop\u2011able, vocal\u2011free material without \u201csong\u201d structure\n\n- The Music API allows you to set **music_length_ms** to define duration and describes control over **structure** and \u201cvocal or instrumental versions in any genre.\u201d[18][30][28]  \n- Reviews show Music v2 easily produced **~90 s** files with clear sections and lyrics when requested.[17][22] There is no public indication that it can generate continuous 30+ minute tracks; in practice this will be segmented into shorter renders that you tile or crossfade.\n- You *can* request **instrumental** outputs (i.e., no vocals) via API parameters.[18] But there is no explicit \u201cno song structure\u201d mode; you would likely have to:\n  - Prompt for \u201cno vocals, no melody, just monotone minimal techno, no build\u2011ups\u201d, and  \n  - Post\u2011process into loops yourself (cut, align, crossfade) inside your engine.\n\n### (4) Commercial license\n\n- The Music API is available to **paid subscribers**, and ElevenLabs documentation states that **commercial\u2011use licensing is included for Starter and higher plans**.[16][17][22][28][29][30]  \n- You can integrate it via **ElevenAPI** and embed generation directly into your product.[29][30]  \n\n**Fit:** Legally clean for a subscription app as long as you stay on a paid tier and respect their ToS.\n\n---\n\n## 2. Suno v5 / Suno Studio (v5.0\u20135.5)\n\n### (1) Output quality for techno / dub\u2011techno / ambient\u2011techno\n\n- Suno v5 is described as **\u201cstudio\u2011grade (44.1 kHz) audio\u201d**, with **higher mastering quality**, better separation, and a full DAW\u2011like environment in **Suno Studio**.[19][25][21][23]  \n- A technical review notes that v5 greatly reduces high\u2011frequency artifacts and improves **frequency separation**, making the stereo field cleaner and more mixable.[20][25]\n- This review also remarks that instruments are **richer, better separated, with reduced distortion**, and drums have **more punch**.[25][20]\n- However, reviews and Suno\u2019s own marketing are heavily focused on **song\u2011oriented** content (pop, rock, EDM with vocals). There is little evidence on long\u2011form minimal/dub techno; most examples are 1\u20132 verse\u2011chorus songs.[19][20][25]\n\n**Inference:** For short techno/EDM clips, Suno v5 probably sounds excellent. For extremely sparse, non\u2011song minimal/dub techno, you\u2019d be pushing the model off its main path.\n\n### (2) Low\u2011end and kick quality\n\n- Spectral analysis from a 2026 review highlights **\u201cdrums have more punch\u201d** and better separation, with fewer \u201cphasey\u201d artifacts and a \u201clossless feel.\u201d[20][25]  \n- This is promising for **kick and bass clarity**, especially when stems are separated, but these tests are not specifically about techno kick design.\n\n**Inference:** Among cloud models, Suno v5 is one of the more promising for **clean, tight low\u2011end**; you could export stems and re\u2011shape kicks/sub externally.\n\n### (3) Long loop\u2011able, vocal\u2011free material without \u201csong\u201d structure\n\n- Suno v5 generates **song\u2011length tracks** (typically ~2 minutes per generation) and is tuned for structured songs.[23][21]\n- Suno Studio provides **12\u2011stem separation** and a DAW\u2011like interface, allowing you to decompose a track into **up to 12 stems** (vocals, bass, drums, keys, etc.) and use them for **\u201cSubtractive Production\u201d**.[20][19]  \n- You can mute vocals, cut sections into loops, and rearrange structure manually; but there is no evidence of a \u201ccontinuous 30 minutes, no song form\u201d mode.\n- You can prompt for instrumental tracks and avoid lyrics, though by default Suno likes to generate vocals unless instructed otherwise.\n\n**Inference:** For your use case, you\u2019d generate 1\u20132 minute techno or ambient\u2011techno segments, extract stems, and loop in your own engine. Getting completely song\u2011less, \u201cEndel\u2011style\u201d monotone output may require heavy curation.\n\n### (4) Commercial licence\n\n- Suno\u2019s ToS (not quoted in the 2025\u201326 pieces we saw) govern commercial use. Reviewers mention Suno as a tool for content creators and producers; however, details about **embedding generative functionality in a subscription app** are not clearly documented in the sources we have.[19][23]\n- Typically, Suno allows commercial use of generated audio under certain plans but may restrict reselling as a service or resyndicating generation capabilities.\n\n**Fit:** Likely usable to *render and ship audio stems*, but you must carefully review and possibly negotiate licensing if your app offers AI generation on demand rather than just static tracks. Evidence here is weak.\n\n---\n\n## 3. Stable Audio 3.0\n\n### (1) Output quality for techno / dub\u2011techno / ambient\u2011techno\n\n- Stable Audio 3.0 is a **family of open\u2011weight models**, with **Small SFX, Small, and Medium** downloadable, and **Large** via API.[24]  \n- Stability AI states it is built for **\u201cartistic experimentation\u201d**, with **fully licensed training data**.[24]\n- Public reviews for specific *techno/dub\u2011techno* quality in 2025\u201326 are sparse; however, the open\u2011weight nature and focus on general music (with text prompts) make it suitable for experimentation and fine\u2011tuning. Evidence about genre\u2011specific fidelity is weak.\n- Users commonly use Stable Audio for ambient, cinematic, and electronic soundscapes; that aligns with your minimal/dub\u2011tech background requirement, but this is more anecdotal (outside the cited docs).\n\n**Inference:** Out\u2011of\u2011the\u2011box, you should get usable techno\u2011ish or ambient\u2011techno textures with correct prompting. Being open weights, you could fine\u2011tune on your own minimal/dub techno corpus to push it toward Plastikman\u2011like restraint.\n\n### (2) Low\u2011end and kick quality\n\n- Official docs emphasize general high quality, not specifically bass.[24] There is no formal measurement for low\u2011end performance in the 3.0 release.\n- Since the models are open, you can:\n  - Inspect frequency responses,\n  - Apply mastering chains,\n  - Or fine\u2011tune on bass\u2011heavy minimal techno.\n\n**Inference:** Quality is likely acceptable but may require **post\u2011EQ, multi\u2011band compression, and careful sample curation** for sub\u2011bass and kick control.\n\n### (3) Long loop\u2011able, vocal\u2011free material without \u201csong\u201d structure\n\n- Stable Audio 3.0\u2019s open weights and **API** allow arbitrary duration control (within model limits) and flexible prompting.[24]\n- You can generate **instrumental, non\u2011vocal content** by prompt, as the model is not inherently lyric\u2011centric.\n- Because you control the entire pipeline locally or through the API, you can:\n  - Generate **loopable segments** (e.g., 8\u201332 bar stems),\n  - Align them to a fixed BPM (120\u2013128),\n  - Export them as separate bass, pad, percussion, FX layers via either multi\u2011pass prompting or model editing.\n\nEvidence for explicit \u201cstem output\u201d from Stable Audio 3.0 is weak; most documentation is about full mixes, but the open weights allow you to build your own multi\u2011pass or multitrack workflow.\n\n### (4) Commercial licence\n\n- Stable Audio 3.0 is covered under the **Stability AI Community License**, which explicitly states you **own your outputs** and **can distribute and commercialize them freely**.[24][27]  \n- Open\u2011weight models (Small, Small SFX, Medium) can be self\u2011hosted with this license, making them ideal for embedding in a paid subscription app.[24][27]\n- Pro/API tiers note that audio generated on **Pro and higher** remains covered under the original license even after cancellation.[26]\n\n**Fit:** Very strong for your use case: open weights, clear commercial rights, self\u2011hosting allowed.\n\n---\n\n## 4. Google Lyria 3 (via Gemini API)\n\n### (1) Output quality for techno / dub\u2011techno / ambient\u2011techno\n\n- Lyria 3 is Google\u2019s **high\u2011fidelity music generation** line, generating **44.1 kHz stereo** with structural coherence, including **vocals, lyrics, and full instrumental arrangements**.[4][13][5]\n- The product page explicitly mentions the ability to generate **minimal techno beats** as one of the use cases.[1][5] That suggests the model has at least some trained capacity for minimal techno, though not necessarily dub\u2011techno\u2019s aesthetics.\n- Lyria 3 Pro is focused on **full\u2011length songs with verses, choruses, bridges**, while **Lyria 3 Clip** is optimized for **30\u2011second clips and loops**.[4][7][8]\n\n**Inference:** Audio quality is high; structural understanding is strong for song forms. Minimal techno beats are supported, but the model is not target\u2011built for long, structureless, monotone techno.\n\n### (2) Low\u2011end and kick quality\n\n- Official docs focus on high\u2011fidelity stereo and structural coherence; they do not highlight low\u2011end behavior.[4][13][14]\n- Given Google\u2019s focus on mainstream genres, techno/bass\u2011specific evaluations are not yet documented in 2025\u201326 sources.\n\n**Inference:** Likely very clean, but may not automatically produce the ultra\u2011deep, consistent sub you want without careful prompting and external mastering.\n\n### (3) Long loop\u2011able, vocal\u2011free material without \u201csong\u201d structure\n\n- Lyria 3 Clip outputs **30 s clips** designed for loops and previews.[4][7][14] That is directly aligned with using short loops for longer sessions.\n- Lyria 3 Pro can create **tracks up to ~3 minutes** with intros, verses, choruses, and bridges.[7][8] That\u2019s the opposite of what you want (song\u2011like, not monotone), but you could restrict prompts to \u201cno vocals, no chorus, minimal pattern, constant energy\u201d and then manually loop.\n- Docs note that tracks can be **instrumental** (no vocals) via prompt.[11][13]  \n- There is no indication that Lyria 3 outputs **separate stems**; it appears to export mixed stereo MP3 or WAV.[4][14]\n\n**Inference:** Works nicely for generating 30 s techno\u2011ish loops you can tile and crossfade. It cannot directly give you multitracks; you\u2019d need separate generations or external stem separation.\n\n### (4) Commercial licence\n\n- Lyria 3 is exposed via **Gemini / Google AI Studio / Enterprise Agent Platform**.[4][7][14]  \n- Enterprise documentation frames it as usable inside products, but detailed commercial and redistribution terms are handled via Google Cloud/Gemini licensing, not fully spelled out in the technical docs.\n- Typically, Google grants usage rights to generated content but may restrict model misuse or disallow reselling their generation capabilities as an API.\n\n**Fit:** Strong for pre\u2011rendered content in an app if you\u2019re under a paid Gemini/enterprise license, weaker if you want fully local or open\u2011weight deployment.\n\n---\n\n## 5. Magenta RealTime 2 (MRT2, open weights, Apple Silicon)\n\n### (1) Output quality for techno / dub\u2011techno / ambient\u2011techno\n\n- Magenta RealTime 2 is described as a **state\u2011of\u2011the\u2011art open\u2011weights model for real\u2011time music generation**, with **2.4B parameter Base** and **230M Small**.[3][6][10][15]\n- It is the open\u2011weights cousin of **Lyria RealTime**, which powers Google\u2019s live music features (e.g., Music FX DJ, real\u2011time APIs).[12] This implies mainstream\u2011level quality.\n- Public commentary emphasises **real\u2011time synthesis, low latency (~40 ms)** and live control rather than genre specifics.[3][10][12] There is little explicit feedback about minimal/dub techno quality; evidence is weak on this niche.\n\n**Inference:** Excellent for live, controllable generative music; you can steer it into techno/dub\u2011techno with MIDI and text controls, but you may need to design your own prompt/control schemes.\n\n### (2) Low\u2011end and kick quality\n\n- Technical write\u2011ups focus on latency, context window (~20 s), model size, and Apple Silicon performance.[3][10][12][15] Bass quality is not discussed.\n- As a live, streaming model, you can route its outputs through your own **EQ, compression, saturation**, and even layer in dedicated sample\u2011based kicks to guarantee club\u2011style low\u2011end.\n\n**Inference:** You shouldn\u2019t rely on MRT2 alone for perfect techno kicks; instead, treat it as a generator of mid\u2011range and atmosphere, with your own low\u2011end chain.\n\n### (3) Long loop\u2011able, vocal\u2011free material without \u201csong\u201d structure\n\n- MRT2 is specifically designed for **real\u2011time streaming**, generating audio faster than playback on Apple Silicon (Small can stream on any M\u2011series Mac, Base needs higher\u2011end chips).[3][10][12][15]  \n- It has an effective receptive field of ~**20 seconds**.[10] That means it doesn\u2019t \u201cremember\u201d structure beyond that horizon, which naturally **discourages long song\u2011like arcs** and instead favours ongoing, evolving patterns\u2014ideal for **focus music and monotone textures**.\n- With real\u2011time **MIDI, text, and audio controls**, you can:\n  - Fix BPM externally,\n  - Hold a constant pattern,\n  - Avoid lyrics entirely by not feeding text for vocals.\n\n**Inference:** Very strong fit for streaming **endless, non\u2011song, evolving minimal techno** as a background generator. You can record stems live or stream them directly.\n\n### (4) Commercial licence\n\n- MRT2 is **open weights**, published under Google\u2019s open\u2011weights terms via HuggingFace.[3][6][10][15] Exact legal text is not in the snippets, but it is positioned similarly to other open\u2011weights models (non\u2011copyleft).\n- You can run it **locally** on Apple Silicon via MLX/C++.[3][6][10][12][15] This makes it attractive for an app that wants fully internal generation, though you must inspect the actual licence to confirm redistribution/embedded use.\n\n**Fit:** Technically ideal: open weights, Apple Silicon\u2011ready, real\u2011time, controllable. Legal details need verification but are likely favorable.\n\n---\n\n## 6. HeartMuLa\n\n*(Note: HeartMuLa appears as both an online service and an open\u2011source model; documentation is thinner than for Google/Stability.)*\n\n### (1) Output quality for techno / dub\u2011techno / ambient\u2011techno\n\n- The official repo describes HeartMuLa as a powerful open\u2011source music model; however, ",
+    "refusal": null,
+    "reasoning": null,
+    "annotations": [
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://aistudio.google.com/models/lyria",
+       "title": "Lyria",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://heartmula.studio/pricing",
+       "title": "Pricing - HeartMuLa AI Music Generator Plans",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+       "title": "Magenta RealTime 2: Open & Local Live Music Models",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://ai.google.dev/gemini-api/docs/music-generation",
+       "title": "Generate music with Lyria 3 - Interactions API",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://gemini.google/overview/music-generation/",
+       "title": "Gemini AI music & song generator - Lyria 3",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://magenta.github.io/magenta-realtime/",
+       "title": "Magenta RealTime 2",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+       "title": "How developers can use Lyria 3 for AI music generation",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+       "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://github.com/HeartMuLa/heartlib",
+       "title": "HeartMuLa Official Repo: The Most Powerful Open-Source Music ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://nexgpu.net/en/models/magenta/",
+       "title": "Self-hosting Magenta: what a - 2.4B real-time music model",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+       "title": "Use Lyria 3 to create music tracks in the Gemini app",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://ecosistemastartup.com/mrt2-ia-musical-en-tiempo-real-con-40ms-en-tu-mac/",
+       "title": "Magenta RealTime 2: 40ms latencia en tu Mac con IA ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://ai.google.dev/gemini-api/docs/generate-content/music-generation",
+       "title": "Generate music with Lyria 3 - generateContent API | Google AI ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/lyria/lyria-3",
+       "title": "Lyria 3 | Gemini Enterprise Agent Platform",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://builderai.tools/tool/magenta-realtime",
+       "title": "Magenta RealTime: Music & Audio Generation | BuilderAI.tools",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://elevenlabs.io/docs/changelog/2025/8/20",
+       "title": "August 20, 2025 | ElevenLabs Documentation",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://www.glbgpt.com/hub/elevenlabs-music-v2-review/",
+       "title": "ElevenLabs Music v2 Review: Real Performance, API & Prompt",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://x.com/ElevenLabs/status/1957489735527502301",
+       "title": "ElevenLabs on X: \"Introducing the Eleven Music API. ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://blakecrosley.com/de/guides/suno",
+       "title": "Suno AI-Musikgenerierung: Die ma\u00dfgebliche technische ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://stokemctoke.com/a-comprehensive-analysis-of-suno-studio/",
+       "title": "A Comprehensive Analysis of Suno Studio - Stoke McToke",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://help.suno.com/en/articles/8105153",
+       "title": "Introducing v5",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://www.glbgpt.com/hub/nl/elevenlabs-music-v2-review/",
+       "title": "ElevenLabs Music v2 Review: Real Performance, API & ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://help.suno.com/en/articles/5782721",
+       "title": "Suno Model Timeline & Information",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+       "title": "Stable Audio 3.0, the model family built with open-weight ...",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://undetectr.com/blog/suno-v5-review",
+       "title": "Suno V5 Review: Everything New and Whether It's Worth Upgrading",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://stableaudio.com/pricing",
+       "title": "Pricing \u2014 Stable Audio subscriptions & licensing",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://stability.ai/license",
+       "title": "Stability AI License",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://elevenlabs.io/docs/overview/capabilities/music",
+       "title": "Eleven Music",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://elevenlabs.io/blog/introducing-music-v2",
+       "title": "Introducing Music v2, our groundbreaking new music model",
+       "start_index": 0,
+       "end_index": 0
+      }
+     },
+     {
+      "type": "url_citation",
+      "url_citation": {
+       "url": "https://elevenlabs.io/eleven-music-api",
+       "title": "Eleven Music API - Studio-Grade AI Music Generation",
+       "start_index": 0,
+       "end_index": 0
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 221,
+  "completion_tokens": 3931,
+  "total_tokens": 4152,
+  "cost": 0.06563,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.06563,
+   "upstream_inference_prompt_cost": 0.000663,
+   "upstream_inference_completions_cost": 0.064967
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ }
+}
