@@ -145,3 +145,11 @@ Follow-up feedback (Daniel): "definitely elements that need to be worked on — 
 - Reading: the rhythm section and structure from code work; the remaining lever is sound quality (thickness/warmth/organic drift), i.e. the sound source, not the sequencer. Direction for arm 2: keep the grid and stem layout, swap the numpy tones for real synth/drum-machine emulations once the instrument research ranks a pip-only, licence-clean stack.
 - Effect on the blind set: synth-a-11 is now known to Daniel → excluded (joins el-a-1, el-b-2, mrt2-a-1).
 - Score so far, unblinded, one clip each: ElevenLabs "really good for a first shot, but thin"; Magenta "no rhythm, sounds wrong"; coded synthesis "not bad at all."
+
+## 2026-09-02 ~04:00 CEST — Daniel, unblinded, headphones: synth-a-11 v1/v2/v3
+
+- Files: `synth-a-11-v1.wav`, `-v2`, `-v3` (pad down, bass fatter, motif generator added to palette A at 0.85/1.50/1.70).
+- Verdict, verbatim: "all three ... like a drunk child pressing buttons."
+- Reading: the base clip (no motif) was "not bad at all"; the only new melodic element across all three is the motif generator, so the motif's note/timing choices read as random. "Hypnotic" means a short fixed phrase repeating on the grid, not stochastic note picking. Bass/pad changes cannot be judged from this listen because the motif dominates.
+- Action: motif becomes a fixed 2–3 note phrase, repeated every 1–2 bars, identical each time, through the tempo-synced delay; no random note selection, no random timing. Re-audition before any further balance judgements.
+- Blind-set effect: all three variants known to Daniel → excluded.
