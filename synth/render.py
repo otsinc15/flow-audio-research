@@ -47,6 +47,49 @@ BAND_LABELS = ["<60Hz", "60-150Hz", "150-500Hz", "500-2kHz", "2-8kHz", ">8kHz"]
 BAND_TARGET = np.array([0.235, 0.215, 0.455, 0.082, 0.010, 0.003])
 
 
+# Arrangement variants. These change balance and arrangement only - same seed,
+# same grid, same key, same tempo, same synthesis. `None` reproduces the base
+# clips byte for byte. Escalating on the three things Daniel asked for: less
+# echoey pad, thicker bass, more motif through the delay.
+VARIANT_SPECS = {
+    "v1": dict(pad=0.55, stab=0.70, chord_verb=0.10, chord_delay_send=0.26,
+               chord_width=0.60, verb_seconds=1.7,
+               sub_drive=3.2, bass_oct=0.45, bass_body=0.20, kick_body=1.25, kick_decay=1.30,
+               bass_glue=1.50,
+               motif_on=True, motif=0.85, motif_send=1.10, motif_oct=0.30,
+               feedback=0.58, repeats=14),
+    "v2": dict(pad=0.28, stab=0.45, chord_verb=0.05, chord_delay_send=0.16,
+               chord_width=0.45, verb_seconds=1.5,
+               sub_drive=3.8, bass_oct=0.60, bass_body=0.55, kick_body=1.50, kick_decay=1.55,
+               bass_glue=1.80,
+               motif_on=True, motif=1.50, motif_send=1.60, motif_oct=0.50,
+               feedback=0.64, repeats=16),
+    "v3": dict(pad=0.06, stab=0.12, chord_verb=0.02, chord_delay_send=0.06,
+               chord_width=0.35, verb_seconds=1.4,
+               sub_drive=4.2, bass_oct=0.75, bass_body=0.60, kick_body=1.70, kick_decay=1.75,
+               bass_glue=2.00,
+               motif_on=True, motif=1.70, motif_send=1.85, motif_oct=0.70,
+               feedback=0.68, repeats=18, sparse_fx=True),
+}
+
+
+def variant_params(palette, variant):
+    """Base values reproduce the original clips exactly; a variant overrides."""
+    base = dict(pad=1.00, stab=0.95, chord_verb=0.25,
+                chord_delay_send=(0.45 if palette == "a" else 0.30),
+                chord_width=1.00,
+                verb_seconds=(2.2 if palette == "a" else 2.9),
+                sub_drive=2.6, bass_oct=0.0, bass_body=0.0, kick_body=1.0, kick_decay=1.0,
+                bass_glue=0.0,
+                motif_on=(palette == "b"), motif=0.90, motif_send=1.20,
+                motif_oct=0.0,
+                feedback=(0.52 if palette == "a" else 0.62), repeats=12,
+                sparse_fx=False)
+    if variant:
+        base.update(VARIANT_SPECS[variant])
+    return base
+
+
 def band_energy(x, n_fft=8192, hop=2048):
     """Power per band of a mono signal (matches the measurement script's STFT)."""
     x = np.asarray(x, dtype=np.float64)
@@ -68,7 +111,7 @@ def band_shares(stereo):
 
 # ---------------------------------------------------------------- generators
 
-def make_kick(rng):
+def make_kick(rng, body=1.0, decay=1.0):
     """909-flavoured kick with real body.
 
     Three parts: a sine whose pitch falls from ~155 Hz to ~53 Hz (the thump), a
@@ -79,13 +122,13 @@ def make_kick(rng):
     t = np.arange(n) / SR
     f = 55.0 + 103.0 * np.exp(-t / 0.028)
     thump = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t / 0.082)
-    body = (0.90 * np.sin(2 * np.pi * 138.0 * t) * np.exp(-t / 0.085)
-            + 0.72 * np.sin(2 * np.pi * 196.0 * t + 0.8) * np.exp(-t / 0.055)
-            + 0.32 * np.sin(2 * np.pi * 254.0 * t + 1.9) * np.exp(-t / 0.034))
+    bodysig = body * (0.90 * np.sin(2 * np.pi * 138.0 * t) * np.exp(-t / (0.085 * decay))
+                      + 0.72 * np.sin(2 * np.pi * 196.0 * t + 0.8) * np.exp(-t / (0.055 * decay))
+                      + 0.32 * np.sin(2 * np.pi * 254.0 * t + 1.9) * np.exp(-t / (0.034 * decay)))
     click = np.sin(2 * np.pi * 1750 * t) * np.exp(-t / 0.0013)
     tick = dsp.bandpass(dsp.noise(rng, n) * np.exp(-t / 0.0016).astype(np.float32),
                         3200.0, 0.9)
-    k = (thump + body).astype(np.float32) + 0.26 * click.astype(np.float32) + 0.20 * tick
+    k = (thump + bodysig).astype(np.float32) + 0.26 * click.astype(np.float32) + 0.20 * tick
     return dsp.soft_clip(k * 1.55, 0.78)          # drive: more harmonics, more body
 
 
@@ -118,9 +161,10 @@ def horn(root, n, rng):
 
 # ------------------------------------------------------------------ arranger
 
-def render_clip(palette, seed, bpm, seconds=60.0):
+def render_clip(palette, seed, bpm, seconds=60.0, variant=None):
     rng = np.random.default_rng(seed)
     palette = palette.lower()
+    V = variant_params(palette, variant)
 
     beat = 60.0 / bpm
     bar = 4 * beat
@@ -141,7 +185,7 @@ def render_clip(palette, seed, bpm, seconds=60.0):
     send_verb = np.zeros(n, dtype=np.float32)
 
     # ---- kick: four to the floor, never varies -------------------------------
-    kick = make_kick(rng)
+    kick = make_kick(rng, body=V["kick_body"], decay=V["kick_decay"])
     kick_times = [b * beat for b in range(bars * 4)]
     for t0 in kick_times:
         dsp.add_at(dry["kick"], t0 * SR, kick)
@@ -164,8 +208,17 @@ def render_clip(palette, seed, bpm, seconds=60.0):
     sub_f = dsp.smooth_steps(sub_f, n, tau=0.035)
     # tape/tube-style drive: the 2nd and 3rd harmonics (110-210 Hz) are what
     # make a 55 Hz sub audible on a phone speaker.
-    sub = dsp.soft_clip(dsp.sine(sub_f, n) * 2.6, 0.62)
+    sub = dsp.soft_clip(dsp.sine(sub_f, n) * V["sub_drive"], 0.62)
     sub = dsp.lowpass(sub, 420.0, 0.7)
+    if V["bass_oct"] > 0:
+        # second bass layer an octave up, saturated then low-passed: its
+        # harmonics land at 220-330 Hz, which is where a bass reads as "fat" on
+        # headphones rather than just loud on a subwoofer.
+        oct_up = dsp.soft_clip(dsp.sine(sub_f * 2.0, n) * 2.8, 0.62)
+        sub = sub + V["bass_oct"] * dsp.lowpass(oct_up, 420.0, 0.9)
+    if V["bass_body"] > 0:
+        body_l = dsp.soft_clip(dsp.sine(sub_f * 3.0, n) * 2.4, 0.62)
+        sub = sub + V["bass_body"] * dsp.lowpass(body_l, 520.0, 0.9)
     dry["sub"] = (sub * duck_env).astype(np.float32)
 
     # ---- chords: one triad, one key, no chord changes ------------------------
@@ -176,17 +229,17 @@ def render_clip(palette, seed, bpm, seconds=60.0):
     # continuous bed: the body of the track. Constant level - it never swells.
     bed_l = saw_stack(triad, n, [-8.0, -0.5, 7.0], phases, max_hz=2200.0)
     bed_r = saw_stack(triad, n, [-6.0, 1.0, 9.0], phases[::-1], max_hz=2200.0)
-    bed_l = dsp.highpass(bed_l, 135.0, 0.7) * 1.00
-    bed_r = dsp.highpass(bed_r, 135.0, 0.7) * 1.00
+    bed_l = dsp.highpass(bed_l, 135.0, 0.7) * V["pad"]
+    bed_r = dsp.highpass(bed_r, 135.0, 0.7) * V["pad"]
     # pure-sine pad on the same triad, very slightly detuned against itself so
     # it breathes. The beat rate divides the clip length, so it still loops.
     beat_hz = 3.0 / (n / SR)
     for i, f in enumerate(triad):
         d = f * (1.0 + beat_hz / f)
-        bed_l += 0.55 * (dsp.sine(f, n, phase0=phases[i])
-                         + 0.8 * dsp.sine(d, n, phase0=phases[i + 3])) / 1.8
-        bed_r += 0.55 * (dsp.sine(f, n, phase0=phases[i + 6])
-                         + 0.8 * dsp.sine(d, n, phase0=phases[i + 1])) / 1.8
+        bed_l += V["pad"] * 0.55 * (dsp.sine(f, n, phase0=phases[i])
+                                    + 0.8 * dsp.sine(d, n, phase0=phases[i + 3])) / 1.8
+        bed_r += V["pad"] * 0.55 * (dsp.sine(f, n, phase0=phases[i + 6])
+                                    + 0.8 * dsp.sine(d, n, phase0=phases[i + 1])) / 1.8
 
     stab_n = int(0.62 * SR)
     stab = chord_stab(triad, stab_n, [-7.0, 0.0, 6.0], phases, 0.30)
@@ -194,12 +247,12 @@ def render_clip(palette, seed, bpm, seconds=60.0):
     for b in range(bars):
         for off in (1.5, 3.5):               # the "and" of 2 and of 4, every bar
             t0 = b * bar + off * beat
-            dsp.add_at(chords_l, t0 * SR, stab, 0.95)
-            dsp.add_at(chords_r, t0 * SR + int(0.004 * SR), stab_r, 0.95)
-            dsp.add_at(send_delay, t0 * SR, stab, 0.45 if palette == "a" else 0.30)
+            dsp.add_at(chords_l, t0 * SR, stab, V["stab"])
+            dsp.add_at(chords_r, t0 * SR + int(0.004 * SR), stab_r, V["stab"])
+            dsp.add_at(send_delay, t0 * SR, stab, V["chord_delay_send"])
 
-    # ---- palette B extras ----------------------------------------------------
-    if palette == "b":
+    # ---- motif: 2-3 notes, one key, no runs. The echoes make the rhythm. -----
+    if V["motif_on"]:
         motif_steps, motif_notes = [0.0, 1.75, 2.5], [1.0, m3, p5]
         mn = int(0.7 * SR)
         for b in range(bars):
@@ -211,12 +264,19 @@ def render_clip(palette, seed, bpm, seconds=60.0):
                 f = root * 4 * motif_notes[i]
                 v = (dsp.saw(f, mn, max_hz=4200.0, phase0=phases[i]) * 0.6
                      + dsp.sine(f, mn) * 0.5)
+                if V["motif_oct"] > 0:
+                    # detuned unison plus a quiet octave up: more presence
+                    # without adding notes, so it stays monotone.
+                    v = v + V["motif_oct"] * (
+                        dsp.sine(f * 2 ** (7.0 / 1200.0), mn, phase0=phases[i + 2]) * 0.7
+                        + dsp.sine(f * 2.0, mn, phase0=phases[i + 4]) * 0.45)
                 v = dsp.lowpass((v * dsp.exp_decay(mn, 0.20)).astype(np.float32), 900.0, 1.4)
                 t0 = b * bar + st * beat
-                dsp.add_at(dry["motif"], t0 * SR, v, 0.9)
-                dsp.add_at(send_delay, t0 * SR, v, 1.20)   # the echoes make the rhythm
+                dsp.add_at(dry["motif"], t0 * SR, v, V["motif"])
+                dsp.add_at(send_delay, t0 * SR, v, V["motif_send"])
                 dsp.add_at(send_verb, t0 * SR, v, 0.25)
 
+    if palette == "b":
         rave_n = int(0.5 * SR)
         rave = chord_stab([root * 8, root * 8 * m3, root * 8 * p5, root * 8 * m7],
                           rave_n, [-9.0, 0.0, 9.0], phases[3:], 0.16)
@@ -236,6 +296,16 @@ def render_clip(palette, seed, bpm, seconds=60.0):
                 dsp.add_at(chords_l, t0 * SR, hv, 0.13)
                 dsp.add_at(chords_r, t0 * SR + int(0.011 * SR), hv, 0.13)
                 dsp.add_at(send_verb, t0 * SR, hv, 0.55)
+
+    if V["sparse_fx"]:
+        # v3 keeps kick + bass + motif and exactly one atmospheric element: a
+        # distant horn-like pad, twice in the clip, reverb only.
+        hn = int(4.5 * SR)
+        hv = horn(root * 4, hn, rng)
+        for b in range(bars):
+            if b % 12 == 7:
+                t0 = b * bar + 0.5 * beat
+                dsp.add_at(send_verb, t0 * SR, hv, 0.75)
 
     # ---- percussion: soft, constant ------------------------------------------
     hat, hat_o = make_hat(rng), make_hat(rng, decay=0.017, f0=7400.0)
@@ -265,13 +335,16 @@ def render_clip(palette, seed, bpm, seconds=60.0):
     bd_l = dsp.tv_lowpass(tile(bed_l), bed_cut, q=1.6, block=512)
     bd_r = dsp.tv_lowpass(tile(bed_r), bed_cut * 1.03, q=1.6, block=512)
     ch_l, ch_r = ch_l + bd_l, ch_r + bd_r
+    if V["chord_width"] != 1.0:
+        mid, side = 0.5 * (ch_l + ch_r), 0.5 * (ch_l - ch_r)
+        ch_l, ch_r = mid + V["chord_width"] * side, mid - V["chord_width"] * side
 
     # dub delay: dotted eighth, tempo-synced, damped feedback, tape wow
     d_time = beat * 0.75
-    fb = 0.52 if palette == "a" else 0.62
+    fb = V["feedback"]
     wow_hz = 1.0 / (bar * 4)                  # divides the clip -> loops cleanly
     dl, dr = dsp.dub_delay(tile(send_delay), d_time, fb, 2400.0,
-                           0.0016, wow_hz, repeats=12, pingpong=True,
+                           0.0016, wow_hz, repeats=V["repeats"], pingpong=True,
                            wow_phase=float(phases[4]))
     if palette == "b":
         dl2, dr2 = dsp.dub_delay(tile(send_delay), beat * 1.5, 0.45, 1500.0,
@@ -279,8 +352,8 @@ def render_clip(palette, seed, bpm, seconds=60.0):
                                  wow_phase=float(phases[5]))
         dl, dr = dl + 0.5 * dl2, dr + 0.5 * dr2
 
-    ir = dsp.reverb_ir(rng, seconds=2.9 if palette == "b" else 2.2, damp_hz=1800.0)
-    rvl, rvr = dsp.convolve_stereo(tile(send_verb) + 0.25 * tile(chords_l), ir)
+    ir = dsp.reverb_ir(rng, seconds=V["verb_seconds"], damp_hz=1800.0)
+    rvl, rvr = dsp.convolve_stereo(tile(send_verb) + V["chord_verb"] * tile(chords_l), ir)
     fx_l = dsp.tv_lowpass(dsp.highpass(dl + 0.9 * rvl, 120.0), echo_damp, q=0.7, block=512)
     fx_r = dsp.tv_lowpass(dsp.highpass(dr + 0.9 * rvr, 120.0), echo_damp * 1.05,
                           q=0.7, block=512)
@@ -297,7 +370,8 @@ def render_clip(palette, seed, bpm, seconds=60.0):
     }
     meta = dict(palette=palette, seed=int(seed), bpm=float(bpm), bars=bars,
                 length_s=round(n / SR, 3), root_hz=round(root, 2),
-                delay_s=round(d_time, 4), feedback=fb)
+                delay_s=round(d_time, 4), feedback=fb, variant=variant,
+                variant_params={k: v for k, v in V.items()})
     return buses, meta
 
 
@@ -306,9 +380,16 @@ def render_clip(palette, seed, bpm, seconds=60.0):
 NOMINAL = {"kick": 0.80, "sub": 0.42, "chords": 0.85, "motif": 0.45,
            "perc": 0.45, "fx": 0.50}
 GAIN_BOUNDS = (0.30, 3.2)
+# On a variant the arrangement is the point, so the solver is held tight on the
+# elements the variant is *about* (pad, motif, fx) and given room on the bass,
+# where its only job is to keep the band balance honest.
+VARIANT_GAIN_BOUNDS = {"kick": (0.65, 1.80), "sub": (0.65, 1.80),
+                       "chords": (0.80, 1.25), "motif": (0.85, 1.25),
+                       "perc": (0.60, 1.60), "fx": (0.85, 1.25)}
 
 
-def balance(buses, target=BAND_TARGET, passes=2):
+def balance(buses, target=BAND_TARGET, passes=2, bounds=GAIN_BOUNDS):
+    """`bounds` is either one (lo, hi) pair or a per-bus dict of them."""
     """Choose stem gains so the mix lands on the reference band balance.
 
     Band power is additive across (near-uncorrelated) stems, so each band's share
@@ -316,14 +397,19 @@ def balance(buses, target=BAND_TARGET, passes=2):
     bounded least-squares problem rather than a guess. Gains are clamped so the
     solver can shape the spectrum but can never mute an element.
     """
+    if isinstance(bounds, dict):
+        lo = np.array([bounds[k][0] ** 2 for k in BUSES])
+        hi = np.array([bounds[k][1] ** 2 for k in BUSES])
+    else:
+        lo = np.full(len(BUSES), bounds[0] ** 2)
+        hi = np.full(len(BUSES), bounds[1] ** 2)
     E = np.stack([band_energy(buses[k].mean(axis=1) * NOMINAL[k]) for k in BUSES], axis=1)
     tgt = np.array(target, dtype=float)
     w = np.ones(len(BUSES))
     for _ in range(passes):
         scale = 1.0 / np.maximum(tgt, 0.004)
         A = (E * scale[:, None]) / (E.sum() + 1e-30)
-        sol = lsq_linear(A, tgt * scale, bounds=(GAIN_BOUNDS[0] ** 2, GAIN_BOUNDS[1] ** 2),
-                         max_iter=300)
+        sol = lsq_linear(A, tgt * scale, bounds=(lo, hi), max_iter=300)
         w = sol.x
         got = (E @ w)
         got = got / got.sum()
@@ -333,15 +419,34 @@ def balance(buses, target=BAND_TARGET, passes=2):
     return {k: float(NOMINAL[k] * np.sqrt(w[i])) for i, k in enumerate(BUSES)}
 
 
+def bass_glue(kick, sub, drive):
+    """Interlock kick and sub through one shared saturator.
+
+    Driving the summed bass and then applying the resulting gain curve back to
+    each part is what a bus saturator does: the two stop fighting for the same
+    peak and start reading as one instrument. Because the same curve is applied
+    to both, the stems still sum exactly to the glued bus.
+    """
+    b = kick + sub
+    x = b * drive
+    th = 0.85
+    ratio = np.where(np.abs(x) > 1e-6, th * np.tanh(x / th) / np.where(np.abs(x) > 1e-6, x, 1.0), 1.0)
+    return kick * ratio, sub * ratio
+
+
 def render_and_write(palette, seed, bpm, outdir, name=None, stems_dir=None,
-                     unmastered_lufs=-16.0, mastered_lufs=-14.0):
-    buses, meta = render_clip(palette, seed, bpm)
-    gains = balance(buses)
-    mixraw = sum(gains[k] * buses[k] for k in BUSES)
+                     unmastered_lufs=-16.0, mastered_lufs=-14.0, variant=None):
+    buses, meta = render_clip(palette, seed, bpm, variant=variant)
+    gains = balance(buses, bounds=VARIANT_GAIN_BOUNDS if variant else GAIN_BOUNDS)
+    scaled = {k: gains[k] * buses[k] for k in BUSES}
+    glue = meta["variant_params"]["bass_glue"]
+    if glue > 0:
+        scaled["kick"], scaled["sub"] = bass_glue(scaled["kick"], scaled["sub"], glue)
+    mixraw = sum(scaled[k] for k in BUSES)
     # exported stems: percussion rides along with the motif stem, at its own
     # solved gain, so the five-stem export still sums to the mix exactly.
-    stems = {k: gains[k] * buses[k] for k in STEMS}
-    stems["motif"] = stems["motif"] + gains["perc"] * buses["perc"]
+    stems = {k: scaled[k] for k in STEMS}
+    stems["motif"] = stems["motif"] + scaled["perc"]
 
     # reference copy: loudness normalised and peak-limited, but no glue
     # compression and no saturation
@@ -385,8 +490,10 @@ def main():
     ap.add_argument("--bpm", type=float, default=116.0)
     ap.add_argument("--out", default="./out")
     ap.add_argument("--name", default=None)
+    ap.add_argument("--variant", default=None, choices=sorted(VARIANT_SPECS))
     args = ap.parse_args()
-    p, meta = render_and_write(args.palette, args.seed, args.bpm, args.out, args.name)
+    p, meta = render_and_write(args.palette, args.seed, args.bpm, args.out, args.name,
+                               variant=args.variant)
     print(json.dumps({"wav": p, **meta}, indent=1))
 
 
