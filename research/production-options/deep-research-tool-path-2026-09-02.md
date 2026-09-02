@@ -17,7 +17,10 @@ Part 1 = sections A/B (cut off by the model's output limit, finish_reason=length
   Udio out for shipping (Suno's September-2026 terms cap commercial downloads at 20/month Pro, 60/month Premier).
 - New facts worth acting on: Splice licence permits sounds inside "Creative Works" incl. games/apps but forbids redistribution
   in isolation; Loopcloud forbids loop-level use in relicensed products; Lyria 3 Pro preview ≈ $0.08/song; Aimi's Player API
-  was the closest precedent to our product and its consumer app died.
+  was the closest precedent to our product. CORRECTION 9/2 (Daniel checked aimi.fm): the company is alive; what died is the
+  infinite-generative LISTENING product (aimi.fm/player/ now 404). Aimi pivoted to 'Aimi Session', a free browser DAW with an
+  AI producer paid per turn in credits (10 credits/turn; 3,000 free credits for sign-ups before 2026-11-01). That pivot — away
+  from the exact product we are building, toward a creator tool — is the precedent to study, not a shutdown.
 
 
 ---
