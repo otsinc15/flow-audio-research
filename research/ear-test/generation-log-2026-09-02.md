@@ -127,3 +127,5 @@ No call failed; no retry was needed; one call of the eight-call budget is unspen
 ## Unblinded first listen (Daniel, 2026-09-02)
 
 Heard `el-a-1.mp3` and `el-b-2.mp3` unblinded, as a ballpark check only: "for the first shot, really good!" Not a test result; these two clips are now known to him and must be excluded from the blind set.
+
+Follow-up feedback (Daniel): "definitely elements that need to be worked on — Endel sounds really fat and bassy, thick like in a real techno club; the clips are not. Not sure if it is a mastering thing." Objective correlate: the clips put 87–97% of energy <150 Hz with a starved 150–500 Hz body; "thick" lives in ~80–400 Hz (kick body, bass harmonics, chord low-mids) plus saturation/glue. Test planned: apply a mastering chain to the same clips and re-listen (isolates mastering from mix balance).
