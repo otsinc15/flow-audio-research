@@ -1,0 +1,530 @@
+URL: https://www.izotope.com/en/learn/how-to-mix-kick-and-bass
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 941970
+----
+Skip to content
+
+	•	Music Production Mixing & mastering software
+	•	All 
+	◦	All Music Production
+	◦	All products
+	◦	Music Production 
+	▪	All All products
+	▪	Mixing
+	▪	Mastering
+	▪	Vocal processing
+	▪	EQ
+	▪	Reverb
+	▪	Creative effects
+	◦	  
+	◦	Ozone
+	◦	Neutron 5
+	◦	Nectar 4
+	◦	Bundles
+	◦	Music Production 
+	▪	All Bundles
+	▪	Music Production Suite
+	▪	Mix and Master Bundle
+	▪	Subscription
+	◦	  
+	◦	Free plug-ins
+	•	  
+	•	Audio post Post production software
+	•	All 
+	◦	All Audio post
+	◦	All products
+	◦	RX 12
+	◦	Bundles
+	•	  
+	•	Subscription Try it free
+	•	Deals
+Support
+USD
+Region and language
+
+Search
+Country/Region
+
+	•	Afghanistan USD $
+	•	Åland Islands EUR €
+	•	Albania USD $
+	•	Algeria USD $
+	•	Andorra EUR €
+	•	Angola USD $
+	•	Anguilla USD $
+	•	Antigua & Barbuda USD $
+	•	Argentina USD $
+	•	Armenia USD $
+	•	Aruba USD $
+	•	Ascension Island USD $
+	•	Australia AUD $
+	•	Austria EUR €
+	•	Azerbaijan USD $
+	•	Bahamas USD $
+	•	Bahrain USD $
+	•	Bangladesh USD $
+	•	Barbados USD $
+	•	Belarus USD $
+	•	Belgium EUR €
+	•	Belize USD $
+	•	Benin USD $
+	•	Bermuda USD $
+	•	Bhutan USD $
+	•	Bolivia USD $
+	•	Bosnia & Herzegovina USD $
+	•	Botswana USD $
+	•	Brazil USD $
+	•	British Indian Ocean Territory USD $
+	•	British Virgin Islands USD $
+	•	Brunei USD $
+	•	Bulgaria EUR €
+	•	Burkina Faso USD $
+	•	Burundi USD $
+	•	Cambodia USD $
+	•	Cameroon USD $
+	•	Canada CAD $
+	•	Cape Verde USD $
+	•	Caribbean Netherlands USD $
+	•	Cayman Islands USD $
+	•	Central African Republic USD $
+	•	Chad USD $
+	•	Chile USD $
+	•	China USD $
+	•	Christmas Island USD $
+	•	Cocos (Keeling) Islands USD $
+	•	Colombia USD $
+	•	Comoros USD $
+	•	Congo - Brazzaville USD $
+	•	Congo - Kinshasa USD $
+	•	Cook Islands USD $
+	•	Costa Rica USD $
+	•	Côte d’Ivoire USD $
+	•	Croatia EUR €
+	•	Curaçao USD $
+	•	Cyprus EUR €
+	•	Czechia EUR €
+	•	Denmark EUR €
+	•	Djibouti USD $
+	•	Dominica USD $
+	•	Dominican Republic USD $
+	•	Ecuador USD $
+	•	Egypt USD $
+	•	El Salvador USD $
+	•	Equatorial Guinea USD $
+	•	Eritrea USD $
+	•	Estonia EUR €
+	•	Eswatini USD $
+	•	Ethiopia USD $
+	•	Falkland Islands USD $
+	•	Faroe Islands EUR €
+	•	Fiji USD $
+	•	Finland EUR €
+	•	France EUR €
+	•	French Guiana USD $
+	•	French Polynesia USD $
+	•	French Southern Territories EUR €
+	•	Gabon USD $
+	•	Gambia USD $
+	•	Georgia USD $
+	•	Germany EUR €
+	•	Ghana USD $
+	•	Gibraltar EUR €
+	•	Greece EUR €
+	•	Greenland EUR €
+	•	Grenada USD $
+	•	Guadeloupe EUR €
+	•	Guatemala USD $
+	•	Guernsey EUR €
+	•	Guinea USD $
+	•	Guinea-Bissau USD $
+	•	Guyana USD $
+	•	Haiti USD $
+	•	Honduras USD $
+	•	Hong Kong SAR USD $
+	•	Hungary EUR €
+	•	Iceland EUR €
+	•	India USD $
+	•	Indonesia USD $
+	•	Iraq USD $
+	•	Ireland EUR €
+	•	Isle of Man EUR €
+	•	Israel USD $
+	•	Italy EUR €
+	•	Jamaica USD $
+	•	Japan JPY ¥
+	•	Jersey EUR €
+	•	Jordan USD $
+	•	Kazakhstan USD $
+	•	Kenya USD $
+	•	Kiribati USD $
+	•	Kosovo USD $
+	•	Kuwait USD $
+	•	Kyrgyzstan USD $
+	•	Laos USD $
+	•	Latvia EUR €
+	•	Lebanon USD $
+	•	Lesotho USD $
+	•	Liberia USD $
+	•	Libya USD $
+	•	Liechtenstein EUR €
+	•	Lithuania EUR €
+	•	Luxembourg EUR €
+	•	Macao SAR USD $
+	•	Madagascar USD $
+	•	Malawi USD $
+	•	Malaysia USD $
+	•	Maldives USD $
+	•	Mali USD $
+	•	Malta EUR €
+	•	Martinique EUR €
+	•	Mauritania USD $
+	•	Mauritius USD $
+	•	Mayotte USD $
+	•	Mexico USD $
+	•	Moldova USD $
+	•	Monaco EUR €
+	•	Mongolia USD $
+	•	Montenegro USD $
+	•	Montserrat USD $
+	•	Morocco USD $
+	•	Mozambique USD $
+	•	Myanmar (Burma) USD $
+	•	Namibia USD $
+	•	Nauru USD $
+	•	Nepal USD $
+	•	Netherlands EUR €
+	•	New Caledonia USD $
+	•	New Zealand USD $
+	•	Nicaragua USD $
+	•	Niger USD $
+	•	Nigeria USD $
+	•	Niue USD $
+	•	Norfolk Island USD $
+	•	North Macedonia USD $
+	•	Norway EUR €
+	•	Oman USD $
+	•	Pakistan USD $
+	•	Palestinian Territories USD $
+	•	Panama USD $
+	•	Papua New Guinea USD $
+	•	Paraguay USD $
+	•	Peru USD $
+	•	Philippines USD $
+	•	Pitcairn Islands USD $
+	•	Poland EUR €
+	•	Portugal EUR €
+	•	Qatar USD $
+	•	Réunion EUR €
+	•	Romania EUR €
+	•	Russia USD $
+	•	Rwanda USD $
+	•	Samoa USD $
+	•	San Marino EUR €
+	•	São Tomé & Príncipe USD $
+	•	Saudi Arabia USD $
+	•	Senegal USD $
+	•	Serbia USD $
+	•	Seychelles USD $
+	•	Sierra Leone USD $
+	•	Singapore USD $
+	•	Sint Maarten EUR €
+	•	Slovakia EUR €
+	•	Slovenia EUR €
+	•	Solomon Islands USD $
+	•	Somalia USD $
+	•	South Africa USD $
+	•	South Georgia & South Sandwich Islands USD $
+	•	South Korea USD $
+	•	South Sudan USD $
+	•	Spain EUR €
+	•	Sri Lanka USD $
+	•	St. Barthélemy EUR €
+	•	St. Helena USD $
+	•	St. Kitts & Nevis USD $
+	•	St. Lucia USD $
+	•	St. Martin EUR €
+	•	St. Pierre & Miquelon EUR €
+	•	St. Vincent & Grenadines USD $
+	•	Sudan USD $
+	•	Suriname USD $
+	•	Svalbard & Jan Mayen EUR €
+	•	Sweden EUR €
+	•	Switzerland CHF CHF
+	•	Taiwan USD $
+	•	Tajikistan USD $
+	•	Tanzania USD $
+	•	Thailand USD $
+	•	Timor-Leste USD $
+	•	Togo USD $
+	•	Tokelau USD $
+	•	Tonga USD $
+	•	Trinidad & Tobago USD $
+	•	Tristan da Cunha USD $
+	•	Tunisia USD $
+	•	Türkiye EUR €
+	•	Turkmenistan USD $
+	•	Turks & Caicos Islands USD $
+	•	Tuvalu USD $
+	•	U.S. Outlying Islands USD $
+	•	Uganda USD $
+	•	Ukraine USD $
+	•	United Arab Emirates USD $
+	•	United Kingdom GBP £
+	•	United States USD $
+	•	Uruguay USD $
+	•	Uzbekistan USD $
+	•	Vanuatu USD $
+	•	Vatican City EUR €
+	•	Venezuela USD $
+	•	Vietnam USD $
+	•	Wallis & Futuna USD $
+	•	Western Sahara USD $
+	•	Yemen USD $
+	•	Zambia USD $
+	•	Zimbabwe USD $
+
+
+ 
+	•	Music production Mixing & mastering software
+	•	Mixing plugins
+	◦	Neutron 5
+	◦	Nectar 4
+	◦	Tonal Balance Control 3
+	◦	Insight 2
+	◦	All mixing plugins →
+	•	
+	•	Mastering plugins
+	◦	Ozone 12
+	◦	RX 12
+	◦	Tonal Balance Control 3
+	•	
+	•	Creative effects plugins
+	◦	Trash
+	◦	Vocalsynth 2
+	◦	Neoverb
+	◦	Catalyst Series
+	◦	All effects plugins →
+	•	
+	•	Plugin bundles
+	◦	Music Production Suite 9
+	◦	RX Post Production Suite 9
+	◦	Mix & Master Bundle Advanced
+	◦	Elements Suite
+	•	
+	•	Learn
+	◦	Beginner mixing guide
+	◦	How to EQ vocals
+	◦	Mastering for streaming platforms
+	◦	Digital audio basics
+	◦	All audio mastering articles →
+	•	
+	•	   
+	•	Audio post Post production software
+	•	Repair and enhancement
+	◦	RX 12 Advanced
+	◦	RX 12 Standard
+	◦	RX 12 Elements
+	◦	VEA
+	•	
+	•	Specialty tools
+	◦	Equinox
+	◦	Insight 2
+	◦	Tonal Balance Control 3
+	•	
+	•	Post production bundles
+	◦	RX Post Production Suite 9
+	◦	Music Production Suite 9
+	◦	Everything Bundle
+	◦	Elements Suite
+	•	
+	•	Learn
+	◦	Understanding spectrograms
+	◦	Repairing a distorted audio track
+	◦	Remove clicks and pops from audio
+	◦	All audio post production articles →
+	•	
+	•	   
+	•	Subscription Try it free
+	•	Learn Tips & tutorials
+	•	Deals
+	•	
+USD Region and language selector
+Total items in cart: 0 0
+	•	 
+	•	All posts 
+	•	Audio mastering 
+	•	Audio mixing 
+	•	Audio repair 
+	•	Dialogue editing 
+	•	iZotope product news 
+	•	Mixing vocals 
+	•	Music production 
+	•	Nectar 
+	•	Neutron 
+	•	Ozone 
+	•	Post Production 
+	•	Reverb 
+	•	RX 
+
+
+
+How to Mix Kick and Bass
+Kevin McHugh Audio mixing | Neutron  Dec 21st, 2022
+A big low end with a well-balanced kick and bass can be the crucial element where a mix can really grab your listeners, but it’s also the place where producers and engineers can find the most frustration. This is why it’s essential to know how to mix your kick and bass. 
+Real punch and power are there to be had, but often the sounds just end up getting in the way of each other, and we wind up in the mud. If you’ve encountered projects where the kick is lost, or the bass disappears behind, you know this pain.
+Fear not, we’re going to share some tips on how to mix kick and bass together to make your low end punchy and clear, while making space for everything to stay big present in the mix.
+Follow along with iZotope  Neutron , a powerful all-in-one mixing tool. 
+ Demo Neutron Free  
+
+
+1. Unmask overlapping frequencies
+The areas between 20 Hz–160 Hz typically host the most energy for kick drums and basses. The kick is the lowest tone of any percussion set, so it will always have some overlap with any bass sounds. Those overlaps are the source of 90% of the frustration we encounter in mixing. 
+This leads to a masking effect where multiple sources layer over the same frequency range, and wind up sapping the energy out of each other. 
+
+The areas between 20 Hz–160 Hz typically host the most energy for kick drums and bass
+Let’s listen to an example of where a kick and bass are fighting each other and making a muddy resonant low end. This is the kind of low end that will overload a mix, and make it very hard to achieve clarity.
+
+
+
+We can improve this by getting a better understanding of where masking is occurring in our mix. To see it more clearly, we’re going to use the Neutron Equalizer on the bass in our example.
+
+Frequency masking identified in the kick and bass in bright orange
+You can see the masking occuring with the bright orange indicators in the EQ module.
+We'll then go to Neutron's Unmask module to easily take care of any frequency masking issues.
+Here is what the Unmask module can do in clarifying and mixing bass and kick. 
+Unmasking Kick and Bass
+
+
+Using the Unmask module in Neutron to unmask the kick and bass
+Mixing is always a matter of making choices. We have to choose which sounds get prominent places in a mix, and sometimes multiple instruments are fighting for the same places. We need to choose a winner in certain moments, and other sounds can “win” at different moments.
+A kick drum will almost always have a relatively fixed sonic profile. They may have variable patterns, but they will normally hit the same pitch each time. That makes one choice very easy—the kick gets to “win” here. Therefore it will stay prominent, and the bass will get the EQ treatment to make space for the fundamental frequency of the kick. 
+We’ve said that in the game of choices when mixing, we need to choose a “winner” between sounds at certain times. There’s a very important distinction in that last part. What happens when the kick isn’t playing? The spaces in between kicks are fair game. And this is where you’ll find a lot of opportunity to fit your bass sounds around the kick.
+
+2. Use sidechain compression
+What happens when our kick and bass are hitting at the same time? If we’ve made good choices with our EQ, then dynamics can help with the rest. Sidechain compression will help us duck one signal when the other plays. In most cases, it will be better and easier to duck the bass when the kick plays.
+You might have heard about sidechain compression, and you’ve most definitely heard it used to some degree in EDM, sometimes to extreme effect. Sidechain compression can get a bad rap because it’s a bit of a blunt instrument, but with Neutron you can be more surgical and get far more effective results with fewer unwanted artifacts.
+In this mixing bass guitar and kick drum example, we’re going to use the compressor to duck specific frequency bands rather than the entire signal.
+To do that, we’ll use the Neutron compressor module on our bass channel. We’re going to select the input as our kick channel, and then in the low band, we’ll click the bottom tab that says “Ext. Full.” This will allow the full sound of the kick to duck just the low band of our bass. 
+
+Using sidechain compression in Neutron
+Here's what sidechain compression used on kick and bass sounds like: 
+Sidechain Compression on Kick and Bass
+
+
+3. Choose the right notes
+This last suggestion is not about the mix, but for the composing stage of production. Kick drums have a pitch—even the shortest, noisiest examples. That pitch can work with your bass line, or work against it. Some options for getting them to work together could include tuning a kick to a note that matches the key of your track. This could create a sense that all of the low end works together while the transient of your kick still has a percussive energy.
+Another option is to shift your bass notes to fit around the fundamental frequency of the kick. The kick in our next example is from a classic Roland TR-808, and it has a fundamental frequency around 50 Hz, with harmonics multiplying up at 100 Hz and 200 Hz. That places it just between G and G# on the scale. Therefore we can choose which note it matches to avoid letting these frequencies overlap too much with our bass notes. We can tune the kick up or down, and then transpose our bass up or down to see which works better. 
+Another option is to change the decay of our kick to be shorter, and to adjust the timing of the notes in our bass line to avoid playing at the same timing as the kick.
+Here are some examples:
+This version has a short kick decay, and the notes begin and end with slightly different timing to make space for the kick to push through more easily. 
+
+
+
+This version has a combination of a shorter kick, shifted note timing, and is also transposed up two steps to bring the bass higher than the fundamental of the kick.
+
+
+
+The second example sounds a little more cohesive to the overall mix, all while giving the bass and kick their much-deserved space from an arrangement and songwriting perspective.
+Start mixing kick and bass
+Try these tips, both at the mixing stage, and at the composing stage of your production. You’ll find that your kicks cut through loud and clear, your bass feels full and present, and your entire low end feels cohesive and powerful.
+And if you haven't already, give Neutron a try with a free demo to easily unmask your bass and kick while bringing punch and clarity. 
+ Demo Neutron Free  
+
+« Back to Blog
+Related Articles
+
+7 Tips for Mixing Sample-Based Music
+Dec 20th, 2022
+
+Mic placement 101: how to get a great sound
+Dec 9th, 2022
+
+Mic Placement 101: How to Get a Great Sound
+Dec 9th, 2022
+
+
+Together with Boris FX, we’re obsessed with driving creative tech forward, committed to excellence in everything you see and hear.
+
+
+Company Company
+	•	About iZotope
+	•	Contact
+	•	Work with us
+	•	Research team
+	•	Media & press resources
+	•	Enterprise and Education
+	•	Cookie Notice
+	•	Do Not Share My Personal Information
+	•	License Agreement
+	•	Accessibility Statement
+	•	Subscription Terms
+	•	Cancel Subscription
+	•	Analytics Opt-in
+Useful links Useful links
+	•	Product authorization
+	•	Knowledge base
+	•	Free audio plug-ins
+	•	Product downloads
+	•	Product portal
+	•	Loyalty program
+	•	Deals
+	•	Dealers
+	•	Product support & FAQs
+Explore Products Explore Products
+	•	RX
+	•	Ozone
+	•	Neutron
+	•	Nectar
+	•	Vocalsynth
+	•	Aurora
+	•	Neoverb
+	•	Tonal Balance Control
+	•	Music Production Suite
+	•	RX Post Production Suite
+	•	Reverb plug-ins
+	•	View all audio software
+
+Newsletter
+Email Sign up
+Social Social
+	•	
+Facebook
+Instagram
+Youtube
+Soundcloud
+
+Learn more about Learn more about
+	•	Audio mastering
+	•	Audio mixing
+	•	Audio post production
+	•	Audio repair
+	•	Dialogue editing
+	•	Music production
+	•	Reverb
+	•	Vocal production
+	•	View all topics
+
+Payment methods
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+
+© 2026 iZotope
+	•	Privacy policy
+	•	Terms of service
+	•	Refund policy
+	•	
+
+
+

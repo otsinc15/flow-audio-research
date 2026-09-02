@@ -1,0 +1,511 @@
+URL: https://thequietus.com/interviews/strange-world-of/robert-hood-interview-discography/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 335544
+----
+
+
+	•	News
+	•	Reviews
+	◦	Albums
+	◦	Album of the Week
+	◦	Reissue of the Week
+	◦	Metal
+	◦	Rock
+	◦	Punk
+	◦	Rum Music
+	◦	Cassettes
+	◦	New Weird Britain
+	◦	Electronic
+	◦	International
+	◦	Live
+	◦	Track-by-Track
+	•	Playlists
+	•	Subscriber Area
+	◦	Playlists
+	◦	Low Culture Podcast
+	◦	Low Culture Essay
+	◦	Organic Intelligence
+	•	Baker’s Dozen
+	•	Opinion & Essays
+	◦	Black Sky Thinking
+	◦	Anniversary
+	◦	Listen Here
+	◦	Beyond The Hits
+	•	Interviews
+	◦	A Quietus Interview
+	◦	Baker’s Dozen
+	◦	In Conversation
+	◦	Things I Have Learned
+	◦	Rock’s Backpages
+	◦	Strange World Of…
+	•	Culture
+	◦	Books
+	◦	Film
+	◦	Television
+	◦	Art
+	•	tQ Charts
+	◦	Albums of the Year
+	◦	Tracks of the Year
+	◦	Music of the Month
+	◦	Albums of the Year so far
+	◦	Reissues etc. of the Year
+	◦	Columns of the Year
+	•	The Portal
+
+	•	
+	•	
+	•	
+	•	
+	•	Subscribe
+	•	News
+	•	Reviews
+	◦	Albums
+	◦	Album of the Week
+	◦	Reissue of the Week
+	◦	Metal
+	◦	Rock
+	◦	Punk
+	◦	Rum Music
+	◦	Cassettes
+	◦	New Weird Britain
+	◦	Electronic
+	◦	International
+	◦	Live
+	◦	Track-by-Track
+	•	Playlists
+	•	Subscriber Area
+	◦	Playlists
+	◦	Low Culture Podcast
+	◦	Low Culture Essay
+	◦	Organic Intelligence
+	•	Baker’s Dozen
+	•	Opinion & Essays
+	◦	Black Sky Thinking
+	◦	Anniversary
+	◦	Listen Here
+	◦	Beyond The Hits
+	•	Interviews
+	◦	A Quietus Interview
+	◦	Baker’s Dozen
+	◦	In Conversation
+	◦	Things I Have Learned
+	◦	Rock’s Backpages
+	◦	Strange World Of…
+	•	Culture
+	◦	Books
+	◦	Film
+	◦	Television
+	◦	Art
+	•	tQ Charts
+	◦	Albums of the Year
+	◦	Tracks of the Year
+	◦	Music of the Month
+	◦	Albums of the Year so far
+	◦	Reissues etc. of the Year
+	◦	Columns of the Year
+	•	The Portal
+	•	A Quietus Interview
+	•	Baker’s Dozen
+	•	In Conversation
+	•	Things I Have Learned
+	•	Rock’s Backpages
+	•	Strange World Of…
+
+
+Subscribe
+	•	News
+	•	Reviews
+	◦	Albums
+	◦	Album of the Week
+	◦	Reissue of the Week
+	◦	Metal
+	◦	Rock
+	◦	Punk
+	◦	Rum Music
+	◦	Cassettes
+	◦	New Weird Britain
+	◦	Electronic
+	◦	International
+	◦	Live
+	◦	Track-by-Track
+	•	Playlists
+	•	Subscriber Area
+	◦	Playlists
+	◦	Low Culture Podcast
+	◦	Low Culture Essay
+	◦	Organic Intelligence
+	•	Baker’s Dozen
+	•	Opinion & Essays
+	◦	Black Sky Thinking
+	◦	Anniversary
+	◦	Listen Here
+	◦	Beyond The Hits
+	•	Interviews
+	◦	A Quietus Interview
+	◦	Baker’s Dozen
+	◦	In Conversation
+	◦	Things I Have Learned
+	◦	Rock’s Backpages
+	◦	Strange World Of…
+	•	Culture
+	◦	Books
+	◦	Film
+	◦	Television
+	◦	Art
+	•	tQ Charts
+	◦	Albums of the Year
+	◦	Tracks of the Year
+	◦	Music of the Month
+	◦	Albums of the Year so far
+	◦	Reissues etc. of the Year
+	◦	Columns of the Year
+	•	The Portal
+
+
+
+Subscribe
+	•	News
+	•	Reviews
+	◦	Albums
+	◦	Album of the Week
+	◦	Reissue of the Week
+	◦	Metal
+	◦	Rock
+	◦	Punk
+	◦	Rum Music
+	◦	Cassettes
+	◦	New Weird Britain
+	◦	Electronic
+	◦	International
+	◦	Live
+	◦	Track-by-Track
+	•	Playlists
+	•	Subscriber Area
+	◦	Playlists
+	◦	Low Culture Podcast
+	◦	Low Culture Essay
+	◦	Organic Intelligence
+	•	Baker’s Dozen
+	•	Opinion & Essays
+	◦	Black Sky Thinking
+	◦	Anniversary
+	◦	Listen Here
+	◦	Beyond The Hits
+	•	Interviews
+	◦	A Quietus Interview
+	◦	Baker’s Dozen
+	◦	In Conversation
+	◦	Things I Have Learned
+	◦	Rock’s Backpages
+	◦	Strange World Of…
+	•	Culture
+	◦	Books
+	◦	Film
+	◦	Television
+	◦	Art
+	•	tQ Charts
+	◦	Albums of the Year
+	◦	Tracks of the Year
+	◦	Music of the Month
+	◦	Albums of the Year so far
+	◦	Reissues etc. of the Year
+	◦	Columns of the Year
+	•	The Portal
+	•	
+	•	
+	•	
+
+Search for:
+
+A Quietus Interview Strange World Of...
+Fountain Of Living Water: The Strange World Of Robert Hood
+Read later
+As he prepares to release a career-spanning box set, Robert Hood guides Mike Shallcross through two decades of techno experimentation, Detroit and how his religious belief inspires his music
+
+Mike Shallcross Published 1:20pm 4 December 2014
+	•	
+	•	
+	•	
+	•	
+From his fiery origins as militant techno collective Underground Resistance’s live MC and "Minister For Information", to his latest Floorplan incarnation making euphoric gospel-sampling house, Robert Hood has been one of the most prolific and innovative of Detroit’s electronic producers. His music has taken in rap, rave, hardcore techno, straight-up house, imaginary film soundtracks and even jazz, but it’s for his pioneering of minimalism that he’s best known.
+Released in 1994, Minimal Nation has been a source of inspiration for producers ever since, (Richie Hawtin’s Minus label takes its name from a track on Internal Empire, its follow-up). His musical vision was originally enforced when having to make demos with his one piece of kit, a Roland TR-606 drum machine ("I had nothing else so I had to make it talk, I had to make it sing…"). But it has evolved into a single-minded artistic quest. ("Minimalism’s not about stripping down the track, it’s getting emotion from the smallest part.)
+Now based in rural Alabama, Hood took time out of his demanding tour schedule to talk us through the politics, spirituality and aesthetic values that have underpinned his career; and to celebrate 20 years of his revered M-Plant label.
+Sins Against The Race – ‘Rob Noise’ (From Hype Stuff compilation, 1990)
+
+
+My daughter was listening to that Meghan Trainor track ‘All About That Bass’ and telling me and my wife what bass music is, and we had to school her. I told her "Even before you were born I did this hip house track," and it took her by surprise, she was like, "Really, you rapped?". This was the first time I worked with Mike [Banks] and Jeff [Mills]. I met Mike through a mutual friend Agent X, [Detroit DJ Mike Clark]. I was just some skinny kid off the street with a 40oz of beer looking to get into techno and house music, but Mike took me over to Jeff’s place. I don’t know what I expected to see from this guy called the Wizard, because we just knew him from his radio show. Meeting him for the first time, I was thinking "OK where’s the Wizard at?" I expected him to appear from behind a curtain or something. It was actually like the Wizard Of Oz – you were expecting to see some mystical figure and he was small and quite unassuming.
+I was really into that whole Tyree Cooper hip-house thing, but I didn’t want to rap. I just wanted to produce the music and have somebody else rap. but I couldn’t find anyone who had the sort of subject matter i was looking for – a mixture of Q-Tip and Chuck D. So I started doing it myself. Mike and Jeff saw something in it, and something in me, so that was the advent of that relationship.
+
+I was very heavily influenced by Public Enemy. It was something heavy in my heart at the time… the struggle in Detroit and crack cocaine was ripping Detroit apart at the time. I saw a lot of friends killed, I saw a lot families go down in that that struggle.
+Rings of Saturn – ‘X102’ (Tresor, 1992)
+
+The X [101, 102, 103] projects were sort of a vehicle to introduce me to the scene. Underground Resistance was Jeff and Mike as a production team so this was a way of saying this is the next generation of UR, and through these records and UR’s live shows, it was a way of putting me in the spotlight.
+
+As a collective we did a lot of extensive research on Saturn, and the process of recording was non-stop marathon sessions. Sometimes it was Jeff and Mike, sometimes it was Mike and myself, with someone taking a nap in the next room. We recorded that entire album in Mike’s basement. A lot of late night recording, taking a break about three or four in the morning to get some Chinese food then doing some more.
+There was a lot of discussion about the album what it means and what we were trying to say with it being extremely progressive, pushing as far as we could in this experimental project, to take the listeners out of wherever they were and trying to put them in this spaceship. I remember taking a long time to come up with the titles with this idea that this is what the atmosphere of Saturn is all about.
+
+
+Underground Resistance was like boot camp. Mike and Jeff were brutally honest about whether your project was ready and whether you were ready to have longevity in this game. They were very concept-driven, very strong on making me a battle tested warrior in everything from business to live shows, moulding me into this musical juggernaut ready to survive in this game. There was a lot of tough love… they didn’t mince words.
+I remember Jeff coming to me one day and saying "This is the deal, you’re going to have to produce yourself. We’ve opened the door for you, but you need to pull yourself up by your own bootstraps."
+Sleep Chamber – ‘H&M’ (from Tranquilizer EP on Axis, 1992)
+
+This was I knew spiritually, "You have a voice and this voice is yours." It’s not like Jeff or Mike or Juan or Carl Craig. It was a very new voice and a very Detroit voice. That was my aim, to identify with my environment. Abdul Haqq, who did a lot to Transmat’s artwork, was at my place working, and I was doing this track and he just turned around and we knew… Spiritually we knew. When Jeff heard it he said let me have a lacquer of that record so I can take it to New York and play it at the Limelight and the crowd went wild.
+
+Then Kevin Saunderson licensed it for one of his compilations for KMS and I knew right then that this was the birth of M-Plant. The idea was to make just diminutive music, just basic rhythm tracks with a spiritual seed, to look at each track as a seed so that each would would grow and produce a harvest, to get away from rave culture and plant these minimalist art renderings in black and white. I wanted something that would speak to the soul or the human heart and not just capitalise on rave culture. The gabba sound was growing and it just didn’t do anything for my soul, my spirit. For me the stripped down sound of Detroit the stripped down sound of Chicago acid was my focal point. Minimum structure, maximal soul.
+
+
+It was a departure from the sample-driven aesthetic of rave culture and the way it was headed. I remember being at some mega-rave in Europe where there was the stage show where an alien came out and pretended to cut this girl’s throat. There was fake blood everywhere and I thought is what techno is really about? I thought let’s get back to the human pulse. I at least wanted to offer an alternative to this world of whistles and white gloves and glo-sticks
+I’ve always considered myself a sort of Langston Hughes of techno, like Nas is to hip hop. I’m not a Busta Rhymes character, I was about being an agent of change.
+I like to have fun like the next guy, but I wanted to make tracks about social change without being political or preachy. The struggle of Detroit was my main example of what the world looked like.
+
+‘The Rhythm of Vision’ (from Minimal Nation on Axis, 1994 later re-issued on M-Plant]
+I took a sample from George Clinton, a short snippet, it explained my idea about what I called the "Grey Area" sound. It was the atmosphere of the city. Detroit seemed to have this thin grey layer hanging over the city, I don’t know if it was the pollution. At the same time it was like a museum because it had these brilliant, historic buildings that were just lying empty, like a dead giant. I felt this track and Unix and Museum really described the state of Detroit.
+
+Detroit was such a brilliant creative city, full of life and full of ideas. I felt a sadness that some of these ideas from young people would never see the light of day, but I also felt hope that there would be a rebirth and some would eventually surface.
+Internal Empire (Tresor, 1994)
+A lot of the titles I’ve used, like Museum or Internal Empire, turned out to be prophetic. I used to wonder why I had picked the title Internal Empire, what it now means to me is that we have the keys to the Kingdom of Heaven, but we’re not using them. If you use them you unlock generations and generations of blessings in your life, but it’s up to us to use the keys and unlock this internal empire and let it out. Otherwise it remains dormant.
+
+
+The Bible says in Hosea, "My people are destroyed for lack of knowledge", and it also says in Proverbs, "Without visions the people will perish". Where there is no revelation the people cast off restraint you wind up falling victim to the lusts of this world and you are destroyed. But when you have vision there is nothing you cannot do. We can Heaven here on Earth, but it’s our choice. The battle takes place in the mind. What M-Plant meant and it means now is a paradigm shift, a whole new way of thinking.
+Night-time World Vol.1 (Cheap, 1995)
+
+That turned everything upside down when it was first released, people were scratching their heads. I’d done Internal Empire and Minimal Nation, and now here was some listening music. It took you from jazz to techno to experimental to minimal. I wanted people to know I wasn’t one-dimensional. My idea was that after the club has closed and you’re headed home, away from the crowd and there’s solitude. That was my idea a night drive along the Detroit River when it’s just you and your thoughts.
+It was being courageous, but that was something we got from the [legendary Detroit DJ] Electrifyin’ Mojo. It was a natural thing for us to mix it up. We grew up in Detroit being exposed to Mojo and grew up on Joe Sample, the Jazz Crusaders, Jean Luc Ponty and Donald Byrd. That shaped a lot of my ideas musically.
+
+
+‘The Colour Of Skin’ for me summed up the whole album. I was writing from the perspective of a black kid growing up in Detroit but looking at the city from a watcher’s point of view – wondering where we’re headed as a people and what our place is in the world. I’d grown up on 7 Mile Road and travelled the world a little bit I remember being stared going through Europe on the train, wondering what people thought of me. I was shocked how well received my music was. I was just doing my thing, when I read somewhere that Surgeon said that when he heard Minimal Nation, the world shifted.
+Who Taught you Math? (Peacefrog, 2002)
+
+Even though at this point I felt very disconnected and unsure of where I was headed as an artist, God showed me I had the Internal Empire within me. I could still twist out a gem like this, but spiritually I was at a point of uncertainty. It took me a while after that to get a new focus but that track was a life-preserver for me and helped me to keep hold of my hope and my outlook. I used a Roland SH 101 primarily for this, there was constant shifting in the rhythm. I was also looking at a book of really basic drawings of mannequins and I thought of moveable parts and started to use the sketches to illustrate the concept and relate to the dancer. If there was one record on this list that represents me, it’s this one. It embodies what Detroit techno is, the freeform side, the stripped down side, the progressive attitude that was put into me as a fan of techno.
+It embodies things like Kraftwerk and Thomas Dolby; Gary Numan and Earth Wind and Fire. I wanted to mix Man and Machine – a cold and warm collaboration. Techno music with soul, not conventional soul from a Curtis Mayfield record, but something new, spiritual. I wanted a hi-hat to sound as emotional as a Luther Vandross chorus.
+
+My gear has always been basic, but it’s about squeezing blood out of it. I would envision myself more with a gospel choir rather than an orchestra if I was to go less minimal. That’s more my vision.
+‘Bells at Dusk’ (from Omega Alive on M-Plant, 2011)
+
+This was something different for me. I felt like I was reintroducing myself, trying to recapture my place in minimal music. I wanted to introduce myself to a younger generation, but at the same time make it a cinematic journey. It was for my live show, something to grab your attention. Some times I played it and it could sound so delicate, and sometimes it sounded like 10,000 drums. I played it at Movement and the reverberations were so heavy.
+
+‘Assembly’ (from Motor: Nighttime World 3 on Music Man 2012)
+This is a little homage to the Specials’ ‘Ghost Town’, which is one of my favourite records. I used a reversed vocal – it’s like a ghostly presence in an old Cadillac factory. I had a dream that I was in a factory alone and a song starts playing over a loudspeaker. It was like there was still the ghostly presence of the automotive workers who came from the south their spirits being in the machine and still operating them. It didn’t spook me, it gave me a feeling of peace if anything.
+
+Detroit is going through a strange rebirthing process, but life will re-emerge. We hung all our hopes on the car industry and I saw a lot of people get locked into a false sense of security. The idea of "Slow Motion Katrina" that Julien Temple talks about [in his documentary Requiem For Detroit, for which Motor is an imaginary soundtrack] exactly hit the nail on the head. But as long as there is something left there is something to work with. It’s not going to be the same way it was, when we came out of Alabama into Detroit looking for the automotive industry to save us.
+Never Grow Old – ‘Floorplan’ (from Paradise on M-Plant, 2013)
+
+God literally woke me up in the middle of the night and said, "I want you to put a gospel message in your music", so I immediately started working on ‘We Magnify his Name’, but I had no idea how people were going to receive this. Playing that record at Berghain on an early Sunday morning at 5am, it’s like a revival. For Never Grow Old I sampled Aretha Franklin from a recording she did in a Los Angeles church in 1973, you could feel the Holy Spirit in my studio, I was literally in tears. I didn’t know what it was going to do… be a hit or a flop, but I knew it was going to be something. This was the beginning of M-Plant becoming a ministry instead of merely a record label. I’m now a DJ who’s a minister as well. Being connected to God and having this revelation means I don’t ever have to stop making music. After 25 years in the game, I can keep drawing from this fountain of living water.
+M-Print – 20 Years of M-Plant Music – Robert Hood is released on December 8.
+
+
+More on Robert Hood
+
+Reviews
+Robert Hood
+Mirror Man
+The maestro returns with an album by turns gloriously ambient and unabashedly pounding, finds Noel Gardner
+
+Album of the Week
+Lead Review: Ben Cardew On Floorplan’s Victorious
+On Robert Hood's latest outing as Floorplan, Ben Cardew finds the minimal techno luminary still unafraid to be difficult, but geared more heavily than ever toward a rewarding sense of out-and-out fun as well as funk
+
+A Quietus Interview
+An Ecumenical Chatter: When Rev Robert Hood Met Fr Alan Green
+As well as being a true genius of Detroit techno, Robert Hood is an ordained pastor. Here, Luke Turner conducts a conversation on Christianity, politics and music between Hood and the Reverend Alan Green (NO NOT THAT REV AL GREEN) of St John On Bethnal Green Church, London.
+
+Strange World Of...
+Science Fiction/Science Fact: The Strange World Of… Jeff Mills
+Jeff Mills may well be primarily known as one of the key figures in the development of Detroit techno and a founding member of UR but here he talks to Ed Power about his recent history working across the spectrum of the arts and his obsession with both space travel and science fiction
+
+Live Reviews
+Towards An Unknown Resolution: Bloc Weekend 2015 Reviewed
+Bloc Weekend returned to Butlins Minehead last week, for its first festival at the venue since 2011. Rory Gibb and Ed Gillett journeyed out west to report on a weekend of techno-heavy delights, spaced-out cosmic drifts and several killer DJ sets. Photographs by Beth Marsh and Jake Davis
+
+Reviews
+Robert Hood
+M-Print: 20 Years Of M-Plant Music
+
+Live Reviews
+Dream Baby Dream: Unsound Festival Reviewed
+Luke Turner and Rory Gibb head to Krakow for a week at Poland's Unsound Festival, the theme of which is The Dream... the likes of The Bug, Cyclobe, Zamilska, Ksiezyc, Powell and Russell Haswell send them into a heady, other place... Photos by Anna Spysz and Camille Blake
+
+Black Sky Thinking
+Praise Be! The Quietus’ Favourite Religious & Spiritual Records
+Ahead of the Easter weekend, the Quietus writers select a huge list of their favourite religious and spiritual records, from across the spectrum of belief systems, denominations and musical styles
+
+A Quietus Interview
+Love Is The Message: An Interview With Robert Hood
+Robert Hood's new album under the Floorplan alias sees the minimal techno pioneer infuse his sound with gospel, disco and funk, all the while retaining his customary astonishing, hypnotic precision. He speaks with Harry Sword about growing up in '70s Detroit, the importance of intent, and how his strong Christian faith informs his attitude towards club music
+More from Strange World Of...
+
+Strange World Of...
+The Strange World of… Krallice
+Ahead of an appearance at Skaņu Mežs festival, Nick McMaster and Lev Weinstein guide Dan Franklin through ten highlights from their labyrinthine discography. Photograph by Paul Verhagen
+
+Strange World Of...
+The Strange World of… Adam Curtis
+Ahead of the world's first 'Adam Curtis Party Conference' in Bournemouth, David Moats offers us 10 entry points into the filmography of a documentarian like no other
+
+Strange World Of...
+The Strange World of… Stiff Records
+The great British indie put out its first single 50 years ago today. Michael Hann steers a ten-song course through a catalogue that hymned London while trying to be Asbury Park, and was never afraid to be ridiculous
+
+Strange World Of...
+The Strange World Of… The Cramps
+As Henry Rollins and Ian MacKaye open up The Cramps’ vaults for a sonic overhaul and a consolidation of the band’s business affairs, Julian Marszalek takes a deep dive into their back catalogue to offer 10 points of entry for novices and converts alike. Portrait by David Godlis
+
+Strange World Of...
+The Strange World Of… King Tubby
+David Katz navigates ten entry points into the back catalogue of the King Tubby, the enigmatic Jamaican audio engineer who devised the dub art form
+
+Strange World Of...
+The Strange World of… GLARC
+Stewart Smith offers ten points of entry – including Still House Plants, Quinie & Harry Gorski-Brown – into the strange world of Glasgow label, Greater Lanarkshire Auricular Research Council
+
+Strange World Of...
+The Strange World Of… Melinda Gebbie
+Alistair Fruish talks to American underground comics artist Melinda Gebbie about retrospective Greatest Fits, plus her wild and inspirational career from the burned and banned Fresca Zizis to vivid portraits Herbie Hancock, James Brown and Janis Joplin. Some images NSFW
+
+Strange World Of...
+Geoff Travis & Jeannette Lee on the Strange World of Rough Trade Records
+We mark half a century of Rough Trade by sitting down to listen to 10 essential tracks from the label as an insight into their ethos, love of community, and being hugged by Mark E Smith
+
+Strange World Of...
+The Strange World Of… Hildur Guðnadóttir
+Charlie Brigden provides ten entry points into the work of Hildur Guðnadóttir and talks to her about DC supervillains, doing the school run, and creating the sound of radiation
+More from Subscriber Area
+Subscribers 
+Monthly Playlists
+Subscriber Perks Reminder & Exclusive Playlist: August 2026
+Catch up with what our subscribers received over the past month, as well as hours of music that we've covered on the site
+Subscribers 
+Low Culture Essay
+The Low Culture Essay: Kirsteen McNish on Jason Molina’s Let Me Go, Let Me Go, Let Me Go
+Two decades on from the week of its release, Kirsteen McNish reflects on how a rainy night in Hull connected her to a quiet, moving album from the Mid West rust belt.
+Subscribers 
+Playlists
+Guest Playlist: Saul Williams
+With a return to Big Dada for his first full-length solo work in seven years, as well as a new book exploring how artists must respond to systemic violence and injustice, poet, musician, director and actor Saul Williams takes us through what's influencing him. The results are compiled into a playlist exclusively for tQ Subscriber Plus tier members
+Subscribers 
+Organic Intelligence
+Organic Intelligence LIX: Political Reggae of Jamaica
+In this month’s antidote to the algorithm, Thibault Ehrengardt takes us through the records that were part of the turbulent politics of 70s Jamaica
+Subscribers 
+Low Culture Podcast
+Low Culture Podcast: Kate Bush’s Hounds Of Love
+In the August episode of the pod, Luke Turner and John Doran discuss an utterly sublime meeting of pop and art
+Subscribers 
+Monthly Playlists
+The July Catch-up Playlist is Here
+Nearly four hours of music guide you through everything we wrote about last month
+Subscribers 
+Low Culture Essay
+Low Culture Essay: Ledio Cakaj on Greek Laïko Music
+Ledio Cakaj relates how the “romantic longing” of Laïko sustained him as an undocumented Albanian teenager, living and working in Patras and Athens in the mid-90s
+Subscribers 
+Playlists
+Guest Playlist: Nick Granata
+As Shovel Dance Collective singer and organist Nick Granata prepares for the launch of their excellent and eccentric solo debut, they take us through the diverse influences that inspired it (the results are compiled into a playlist exclusively for tQ Subscriber Plus tier members)
+Subscribers 
+Low Culture Podcast
+Low Culture Podcast: The Ploughman’s Lunch
+In this month’s pod Luke Turner and John Doran tuck into a meal of humble origins that is now, tragically, under threat
+Subscribers 
+Organic Intelligence
+Organic Intelligence LVIII: Fluxus on Vinyl
+In the latest antidote to the algorithm, Robert Barry looks at the vinyl releases of the pivotal Fluxus movement – records that often resulted from the destruction of their peers
+Subscribers 
+Monthly Playlists
+The June Subscriber Playlist is Here
+Our subscribers can tune in to nearly five ours of music from the past month
+Subscribers 
+Low Culture Podcast
+Low Culture Podcast: Altar by Sunn O))) and Boris
+In this month’s pod, John Doran and Luke Turner discuss witnessing the glorious evolution of the doom titans in the early 2000s, and how it led to the formation of The Quietus
+ADVERTISEMENT
+
+Most Popular
+1
+Beyond The Hits
+Mysteries Of Desire: Kate Bush, Beyond The Hits
+2
+A Quietus Interview
+The Roaring Boys: An Interview with Echo & the Bunnymen
+3
+Baker's Dozen
+Ford Focus: James Ellis Ford’s Favourite Albums
+4
+Baker's Dozen
+Select Few: Kim Wilde’s Favourite Albums
+5
+Music of the Month
+Music of the Month: The Best Albums and Tracks of August 2026
+6
+Baker's Dozen
+The Reinvention of the Guitar in 13 Albums, by Simon Reynolds
+7
+Album of the Week
+Sounds of Praise: Olúsín [Worshippers] by Ibukun Sunday
+8
+Albums of the Year so far
+The Quietus Albums of the Year So Far 2026 (In Association with Norman Records)
+9
+Baker's Dozen
+Beauty & Dirt: Chino Moreno’s Favourite Albums
+10
+Strange World Of...
+The Strange World of… Krallice
+11
+Baker's Dozen
+Getting To The Point: Anthony Fantano’s Favourite Albums
+12
+Anniversary
+No Longer Lost: David Sylvian’s Gone to Earth at 40
+13
+Reviews
+Interpol
+This Mirror Weighs A Ton
+All Most Popular 
+ADVERTISEMENT
+
+
+Don’t Miss The Quietus Digest
+Start each weekend with our free email newsletter.
+
+Submit
+Help tQ Survive & Thrive
+Without our subscribers, all this would simply fall into the cultural abyss. Please take a moment to explore our membership tiers and rewards + don’t miss our free 30-day trial offer for new subs.
+Try For Free
+2 September 2026
+
+	•	
+	•	
+	•	
+"Row, fisherman, row / Keep on rowing your boat"
+	•	News
+	•	Reviews
+	•	Subscriber Area
+	•	Baker’s Dozen
+	•	Opinion & Essays
+	•	Interviews
+	•	Culture
+	•	tQ Charts
+	•	The Portal
+	•	Privacy Policy
+	•	About Us
+	•	Advertising
+	•	Contact Us
+	•	RSS
+Site by
+©Black Sky Thinking Limited (trading as The Quietus) company number 07130747
+
+
+
+Get The Portal Direct To Your Inbox
+Sign up for a weekly delve into the tQ archives.
+
+Submit
+Tick here to sign up for The Quietus Digest too – our weekly round-up newsletter.
+The Quietus Digest
+Sign up for our free Friday email newsletter.
+
+Submit
+Tick here to sign up for The Portal email too – our weekly dive into the tQ archives.

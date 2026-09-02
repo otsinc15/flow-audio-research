@@ -1,0 +1,7144 @@
+URL: https://archive.org/stream/synthmanual-roland-tr-909-owners-manual/rolandtr-909ownersmanual_djvu.txt
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 212476
+----
+Skip to main content
+Keep the news in the Wayback Machine. Sign Fight for the Future's letter.
+
+An icon used to represent a menu that can be toggled by interacting with this icon.
+A line drawing of the Internet Archive headquarters building façade.
+
+An illustration of a computer application window
+Wayback Machine
+An illustration of an open book.
+Texts
+An illustration of two cells of a film strip.
+Video
+An illustration of an audio speaker.
+Audio
+An illustration of a 3.5" floppy disk.
+Software
+An illustration of two photographs.
+Images
+An illustration of a heart shape
+Donate
+An illustration of text ellipses.
+More
+An illustration of a heart shape
+"Donate to the archive"
+AN ILLUSTRATION OF A PERSON'S HEAD AND CHEST.
+An illustration of a magnifying glass.
+
+	•	Sign up for free 
+	•	Log in 
+Full text of "Roland TR-909 Owner's Manual"
+See other formats
+
+RHVTHM COMPOSER 
+
+
+
+
+
+omtus mm 
+
+
+
+Contents 
+
+
+
+Panel Description 
+
+Connection 
+
+Operation 
+
+► Basic Course 
+
+[T] Sound Check 7 
+
+1. Manual Play 7 
+
+2. Rhythm Pattern Play 7 
+
+[2] Pattern Write and Play 9 
+
+1 . Step Write 9 
+
+2. Some more useful Information 
+
+for Pattern Write 12 
+
+3. Tap Write 14 
+
+4. Pattern Play 14 
+
+[3] Track Program and Play 15 
+
+1. Track Program 15 
+
+2. Editing Rhythm Track 16 
+
+3. Additional Information 17 
+
+4. Track Play 18 
+
+[T]Tape Interface 19 
+
+
+
+► Advanced Course 
+
+[5] Variations of Writing Rhythm 
+
+Patterns . 24 
+
+1. Selecting a Scale 24 
+
+2. Setting Last Step 24 
+
+3. Accent 25 
+
+4. Shuffle 26 
+
+5. Flam 26 
+
+[6] Edit Functions 27 
+
+1. Copy 27 
+
+2. Chain Function 28 
+
+3. Delete 28 
+
+4. Insert 30 
+
+5. Copy 31 
+
+jT] Other Functions 32 
+
+1. Tempo Memory 32 
+
+2. Multi Out 32 
+
+3. Memory Cartridge 33 
+
+4. Sync Functions 34 
+
+5. External Instrumient Mode ... 37 
+• MIDI 38 
+
+6. Trigger Out Stop/Start 38 
+
+Specifications/Option 39 
+
+
+
+Panel Description 
+
+
+
+Pattern Group Selector Buttons (Play/ [Write [ mode) 
+
+
+
+
+The Keys and Buttons enclosed with should be always pushed while the [Shift Button! is being held down. 
+
+
+
+RHVTHM COMPOSER 
+
+TR-30S 
+
+The Roland TR-909 rhythm composer is 
+a fully programmable rhythm machine 
+with various attractive functions. 
+
+
+
+Features 
+
+• By using up to 48 kinds of Rhythm 
+Patterns, you can program 4 Rhythm 
+Tracks (altogether 896 measures) in a 
+Bank, and there are two separate Banks, 
+which doubles the capacity of the TR- 
+909. 
+
+• It is possible to write accent data indi- 
+pendently to Bass Drum, Snare Drum, 
+Low, Mid, and Hi Toms and Closed Hi- 
+hat, as well as Total accent to all the 
+voices within each step. 
+
+• Each sound source includes Control 
+knobs of Level, Decay, Tune, etc, allow- 
+ing spontaneous timber setting accord- 
+ing to the tempo of the rhythm. 
+
+• Flam and Shuffle functions are featured 
+enabling richer expressing of rhythms. 
+
+•The Tape Interface makes it possible to 
+save the programmed data in the TR- 
+909's Memory onto an ordinary audio 
+tape. 
+
+•The Memory Cartridge is optional for 
+instantaneous saving and loading. 
+
+•The Display Window allows quick visual 
+grasp of the tempo, measure number, 
+etc. 
+
+• MIDI BUS Interface on the back panel 
+enables setting up with other- MIDI 
+devices, therefore, external sound 
+source and Sync with external devices 
+are now available. 
+
+
+
+Important Notes- 
+
+
+
+• Using the TR-909 near a neon or fluorescent lamp may 
+cause noise interference. If so, change the angle or posi- 
+tion of the TR-909. 
+
+•Avoid using the TR-909 in extreme heat or humidity 
+or where it may be affected by dust. 
+
+• Use a soft cloth and clean only with mild detergent. 
+
+• Do not use solvents such as paint thinner. 
+
+
+
+Memory Back-up 
+
+
+
+The TR-909 features memory back-up system that 
+retains Rhythm Patterns and Track compositions even 
+when switched off. The TR-909 relies on its batteries for 
+its back-up circuit. Be sure to keep the battery securely 
+connected even while using the AC Adaptor. Also, al- 
+ways replace with a complete set of the new batteries 
+once a year. If you have changed the batteries with the 
+TR-909 switched on, the memory can retain the data. 
+
+• If the TR-909 is not to be used for long periods of 
+time, please be sure to switch the power off and re- 
+move the batteries, or various troubles may be caused 
+by battery leakage. 
+
+• Please observe "Battery Replacement" on the next 
+page. 
+
+• Please be sure that the polarities of the batteries are 
+correct. 
+
+
+
+Battery Replacement 
+
+
+
+Use two 1.5V (UM-3) batteries. 
+
+(3) Remove the battery cover on the bottom of the unit. 
+
+© Take out the battery case. 
+
+© Remove the batteries from the battery case. 
+
+@ Place a new set of batteries taking care of the polari- 
+ties. 
+
+© Return the battery case into the housing. 
+
+© Return the battery cover. 
+
+• Please be sure to do the entire battery replacing pro- 
+cedure with the unit switched on. Then the data in 
+memory will be retained. 
+
+• Please do not pull the cord hard. 
+
+
+
+Connectiori 
+
+
+
+6 
+
+
+
+MASTER OUT 
+
+
+
+HID TOM LOW TOM 
+
+
+
+
+Iflll 
+
+
+□ E] 
+
+
+;;;:;••• 
+
+
+WS^^^^i 
+
+
+^^^^^ 1 
+
+
+PAM 
+
+
+xer 
+
+
+
+Operation 
+
+
+
+► Basic Course 
+[HSound Check 
+
+
+
+1. Manual Play 
+
+
+
+Hitting the Main Key, you will hear the 
+corresponding sound source. 
+
+[Operation] 
+
+(J) Set up the TR-909 as shown in "Con- 
+nection" on p. 6. 
+
+® Turn the TR-909 on. 
+Note: Please try handling the Power 
+Switch as gently as possible. 
+
+
+
+d) Set the Level Control of each sound 
+source to its middle. 
+
+(4.) Tap each Main Key, and the corre- 
+sponding voice will be heard. Here, 
+adjust the overall volume to pleasant 
+level. 
+
+
+
+2. Rhythm Pattern Play 
+
+
+
+Simple demonstration data is pre- 
+programmed into the TR-909 (Bank I, 
+Track 1, Rhythm Patterns 1 to 8). You 
+can erase it and write your own data. 
+
+[Operation] 
+
+©Set up the TR-909 as shown in "Con- 
+nection" on p. 6. 
+
+
+
+©Turn the TR-909 on. 
+
+Note; Please try handling the power 
+switch as gently as possible. 
+
+(3) Set the Level Control of each sound 
+source to its mJddle. 
+
+(4) Press the Start Key. ([jj^ 
+
+
+
+ffj^ 
+
+
+
+START 
+
+
+
+^ 
+
+
+
+■ Sound Sources 
+
+
+
+BASS DRUM . . 
+
+
+.1 — With accent 
+
+
+HI HAT. . . 
+
+
+. . . 13- Closed hi-hat with 
+accent 
+
+
+
+
+2 — Without accent 
+(Normal volume) 
+
+
+
+
+14- Closed hi-hat 
+without accent 
+
+
+SNARE DRUM. 
+
+
+.3 - With accent 
+
+
+
+
+Pressing both 13 and 14 
+at the same time will 
+
+
+
+
+4 — Without accent 
+
+
+
+
+make Open Hi-hat (in 
+normal volume). 
+
+
+LOW TOM" 
+
+
+
+
+5,7,9- With accent 
+
+
+CRASH. . . 
+
+
+. . .15 
+
+
+MID TOM 
+
+
+[■■ 
+
+
+. 6, 8, 10 -Without 
+accent 
+
+
+RIDE .... 
+
+
+. . .16 
+
+
+HI TOM J 
+
+
+
+
+
+
+
+
+
+
+RIM SHOT. . . . 
+
+
+.11 
+
+
+
+
+
+
+HAND CLA 
+
+
+P . . 
+
+
+.12 
+
+
+
+
+
+
+
+8 
+
+
+
+■ Controls in the Sound Section 
+
+• Level knob 
+
+This is provided for every sound source 
+and controls each volume. Rotating this 
+clockwise (O) will increase the volume. 
+
+[BASS DRUM] 
+
+• Attack 
+
+This is to control the attack sound. 
+Rotating this knob clockwise (Q) in- 
+creases it. 
+
+• Decay 
+
+This adjusts the decay time. If you wish 
+to mute the kick drum sound, rotate 
+this knob counterclockwise (O). 
+
+•Tune 
+
+This is to control the pitch. Whatever 
+the position this knob is set, the Decay 
+knob works at its set time. 
+
+[SNARE DRUM] 
+
+• Tone 
+
+This is to change timber of the sound. 
+As you rotate this knob, the sound will 
+become brighter. 
+
+•Tune 
+
+This is to control the pitch of the Snare 
+Drum sound. 
+
+
+
+•Snappy 
+
+This corresponds to the snappiness of 
+the Snare Drum. At its fully counter- 
+clockwise ( O ) position. Snare Drum 
+sound with snappy removed will be ob- 
+tained. 
+
+[LOW TOM/MID TOM/HI TOM] 
+•Tune 
+
+Rotating the knob clockwise (Q) in- 
+creases the pitch. Controling the pitch 
+of these three Tom sounds, you can use 
+them as Melody Tom. 
+
+• Decay 
+
+This adjusts the decay time. If you wish 
+to mute the Tom sound, rotate this 
+knob counterclockwise (O). 
+
+[HI-HAT] 
+
+• Decay 
+
+This knob controls the Decay time of 
+Hi-hat sound. If you wish to mute the 
+Hi-hat sound, rotate this knob counter- 
+clockwise (O). 
+
+[CRASH/RIDE] 
+•Tone 
+
+This is to adjust the pitch of the Cymbal 
+sound. 
+
+
+
+9 
+
+
+
+2] Pattern Write and Play 
+
+
+
+To store a measure of Rhythm Pattern 
+into the TR-909 is called "Write" in this 
+manual. 
+
+
+
+There are two main methods of writing, 
+Step Write and Tap Write. 
+
+in either mode, you will hear the Rhythm 
+you are writing. 
+
+
+
+1. Step Write 
+
+
+
+Let us write an example pattern. 
+
+
+
+T.ACC > 
+
+
+
+SD 
+
+
+
+J l^-J I 
+
+
+
+I step No^ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 16 
+
+
+
+SD- 
+
+
+
+T. ACCm>- 
+
+
+
+IM^ 
+
+
+
+[Operation] 
+
+© Make sure that the TR-909 is turned 
+on but not running. (The TR-909's 
+Main Keys's indicators flash from the 
+left to right showing that it is now in 
+the running mode. So, it is easily 
+recognized whether the TR-909 is run- 
+ning or not.) 
+
+(2) While holding the Shift Button down, 
+press the Pattern Group Selector But- 
+ton 2, and it will start flashing. ([^ 
+
+(D While holding the Clear Button, press 
+the Main Key 1. This procedure will 
+erase the Rhythm Pattern previously 
+written there (Bank 1, Pattern Group 
+2, Pattern Number 1). Even if there is 
+no Rhythm Pattern written there, this 
+procedure does you no harm. ^1^ 
+
+® Press the Start Key. You will see the 
+Indicator on the Main Key flashing 
+from the left end to the right (from 1 
+to 16). 031=' 
+
+
+
+To select a Voice you like, press the 
+appropriate Sound Key (= Main Key). 
+For instance, if you want the Snare 
+Drum, simply press either the Main 
+Key 3 or 4, while holding the Instru- 
+ment Selector Button. Jj^ 
+
+
+
+a:^ 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+PATTERN 2 
+
+
+
+
+
+dJ^ 
+
+
+
+a^ 
+
+
+
+START 
+
+
+
+<7 
+
+
+
+INSTRUMENT SELECT 
+
+
+
+V 
+
+
+
+3(4) 
+
+
+
+] 
+
+
+
+10 
+
+
+
+•Selecting Sound Source 
+[Choosing] 
+
+
+
+Total 
+Accent 
+
+
+
+Chosing 
+Bass Drum 
+
+or 2) 
+
+
+
+D 
+
+
+
+INSTRUMENT 
+SELECT 
+
+
+
+Snare 
+Drum 
+
+
+
+Low Tom 
+
+
+
+Mid Tom 
+
+
+
+Hi Rim Hand 
+
+Tom Shot Clap 
+
+
+
+Closed 
+
+Hi-hat Crash Ride 
+
+
+
+
+Open Hi-hat 
+
+(To select Open Hi-hat, press both 
+13 and 14 at the same time.) 
+
+
+
+*Be sure to press the Main Key while 
+holding the Instrument Selector Button 
+down. 
+
+*You nnay notice that the indicators on 
+the left of the Bass Drum, Snare Drum, 
+Tom (Hi, Mid, Low) and Closed Hi-hat 
+light dimmer than the right ones. There 
+is a reason for it; the left ones give 
+sounds with accents and the right ones 
+in normal volume. This allows you to 
+select either of normal or accent sound 
+depending which you prefer. (Refer to 
+Advanced Cource for the details.) 
+
+
+
+In selecting Bass Drum, Snare Drum 
+or Tom (Hi, Mid, Low), if you happen 
+to press both of the two keys simultane- 
+ously by mistake (e. g. 1 and 2 in case 
+selecting Bass Drum), the TR-909 will 
+turn to the Flam Write mode. (This 
+mode will be explained later in "Ad- 
+vanced Course"). To leave this mode, 
+simply press the appropriate key (1 or 2 
+in case selecting Bass Drum). 
+
+
+
+(6) Now press the relevant Main Key ac- 
+cording to the Rhythm Chart shown 
+on the next page. 
+
+• This operation will cause the indicator 
+on the pressed Main Key to light up. 
+The corresponding sound source will be 
+heard, when the flashing of the indi- 
+cators (moving through the row of the 
+Main Keys from right to left) reaches 
+that Main Key. 
+
+• If you find the tempo too slow or fast, 
+adjust it to the comfortable speed. 
+
+• If you have pressed an irrelevant key by 
+mistake, you need to cancel it by pres- 
+sing the same key once (or twice de- 
+pending on the keys as follows). 
+
+
+
+•i^BASS DRUM ■^ 
+SNARE DRUM 
+LOW TOM 
+MID TOM 
+HI -TOM 
+C. HI-HAT - 
+
+
+
+> Press the Key twice. 
+
+
+
+RIM SHOT 
+HANDCLAP 
+0. HI-HAT 
+CRASH 
+RIDE 
+
+
+
+Press the Key just 
+once. 
+
+
+
+^The flashing indicator on the key will 
+go out to show that the relevant sound 
+source is cancelled. 
+
+
+
+'Rhythm Chart 
+
+
+
+11 
+
+
+
+Main Keys 
+
+
+
+Rhythm Chart 
+
+
+
+
+* Press the Main Key corresponding to • 
+position on the Rhythm Chart one after 
+another. 
+
+
+
+• How the Main Keys worl< in writing 
+
+The Indicator on the Main key changes 
+by pressing the l<ey as shown below. 
+
+
+
+* If writing Bass Drum, Snare Drum, Tom 
+(Low/Mid/Hi), or C. Hi-hat. 
+
+
+
+//IW 
+
+
+
+If writing the other sound sources e. g. 
+Rim Shot, etc. 
+
+
+
+Nothing is written 
+
+
+
+■^ — ^ 
+
+
+czi 
+
+
+y N 
+
+
+
+Written in normal 
+volume 
+
+
+
+F 
+
+
+
+Written with accent 
+
+
+
+,i=±y^ 
+
+
+
+® Write other sound sources and accent 
+(Total accent) in the same way as pro- 
+cedures (D and (D . 
+
+(D If writing has been completed, press 
+the Stop/Continue Key, and it will 
+stop playing the Rhythm. Qjj^" 
+
+
+
+^ 
+
+
+
+STOP/CONT 
+
+
+
+^ 
+
+
+
+12 
+
+
+
+2. Some more useful information for Pattern Write 
+
+
+
+A. Memory System of the TR-909 
+
+
+
+B. Selecting Bank 
+
+
+
+Before writing any Rhythm Pattern, 
+you need to select a Bank (I or II) Pat- 
+tern Group (1, 2 or 3) and Pattern 
+Number (Main Key 1 to 16). 
+
+
+
+In "Step Write" on P. 9, nothing is 
+mentioned on changing Banks. Actual- 
+ly, turning the TR-909 on automatical- 
+ly selects Bank I, but if you want 
+Bank II , do as shown below. 
+
+
+
+Bank 
+
+
+
+Pattern Group 
+
+
+
+Rhythm Pattern Number (Main Key) 
+
+
+
+
+
+
+
+1 
+
+
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 
+3 
+
+
+
+11 
+
+
+
+INT. 
+
+
+^ 
+
+
+2 
+
+
+3 
+
+
+4 
+
+
+5 
+
+
+6 
+
+
+7 
+
+
+8 
+
+
+9 
+
+
+10 
+
+
+11 
+
+
+12 
+
+
+13 
+
+
+14 
+
+
+15 
+
+
+16 
+
+
+EXT. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXT. 
+
+
+
+Lg 
+
+
+
+1 INT. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+
+
+
+' Each Bank consists of 3 Pattern Groups, 
+and 1 6 Rhythm Patterns can be written 
+in each Group. Therefore, 48 (16 x 3) 
+■kinds of Rhythm Patterns are available 
+within a Bank. 
+
+
+
+*lf you select Bank I, Pattern Group 1 
+and Main Key (Rhythm Number),^ in 
+the figure will be the one available for 
+you to write a Rhythm Pattern. 
+
+* Refer to P. 37 for external instrument. 
+
+
+
+13 
+
+
+
+[Operation] 
+
+® Make sure that the TR-909 is not run- 
+ning. 
+
+® Press any Track Selector Button 1 you 
+like. This operation turns the TR-909 
+into Track Program mode, ([ip' 
+
+(D While holding the Shift Button down, 
+press the Bank Selector I or II. This 
+causes the indicator of the selected 
+Bank to go on.(Jt7' 
+
+• If the TR-909 has been just turned on, 
+you may skip the operations and ®. 
+
+• Now the TR-909 is ready for Step Write 
+or Pattern Play. 
+
+If you have changed the Banks, please be 
+aware of the following points. 
+
+Note 1 
+
+It is not possible to play the Rhythm 
+Pattern in Bank I and the one in Bank 
+II continuingly. This is because turning 
+the TR-909 into the Track Play mode 
+is necessary before changing the Banks. 
+
+
+
+Note 2 
+
+Later when programming a Rhythm 
+Track (one whole music piece) by com- 
+bining the Rhythm Patterns you have 
+written, you are not allowed to use the 
+Rhythm Patterns in different Banks. 
+Please remember this, and try writing 
+the Rhythm Patterns you may need for 
+programming a Track into the same 
+Bank. 
+
+C. Key Point for Writing 
+
+In the TR-909, Rhythms are written in 
+a step sequence process which breaks 
+each measure (and each beat) down into 
+a series of steps. Before start writing a 
+Rhythm, you need to modify the score 
+accordingly. Let's study the score 
+shown below. In this modifying pro- 
+cedure, timing value is ignored as per- 
+cussive sounds are all very short. Also 
+the TR-909 allows selection of 3 other 
+Scales apart from J\ used in this ex- 
+ample, which is to change how many 
+steps there will be for each beat. There- 
+fore, even triplet or 32 beats can be 
+written. (The details will be explained 
+later in "Advanced Course") 
+
+
+
+(07= 
+
+
+
+TRACK 1 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+BANK I 
+
+
+
+Score 
+
+
+
+
+Modified 16_ 
+Score -J 5 
+
+
+
+Rhythm 
+Chart 
+
+
+
+
+
+
+> 
+
+
+
+
+
+
+
+M I M 
+
+
+
+> 
+
+
+
+Main Keys 
+
+
+
+□□□□□□□□□□□□□□□□ 
+
+
+
+14 
+
+
+
+3. Tap Write 
+[Operation] 
+
+© Make sure that the TR-909 is not run- 
+ning. 
+
+(D While holding the Shift Button down, 
+press any Pattern Selector 3. Qlj^ 
+
+(3) While holding the Shift Button down, 
+press the Tap Write Button, (g^ 
+
+(T) While holding the Clear Button press 
+the Main Key corresponding to the 
+Pattern Nunnber where you are to 
+write a Rhythm. (Hj/^ 
+
+(D Press the Start Key. Q^^ 
+
+(§) Press the Guide Button, then the Indi- 
+cator will light up and Rim Shot sound 
+will be heard in quarter note intervals. 
+
+
+
+Ct) Simply tap the sound source (Main 
+Key) to this guiding sound, then it will 
+be written into memory as it has been 
+tapped. 
+©Refer to "Manual Play" on P. 7. 
+
+(i) If unnecessary sound happens to be 
+written, press the relevant Main Key 
+(if it is Snare Drum, 3 or 4), while 
+holding the Clear Button down, gjlj^ 
+* Please do not release the key until you 
+are convinced that al! sequences of 
+that sound source are cleared. Then 
+tap this time correctly. 
+
+(D If writing is completed, press the Stop/ 
+Continue Key. QJ^ 
+
+
+
+;Note] It is not possible to write shorter 
+timing than the one set with the 
+Scale. Therefore, if you write a 
+Rhythm with the tempo set slow, 
+in later playback, it may turn out 
+different from what you expect. 
+
+
+
+
+4. Pattern Play (Playing Rhythm Patterns) 
+
+
+
+As now you have written some Rhythm 
+Patterns into your TR-909, you may play 
+them at anytime you like. 
+
+[Operation] 
+
+© Be sure that the TR-909 is not run- 
+ning. 
+
+(2) Select the Rhythm Pattern to be play- 
+ed by pressing a Pattern Group Button 
+and a Main Key. (Be sure that you are 
+not selecting an empty Pattern Num- 
+ber where you have not yet written 
+any Rhythm.) fljl^ QT^ 
+
+(D Press the Start Key, and the selected 
+Rhythm Pattern will be played again 
+and again until the Stop/Continue Key 
+is pressed. Qit^ 
+
+® If you like to change the Rhythm 
+Patterns during one Rhythm running, 
+simply select any Rhythm Pattern you 
+like, with the Pattern Group Key (1, 
+2 or 3) or Main Key (1 to 16).(Ii8^ 
+*The new Rhythm will be played from 
+the beginning of the next measure. 
+
+
+
+d) Press the Stop/Continue Key to stop 
+the Rhythm. Here, if you press the 
+Stop/Continue Key again, the Rhythm 
+will continue playing from where it 
+stopped. (Continue Play Function) (JTbt^' 
+
+■ Block Pattern Play 
+
+neously after the Pattern Group Button, 
+all the Rhythm Patterns between those 
+two keys will be played one after ano- 
+ther (e. g. if 1 and 5 are pressed, the 
+Rhythm Patterns 1, 2, 3, 4 and 5 will 
+be sequencially played.) fRol 
+
+
+
+(H^ 
+
+
+
+PATTERN(1~3) 
+
+
+
+(1—16) 
+
+
+
+START 
+
+
+
+i^ 
+
+
+
+PATTERN(1~3) 
+
+
+
+;i~16) 
+
+
+
+STOP/CONT 
+
+
+
+<y 
+
+
+
+
+SjTrack Program and Play 
+
+
+
+Another attractive function of tiie TR- 
+909 is that you can program a Rhythm 
+Tracl< of a whole music piece by combin- 
+ing Rhythm Patterns in memory. There 
+
+
+
+are 8 Traci^s (4 in Bank 1 , and another 4 
+in Banl< 2), and altogether 896 measures 
+are available in each Bank. 
+
+
+
+1. Track Program (Programming Rhythm Track) 
+
+
+
+[Operation] 
+
+© Be sure that the TR-909 is not run- 
+ning. 
+
+(2) Select either Bank I or II by pressing 
+the relevant Bank Selector while hold- 
+ing the Shift Button down. (E?- 
+
+(D While holding the Shift Button down, 
+press any Track Selector Button you 
+like (1 to 4). rrz^ 
+
+
+
+MEAS/TEMPO 
+
+
+
+
+*This causes the TR-909 to turn to the 
+Track Program mode. 
+
+® With the Shift Key still held down, do 
+the following three procedures, (gs^ 
+
+1. Press the DEL Key (Main Key 13). 
+
+2. Press the Last Measure Button. 
+
+3. Press the Enter Key. 
+
+*Even if any data is written in the 
+Track, it will be erased by the above 
+procedure. 
+
+® Press the Start Key to start the 
+Rhythm. (^^ 
+
+® Select the Rhythm to be programmed 
+into the first measure, by using the 
+Pattern Group Selector and the Main 
+Keys, (j^ 
+
+
+
+® Press the Enter Key. (126= 
+*This will enter the Rhythm Pattern 
+selected in operation ® and proceed 
+to the second measure as is shown on 
+the Display Window. 
+
+MEAS/TEMPO 
+
+
+
+
+(8) By repeating the above procedures, 
+program the Rhythms one after ano- 
+ther up to the last measure. 
+
+d) Press the Stop/Continue Key. 
+
+
+
+[Track Play (Playing a Rhythm Track)] 
+
+As now you have programmed a whole 
+Rhythm Track, play it to see whether it 
+has been successfully done. 
+
+(T) Select the Track by pressing the Track 
+Selector Button. Here, be sure that 
+you are not selecting an empty Track. 
+You should select the same Track you 
+have programmed in Track Program 
+procedure. (^^ 
+
+
+
+d) Press the Start Key. Q2b^ 
+*The Rhythm starts from the first 
+measure and ends when the last mea- 
+sure is played up. 
+
+If you find any mistake, please go on to 
+the following "Editing Rhythm Track". 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+BANK I 
+
+
+
+SHIFT 
+
+
+
+\} 
+
+
+
+TRACK 1 
+
+
+
+SHIFT 
+
+
+
+DEL 
+
+
+
+LAST MEAS 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+START 
+
+
+
+i) 
+
+
+
+PATTERN(1~3) 
+
+
+
+(1—16) 
+
+
+
+ENTER 
+
+
+
+^ 
+
+
+
+TRACK(1~3) 
+
+
+
+<J 
+
+
+
+START 
+
+
+
+2. Editing Rhythm Track 
+
+
+
+It is possible to edit your Rhythm Track, 
+if you wish to add or delete Rhythm Pat- 
+tern, refer to "[6] Edit Functions" in Ad- 
+vanced Course on P. 27. 
+
+A. Operation 
+
+(1) While holding the Shift Button down, 
+press the Track Selector Button of the 
+relevant Rhythm Track. This will turn 
+the TR-909 into the Track Program 
+mode. 
+
+(2) Press the Start Key, and the Rhythm 
+will start running. f[2^ 
+
+
+
+(3) Recall the measure which you are to 
+edit by pressing the Forward Button. 
+
+©Each time you press the Forward But- 
+ton, the number on the Display will 
+change showing that measure is ad- 
+vanced one by one. If you come to the 
+measure number you wish to replace 
+with new data, press no longer the 
+Enter Key. 
+
+*The Enter Key can be used instead of 
+the Forward Button. 
+
+(|) Select the Rhythm Pattern to be re- 
+placed. This will cause the selected 
+Rhythm to start playing, so that it will 
+be easier for you to edit, flaj^ 
+
+(5) Press the Enter Key, and new Rhythm 
+Pattern will replace the existing data 
+(without increasing the total measure 
+number), f^-. 
+
+
+
+f,!) Press the Stop/Continue Key. (gy' 
+
+
+
+B. Some More Helpful Information for 
+Editing 
+
+1. It is also possible to stop running the 
+Rhythm, then edit the Track. 
+
+In this case, simply skip the procedure 
+(D in "A. Operation". (In this mode, 
+each time you press the Enter Key (or 
+Forward Button), the indicator (on 
+the IViain Key) of the Rhythm current- 
+ly selected will light up. And this is the 
+only way to tell which Rhythm Pat- 
+tern is recalled. 
+
+2. There is another way to recall the mea- 
+sure to be replaced, that is, instead of 
+procedure (D , do the following two 
+procedures while holding the Shift 
+Button down, (g^ 
+
+® Assign the measure number by pres- 
+sing the Main Keys (here, they serve 
+^ as Number Keys). For instance, to 
+recall measure number 25, press 2 
+then 5. 
+
+2 Press the Enter Key. 
+
+
+
+16 
+
+
+
+START 
+
+
+
+<J 
+
+
+
+FWD (ENTER) 
+
+
+
+^ 
+
+
+
+(1~16) 
+
+
+
+<J 
+
+
+
+ENTER 
+
+
+
+^ 
+
+
+
+STOP/CONT 
+
+
+
+<J 
+
+
+
+BACK 
+
+
+
+<7 
+
+
+
+(1~16) 
+
+
+
+^ 
+
+
+
+ENTER 
+
+
+
+■^If you notice that you have entered the 
+wrong Rhythm Pattern immediately 
+after entering it, simply back one mea- 
+sure up by using the Back Button, select 
+the correct Rhythm Pattern, and hit the 
+Enter Key, then continue Track Pro- 
+gram. ^^ 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+3. Additional Information 
+
+
+
+Track Memory 
+
+The system of the Track Memory of 
+the TR-909 is as shown in the figure 
+below. Before programming Rhythm 
+Track, it is necessary to select one of 
+8 Tracks (4 in Bank I, and another 4 in 
+Bank II). n^z 
+
+
+
+B. Changing Banks 
+
+To change banks, firstly, turn the 
+MSQ-700 into the Track Program 
+mode by pressing any of the Track 
+Selector Button. Then press the Bank 
+Button while holding the Shift Button. 
+
+
+
+17 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+BANK(I.II) 
+
+
+
+TRACK(1~4) 
+
+
+
+• Track Memory 
+
+
+
+Bank Track Group Rhythm Track (Main Key) 
+
+(Up to 896 measures can be programmed in each Bank, but this 
+does not mean 224 for each Track. It is 896 measures through 
+all of the 4 Tracks.) 
+
+
+
+TRACK(1~4) 
+
+
+
+^ 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+BANK(I.II) 
+
+
+
+C. Available Measure Button 
+
+Pressing the Available Measure Button 
+will cause the Display to show the 
+number of how many measures are left 
+to be written. 
+
+
+
+"Pressing the Enter Key during Track 
+Program mode may cause the Display to 
+show "0" instead of the next measure 
+number. This tells that there is no 
+memory left. 
+
+
+
+18 
+
+
+
+4. Track Play (Playing Rhythm Track) 
+
+
+
+J 
+
+
+
+[Operation] 
+
+® Select the Track to be played simply 
+by pressing a relevant Track Selector 
+Button. Here, the first measure of the 
+Track will be automatically ready to 
+
+
+
+be played. (faS^ 
+
+'Selecting an empty Track wil 
+the Display to show 0. 
+
+
+
+MEAS/TEMPO 
+
+
+
+cause 
+
+
+
+
+(2) Press the Start Key to start the Rhy- 
+thm. It will automatically stop playing 
+when played up to the end. (^^ 
+
+©If you press the Stop/Continue Key dur- 
+ing Rhythm playing, the Rhythm stops 
+there, and it will continue playing by 
+pressing the same key. ^^> 
+
+•Cycle Play 
+
+Pressing the Cycle Key will turn The 
+TR-909 to the Cycle mode (the indi- 
+cator lights up), so the Track will play 
+repeatedly until you press the Stop/ 
+Continue Key or the Cycle Button 
+again. Pressing the Stop/Continue will 
+immediately stop the Rhythm, but if 
+the Cycle Key is pressed, the Rhythm 
+will stop at the end of the music. Also, 
+
+you can turn this Cycle Play function 
+on even during Rhythm play. (Jat/^" 
+
+•Track Play from the set measure 
+
+It is possible to start playing the Rhy- 
+thm from any measure you like. While 
+holding the Shift Button down, set the 
+measure number where you wish the 
+Rhythm to start by using the Main 
+Keys, and hit the Enter Key. Then press 
+the Stop/Continue Key, and the Rhy- 
+thm will start from the beginning of the 
+set measure. Here, if you, by mistake, 
+press the Start Key instead of the Start/ 
+Continue Key, normal Rhythm play 
+(starting from the first measure) will 
+follow. Please be carefull. {J42^ (Ja^ 
+
+
+
+•Tempo Display 
+
+Pressing the Tempo Button wil! cause 
+the Display Window to show the tempo 
+of the current Rhythm. (^^ 
+
+
+
+TRACK(1~4) 
+
+
+
+<J 
+
+
+
+MEAS/TEMPO 
+
+
+
+
+f ^ 
+
+START 
+
+
+
+• Real Time Playing along with the Track 
+playing 
+
+It is possible to play each sound source 
+by tapping the Main Keys during Track 
+play. So you can enjoy real time play 
+along with the Track play. 
+
+•See P. 34 for Rhythm Sync. 
+
+
+
+STOP/CONT 
+
+
+
+(Sr" 
+
+
+
+CYCLE/GUIDE 
+
+
+
+^ 
+
+
+
+SHIFT 
+
+
+
+(0-9) 
+
+
+
+(0-9) 
+
+
+
+(0-9) 
+
+
+
+Measure 
+Number 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+STOP/CONT 
+
+
+
+<} 
+
+
+
+TEMPO 
+
+
+
+<} 
+
+
+
+19 
+
+
+
+4] Tape Interface 
+
+
+
+The TR-909 features Tape Interface func- 
+tion that allows saving the data (Rhythnn 
+Patterns and Tracks) written in the Me- 
+mory onto an ordinary audio tape for 
+storage and later retrieval. 
+
+
+
+[NOTE] 
+
+The data in the Bank 1 and II cannot be 
+saved at the same time (by one sequence 
+of procedures), so you are required to 
+save one Bank and the other Bank later. 
+In other words, you need to know which 
+one of the Banks is to be saved before 
+saving. 
+
+
+
+A. Save 
+[Connection] 
+
+
+
+TR-909 
+
+
+
+TAPiriilEMORY/SYNC 
+
+
+
+Tape Recorder 
+MIC IN 
+(LINE IN) 
+
+
+
+[Operation] 
+
+(T) Set the tape recorder to recording 
+mode. 
+* If your tape recorder features a record- 
+ing level control, set the level around 
+-1-3VU. 
+
+
+
+d;) While holding the Shift Button down, 
+press the Save Key then the Enter 
+Key. (J4^ 
+
+Then swiftly set the tape recorder to 
+recording mode (usually by unlatching 
+the Pause Button). 
+
+Indicator Reaction 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+SAVE 
+
+
+
+ENTER 
+
+
+
+■■ 
+
+
+
+
+
+
+SHIFT 
+
+
+
+
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r 
+
+SAVE 
+
+
+
+
+
+
+I J 
+
+
+
+
+
+
+
+
+
+
+ENTER 
+
+
+V 
+
+
+7 
+
+
+
+
+
+o 
+
+
+
+
+
+
+-Qi- 
+
+
+
+o 
+
+
+
+O -#- O o 
+
+
+
+o 
+o 
+
+
+
+Pilot Tone Modulated Normal 
+
+(Approx. 6 Tone Write or 
+
+seconds) (Approx. 13 Play mode, 
+
+seconds) 
+
+
+
+20 
+
+
+
+■ For about 6 seconds after the Enter Key 
+is pressed, Pilot tone (whicti is not ex- 
+actly the same as the one heard in the 
+beginning) will be heard. Then for about 
+13 seconds, Modulated Tone will be 
+heard. During this, only the Scale Indi- 
+cator lights. 
+
+
+
+(3) When the other Indicators light just 
+like before the Saving procedure is 
+taken and Modulated Tone turns to 
+pilot Tone, stop the tape recorder. 
+
+
+
+B. VERIFY 
+
+Verify function is featured to make 
+sure if the data has been correctly 
+saved. 
+
+[Connection] 
+
+
+
+TR-909 
+
+
+
+SWE/OUT lOAtUm 
+
+
+
+TAPE MEMORY, nmc 
+
+
+
+Tape Recorder 
+
+MON.OUT 
+(LINE OUT) 
+
+
+
+[Operation] 
+
+© Set the tape recorder so that the tape 
+will start from the beginning of the 
+data. 
+*Set the level of the tape recorder to 
+medium. 
+
+
+
+D While holding the Shift Button down, 
+press the Verify Key, then Enter Key. 
+
+
+
+SHIFT 
+
+
+
+VERIFY 
+
+
+
+SHIFT 
+
+
+
+VERIFY 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+-u 
+
+
+
+Indicator Reaction 
+
+
+
+• 
+
+
+• 
+
+
+o 
+
+
+• 
+
+
+■ft 
+
+
+o 
+
+
+-n- 
+
+
+• 
+
+
+o 
+
+
+*- 
+
+
+-#■ 
+
+
+o 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+Waiting for 
+Pilot Tone 
+
+
+
+Waiting for 
+IVlodulated 
+Tone 
+
+
+
+Reading 
+the data 
+
+
+
+Pilot Tone 
+found 
+
+
+
+Modulated Data reading 
+Tone found connpleted 
+
+
+
+Then set the tape recorder to playback 
+mode. 
+
+'Here, on pressing the Enter Key, all 
+the Indicators except the Scale Indi- 
+cator will go out. 
+
+
+
+® If the indicators come in just like be- 
+fore Verify procedure is taken (as this 
+indicates that data is properly saved), 
+stop the tape recorder. 
+
+
+
+21 
+
+
+
+• If the Indicators do not return to the 
+
+normal condition as they should. . . . 
+Rewind the tape and play it back once 
+again in different playback level. 
+
+If you fail again and again, press the Main 
+Key 1 (Cancel command), and repeat 
+saving. 
+
+
+
+* Errors are often caused by wrong ope- 
+ration, tape drop-out, or contaminated 
+head of the tape recorder. 
+
+►Preserving the Data Tape 
+
+Please do not keep the data recorded tape 
+in extreme heat or humidity or near a 
+strongly magnetic unit such as a speaker 
+or an amplifier. 
+
+
+
+C. Load 
+[Connection] 
+
+
+
+TR-909 
+
+
+
+iM/c/our LOUfM 
+
+
+
+T*PeM6M0RY,n^NC 
+
+
+
+Tape Recorder 
+MON.OUT 
+(LINE OUT) 
+
+
+
+[Operation] 
+
+* Loading procidure is exactly the same as 
+the verify, except that you should press 
+the Load Key instead of the Verify Key. 
+
+® Set the tape recorder so that the tape 
+will be played back from the begin- 
+ning of the data. 
+
+
+
+SHIFT 
+
+
+
+LOAD 
+
+
+
+V 
+
+
+
+G 
+
+
+
+ENTER 
+
+
+
+-ft 
+
+
+
+^Set the volume of the tape recorder 
+the same as set in Verify, 
+
+While holding the Shift Button down, 
+
+press the Load Key then Enter Key. (^^ fT^J^ 
+
+
+
+Indicator Reaction 
+
+• • o 
+o 
+o 
+o 
+
+
+
+• 
+
+
+fl- 
+
+
+<?■ 
+
+
+• 
+
+
+-ft 
+
+
+-*■ 
+
+
+
+f 
+
+
+SHIFT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOAD 
+
+
+
+
+
+
+
+
+{ 
+
+
+/ 
+
+
+ENTER 
+
+
+
+Waiting for 
+Pilot Tone 
+
+
+
+Waiting for 
+Modulated 
+Tone 
+
+
+
+Reading 
+the Data 
+
+
+
+Pilot Tone 
+found 
+
+
+
+Modulated Data reading 
+Tone found connpleted 
+
+
+
+Then swiftly set the tape recorder to 
+playback mode. 
+
+^ On pressing the Enter Key, all the indi- 
+cators except the Scale Indicator will 
+go out. 
+
+
+
+® If the Indicators come in just like be- 
+fore the loading procedure is taken, 
+data is loaded successfully, so stop the 
+tape recorder. 
+
+
+
+22 
+
+
+
+D. Other Functions of TR-909 
+
+(1 )Cancel Command 
+
+If the Main Key 1 is pressed during 
+saving, verify or loading procedure, the 
+TR-909 will leave each mode. ^^ 
+
+(2)File Number 
+
+If you put a File Number (0 to 999) to 
+your data in saving, it will be conside- 
+rably easier and quicker to load the 
+data. 
+
+
+
+MEAS/TEMPO 
+
+
+
+► To put a File Number, simply press 
+appropriate Main Keys (e. g. 1 , 2 and 3 
+for File Number 123) after pressing the 
+Save Key in Saving procedure (D , then 
+hit the Enter Key. Now, the File Num- 
+ber will be shown in the Display, fl^' 
+
+' If you do not put any File Number, "0" 
+will be shown in the Display. 
+
+
+
+
+.s. s 
+
+
+D 
+
+SHurrLf 
+
+
+D 
+
+
+D 
+
+
+D 
+
+
+Sf.lECl 
+
+
+BSD! 
+
+
+
+
+• The File Number put in Saving will be 
+shown in the Display in Verify opera- 
+tion, but proceed the usual verify opera- 
+tion. 
+
+
+
+•To load the data you want, assign the 
+File Number (by pressing the Main 
+Keys) after pressing the Load Key in 
+Load procedure (D, then press the Enter 
+Key. (J5^ 
+
+
+
+SHIFT 
+
+
+
+[load j 
+
+CD 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+• Loading File Number "2". 
+
+
+
+
+MEAS/TEMPO 
+
+
+
+c 
+
+
+
+Display after pressing [2] and 
+before pressing [Enter I . 
+
+
+
+Pilot Tone 
+
+
+
+MEAS/TEMPO 
+
+
+
+--■ 
+
+
+
+jl 
+
+
+
+File Number "1" found 
+
+
+
+Modulated Tone 
+
+
+
+Approx. 0.6 
+of a second 
+
+
+
+Waiting for the 
+next Pilot Tone 
+
+
+
+Pilot Tone 
+
+
+
+File Number "2" found 
+
+
+
+Here, File Number 
+-^ is not shown in the 
+Display. 
+
+
+
+Modulated Tone 
+
+Data reading completed 
+
+
+
+MEAS/TEMPO 
+
+
+
+
+
+
+Approx. 0.6 
+of a second 
+
+MEAS/TEMPO 
+
+
+
+I 
+
+
+
+Normal Track Play mode. 
+
+
+
+23 
+
+
+
+'If you have not assigned any File Num- 
+ber in loading, automatically the data 
+first found will be loaded. 
+
+
+
+It is also possible to save the TR-909's 
+data onto a Memory Cartridge. 
+(Refer to P. 33) 
+
+
+
+► Advanced Course 
+5] Variations of Writing Rhythm Patterns 
+
+
+
+1 . Selecting a Scale (Number of steps for each beat) 
+
+
+
+By changing Scales, you can enjoy wider 
+variety of Rhythm Patterns. 
+
+
+
+
+24 
+
+
+
+[Operation] 
+
+Each time you press the Scale Button, the 
+number of steps for each beat will change 
+as shown below. (Hj/^ 
+
+
+
+r 
+
+
+
+i^-^- 
+
+
+
+3 
+
+
+
+;^" 
+
+
+
+Step = 1 Key) 
+
+
+
+»This Scale selection procedure should be 
+done after Step Write procedure (?), or 
+Tap Write procedure (D. (That is during 
+theTR-909 running). 
+
+* Depending on the Scale currently 
+chosen, the tempo of the blinking 
+Indicator on the Main Keys will change, 
+(That is because all the Rhythms are in 
+tune with each other). Here, the last 
+step is automatically set j^^=# 16, Kb4 
+12. 
+
+
+
+S^ 
+
+
+
+SCALE 
+
+
+
+<J 
+
+
+
+2. Setting Last Step 
+
+
+
+The TR-909 allows you to freely change 
+the number of steps in a Rhythm Pattern, 
+so even odd rhythm can be written. 
+
+[Operation] 
+
+While holding the Last Step Button, set 
+any number you like by using the Main 
+Keys, d^ 
+
+
+
+• This Last Step setting is to be done 
+before Step Write procedure ® or Tap 
+Write procedure (D . (That is during the 
+TR-909 running.) 
+
+
+
+LAST STEP 
+
+
+
+V 
+
+
+
+(1-16) 
+
+
+
+3. Accent 
+
+There are 2 types of Accents available in 
+theTR-909. 
+
+Accent A 
+
+This accent is to be set by each step. Ail 
+the vocies in that step will take on 
+accents. 
+
+Accent B 
+
+You can put accent to any voice in any 
+
+step you like. 
+
+*This accent is available only for Bass 
+Drum, Snare Drum, Low Tom, Mid 
+Tom, Hi Tom, and Closed Hi-hat. 
+
+• In this manual we call Accent A Total 
+Accent, and B merely Accent. 
+
+
+
+A. Writing Total Accent 
+
+How to write Total Accent has been 
+already explained in the "Basic Course" 
+In this manual. 
+
+[Operation] 
+
+(XiWhile holding the Instrument Selector 
+Button, press the Total Accent (Enter) 
+Key.dl^ 
+
+
+
+©Select the step where you wish to put 
+accent by using the Main Keys. (^^ 
+
+*This Total Accent cannot be written in 
+Tap Write mode. 
+
+
+
+25 
+
+
+
+INSTRUMENT SELECT 
+
+
+
+V 
+
+
+
+TOTAL ACCENT 
+
+
+
+(1—16) 
+
+
+
+©Adjust the intensity of the accent by 
+using the Total Accent Knob. 
+
+
+
+B. Accent 
+
+(1)ln Step Write mode 
+
+While holding the Bass Drum, Snare 
+Drum, Low Tom, Mid Tom, Hi Tom or 
+Closed Hi-hat down, the Indicator of the 
+corresponding Main Key will act as shown 
+below. 
+
+
+
+Push 
+
+
+
+
+Push 
+
+
+
+Push 
+
+
+
+Indicator Reaction 
+Stays dark .... 
+
+
+
+No sound is heard. 
+
+
+
+Lights dimly Sounds in normal volume. 
+
+
+
+Lights brighter Sounds with accent. 
+
+
+
+In short, pressing the Main Key twice will 
+add an accent exclusively to the voice in 
+that step. 
+
+
+
+Naturally, the voice featuring only one 
+Main Key does not give you this option 
+of with or without accent. 
+
+
+
+(2)Tap Write mode 
+
+Tapping the left key of the voice will 
+write the sound with accent and right one 
+in normal volume. In short, sounds are 
+written faithfully as the keys have been 
+tapped in real time. 
+
+
+
+*The intensity of this Accent cannot be 
+changed. 
+
+* It is possible to set both Total Accent 
+and Accent at the same time, but if the 
+Total Accent Knob is set high. Accent 
+may not be noticed. 
+
+
+
+4. Shuffle 
+
+You may enjoy Shuffle Rhythm arrange- 
+ment. 
+
+*This function is available only when J] 
+or^ Scale is selected (i.e. 1 step = Ji or 
+
+The intensity of the bounce can be 
+changed (seven options for J\ and four 
+for ^ ), by using the Main Keys. 
+
+[Operation] 
+
+While holding the Shuffle/Flam Button 
+
+down, press any of the Main Keys of 1 
+
+to 7. (J^ 
+
+oScale J\ : 1 gives no effect, and faster 
+bounce will be obtained to- 
+wards?. 
+
+OScale fe ; There is no difference be- 
+tween 1 and 2, 3 and 4 or 5 
+and 6. 
+
+1 and 2 give not effect (no 
+shaffle) and faster bounce 
+will be obtained towards 7. 
+That is there are four options 
+of bounce speeds; 1(=2), 
+3(=4),5=(6)and7. 
+
+
+
+• This bounce setting procedure can be 
+done only when Rhythm is running in 
+step write. 
+
+»lf you wish to know the bounce in- 
+tensity currently set, simply press the 
+Shuffle/Flam Button, and the indicator 
+of the corresponding Main Key will light 
+up. (If intensity 3 is selected, the Indi- 
+cator of the Main Key 3 will light up.) 
+
+
+
+*lf the total number of measures are 
+odd number, the last step will not take 
+on the bounce. 
+
+
+
+26 
+
+
+
+SHUFFLE/FLAM 
+
+
+
+V 
+
+
+
+(1-7) 
+
+
+
+SHUFFLE/FLAM 
+
+
+
+V 
+
+
+
+5. Flam 
+
+
+
+You can write Flam (/) into the Bass 
+Drum, Snare Drum, Low Tom, Mid Tom, 
+or Hi Tom. The eight options of Flam 
+interval (between / and J ) can be 
+selected by using the Main Keys. 
+
+[Operation] 
+
+® While holding the Instrument Selector 
+Button, press the two Main Keys 
+corresponding to the voice to which 
+you wish to wirte Flam. (Jbt^ 
+
+(D Just like "Step Write" procedure ex- 
+plained in Basic Course, tap the Main 
+Keys. 
+
+(D While holding the Shuffle/Flam But- 
+ton down, press any of the Main Keys 
+of 9 to 16 to set the Flam interval. (Jf^ 
+
+• Longer interval is obtained towards 1 6. 
+
+
+
+•The Flam interval setting procedure can 
+be done only when the Rhythm is run- 
+ning in Step Write. 
+
+• If you wish to know the Flam interval 
+currently set, simply press the Shuffle/ 
+Flam Button, and the indicator of tne 
+Corresponding Main Key will light up. 
+
+
+
+► it is not possible to dub a voice with 
+Flam on the one without Flam, or the 
+voice without Flam on the voice with 
+Flam. That is, new data always has 
+priority, therefore replaces the data 
+previously written. 
+
+Hn the TR-909, the first sound ( J ) of 
+Flam ( /J ) is in time for a step, and the 
+second one ( J ) will follow. The posi- 
+tion of the Tempo Knob does not affect 
+the interval between / and J . 
+
+
+
+(Hf' 
+
+
+
+INSTRUMENT SELECT 
+
+
+
+(1.3.5.7.9) 
+
+
+
+V 
+
+
+
+(2.4.6.8.10) 
+
+
+
+SHUFFLE/FLAM 
+
+
+
+V 
+
+
+
+(9~16) 
+
+
+
+SHUFFLE/FLAM 
+
+
+
+<} 
+
+
+
+27 
+
+
+
+6] Edit Functions 
+
+
+
+A. Edit Function in Pattern Write mode 
+
+
+
+1. Copy 
+
+
+
+It is possible to copy a Rhythm Pattern 
+even in a different Pattern Group or 
+Bank. 
+
+[Operation] 
+
+®To assign the Pattern Number which is 
+to receive the original Rhythm Pattern, 
+press any Pattern Group Selector 
+Button, while holding the Shift 
+Button down. Then press the appro- 
+priate Main Key.dl^ 
+
+
+
+•To assign the Rhythm Pattern to be 
+copied, while holding the Shift Button 
+down, press the Copy Key (Main Key 
+11), the Bank Button, the Pattern 
+Group Button, the Main Key, then the 
+Enter Key. Jgi^ 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+PATTERN (1—3) 
+
+
+
+[Example] 
+
+•i^Try copying the Rhythm Pattern 5 of 
+the Pattern Group 3 into Rythm Pattern 
+1 of the Pattern Group 2. ^^ 
+
+
+
+Mf you need the Rhythm Pattern(s) 
+saved on a tape or cartridge, load the 
+whole Bank that includes the Pattern 
+you want into either Bank. Then using 
+the Copy function, copy the Rhythm 
+Pattern(s) you want to another Bank. 
+
+
+
+(1~16) 
+
+
+
+^ 
+
+
+
+dlf' 
+
+
+
+SHIFT 
+
+
+
+[ 
+
+
+
+COPY 
+
+
+
+BANK(I.II) 
+
+
+
+PATTERN(1~3) 
+
+
+
+(1-16) 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+
+
+SHIFT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATTERN 2 
+
+
+V 
+
+
+L J 
+
+
+
+
+SHIFT 
+
+
+
+[copy j 
+
+
+
+PATTERN 3 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+B. Edit Function in Pattern Play and Track Write 
+
+
+
+28 
+
+
+
+2. Chain Function 
+
+
+
+Chain function is used to allow for 
+Rhythm that requires more than sixteen 
+steps for programming. This may be in 
+the form of the thirty second notes as 
+would be used in the Scale (^=16) to 
+complete a 4/4 measure, or can be to 
+accommodate odd rhythms (5/4, 7/8, 
+etc.) that require more than sixteen steps. 
+Such a Rhythm would cost more than 
+two Rhythm Patterns, but the Chain 
+function enables to combine these pat- 
+terns (we call it Chain Patterns) to be 
+counted one. If you have set the Chain 
+Patterns in Pattern Wirte mode, you can 
+use them in later Pattern Play or Track 
+Program mode just by selecting the 
+Rhythm Pattern included in the set Chain 
+Patterns. 
+
+[Operation] 
+
+•Setting the Chain Patterns 
+With the TR-909 in the Pattern Write 
+Mode, press the left and the right ends 
+of the relevant Main Keys. Then with- 
+out releasing them, hit the Enter Key. 
+Also, to release a Pattern from the set 
+Chain Patterns, while holding down the 
+relevant Main Key, hit the Enter Key. 
+
+
+
+[Example] 
+
+oTo Chain Pattern 1 and 2. (JH 
+
+oTo Chain Patterns 7, 8, 9 and 10. (^ 
+
+OTo release 8 from the Chain 7, 8, 9 and 
+
+10.01^ 
+
+*The Chain 9 and 10 will remain. 
+
+
+
+[Note] 
+
+• It is not possible to Chain the Rhythm 
+Patterns which are not adjoining. 
+
+• Even the entire Pattern Group (16 
+Rhythm Patterns) can be Chained. 
+
+• The Chain Patterns will play in the 
+tempo as they would usually do. You 
+need to change the Scale before writing 
+the Rhythm Patterns themselves so that 
+they will play in the same tempo 
+throughout. 
+
+• The Rhythm Pattern cleared will go out 
+of the memory, consequently be releas- 
+ed from the Chain Patterns. 
+
+
+
+
+/ 
+
+
+7 
+
+
+
+
+
+
+10 
+
+
+
+
+
+
+7 \ 
+
+
+' 
+
+
+
+
+ENTER 
+
+
+
+«— 
+
+
+— 
+
+
+■~> 
+
+
+
+
+8 
+
+
+
+
+V / 
+
+
+r- 
+
+
+^ 
+
+
+7 
+
+
+ENTER 
+
+
+
+FWD 
+
+
+
+^ 
+
+
+
+or 
+
+
+
+SHIFT 
+
+
+
+(0- 
+
+
+-9) 
+
+
+V. 
+
+
+
+
+
+(0-9) 
+
+
+
+} Measure 
+Number 
+(Beginning) 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+C. Editing Functions in Track Program mode 
+
+
+
+3. Delete 
+
+
+
+It is possible to delete any Rhythm 
+Pattern programmed into a Track. 
+To delete a series of Rhythm Patterns, 
+you need to designate the first and the 
+last measures of the series. 
+
+[Operation] 
+
+® To designate the measure number of 
+the first Rhythm of the series that you 
+wish to delete, hold the Shift Button 
+down and without releasing it, press 
+the relevant Main Keys then the Enter 
+Key. If you do not remember the mea- 
+sure number, try recalling it by using 
+the Forward Button. fTg^ 
+
+
+
+>While holding the Shift Button down, 
+press the Delete Key, the Main Key(s) 
+corresponding to the last measure of 
+the series then the Enter Key. (Jbt^ 
+
+►To delete a single measure, you do not 
+need to assign last measure number, 
+so skip pressing the Main Keys and 
+continue to hitting the Enter Key 
+right after pressing the Delete Key.(j67^* 
+
+'To delete the whole Rhythm Patterns 
+from a certain measure up to the end 
+of the music, you may press the Last 
+Measure Button instead of assigning 
+the number of the last measure by 
+pressing the Main Keys in the above 
+operation (2). ff^ 
+
+
+
+
+SHIFT 
+
+
+
+DEL 
+
+
+
+LAST MEAS 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+29 
+
+
+
+• To delete 21st to 24th measures. 
+
+1 2 3 4 „ 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32„ 
+
+
+
+-^h- 
+
+
+
+^ 1 2 3 4 ^^ 17 18 19 20 
+
+
+
+
+21 22 23 24 25 26 27 28. 
+
+
+
+O Recall the 21st measure (Measure Assign) 
+
+
+
+@ Take Delete procedure and delete up 
+to 24th measure. 
+
+. MEAS/TEMPO 
+
+
+
+J 
+
+
+
+
+
+Q 
+
+
+
+V 
+
+
+
+MEAS/TEMPO 
+
+
+
+
+c 
+
+
+1 
+1 
+
+
+
+LED 
+
+E 
+
+
+
+DU 
+
+
+
+MEAS/TEMPO 
+
+
+
+V 
+
+
+
+• To delete 25th to the last measures. 
+
+1 2 3 4 „ 17 18 19 20 21 22 23 24 25 25 2^ 28„ 
+
+
+
+/ i 
+
+
+
+1 2 3 4 ,, 17 18 19 20 21 22 23 24 
+
+■ 1) — ' 
+
+
+
+O Recall the 25th measure 
+
+
+
+
+Delete up to the last measure. 
+
+
+
+D 
+
+
+
+
+
+
+
+
+DGEEl 
+
+
+
+J 
+
+
+
+V 
+
+
+
+[ DEL 1 
+
+[last measJ 
+
+[ ENTER 1 
+
+
+
+>To delete only 19th measure. 
+
+1 2 3 4 „ 17 18 19 20 21 22 23 24 
+
+
+
+12 3 4 ..^ 17 18 
+
+
+
+/l9 20 21 22 23„ 
+
+
+
+O Recall the 19th measure 
+
+
+
+O 
+
+
+
+
+Q Take Delete procedure. 
+
+
+
+D 
+
+
+
+J L [ enterJ 
+
+
+
+30 
+
+
+
+4. Insert 
+
+You can insert any Rhythm Pattern into 
+any existing Rhythm Traci<. 
+
+[Operation] 
+
+©Assign the measure number where you 
+wish to insert a Rhythm, fle^ 
+
+
+
+FWD 
+
+
+
+or 
+
+
+
+©Select the Rhythm you wish to insert 
+(Pattern Group and the Pattern 
+Number), ({t^ 
+
+©While holding the Shift Button down, 
+press the Insert Key, then the Enter 
+Key. ([71^ 
+
+• It is possible to insert a series of the 
+adjoining Rhythm Patterns. Refer to 
+"[2] 4 Pattern Play." 
+
+• To insert Rhythm Pattern 1 into the 3rd measure. 
+
+
+
+SHIFT 
+
+
+
+(0-9) 
+
+
+
+(0-9) 
+
+
+
+Measure 
+( Number 
+(Beginning) 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+(^ 
+
+
+
+PATTERN(1~3) 
+
+
+
+</ 
+
+
+
+,1 
+
+
+2 
+
+
+3 4 5 6 7.. 
+
+
+A- 
+
+
+2 
+
+
+\ \ 
+
+3\4 5 6 7 8\ 
+
+
+
+(1—16) 
+
+
+
+05^ 
+
+
+
+L 
+
+
+
+Inserted here. 
+® Recall the 3rd measure 
+
+
+
+SHIFT 
+
+
+
+D 
+
+
+
+INS 
+
+
+
+1 
+
+
+
+SHIFT 
+
+
+
+'Select the Rhythm Pattern 
+(Pattern Group, Pattern 
+Number). 
+
+
+
+©Take insert procedure. 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+PATTERNd— 3) 
+
+
+
+SHIFT 
+
+
+
+INS 
+
+
+
+FWD 
+
+
+
+<J 
+
+
+
+1 
+
+
+
+or 
+
+
+
+MEAS/TEMPO 
+
+
+
+3 
+
+
+
+(0-9) 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+MEAS/TEMPO 
+
+
+
+(0-9) 
+
+
+
+I I 
+If 
+
+
+
+SHIFT 
+
+
+
+LAST MEAS 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+or 
+
+
+
+^Adding Rhythm Pattern to the existing 
+Rhvthm Track. 
+
+
+
+[Operation] 
+
+©Assign the last measure of the Track. S^ 
+oBy using the Forward Key. 
+oWhile holding the Shift Button, press 
+
+the Last Measure Key and the Enter 
+
+Key. 
+
+
+
+OWhile holding the Shift Button down, 
+press the Main Keys and the Enter 
+Key. 
+
+D Hit the Enter Key. (j^ 
+• There comes a measure ready to 
+accept the additional Rhythm Patterns 
+to be programmed into the Track. 
+
+
+
+SHIFT 
+
+
+
+(0-9) 
+
+
+
+(0-9) 
+
+
+
+Measure 
+Number 
+(End) 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+(SP' 
+
+
+
+ENTER 
+
+
+
+V 
+
+
+
+5. Copy 
+
+It is possible to copy any Rhythm Pattern 
+or a series of Rhythm Patterns even in 
+different Banks. The existing Rhythm 
+Patterns that follow the new comer will 
+be shifted forward increasing the total 
+number of measures by that many. 
+
+[Operation] 
+
+©Assign the measure number where you 
+wish to send the copy of a Rythm or 
+series of Rhythms. (g4^ 
+
+©While holding the Shift Button down, 
+press the Copy Key, the Main Keys 
+(to assign the first measure of the 
+series of Rhythm Patterns), the Enter 
+Key, then the Main Keys (assigning the 
+last measure of the series of the Rhy- 
+thm Patterns), then finally the Enter 
+Key again, (jj^ 
+
+If you wish to copy only a single 
+measure, skip assigning the last mea- 
+sure of a series of the Rhythm Pat- 
+terns. 
+
+
+
+• To copy 23rd to 26th measures into the 19th measure. 
+
+
+
+12 3 4 „ 17 18 19 20 21 22 23 24 25 26 27 28 „ 
+
+"11 K _ — z — !;: — rr~7 ~ z ,_ y . . js 
+
+I J 
+
+
+
+[Note] 
+
+• Be sure that Rhythm is not running 
+before start copying. 
+
+• It is not possible to copy a series of 
+Rhythms into the middle of the series. 
+That is, for instance, copying the 
+Rhythm Patterns 15 to 21 measures to 
+the 19th measure is not possible. 
+
+If copy is not possible, the Display 
+Window will respond as shown below. 
+
+MEAS/TEMPO 
+
+
+
+n n n 
+uuu 
+
+
+
+1 2 3 4 ., 17 1 
+
+
+
+
+23 24 25 26 27 28 29 30 31 32^ 
+
+
+
+efgh abcdefghij 
+
+O Recall the 19th measure. ({©^ 
+
+@ Take copy procedure and copy 23rd to 26th measures. ({]©/ 
+
+
+
+• To copy 13th to 16th measures into the 19th measure. 
+
+
+
+31 
+
+
+
+FWD 
+
+
+
+or 
+
+
+
+SHIFT 
+
+
+
+(0-9) 
+
+
+
+(0-9) 
+
+
+
+Measure 
+Number 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+SHIFT 
+
+
+
+COPY 
+
+
+
+J 
+
+
+
+(0-9) 
+
+
+
+(0-9) 
+
+
+
+First 
+Measure 
+
+
+
+ENTER 
+
+
+
+(0-9) 
+
+
+
+31 
+
+
+
+(0-9) 
+
+
+
+Last 
+Measure 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+1 2 3 4 . 11 12 13 14 15 16 17 18 19 20 21 .^ 2 6 27 28 
+Ij "?: : <;: : — k : ^ '>■ ' "' 
+
+a 
+
+
+
+SHIFT ] 
+
+
+([^ 
+
+
+SHIFT 1 
+
+
+Q 
+
+
+
+
+[ COPY J 
+
+
+
+
+
+
+
+H 
+
+
+J enter] 
+
+
+{ 
+
+
+R 
+
+[enter] 
+
+
+
+H 
+
+^ I enter) 
+
+
+
+1 2 3 4 ,, 11 12 13 14 15 16 17 18^ 
+
+1) 
+
+
+
+
+9 20 21 22v^23 24 25 30 31 32 
+
+
+
+abcdefabcd 
+
+
+
+
+05^ 
+
+
+
+Q 
+
+
+
+0^ 
+
+
+
+©Recall the 19th measure. ([^^ 
+
+©Take copy procedure and copy 13th to 16th measures. (T®^ 
+
+
+
+vG^ 
+
+
+
+
+
+
+V 
+
+
+
+I enter! 
+
+Q 
+
+[enter] 
+
+
+
+32 
+
+
+
+71 Other Functions 
+
+
+
+1. Tempo Memory (in Track Play mode) 
+
+
+
+Tempo can be independently set to each 
+Track. 
+
+[Operation] 
+
+
+
+While holding the Tempo Button, hit the 
+Enter Key, and the current tempo will be 
+programmed throughout the Track, flz^ 
+In later recalling a Track, if you press a 
+Track Button while holding the Tempo 
+Button down, the tempo set in that Track 
+is recalled. (H?^ 
+
+That is, the Track will play in that set 
+tempo, therefore, the Tempo Knob on 
+the TR-909 does not work. If you just 
+press the Track Button (without holding 
+the Tempo Button down), the tempo of 
+the Track is controlled with the Tempo 
+Knob. 
+
+
+
+Set a new tempo data will automatically 
+replace the existing one. 
+To erase the tempo data from the memo- 
+ry, simply rotate the Tempo Knob 
+through left to right while holding the 
+Tempo Button down. 
+
+
+
+TEMPO 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+(Ef' 
+
+
+
+TEMPO 
+
+
+
+V 
+
+
+
+TRACK(1~4) 
+
+
+
+2. Multi Out 
+
+
+
+The TR-909's back panel includes a 
+separate Multi Out Jack for each indi- 
+vidual voice. Connecting any of these 
+jacks removes that sound from the sum- 
+
+
+
+med Master Out signal, sending it off se- 
+parately at a level determined by its own 
+level control. 
+
+
+
+MASTER OUT 
+
+
+
+RIM SHOT Ml TOM MID TOM LOW TOM SNARE BASS DRUM 
+
+
+
+
+Spontaneous panning 
+is possible. 
+
+i^^Effect Units 
+
+Delay (Echo) Machine, 
+Graphic Equalizer, 
+Flanger, etc. 
+
+
+
+3. Memory Cartridge 
+
+
+
+By using Memory Cartridge M-64C 
+(optional) instead of an audio tape, saving 
+and loading can be done instantly and 
+more accurately. 
+
+
+
+It is also made possible to play the 
+Rhytlim Track of the TR-909 by the 
+data stored in the Cartridge externally 
+without loading the data back to the 
+TR-909. 
+
+
+
+33 
+
+
+
+
+Insert the M-64C to the 
+slot with its label and Pro- 
+tect Switch on the left (in 
+front view). 
+
+
+
+[Operation] 
+
+First of all, to turn the TR-909 to the 
+Memory Cartridge mode, insert the 
+Memory Cartridge into the slot on the 
+back panel, and hit the Enter Key. g?^ 
+
+• Once the TR-909 is turned to this 
+Memory Cartridge mode, you can easily 
+save, load or play Rhythm Track data 
+saved on the Cartridge. 
+
+(1)lf you wish to play Rhythm Tracks 
+externally by the Cartridge data. 
+® Select a Rhythm Track (on the Car- 
+tridge) to be played by pressing a 
+Track Button. 
+(D Hit the Start Key, 
+
+(2) If you wish to save the data onto the 
+Cartridge. 
+
+© Set the Protect Switch on the Car- 
+tridge to OFF. 
+(D While holding the Shift Button 
+down, press the Copy Key, the Save 
+Key, Bank Button (1 or li), then 
+finally the Enter Key. (J79^ 
+*To save the data in Bank i of the TR- 
+909 into the Bank II of the Cartridge. 
+
+
+
+® Assign Bank I of the TR-909 by pres- 
+sing the Bank Button I while holding 
+Shift Button. 
+
+(2) While holding the Shift Button down, 
+press the Copy Key, the Save Key, 
+Bank Button (II), then finally the 
+Enter Key. ((m 
+
+
+
+(3)lf you wish to load the data on the 
+Cartridge into the TR-909. (j^ 
+
+While holding the Shift Button down, 
+press the Copy Key, Load Key, Bank 
+Button I or M,then finally the Enter Key. 
+
+
+
+*To load the Bank 
+tridge into the Bank 
+
+
+
+I data of the Car- 
+of the TR-909. 
+
+
+
+® Assign the Bank I of the TR-909 by 
+pressing the Bank Button 1 while hold- 
+ing the Shift Button. 
+
+©While holding the Shift Button down, 
+press the Copy Button, the Load Key, 
+the Bank Button II, then finally the 
+Enter Key. dm 
+
+
+
+ENTER 
+
+
+
+dJp' 
+
+
+
+SHIFT 
+
+
+
+COPY 
+
+
+
+SAVE 
+
+
+
+BANK(I.II) 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+SHIFT 
+
+
+
+COPY 
+
+
+
+( SAVE ] 
+
+
+
+
+
+
+
+
+BANK 
+
+
+11 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+SHIFT 
+
+
+
+COPY 
+
+
+
+LOAD 
+
+
+
+BANKd .ii: 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+SHIFT 
+
+
+
+COPY 
+
+
+
+LOAD 
+
+
+
+
+
+
+
+
+BANK 
+
+
+II 
+
+
+
+V 
+
+
+
+ENTER 
+
+
+
+4. Sync Function 
+
+
+
+The TR-909 include several Sync Jacks 
+allowing three kinds of synchronization 
+with external devices. 
+
+
+
+34 
+
+
+
+A. MIDI In/Out Jacks (For Tempo Sync) 
+
+The MIDI In/Out Jacks of the TR-909 
+allow it to be synchronized perfectly with 
+the units featuring MIDI system. The 
+TR-909 can serve either as a slave or 
+master device. 
+
+
+
+MIDI 
+
+
+
+
+
+
+
+
+
+" 
+
+
+out 
+TR -909 
+
+
+
+
+In 
+Sequencer, etc. 
+
+
+
+
+
+
+
+MIDI 
+
+
+
+
+
+
+MIDI 
+
+
+
+
+
+
+
+
+\ 
+
+
+
+
+
+
+
+
+out 
+Sequencer, etc. 
+
+
+
+
+in out 
+TR-909 
+
+
+
+
+
+[Operation] 
+
+If you wish to use the TR-909 as a slave 
+device (the one to be controlled by the 
+external devices), press the Tempo Mode 
+Button while holding the Shift Button 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+TEMPO MODE 
+
+
+
+Down. Each time you press the Tempo 
+Mode Button, the Sync mode will change 
+INT-^ MIDI -> DIN. (JB3^ 
+
+
+
+The units will be synchronized 
+in perfect tempo of the TR- 
+909 with each other. 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+TEMPO MODE 
+
+
+
+The units wi 
+signal sent to 
+external unit. 
+
+
+
+run by tempo 
+IDI In from the 
+
+
+
+SHIFT 
+
+
+
+V 
+
+
+
+TEMPO MODE 
+
+
+
+The units will run by tempo 
+signal sent to DIN Sync In 
+from the external unit. 
+
+
+
+SHIFT 
+
+
+
+MEAS/TEMPO 
+
+
+
+V 
+
+
+
+TEMPO MODE 
+
+
+
+
+(Tempo Display) 
+
+
+
+MEAS/TEMPO 
+
+
+
+
+MEAS/TEMPO 
+
+
+
+
+When you change the Sync modes, 
+
+please be sure that the Rythme is not 
+
+running. 
+
+When the Sync mode is either MIDI or 
+
+DIN, only the external unit can start 
+
+or stop the units. 
+
+
+
+*Turning the TR-909 will automatically 
+set it to the Sync mode INT. 
+
+
+
+oO 
+
+
+
+B. Sync In (DIN) 
+
+This jack allows the connection of the 
+TR-909 and an external unit featuring 
+DIN Sync Out. Here, the TR-909 serves 
+only as a slave unit. 
+
+
+
+[Operation] 
+
+While holding the Shift Button down, 
+press the Tempo Mode Button. Then do 
+the sanne procedure once again. (If the 
+TR-909 was initially set to INT mode.) 
+
+MIDI 
+
+
+
+
+
+DIN 
+
+
+
+
+
+
+
+
+>. 
+
+
+MC-4 out 
+MC-202 etc 
+
+
+
+
+
+
+
+
+
+
+
+
+TR-909 
+
+
+
+
+
+
+
+SHIFT 
+
+
+
+TEMPO MODE 
+
+
+
+V 
+
+
+
+TEMPO MODE 
+
+
+
+C. TAPE SYNC JACK 
+
+The Tape Sync In/Out Jacks on the 
+back panel allows the TR-909 to play to 
+the Sync signal recorded on a tape. 
+
+
+
+MIDI 
+
+
+
+tO 
+
+
+
+
+
+
+
+
+
+
+rA 
+
+
+Tape Sync Signal 
+
+
+
+
+out 
+
+TR-909 
+
+in 
+
+
+
+
+Mill 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Operation] 
+
+a. Recording Sync signal onto a tape. 
+
+©Connect the Save/Out Jack on the 
+back panel of the TR-909 to the Line 
+In on the tape recorder. 
+
+
+
+TR-909 
+
+
+
+TAPtfi^EMORY/flvNC 
+
+
+
+
+Tape Recorder 
+LINE/OUT LINE/IN 
+
+
+
+)When the TR-909 is not running, it 
+emits signal of a certain level. Set the 
+recording level of the tape recorcer so 
+that it reads about -1 to -SVU. 
+
+)Turn the TR-909 to the Track Play 
+mode, then select the Rhythm Track 
+to be played. 
+
+
+
+®Turn the tape recorder to recording 
+mode, and in a few seconds, start the 
+TR-909 by pressing the Start Key. 
+
+(DWhen the entire Rhythm Track is 
+played up (the TR-909 automanically 
+stops running), stop the tape recorder. 
+
+
+
+36 
+
+
+
+b. Playing the TR-909 to the Sync signal 
+recorded on a tape. 
+
+Ci) Connect the Sync In on the TR-909 
+to the Line Out of the tape recorder. 
+
+(2) Press the Tape Sync Button of the 
+TR-909. (Im 
+
+
+
+CD Turn the TR-909 to the Track Play 
+mode, then select the Rhythm Track 
+to be played. 
+
+C4)Turn the tape recorder to playback 
+mode. Be sure to start playback from 
+the tape while the Pilot Tone is heard. 
+
+
+
+*lf you wish to leave the Tape Sync 
+mode before the TR-909 starts running, 
+press the Tape Sync Button. And if you 
+wish to leave the Tape Sync mode 
+during the TR-909 playing, press the 
+Stop/Continue Key. 
+
+''While the TR-909 is running in the Tape 
+Sync mode, the tempo is not shown in 
+the Display. 
+
+*\A/hen the Sync mode is either MIDI or 
+DIN, pressing the Tape Sync Key has no 
+effect. 
+
+
+
+TAPE SYNC 
+
+
+
+CD Press the Start Key or Stop/Continue 
+Key of the TR-909. Please be sure to 
+press it before the Pilot tone turns to 
+Modulated tone. Now the TR-909 will 
+play the Rhythm Track to the 
+Synchro signal. rtSel 
+
+
+
+
+START 
+
+
+
+or 
+
+
+
+STOP/CONT 
+
+
+
+Chi ch2 ch8 
+
+
+
+^ 
+
+
+
+
+r^ Roland 
+
+
+
+TR-B09 
+
+
+
+6 6i6 olo 616 6|a 6 
+o 16 6,6 o!6 16 16 
+
+
+
+RHVTHM COMPOSER 
+
+o6i___ p|o o 
+! 6 6 i ~o 6 
+
+
+
+
+37 
+
+
+
+5. External Instrument Mode 
+
+
+
+This mode is provided for potential 
+control of external sound source through 
+MIDI. 
+
+
+
+MIDI 
+
+
+
+TR-909 
+
+
+
+External Sound 
+Sources 
+
+
+
+
+
+; 
+
+
+? 
+
+
+3 4 E 
+
+
+5 
+
+
+3 
+
+
+7 8 
+
+
+9 10 11 1 
+
+
+2 13 14 15 16 
+
+
+
+
+
+
+
+
+g 
+
+
+\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+k 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^ 
+
+
+9 
+
+
+
+
+
+
+
+
+
+
+
+
+% 
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+
+
+A^ 
+
+
+
+
+
+
+d 
+
+
+b| 
+
+
+
+
+
+
+t k 
+
+
+
+
+
+
+i 
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+V 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f 
+
+
+
+
+
+
+
+
+p 
+
+
+
+
+HI-HATH 
+
+
+KH 
+
+
+H 
+
+
+H 
+
+
+» — t 
+
+
+HH 
+
+
+H 
+
+
+H 
+
+
+\ — « 
+
+
+» — « 
+
+
+H 
+
+
+H 
+
+
+> — < 
+
+
+h-H 
+
+
+H 
+
+
+^ 
+
+
+^ 
+
+
+RIM SHOT- 
+
+
+
+
+
+
+
+
+— 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 
+
+
+b 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IL 
+
+
+It 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'' 
+
+
+
+
+A 
+
+
+Ik 4 
+
+
+tt 
+
+
+
+
+
+
+.t 
+
+
+
+
+
+
+
+
+BAou DRUM% 1 1 1 1 1 1 w^l 1 Tv 1 1 1 1 
+
+> _, ^ Normal 
+Accented ^^,^^g 
+
+
+
+
+■> 
+
+
+
+
+
+
+rl 
+
+
+^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fyfi R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+■^ 
+
+
+
+
+/■ 
+
+
+
+
+
+
+^ 
+
+
+-\ 
+
+
+
+
+
+
+(- 
+
+
+^ 
+
+
+r 
+
+
+> 
+
+
+
+
+
+
+
+
+
+
+■> 1 M> 1 1 M^ 1 1 1 M^ 1 M> 1 1 i 
+
+
+Ext 4 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+pyf Q £. 
+
+
+>l 
+
+
+r 
+
+
+■> 
+
+
+
+
+
+
+
+
+c 
+
+
+^ 
+
+
+(■ 
+
+
+^ 
+
+
+/■ 
+
+
+■N 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\ 
+
+
+
+
+\ 
+
+
+.^ 
+
+
+(« 
+
+
+-> 
+
+
+
+
+
+
+
+
+
+
+pyfp _ 
+
+
+
+
+
+
+
+
+(- 
+
+
+■s ( 
+
+
+>i 
+
+
+
+
+
+
+
+
+
+
+
+
+c 
+
+
+1 
+
+
+f 
+
+
+■\ 
+
+
+
+
+
+
+
+
+
+
+
+
+(» 
+
+
+) K 
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+
+
+<■ 
+
+
+J 
+
+
+(. 
+
+
+J 
+
+
+
+
+Cyf A 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open 
+
+
+
+Rhythm Pattern of 
+\ internal Sound Source 
+
+
+
+Scale, Last Step and 
+Shuffle data are 
+common. 
+
+
+
+} Rhythm Pattern 
+of External Sound 
+Source (through 
+MIDI Out) 
+
+
+
+When using external sound sources, the Main Keys ( [Tj~[L@) select the 16 Icinds of 
+musical instruments. (Flam is not available.) 
+
+
+
+When using a synthesizer featuring MIDI (JP-6, JX-3P, HP-300/400, etc.). Main keys 
+correspond to the keyboard as shown below. 
+
+
+
+8 10 12 13 15 
+
+
+
+W 
+
+
+
+m 
+
+
+
+■Middle C 
+
+
+
+[Operation] 
+
+Turn the TR-909 into the Pattern Write 
+mode (be sure that Rhythm is not run- 
+ning). Then while holding the Shift 
+Button down, press the External Instru- 
+ment Key. Each time you press it, the 
+mode will alternately change between 
+Internal and External. (When the Indica- 
+tor lights, external ■ sound source is 
+
+
+
+selected.) Writing procedures to follow 
+are exactly the same as the case of 
+internal sound source. fl|^ 
+
+*Here, even if you have cleared Rhythm 
+Pattern, Scale, Last Step Shuffle or 
+Flam data will remain in memory. 
+
+
+
+
+38 
+
+
+
+• MIDI 
+
+MIDI (Musical Instrument Digital Inter- 
+face) is international standard that 
+enables communication of units by digital 
+signal. 
+
+• Information which can be communi- 
+cated are as follows. 
+
+1 ) Rhythm Pattern 
+
+2) Tempo Syncro 
+
+3) Start/Stop 
+
+4) Dynamics 
+
+5) Song Selection 
+
+6) Song Position Point 
+
+7) Through Function 
+
+=> Please refer to enclosed "What's the 
+MIDI". 
+
+[Note] 
+
+Please never connect MIDI device to non 
+MIDI divice. Especially, when using 
+several devices, be careful not to cause 
+loop effect. 
+
+
+
+•Setting the MIDI Channel 
+
+Please take this setting procedure in 
+Track Play mode. 
+
+Setting Receiving Channel: To set the 
+Channel number for MIDI informa- 
+tion which controls the internal 
+sound source, press the appropriate 
+Main Key, while holding the Shuf- 
+fle/Flam Button. 
+
+Setting Sending Channel: To set the 
+Channel number for the MIDI in- 
+formation which controls external 
+sound source, press the appropriate 
+Main Key, while holding the Last 
+Step Button. 
+
+If the unit has been just turned on, the 
+receiving Channel is automatically set to 
+0, and the transmit Channel to 11. "0" 
+is Omni mode that receives all Channel 
+information. 
+
+
+
+6. Trigger Out Start/Stop 
+
+
+
+The TR-909 provides Trigger pulse of a 
+positive 14\/, 18ms sent out in the same 
+intervals as the Rim Shot written. 
+
+
+
+T!!rSynthesizing 
+
+
+
+VCO 
+
+
+
+VCF 
+
+
+
+EXT 
+GATE 
+
+
+
+RIDE CR 
+
+
+
+E.G. 
+(ADSR) 
+
+
+
+VGA 
+
+
+
+SH Ml HAT CLAP BIM 
+
+
+
+i 
+
+
+
+SAVE/OUT LOAD/W 
+
+
+
+
+TAPE MEMORY/SYNC 
+
+
+
+• You can turn on or off the TR-909 
+with the Pedal Switch. 
+
+
+
+Specifications/Option 
+
+
+
+39 
+
+
+
+iTR-909« RHYTHM COMPOSER 
+
+
+
+► Memory Capacity 
+
+48 Rhythm Patterns 
+Groups) x2 (Bank I, li 
+
+
+
+(16 X 3 Pattern 
+
+
+
+• Tracks 
+
+4 Tracks (1 to 4: Continuous Maximum 
+measures 896) X 2 (Banks I, II) - 
+
+• Steps (per measure) 
+
+1 to 1 6 steps 
+
+• Sound Sources (and Controls) 
+
+Bass Drum* (Level, Tune, Decay, Attack) 
+
+Snare Drum* (Level, Tune, Tone, Snappy) 
+
+Low Tom* (Level, Tune, Decay) 
+
+Mid Tom* (Level, Tune, Decay) 
+
+Hi Tom* (Level, Tune, Decay) 
+
+Rim Shot (Level) 
+
+Hand Clap (Level) 
+
+Closed*/Open Hi-Hat (Level, Decay) 
+
+Crash Cymbal (Level, Tune) 
+
+Ride Cymbal (Level, Tune) 
+The ones with *mark features the sound 
+with and without accent. 
+
+
+
+• Rear Panel 
+
+Master Out (L, R/MONO) [6 Vp-p, 1 k^] 
+Multi Out [ dB, a] 
+
+Bass Drum, Snare, Low Tom, Mid 
+
+Tom, Rim Shot, Clap, Hi-Hat, Crash, 
+
+Ride 
+MIDI 
+
+IN 
+
+OUT (x2) 
+Tape Memory/Sync 
+
+Save/Out 
+
+Load/In 
+External Control 
+
+Trigger Out 
+
+(Rim Shot: +14V, 20 ms pulse) 
+
+Start/Stop (DP-2) 
+
+Sync In (5P-DIN) 
+
+(1: Run/Stop, 2: GND,3:Clock, 
+5: Continue) 
+Memory Cartridge Slot (for M-64C) 
+
+I Consumption: 14W 
+
+'Dimensions: 
+
+486(W) x 105(H) x 300(D) mm/ 
+19-1/8(W) X 4-1/8(H) x 11-13/16 (D) in 
+
+
+
+► Controls and Indicators 
+
+Start Key 
+
+Stop/Continue Key 
+Tempo Knob ( J = 37 to 290) 
+Track Selector Buttons 
+
+(1 to 4: Play/Write) 
+Pattern Group Selector Buttons 
+
+(1 to 3: Play/Write) 
+External Instrument Button 
+Pattern Write Mode Button 
+Bank Buttons (1,11) 
+Last Measure Button 
+Tempo Mode Button 
+Tempo Button 
+Forward Step Button 
+Back Step Button 
+Available Measure Button 
+Cycle Play/Guide Button 
+Tape Sync Button 
+Total Accent Key 
+Enter Key /Memory Cartridge Key 
+Volume Knob 
+Shift Button 
+Clear Button 
+Scale Button 
+
+Instrument Selector Button 
+Shuffle/Flam Button 
+Last Step Button 
+Main Keys (1 to 16) 
+
+
+
+• Weight: 4.5 kg/9 lb 15 02 
+
+lAccessories: AC Cord 
+
+Connection Cord 
+Owner's Manual 
+
+I Option: Memory cartridge M-46C 
+Pedal Switch DP-2 
+
+'Specifications are subject to change 
+without notice. 
+
+
+
+40 
+
+
+
+Pattern # 
+
+
+
+3 6 
+
+
+
+Scale : 
+
+
+
+}^^}J^ 
+
+
+
+BANK: 
+
+PATTERN GROUP: 
+
+SHUFFLE: 1 2 3 4 5 6 7 
+FLAM: 9 10 11 12 13 14 15 16 
+
+
+
+Step 
+
+ACCENT 
+
+RIDE 
+
+CRASH 
+
+HI -HAT 
+
+HAND CLAP 
+
+RIM SHOT 
+
+HI-TOM 
+
+MID-TOM 
+
+LOW-TOM 
+
+SNARE DRUM 
+
+BASS DRUM 
+
+
+
+1 2 3 4 5 6 7 
+
+
+
+9 10 11 12 13 14 15 16 
+
+
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+
+
+
+Pattern # : 
+
+
+
+3 e 
+
+
+
+scale: }l } } J\ 
+
+
+
+BANK: 
+
+PATTERN GROUP: 
+
+SHUFFLE: 1 2 3 4 5 6 7 
+FLAM: 9 10 11 12 13 14 15 16 
+
+
+
+Step 
+
+ACCENT 
+
+RIDE 
+
+CRASH 
+
+HI-HAT 
+
+HAND CLAP 
+
+RIM SHOT 
+
+HI-TOM 
+
+MID-TOM 
+
+LOW-TOM 
+
+SNARE DRUM 
+
+BASS DRUM 
+
+
+
+1 2 
+
+
+
+4 5 6 7 8 9 10 11 12 13 14 15 16 
+
+
+
+1 2 3 4 5 6 7 8 9 ID 11 12 13 14 15 16 
+
+
+
+41 
+
+
+
+Pattern # : 
+
+
+
+3 6 
+
+
+
+Scale 
+
+
+
+n}j^ 
+
+
+
+BANK: 
+
+PATTERN GROUP: 
+
+SHUFFLE: 1 2 3 4 5 6 7 
+FLAM: 9 10 11 12 13 14 15 16 
+
+
+
+Step 
+
+ACCENT 
+
+RIDE 
+
+CRASH 
+
+HI-HAT 
+
+HAND CLAP 
+
+RIM SHOT 
+
+HI-TOM 
+
+MID-TOM 
+
+LOW-TOM 
+
+SNARE DRUM 
+
+BASS DRUM 
+
+
+
+1 2 3 4 5 6 7 
+
+
+
+9 10 11 12 13 14 15 16 
+
+
+
+12 3 4 5 
+
+
+
+9 10 11 12 13 14 15 16 
+
+
+
+Pattern it : 
+
+
+
+3 6 
+
+
+
+Scale: J\ } } J\ 
+
+
+
+BANK: 
+
+PATTERN GROUP: 
+
+SHUFFLE: 1 2 3 4 5 6 7 
+FLAM: 9 10 11 12 13 14 15 16 
+
+
+
+Step 
+
+ACCENT 
+
+RIDE 
+
+CRASH 
+
+HI-HAT 
+
+HAND CLAP 
+
+RIM SHOT 
+
+HI-TOM 
+
+MID-TOM 
+
+LOW-TOM 
+
+SNARE DRUM 
+
+BASS DRUM 
+
+
+
+1 2 3 4 5 6 7 
+
+
+
+9 10 11 12 13 14 15 16 
+
+
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+
+
+
+Rhythm machine 
+
+
+
+MODEL 
+
+
+
+Function 
+
+
+Transmitted 
+
+
+Recognized 
+
+dis en 
+
+
+Remarks 
+
+
+Basic Default 
+Channel Changed 
+
+
+11 
+1-16 
+
+
+10 
+1-16 
+
+
+
+
+Default 
+Mode Messages 
+Altered 
+
+
+3' 
+
+OMNI OFF, POLY 
+
+
+1 
+
+OMNI ON/OFF, POLY, 
+
+MONO 
+
+
+
+
+Note 
+
+Number : True voice 
+
+
+36-51 
+
+
+35-51 
+35-51 
+
+
+assigns to each 
+rhythm voice 
+
+
+Velocity Note ON 
+Note OFF 
+
+
+O 9n v= 64-96 
+X 9n v=0 
+
+
+X 
+
+
+n=0 - $F 
+
+
+After Key's 
+Touch Ch's 
+
+
+X 
+X 
+
+
+X 
+X 
+
+
+
+
+Pitch Bender 
+
+
+X 
+
+
+X 
+
+
+
+
+Control 
+Change 
+
+
+X 
+
+
+X 
+
+
+
+
+Prog 
+
+Change True # 
+
+
+X 
+
+
+X 
+
+
+
+
+System Exclusive 
+
+
+O 
+
+
+o 
+
+
+for rhythm seq 
+
+
+System Song Pos 
+Song Sel 
+Common Tune 
+
+
+O 
+
+O (0-7) 
+X 
+
+
+O 
+
+O (0-7) 
+
+X 
+
+
+
+
+System Clock 
+Real Time Commands 
+
+
+o 
+
+
+
+
+O MIDI mode 
+
+O 
+
+
+
+
+Aux Local ON/OFF 
+
+All Notes OFF 
+Mes- Active Sense 
+sages Reset 
+
+
+X 
+X 
+X 
+
+O if received 
+
+
+X 
+X 
+X 
+
+O 
+
+
+
+
+Notes 
+
+
+
+
+
+Mode 1 : ' OMNI ON, POLY Mode 2 
+
+Mode 3 : OMNI OFF. POLY Mode 4 
+
+
+
+OMNI ON, MONO 
+OMNI OFF, MONO 
+
+
+
+o 
+
+
+
+Yes 
+No 
+
+
+
+TR-909 OWNERS MANUAL '83 DEC. C-3 
+
+
+
+Roland Corporation 
+
+
+

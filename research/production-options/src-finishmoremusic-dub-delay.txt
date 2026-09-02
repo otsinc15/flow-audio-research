@@ -1,0 +1,50 @@
+URL: https://finishmoremusic.com/dub-delay/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 504221
+----
+
+
+
+
+
+
+
+
+	•	FMM MEMBERSHIP
+	•	VIDEO BLOG
+	•	PODCAST
+	•	ABOUT
+	•	LOGIN
+This week’s inside sneak peek is a real gem of a tutorial from our Stabs & Harmony video course! The Dub Delay has been a prominent sound across many different genres and is still very popular in modern electronic music. in this tutorial I show you a fast way to set this up and achieve a deep, lush texture to your sound by creating feedback loops using return channels
+
+Transcript
+
+Okay, so let’s take a look now at how we can make a nice lush dub delay really sort of deep sound gives us a nice washy texture to accompany a stabs. I’ve started a new return open a new return, just called it dub, here, and the first thing I’m going to do is right-click and enable send B. I’m doing that because it’s return B and what I want is to be able to send this return back into itself, so the output will return back in thus creating a feedback loop. Because we’re using a feedback loop, the first thing that’s going to go on here is a limiter. Whenever you’re doing things with feedback it can very quickly get out of hand and damage your equipment and more importantly, it could damage your ears so make sure you get a limiter on there first then what we want to do is grab a delay so we’re going to have a ping-pong here, pop that before the limiter so all of our devices will go before that limiter, and I’m gonna set this to 100% wet and we’ll crank the feedback up a little bit somewhere around the 70% will be fine, and on the dub delay again sort of 3/4 of the way round. Just you know the beginning it’s just a starting point you’re gonna have to tweak it depending on the sounds that you’ve got going in there and how the frequencies start to build up. So again let’s do a similar amount on the send of the dub stab and let’s hear what we get [Music] 
+See here this sort of feedback that I’m talking about build enough that’s very static and it’s not what we want. It’s just actually changes pingpong we let a few more higher frequencies in and we just take a little bit of this low mid out. So we don’t want this static build-up of frequencies just stacking on top of each other, we want to add some movement. And the way to do that is with an auto filter but you can still hear this building up, let’s just turn that feedback off for a second, let it die down. On the auto filter, we’re gonna go for a band pass and just bring it down somewhere in your mid range, take some of the resonance down on that, somewhere around there would work nicely. So again, the point of this is we’re not going to be accentuating one particular frequency band a really high amount instead we’re going for something quite gentle on here, and then we’re going to add a movement using the LFO. So we’re going to sync that to the rate of the track and let’s go nice and long eight or four bars even six actually, something so this is a slow sweeping filter. With your mount, don’t want to go too crazy with this I don’t want this so that it’s kind of ending up cramped all the way at the top and all of the way at the bottom. The idea is just to sort of have this moving around, something like this okay? So, we’ll see we might keep this out of phase so the phase-in size of Auto filter basically there are two LFOs working and two outputs to the filter, and when it’s out of phase there’s left speaker will be increasing the cutoff was the right speaker is decreasing it. So you get this alternate wobbling between the left and the right channel which obviously gives a more of a stereo feel. I’m not totally sure if I’m gonna want that because we’ve already got the stereo coming out of the ping pong. So let’s have a listen, we’ll get that feedback turn back up and let’s hear how it sounds in here [Music] 
+So you can hear now that we’re not getting that same buildup of frequencies running through so we’re not getting that almost metallic feedback sound where it’s sitting on top of itself. Now it is ringing on for a little bit too long so what I’m gonna do is just bring it gate in, this bridge just brings us a little bit more control. What we do is bring the gate down nice and low. Have that returned at zero so effectively what’s happening is when this delay goes below, we’ve got about thirty seven DB on here, anything around here be fine. When the delay sound goes below that the gate will shut and no more audio will come through. We don’t want it to be really abrupt in the way it shuts so let’s have a nice long release on that so that it gradually closes down and releases the volume of the audio and it just means that when I turn this off it won’t ring out for ages and ages so another quick listen [Music] 
+I can see I’ve got this gate set way too low because it is interfering with some of the audio I’ve already got so I’m gonna bring it down, kind of somewhere like this, let’s go again [Music] 
+So I’ve got a fairly long ringing out tail and it’s soon gonna start getting, can see the gate beginning to kick in out so for me actually, probably could do with it being a bit higher and then it’s gonna shut that off so we don’t end up with this just constant and annoying ringing out all the time when we want this to stop. Last thing I’m gonna do is just add something else to it that’s gonna be a bit more interesting. It’s to vary up the delay, gonna go and grab a beat repeat. In fact, inside of here there’s a nice subtle – repeat preset, so this is called semi subtle. For this, I’m going to increase the filter we’ll go with the insert on here as well. So what this means is that as soon as the beat repeat kicks in it cuts out the audio of the delay and instead we’ll add the stutter of the beat repeat rather than have it mixed over the top of it. It’s just going to give it an almost jerky jolting type feel. So let’s see what that does [Music]
+Yeah, I think I’ll keep that pitch delay off. We’ve got enough stuff going on already and we’ll keep this quite sure. So as you can hear, it is a pretty subtle change that’s happening but it just again is adding a bit more movement and interest to the sound. Last thing I want to do is just chuck an EQ on in case we’re getting any frequencies in here that we don’t want [Music]
+So we just toned down the thickness right at the bottom of the low-mids there, and once we’re at it, rather than half this repeat going all the time, let’s just bring the chance down on this so sometimes it plays and sometimes it doesn’t. One more listen through but I think we’re there [Music]
+Yeah, perfect! Very happy with that. So the secret to the dub delay is also the sound that you’re feeding it, and at the moment we are whilst we’ve got a bit of movement on the chords we’re feeding it a static sound so we’ll look at mapping up some macros in the next video so that we get some more interest in Tambor’s going through the delay. 
+Thank you for watching
+I really appreciate you tuning in and I hope you’re enjoying the tutorials and taking some real value into your music sessions.  If this video resonated with you and you feel it will have a positive impact on the people you know,  please share  it  by using the social media buttons you see at the bottom of this page.
+To make sure you are always the first to know when a new video lands: Subscribe to the FMM Youtube channel here.
+Let me know how you get on with the techniques I showed in the videos and if you have any suggestions for future tutorials, ping me a message on Instagram (@IamKeithMills)
+
+
+
+Recent Posts
+	•	FMM218 – How to Beat Resistance Every Single Day
+	•	FMM217 – Chasing Quality, Losing Progress
+	•	Episode 216: Your Tracks Are a Journal of Your Life 
+
+
+Privacy Policy | Terms & Conditions | Contact Us © Copyright © 2009-2026 Finish More Music. All Rights Reserved.
+
+Listen to the Latest Podcast Episode:
+FMM218 - How to Beat Resistance Every Single Day
+
+
