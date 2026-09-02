@@ -61,8 +61,10 @@ measured in **recorded audio**, not wall clock:
 ]
 ```
 
-Each step may set `prompts`, `bpm`, `density`, `brightness`, `guidance` or
-`scale`. Two behaviours come straight from the docs and are implemented here:
+Each step may set `prompts` or **any** `LiveMusicGenerationConfig` field —
+`bpm`, `density`, `brightness`, `guidance`, `scale`, `temperature`, `top_k`,
+`seed`, `mute_bass`, `mute_drums`, `only_bass_and_drums`,
+`music_generation_mode`. Unknown keys are rejected rather than ignored. Two behaviours come straight from the docs and are implemented here:
 
 - **The whole config is resent every time.** "You can't just update a parameter,
   you need to set the whole configuration otherwise the other fields will be
@@ -70,7 +72,22 @@ Each step may set `prompts`, `bpm`, `density`, `brightness`, `guidance` or
 - **`bpm` and `scale` changes trigger `reset_context()`.** It doesn't stop the
   stream, but it is a hard transition. No other field needs it.
 
-## The 8-clip batch plan
+## Batches
+
+`batch.json` — round 5, the 8 × 90 s tempo/density/brightness sweep described below.
+
+`batch-round6.json` — round 6, a **knob audition**: one parameter changed per clip
+against a fixed base and a **fixed seed**, so each difference is attributable to
+that one knob. Covers `temperature`, `guidance`, `brightness`, `density`, negative-
+weight prompts, a mid-stream `only_bass_and_drums` release, and a bit-exact repeat
+of the base to prove the seed reproduces. Findings:
+`research/ear-test/lyria-round6-2026-09-02.md`.
+
+```sh
+~/.venvs/lyria/bin/python lyria/render.py --batch lyria/batch-round6.json --out-dir out6
+```
+
+## The round-5 8-clip batch plan
 
 `batch.json` — 8 × 90 s, same base prompt set throughout:
 
@@ -101,6 +118,7 @@ so a slow rise is audible as the only moving part.
 | Model | `models/lyria-realtime-exp` (experimental) |
 | Output | Raw 16-bit PCM, **48 kHz, 2ch stereo** |
 | Control latency | max 2 s |
+| Input | **text only** — `Input: Text (Weighted prompts)`; no audio or image reference input exists |
 | Vocals | none — instrumental only |
 | Watermark | always applied (SynthID, per Google's Responsible AI policy) |
 
@@ -175,7 +193,18 @@ question needing Google's own confirmation before anything ships.
   `.../ws/google.ai.generativelanguage.{api_version}.GenerativeService.BidiGenerateMusic`.
   Default here is `v1alpha`, with one automatic retry on `v1beta` (what the docs'
   sample currently uses). Override with `--api-version`.
-- **Prompt weights may not be `0`** — the harness rejects it up front.
+- **Prompt weights may not be `0`** — the harness rejects it up front. **Negative
+  weights work**: `"ambient pads:-0.6"` is accepted by the API and acts as
+  repulsion (verified live 2026-09-02, no error and no `filtered_prompt`).
+- **Prompt text cannot contain a comma** in the `"text:weight,..."` string form —
+  the comma is the delimiter, so `"ambient pads, spacey reverb:-0.6"` silently
+  becomes *two* prompts, the first at the default weight 1.0. Use separate
+  prompts, or the JSON list form (`[{"text": ..., "weight": ...}]`) in a batch
+  file. Always check `--dry-run` output before spending API time.
+- **`seed` makes renders bit-exact.** Two runs of the same config and seed came
+  back byte-identical (Pearson r = 1.0000). Pin a seed whenever you want to change
+  one parameter and attribute the difference to it. Not promised across model
+  versions — `lyria-realtime-exp` is experimental.
 - PCM streams to `<out>.wav.part` first, so a crashed run leaves salvageable
   audio; the `.part` is removed once the WAV header is written.
 - A dropped stream reconnects up to 3 times and continues appending (audible

@@ -71,6 +71,15 @@ RANGES = {
 # Fields that force a hard context reset when changed mid-stream (per docs).
 RESET_FIELDS = ("bpm", "scale")
 
+# Every LiveMusicGenerationConfig field, by kind. Verified against google-genai
+# 2.21.0: temperature, top_k, seed, guidance, bpm, density, brightness, scale,
+# mute_bass, mute_drums, only_bass_and_drums, music_generation_mode.
+INT_FIELDS = ("bpm", "top_k", "seed")
+FLOAT_FIELDS = ("density", "brightness", "guidance", "temperature")
+BOOL_FIELDS = ("mute_bass", "mute_drums", "only_bass_and_drums")
+# Anything here may also be changed mid-stream by a steer step.
+STEERABLE = INT_FIELDS + FLOAT_FIELDS + BOOL_FIELDS + ("scale", "music_generation_mode")
+
 
 def log(msg: str) -> None:
     print(f"[{time.strftime('%H:%M:%S')}] {msg}", file=sys.stderr, flush=True)
@@ -188,6 +197,40 @@ def parse_scale(spec: Any) -> types.Scale:
     )
 
 
+def parse_mode(spec: Any) -> types.MusicGenerationMode | None:
+    if spec is None:
+        return None
+    if isinstance(spec, types.MusicGenerationMode):
+        return spec
+    key = re.sub(r"[^A-Z0-9]+", "_", str(spec).upper()).strip("_")
+    try:
+        return types.MusicGenerationMode[key]
+    except KeyError:
+        raise ValueError(
+            f"unknown music_generation_mode {spec!r}. Valid: "
+            + ", ".join(m.name for m in types.MusicGenerationMode)
+        ) from None
+
+
+def coerce(name: str, value: Any) -> Any:
+    """Coerce one config value to the type the SDK expects, and range-check it."""
+    if name == "scale":
+        return parse_scale(value)
+    if name == "music_generation_mode":
+        return parse_mode(value)
+    if name in BOOL_FIELDS:
+        if isinstance(value, str):
+            if value.lower() not in ("true", "false"):
+                raise ValueError(f"{name} must be true or false, got {value!r}")
+            return value.lower() == "true"
+        return bool(value)
+    if name in INT_FIELDS:
+        return check_range(name, int(value))
+    if name in FLOAT_FIELDS:
+        return check_range(name, float(value))
+    return value
+
+
 def check_range(name: str, value: Any) -> Any:
     if value is None or name not in RANGES:
         return value
@@ -215,6 +258,11 @@ class ClipSpec:
     guidance: float | None = None
     temperature: float | None = None
     seed: int | None = None
+    top_k: int | None = None
+    mute_bass: bool | None = None
+    mute_drums: bool | None = None
+    only_bass_and_drums: bool | None = None
+    music_generation_mode: types.MusicGenerationMode | None = None
     steer: list[dict[str, Any]] = dataclasses.field(default_factory=list)
 
     def config_fields(self) -> dict[str, Any]:
@@ -228,7 +276,13 @@ class ClipSpec:
             "guidance": self.guidance,
             "temperature": self.temperature,
             "seed": self.seed,
+            "top_k": self.top_k,
+            "mute_bass": self.mute_bass,
+            "mute_drums": self.mute_drums,
+            "only_bass_and_drums": self.only_bass_and_drums,
+            "music_generation_mode": self.music_generation_mode,
         }
+        # `is not None` on purpose: an explicit False is a real value to send.
         return {k: v for k, v in fields.items() if v is not None}
 
     def describe(self) -> dict[str, Any]:
@@ -240,7 +294,7 @@ class ClipSpec:
             "out": str(self.out),
             "prompts": [{"text": p.text, "weight": p.weight} for p in self.prompts],
             "music_generation_config": {
-                k: (v.name if isinstance(v, types.Scale) else v) for k, v in cfg.items()
+                k: (v.name if hasattr(v, "name") else v) for k, v in cfg.items()
             },
             "steer": [_describe_step(s) for s in self.steer],
         }
@@ -252,18 +306,18 @@ def _describe_step(step: dict[str, Any]) -> dict[str, Any]:
         out["prompts"] = [
             {"text": p.text, "weight": p.weight} for p in step["prompts"]
         ]
-    for key in ("bpm", "density", "brightness", "guidance", "scale"):
+    for key in STEERABLE:
         if key in step:
             val = step[key]
-            out[key] = val.name if isinstance(val, types.Scale) else val
+            out[key] = val.name if hasattr(val, "name") else val
     if any(k in step for k in RESET_FIELDS):
         out["_resets_context"] = True
     return out
 
 
 def load_steer(source: Any) -> list[dict[str, Any]]:
-    """Validate a steer script: a JSON list of
-    {at_seconds, prompts?, bpm?, density?, brightness?, guidance?, scale?}."""
+    """Validate a steer script: a JSON list of {at_seconds, prompts?, <any
+    LiveMusicGenerationConfig field>?} -- see STEERABLE."""
     if source is None:
         return []
     if isinstance(source, (str, Path)) and not isinstance(source, list):
@@ -284,12 +338,12 @@ def load_steer(source: Any) -> list[dict[str, Any]]:
             raise ValueError(f"steer step {i}: at_seconds must be >= 0")
         if "prompts" in item:
             step["prompts"] = parse_prompts(item["prompts"])
-        if "scale" in item:
-            step["scale"] = parse_scale(item["scale"])
-        for key in ("bpm", "density", "brightness", "guidance"):
+        for key in STEERABLE:
             if key in item:
-                val = int(item[key]) if key == "bpm" else float(item[key])
-                step[key] = check_range(key, val)
+                step[key] = coerce(key, item[key])
+        unknown = set(item) - {"at_seconds", "prompts", "_comment"} - set(STEERABLE)
+        if unknown:
+            raise ValueError(f"steer step {i}: unknown field(s) {sorted(unknown)}")
         if len(step) == 1:
             raise ValueError(f"steer step {i} changes nothing")
         steps.append(step)
@@ -297,20 +351,26 @@ def load_steer(source: Any) -> list[dict[str, Any]]:
     return steps
 
 
+def _config_kwargs(src: Any, get) -> dict[str, Any]:
+    """Pull every LiveMusicGenerationConfig field out of a source, coerced."""
+    out: dict[str, Any] = {}
+    for key in STEERABLE:
+        val = get(src, key)
+        if val is not None:
+            out[key] = coerce(key, val)
+    return out
+
+
 def spec_from_args(args: argparse.Namespace) -> ClipSpec:
+    cfg = _config_kwargs(args, lambda a, k: getattr(a, k, None))
+    cfg.setdefault("scale", types.Scale.SCALE_UNSPECIFIED)
     return ClipSpec(
         name=Path(args.out).stem,
         seconds=args.seconds if args.seconds is not None else 90.0,
         out=Path(args.out),
         prompts=parse_prompts(args.prompts),
-        bpm=check_range("bpm", args.bpm),
-        scale=parse_scale(args.scale),
-        density=check_range("density", args.density),
-        brightness=check_range("brightness", args.brightness),
-        guidance=check_range("guidance", args.guidance),
-        temperature=check_range("temperature", args.temperature),
-        seed=check_range("seed", args.seed),
         steer=load_steer(args.steer_script),
+        **cfg,
     )
 
 
@@ -318,24 +378,23 @@ def specs_from_batch(path: Path, out_dir: Path, seconds_override: float | None) 
     doc = json.loads(path.read_text(encoding="utf-8"))
     defaults = doc.get("defaults", {})
     specs = []
+    known = {"name", "seconds", "prompts", "steer", "_comment"} | set(STEERABLE)
     for i, clip in enumerate(doc.get("clips", [])):
         merged = {**defaults, **clip}
+        unknown = set(merged) - known
+        if unknown:
+            raise ValueError(f"clip {i}: unknown field(s) {sorted(unknown)}")
         name = merged.get("name") or f"clip{i + 1:02d}"
-        seconds = float(seconds_override or merged.get("seconds", 90))
+        cfg = _config_kwargs(merged, lambda m, k: m.get(k))
+        cfg.setdefault("scale", types.Scale.SCALE_UNSPECIFIED)
         specs.append(
             ClipSpec(
                 name=name,
-                seconds=seconds,
+                seconds=float(seconds_override or merged.get("seconds", 90)),
                 out=out_dir / f"{name}.wav",
                 prompts=parse_prompts(merged["prompts"]),
-                bpm=check_range("bpm", merged.get("bpm")),
-                scale=parse_scale(merged.get("scale")),
-                density=check_range("density", merged.get("density")),
-                brightness=check_range("brightness", merged.get("brightness")),
-                guidance=check_range("guidance", merged.get("guidance")),
-                temperature=check_range("temperature", merged.get("temperature")),
-                seed=check_range("seed", merged.get("seed")),
                 steer=load_steer(merged.get("steer")),
+                **cfg,
             )
         )
     if not specs:
@@ -612,6 +671,15 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--guidance", type=float, help="0.0 .. 6.0, default 4.0 server-side")
     p.add_argument("--temperature", type=float, help="0.0 .. 3.0, default 1.1 server-side")
     p.add_argument("--seed", type=int, help="0 .. 2147483647 (random by default)")
+    p.add_argument("--top-k", dest="top_k", type=int, help="1 .. 1000, default 40 server-side")
+    p.add_argument("--mute-bass", dest="mute_bass", action="store_true", default=None,
+                   help="reduce bass in the output")
+    p.add_argument("--mute-drums", dest="mute_drums", action="store_true", default=None,
+                   help="reduce drums in the output")
+    p.add_argument("--only-bass-and-drums", dest="only_bass_and_drums", action="store_true",
+                   default=None, help="steer towards bass and drums only")
+    p.add_argument("--music-generation-mode", dest="music_generation_mode",
+                   help="QUALITY (default) | DIVERSITY | VOCALIZATION")
     p.add_argument("--prompts", help='"text:weight,text:weight" (weight may not be 0)')
     p.add_argument("--out", help="output WAV path")
     p.add_argument("--steer-script", help="JSON list of {at_seconds, prompts|bpm|density|brightness}")
