@@ -161,3 +161,10 @@ Follow-up feedback (Daniel): "definitely elements that need to be worked on — 
 - Reading: sequencer/arrangement rules from the pattern book pass; the sound source fails. Patches built from parameters by an agent with no ears = generic. Two levers: (1) human-designed patches (Surge factory library, OB-Xd, Dexed, TAL) and analogue-modelled synths; (2) chord/stab element far smaller, shorter, drier — second time Daniel has asked for less pad.
 - Process change: audition sounds individually (4-bar solo renders of candidate bass/hook/chord patches in LISTEN-NOW) and let Daniel pick before the next arrangement render. His ear is the patch designer.
 - Blind-set effect: the three r2 clips known to Daniel → excluded.
+
+## 2026-09-02 ~07:00 CEST — Daniel, on phone via the Listening Room player: round 3 audition
+
+- Verdict, paraphrased closely: the basses "sound terrible"; "we need something way more bassy, deep, wide" — first priority, because a bad bass makes every other sound impossible to evaluate. Overall "all these sounds sound very generic and kind of bad" (OB-Xd presets included).
+- Reading: preset-picking by name does not produce a club bass; the bass needs a designed layer stack (mono sub + saturated body + width on the harmonics only), and Daniel's ear must approve the bass ALONE before any other element is auditioned.
+- Action: round 4 redirected to bass-only audition over kick only; sampled real synths (Legowelt) and Riemann bass loops included as candidates; no full mixes until a bass passes.
+- Blind-set effect: none new (audition clips are not blind candidates).
