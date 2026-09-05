@@ -1,0 +1,17 @@
+URL: https://pypi.org/pypi/ctcsound/json
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 9054
+----
+name: ctcsound
+latest version: 6.17.1
+license: ''
+license classifiers: 
+requires_python: 
+summary: Python bindings to the Csound API using ctypes
+home_page: https://github.com/fggp/ctcsound project_urls: {'Homepage': 'https://github.com/fggp/ctcsound'}
+--- macOS arm64 wheels for latest version ---
+(no macosx wheels)
+(total files in 6.17.1: 1; sdist present: True)
+upload_time of latest: ['2022-02-25T16:11:19']

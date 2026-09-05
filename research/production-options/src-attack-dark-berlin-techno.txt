@@ -1,0 +1,193 @@
+URL: https://www.attackmagazine.com/technique/beat-dissected/dark-berlin-techno/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 184729
+----
+Attack Magazine
+Menu
+	•	News
+	•	Technique Technique
+	◦	All
+	◦	Hardware Focus
+	◦	Modular Synthesis
+	◦	Tutorials
+	◦	Beat Dissected
+	◦	Synth Secrets
+	◦	Deconstructed
+	◦	Passing Notes
+	◦	The Breakdown
+	◦	Video Tutorials
+	◦	Help
+	•	←  
+	•	Features Features
+	◦	All
+	◦	Long Reads
+	◦	Podcasts
+	◦	Interviews
+	◦	My Studio
+	◦	Track By Track
+	◦	Show & Tell
+	◦	Top Tracks
+	◦	Q&A
+	◦	Columns
+	◦	Job Envy
+	◦	Introducing...
+	◦	Quizzes
+	•	←  
+	•	Reviews Reviews
+	◦	All
+	◦	The Best...
+	◦	Gear/Software
+	◦	Books/DVDs
+	•	←  
+	•	Charts
+	•	Store
+Facebook X YouTube Instagram TikTok
+Facebook X YouTube Instagram TikTok
+SUBSCRIBE
+Search
+
+
+
+Technique » Beat Dissected »
+Dark Berlin Techno
+Share
+Facebook Twitter WhatsApp
+
+The latest of our step by step drum programming tutorials takes inspiration from Berghain, Ostgut Ton and the darker sounds of Berlin techno.
+Beat Dissected is a regular series which deconstructs drum patterns, showing you how to program them in any DAW. Just copy the grids in your own software to recreate the loop.
+Here’s the complete beat we’ll be making this week:
+http://www.attackmagazine.com/wp-content/uploads/2012/11/4.mp3
+
+Spec
+Tempo
+120-130bpm
+Swing
+50-55%
+Sounds
+classic analogue hits & effected noise
+
+Step 1
+The backbone of this beat is a deep, dubby, organic kick paired with a filtered low tom sample which acts almost like a second kick drum. While the kick hits four-to-the-floor, the tom sounds at measures 7 and 15, with a simple variation at the end of the four bar loop.
+Our aim when choosing the two sounds is a relentless, sub-heavy backing with the disparate parts playing against each other to deliver an almost bouncy groove. Use a low-pass filter on either or both of the elements to keep them subby and deep. Click the drum grids to embiggen…
+
+http://www.attackmagazine.com/wp-content/uploads/2012/11/1.mp3
+
+Step 2
+The clap part is simple but fundamental to the open, loose groove of this beat. The clap is only triggered on the second kick of each bar, rather than the more common technique of a clap/snare on the second and fourth kick. There’s also an additional clap in the last bar of the loop to add a simple turnaround variation.
+The sound itself is more complex. Start with a a classic drum machine clap — an 808 or 909 sample, for example – then treat it liberally with a shortish reverb. Spend a little time auditioning reverb settings — we’re not looking for anything too clean here. For an old-school vibe, try experimenting with dark chamber patches or even spring reverb emulations. Aim for a decay time which allows the tail to ease into the next kick.
+A more advanced programming technique is to slightly tweak the sample settings for the alternate clap hits (the one that falls with the sixth on-the-floor kick) – altering the sample’s decay envelope or pitch to generate movement and create a slightly different feel. You might also considering layering an additional subtle snare with alternate claps, again to reinforce the difference.
+
+http://www.attackmagazine.com/wp-content/uploads/2012/11/2.mp3
+
+online pharmacy tenormin buy with best prices today in the USA
+
+Step 3
+Now it’s time to add a distinctive noise stab – a distorted organic percussion sound which helps add to the dark industrial feel of the beat. This hit plays on the third kick of each bar and just before the fourth kick in every other bar, creating an interesting interplay with the kick and clap. Again, reverb is used liberally – although with a slightly different reverb choice than that used on the clap.
+The choice of raw sound for this noise stab is pivotal to the flavour of the beat. You can experiment with found sound, industrial sample packs and dramatic effects processing to create something full of character that works in the context of the wider beat. If the sound has an obvious pitch then bear in mind you’ll need to consider how other melodic elements will work alongside it.
+
+http://www.attackmagazine.com/wp-content/uploads/2012/11/3.mp3
+
+Step 4
+Finally, a heavily compressed 909 open hi-hat is added to the off-beat, with a subtle variation at the end of every couple of bars. This is reinforced by an organic noise sample with a slow attack (derived from a lo-fi field recording), which is triggered on every second and fourth kick, adding a breathy wave that underpins the groove.
+To glue the elements together, send the full drum mix to its own bus and treat with subtle compression. But tread carefully – the lovingly sculpted drum sounds should do the talking here rather than heavy-handed bus processing.
+
+http://www.attackmagazine.com/wp-content/uploads/2012/11/41.mp3
+Related
+12th November, 2012
+Previous
+Beat Dissected - Main Room House
+Next
+Beat Dissected - Dusted Deep House
+Comments
+	•	 12.11.12
+	•	05.59 PM K-Dub: Attack you’re the shit! Thanks for this and all the other tutorials  Report 
+	•	 12.11.12
+	•	07.49 PM lukic: Yeah :D….nice O stgut Ton sound 🙂  Report 
+	•	 13.11.12
+	•	07.33 PM Mike: Who is posting these features? They’re fantastic.  Report 
+	•	 14.11.12
+	•	06.22 AM Marcel D: this is still tech house!  Report 
+	•	 14.11.12
+	•	12.18 PM doctor cox: “mystik dubstep”, “main room house”, “berlin techno”… sure, go ahead with those “tutorials” and breed even more copycats who are too lazy oder do not have enough imagination to fuck around with their gear and do what just feels right to them.  Report 
+	•	 14.11.12
+	•	12.44 PM TOG: Kind of missing the point there, Doctor Cox 😉 If a guitarist learns the chords to a song they like, are they being lazy too? What about a beginner drummer who learns how to play a few classic beats? Piano players who learn jazz standards or classic chord progressions? Lazy! It’s all about developing your own style but you have to start *somewhere*. I’ve definitely learned some pretty cool tips about drum programming and production in general from these tutorials.  Report 
+	•	 14.11.12
+	•	01.23 PM BriansGotTalent: In your world, Dr C, I assume great art just comes to life in a vacuum? Back here in the real world, artists spend years honing their skills. Reading books. Being taught. Reading articles like this. I’ve always taken these tutorials as starting points. Ideas that I can tweak, adding in my own sounds and so on.  Nothing wrong with ‘doing what feels right’ either. But for those of us starting out, this kind of info is both informative and inspiring.  Report 
+	•	 14.11.12
+	•	02.41 PM doctor cox: well, exactly this is my point. with software like ableton live, which by far does not require the time, stamina and dedication needed to master an acoustic instrument in order to create something that actually sounds like music, it is easy and comfortable to just stay “somewhere”, lazily. and when you listen around, that seems to be what most folks do. learning an instrument takes time and a lot of practice, so there it is helpful to hold on to some standards and classics in order to advance. besides (and i guess partly because of this), a lot of the corresponding music is about the interpretation of existing works. this hasn’t changed too much in the last couple of hundred years. people like to play their beethoven sonatas and beatles songs. and there’s nothing wrong about that. electronically generated (and especially underground) dance music, when you want to consider it as something that sets itself apart from pop music, is based on a pretty limited frame. song structures were abandoned in favour of loops and repetition, think ron hardy editing and deconstructing disco songs to endless loop build-ups to achieve maximum dancefloor impact.  so, since the “dance music paradigm” is pretty limited in itself, yet highly effective, i’d say you better operate at the core and try to create new sounds and new grooves to come up with something fresh and interesting, instead of just copying tried-and-tested formulas for the umpteenth time. i am not saying there is nothing to learn about the music itself. depending on how far you want to reach back, there is decades’ worth of tunes and grooves to discover. but here, when it comes to your own production, better stick to a basic tutorial about how a drum machine or a synthesizer or a sequencer or whatnot works and explain how all the different “parameters” like pitch/attack/decay and effects etc. work and what they do to the sound itself, and let people go explore the possibilities from there.  Report 
+	•	 14.11.12
+	•	03.30 PM Niels: To think out of the box. You have to know what’s inside the box. The people who copy won’t get far. Their knowledge is limited and creativity is sparse. After a few tracks, the trick has been done too many times and have nothing more on their sleeve. Thanks Attack Mag. Keep on posting your knowledge.  Report 
+	•	 15.11.12
+	•	11.46 AM Hexonics: Excellent tutorial; also kudos on the use of embiggen  As for the debate above; i don’t produce this kind of Techno, or even techno at all, but i have had a go at making beats in this way , as i have with all the beats tutorials. I find there is always some technical or rythmic aspect that can be applied to my productions, even if i am working in a totally different genre  Keep up the good work  Report 
+	•	 15.11.12
+	•	04.59 PM Instant Black: I have to shake my head whenever someone dismisses the lack of talent, creativity, skill, or discipline associated with producing electronic music. By now, I can pretty easily ignore the comment b/c it’s normally made by someone with little to no experience making or listening to electronic music but I do have to say that between VST’s + hardware, my studio has more parameters and permutations of those parameters than a small orchestra has valves or Doctor Cox’s guitar has frets. Through regular practice I’ve learned to map, combine, and control those parameters in real time. Plus, sounds don’t design themselves.  Report 
+	•	 16.11.12
+	•	01.57 PM Jon: Thanks Attack this is very helpful.  Report 
+	•	 16.11.12
+	•	11.36 PM unclebuck: i’ve been buying records for over a decade and am currently thinking about having a crack at making a few loops for no other reason than my own amusement and (maybe) to give me a better appreciation as to what goes in to the stuff i spend all my spare money on each month. something like this is genius without it i imagine i’d have spent months just trying to get a sound out of the software, instead i can now knock something up fairly quickly, hopefully, and then spend time understanding it, pulling it apart, reconstructing it, etc. thank you for this and the others which i’ll be reading up on soon  Report 
+	•	 26.11.12
+	•	06.32 AM dogboy: cool tutos but next time cut the kick in the middle of waveform , or maybe this clik is part of the groove. i know i m maniac , even earnin my life wth this.keep on educating us 😉  Report 
+	•	 30.11.12
+	•	10.35 AM craig_uk: are the swing settings used accross the whole track here/  Report 
+	•	 30.11.12
+	•	05.21 PM David Felton: In this example, yes – although it’s a fairly straight beat with a pretty gentle swing so it is not having a huge impact. with more complex beats it can be interesting to use different swing settings on different drum parts. dave@attack  Report 
+	•	 15.06.13
+	•	11.34 AM Nelson: Hello, which Swing from Abletons Groove Section do you use for this Tutorial, and the other tutorials (Deephouse…)? Great thanks for the Tutorials!  Report 
+	•	 12.03.14
+	•	12.53 AM Mark: Good Job, i enjoyed this very much. My loop came out different due to the samples i selected and effects I put them through, but the track totally sounds dark techno! Will finish this one off for sure.  I love how people complain about the copying and how it hurts your career.. Here is a news flash, many producers copy or have copied from the start of their career and seasoned professionals alike. I know this because i have worked with them. You learn so much on nailing the basics then adding your own style  Report 
+	•	 19.04.14
+	•	10.32 AM Enda: Is there some way these loops can be downloaded ? I would like to be able to view the waveform and frequency spectrum.  Report 
+	•	 01.05.14
+	•	10.25 PM Lol: What can i say. This tutorial is absolutely brilliant, if it’s meant to be a joke that is. Also the previous comments, all the praise and the “serious” discussion about copying: This is all sarcasm, right?  Report 
+	•	 17.06.14
+	•	05.02 PM eMAN: excellent stuff, really clear and concise. but like Enda (above ) says at what frequencies are these beats programmed in at. ie musical notes, or midi note numbers….yeah I know its the artists decision but for example whats the commonest midi note that say a bass/kick drum get programmed in, then is say the snare in the mid frequency range..etc  Report 
+	•	 06.11.14
+	•	11.17 AM Pzyklon: Yes, I agree with Dr Cox. Neccessity is the mother of Invention. I am new to music myself but the time I spent flagellating myself trying to get into my Darkpsy genre in my own way was well worth it. I don’t like the Ableton crowd that seems to have become too bourgouise in my opinion. To be an Artist is to create Divinely. I use Cubase and it is not thankfully so “sexy”. Creation must come from Angst. Martin Heidegger, the German philosopher was confronted by some people claiming that his style and his material being too tough. Upon which he said, “then those students don’t belong in his class.” Creation doesn’t belong to Everyone, certainly not to the bourgouise, but true Artists. If things become Mediocre then that is the Death of the Higher Man.  Report 
+	•	 09.11.14
+	•	05.31 PM Penguin: Man, it must be awkward when the guy agreeing with your position quotes the Nazi-affiliated philosopher Heidegger , and is named after the chemical agent used to exterminate Jews during the Holocaust. The Ableton bourgeoisie comment and quotes referencing the Übermensch were also a nice touch! How the hell this went from don’t copy beat structure to all of us being called Üntermensch is one of the great mysteries of the internet! /Godwin  Report 
+	•	 02.12.14
+	•	02.53 PM Paul: Very cool and thanks for the pointers. Pzyklon & doctor cox – you guys should meet up and do one together. Self righteous mutton-heads.  Report 
+	•	 11.12.14
+	•	12.39 PM Imadethatmistakeonce: Never read the comments. Too many arseholes.  Report 
+	•	 11.01.15
+	•	11.27 PM Fernandito: in this little thing, there is a lot to learn about drums, just look deep inside, i have created an entire song from here, even without copying the pattern cause i´m very lazy to count and copy the things on the grid, but the comments associated to the pattern are the most important, and the idea to get out to figure a four bars beat can be constructed, really inspiring, Thanks  Report 
+	•	 01.02.15
+	•	10.19 PM john: dr cox bet you aint even a real doctor, you phoney!! what you even looking at this tutorial for if you don’t agree with them, take your condescending shit somewhere else cause nobody wants to hear it!!  Report 
+	•	 05.04.15
+	•	02.28 PM ORLANDO: lol that Heidegger got name dropped  Report 
+	•	 15.02.16
+	•	09.32 PM donson: Have you done anything else to this beat? It seems quite loud, as if you paralel compressed it or something? Sounds good. What about the kick drum, have you done any eq to it or is it a straight up sample from a record or a pack? Thanks for this great post and beat! 🙂  Report 
+	•	 31.07.16
+	•	05.05 PM len: Dear Dr Cox please leave a link to your music here so we can all hear your incredible originality and godly art Thanks Dr Cock  Report 
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+Comment *
+Name *
+Email *
+
+
+
+© 2026 Attack Magazine
+	•	About us
+	•	Jobs
+	•	Shipping
+	•	Contact
+	•	Privacy
+	•	Advertise
+	•	Write for Attack
+Facebook X YouTube Instagram TikTok
+
+	•	
+
+A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+
+
+
+
+
+You currently have an ad blocker installed
+Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software.
+Find out how
+x

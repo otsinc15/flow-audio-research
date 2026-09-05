@@ -1,0 +1,133 @@
+URL: https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:    85606
+----
+Suno explores developer API, seeking apps ‘that unlock experiences generative music makes possible for the first time’ - Music Business Worldwide 
+ Music Business Worldwide
+ News 
+ Interviews All Interviews 
+ Inspiring Women 
+ World’s Greatest Managers 
+ World’s Greatest Producers 
+ World’s Greatest Songwriters 
+ World Leaders 
+ Analysis All Analysis 
+ MBW Explains 
+ MBW Reacts 
+ MBW Views 
+ Stat Of The Week 
+ Database 
+ Podcast 
+ Jobs 
+ MBW+ Subscribe 
+ Login 
+ Suno explores developer API, seeking apps ‘that unlock experiences generative music makes possible for the first time’
+ July 2, 2026 
+ By Murray Stassen 
+ Credit: Samuel Boivin/Shutterstock 
+ Suno is exploring the launch of a developer API for its AI music generation platform.
+ The company’s Chief Product Officer, Jack Brody, revealed the plans in a LinkedIn post on Wednesday (July 1), publishing a link to an intake form inviting developers to apply for early access.
+ Brody described the initiative as a precursor to what he called Suno’s “partner powered model.”
+ “Ahead of our partner powered model, we’re exploring a developer API and want to hear from you before we start building,” Brody wrote.
+ “We plan to start with a curated group of partners so we can develop this thoughtfully, and we’re especially interested in applications that unlock experiences generative music makes possible for the first time,” Brody added.
+ Suno does not currently offer an official public API.
+ While third-party developers have built unofficial API wrappers around Suno’s platform, the company has not released self-serve developer access or published its own API documentation.
+ An API, or application programming interface , lets one software system communicate with another and request its services.
+ In Suno’s case, a developer API would let outside apps send text prompts to its music-generation models and receive finished audio in return.
+ Developers could then build music generation into their own products, rather than routing users through Suno’s app or website.
+ “We plan to start with a curated group of partners so we can develop this thoughtfully, and we’re especially interested in applications that unlock experiences generative music makes possible for the first time.”
+ Jack Brody, Suno 
+ The intake form, hosted on Suno’s Typeform page, states: “We’re beginning to explore a developer API, starting with a curated group of partners.”
+ The form adds: “Please complete this form to express your interest. We’ll be in touch with a small group of folks to learn more.” Suno has not disclosed a timeline for the API’s potential launch.
+ Brody joined Suno as CPO i n late 2024, having previously spent a decade at Snap, where he served as Head of Product.
+ His appointment was one of several high-profile hires as Suno built out its leadership team, alongside former Warner Music Group executive Paul Sinclair as Chief Music Officer and former Merlin CEO Jeremy Sirota as Chief Commercial Officer.
+ The developer API exploration comes during a period of rapid growth for Suno.
+ The company raised over $400 million in Series D funding in June at a $5.4 billion post-money valuation, more than double the $2.45 billion it achieved after its $250 million Series C in November 2025.
+ In February, CEO and co-founder Mikey Shulman said the platform had surpassed 2 million paid subscribers and $300 million in annual recurring revenue , with over 100 million people having used Suno since launch.
+ Suno’s only licensing partnership with a major music company to date is its November 2025 deal with Warner Music Group, which settled WMG’s copyright lawsuit against the company and included Suno’s acquisition of concert-discovery platform Songkick.
+ Suno has said it will launch licensed models built on the WMG partnership, though no timeline has been confirmed.
+ Universal Music Group and Sony Music Entertainment remain in active litigation with the company, and last month sought to add over 61,000 copyrighted sound recordings to their claims.
+ Last week, Suno launched an incubator program called Spark for independent artists, offering grants, mentorship, and marketing support – though MBW reported that the program’s terms included an anti-disparagement clause barring participants from portraying the company in a negative light. Music Business Worldwide 
+ News United States Suno 
+ Related Posts
+ Suno and Bright Data sued again by ‘Blurred Lines’ lawyer Richard Busch – this time for Regional Mexican label Gerencia 360 
+ Judge refuses to dismiss indie artist’s proposed class action against Suno, clearing AI output and stream-ripping claims for discovery 
+ 5 things to know about Round Hill’s Suno and Anthropic lawsuits: model weights, extraction tools, and a $75M number 
+ Round Hill is suing Suno and Anthropic for up to $1B apiece. It isn’t looking to settle. 
+ Latest Music Industry Jobs
+ IRL Coordinator 
+ London Something Something Consultancy Limited 
+ Label Manager, Fire Records 
+ London Fire Records 
+ Digital Campaign Manager 
+ Stellar Music 
+ Sr. Manager, Viral Marketing 
+ Los Angeles , United States BMG 
+ Day to Day Manager 
+ Los Angeles Three Six Zero 
+ Record Label Project Manager 
+ London Full Time Hobby Music LTD 
+ Senior Day-To-Day Manager 
+ Ourness Pty Ltd 
+ Head of Music Operations 
+ Lickd Ltd 
+ YouTube Channel Strategy Manager 
+ London / The Orchard 
+ Online Record Store Manager – Bleep 
+ London / Bleep 
+ E-Commerce Manager 
+ London / Beggars Group 
+ UK Project Manager (Maternity Cover) 
+ London / Stones Throw Records 
+ Music Business Worldwide
+ Stay on top of the real stories shaping the music industry : Join over 60,000 industry professionals who rely on MBW's FREE daily newsletter and alert emails for essential insights and breaking news.
+ Receive MBW Industry Jobs 
+ MBW occasionally sends important promotional emails that involve strategic collaborations with industry partners. These emails form part of the service you elect to receive when you subscribe to any of MBW's free email services. MBW does not and will not share your data with any third-parties. You can unsubscribe from said promotional emails at any time.
+ Sign Up Close 
+ Popular Articles
+ Jermaine Dupri's So So Def drops $18m royalty lawsuit against Sony Music after parties 'resolved the matter' 
+ The BMG and Concord merger is complete; Bob Valentine begins role as CEO of new company 
+ Now Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit: 'One of the largest and most blatant ongoing thefts of intellectual property in history.' 
+ South Korea's FTC opens probe into HYBE and ADOR over NewJeans' Danielle 
+ Jason Isbell and David Lowery are suing Suno in a class action suit. Importantly, they're hitting Mikey Shulman's company with identity claims – not copyright. 
+ Music Business Worldwide
+ Who We Are 
+ What We Do 
+ Policies
+ Terms Of Use 
+ Comments Policy 
+ Privacy Policy 
+ Cookie Declaration 
+ Contact Us
+ Contact Us 
+ Advertise With Us 
+ Send Us News 
+ General Enquiries 
+ Report A Problem 
+ Follow Us
+ Facebook 
+ LinkedIn 
+ Twitter 
+ RSS 
+ © 2025 Music Business Worldwide 
+ 27 Old Gloucester Street, London, WC1N 3AX
+ Website by 44 Bytes 
+ News 
+ Interviews All Interviews 
+ Inspiring Women 
+ World’s Greatest Managers 
+ World’s Greatest Producers 
+ World’s Greatest Songwriters 
+ World Leaders 
+ Analysis All Analysis 
+ MBW Explains 
+ MBW Reacts 
+ MBW Views 
+ Stat Of The Week 
+ Database 
+ Podcast 
+ Jobs 
+ MBW+ Subscribe 
+ Login 
+ Search

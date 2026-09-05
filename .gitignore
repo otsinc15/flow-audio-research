@@ -1,1 +1,8 @@
 .DS_Store
+out/
+out*/
+stems/
+*.wav
+*.m4a
+*.pcm
+*.part

@@ -1,0 +1,17 @@
+URL: https://huggingface.co/stabilityai/stable-audio-open-1.0
+Fetched: 2026-09-02
+Method: WebFetch (model card page; the /raw/main/README.md endpoint is gated and returns "Access to model stabilityai/stable-audio-open-1.0 is restricted")
+----
+VERBATIM EXTRACTS FROM MODEL CARD:
+
+Max audio length: "variable-length (up to 47s) stereo audio at 44.1kHz"
+Sample rate: 44.1kHz
+Architecture: "latent diffusion model based on a transformer architecture" comprising an autoencoder, a T5-based text embedding, and a transformer-based diffusion (DiT) model.
+License: Stability AI Community License
+Commercial use clause: "For commercial use, please refer to https://stability.ai/license"
+Training data: "486492 audio recordings, where 472618 are from Freesound and 13874 are from the Free Music Archive (FMA)"
+                "All audio files are licensed under CC0, CC BY, or CC Sampling+"
+                "publicly available pre-trained T5 model (t5-base) for text conditioning"
+Out of scope: "The model should not be used on downstream applications without further risk evaluation and mitigation. The model should not be used to intentionally create or disseminate audio or music pieces that create hostile or alienating environments for people."
+
+NOTE: the model card as fetched contains no statement about stem output.

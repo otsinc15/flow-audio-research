@@ -1,0 +1,253 @@
+URL: https://www.bitwig.com/the-grid/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 49310
+----
+The Grid | Bitwig 
+
+ Go to content 
+
+ Bitwig Studio
+
+ Bitwig Connect
+
+ Learn
+
+ Discover
+
+ Support
+
+ Try
+
+ Buy
+
+ Login
+
+ Username / E-mail Address 
+
+ Password 
+
+ Login 
+
+ Forgot your password? 
+
+ or 
+
+ Create your account here 
+
+ Login 
+
+ Login 
+
+ What's New
+
+ Overview
+
+ Instruments & Effects
+
+ The Grid
+
+ Sound Content
+
+ Feature List
+
+ Circle
+
+ What's New
+
+ Overview
+
+ Instruments & Effects
+
+ The Grid
+
+ Sound Content
+
+ Feature List
+
+ Circle
+
+ Enter
+ The Grid 
+
+ Modularity has been at the core of Bitwig Studio from the beginning. Devices can be nested, clips are containers, modulators exist everywhere, and practically anything can be dragged anywhere. The Grid is the next logical step.
+
+ The Grid is a modular sound-design environment that powers a family of devices in Bitwig Studio: Poly Grid , FX Grid and Note Grid . 
+ With a vast library of modules and a supersonic workflow, you’ll be creating your own unique sounds immediately, and in high-fidelity. Simply add a Grid device to your project and start patching. It’s fun.
+
+ Construct a polyphonic synthesizer from scratch in one session. Create an adaptive audio effect with your signature sound. Build your own quirky note sequencer.
+ Experiment with generative drones until you find a new way to perform. Or simply create the undefinable. 
+ Patching is effortless, giving full reign to your creativity.
+
+ The Grid includes:
+
+ Fully-modular sound design
+
+ Fantastic sound quality
+
+ 230+ modules
+
+ Any signal, connected anywhere
+
+ Lighting-fast workflow
+
+ 4x-oversampled, polyphonic stereo signal path
+
+ Sounds of The Grid
+
+ A great entry point into this new world is any of the 390+ Grid factory presets spread throughout our various sound packages. Click the plus (+) button on any track or device chain, load one of The Grid devices, and try out the diverse collection of patches available. And when you find one that you like, pop the hood and check out how it works.
+
+ Or why not start with the playlist to get a taste.
+
+ Signal Achievements
+
+ The technology powering The Grid is as it should be: working, felt, and transparent so you can focus on the sound. Here’s a taste of what we’ve done.
+
+ All signals are created equal. In The Grid , all signals are interchangeable so any out port can be connected to any in port. While this is rarely the case in other programs, Bitwig Studio has made it so. Try something crazy; you (probably) won’t get electrocuted.
+
+ Every signal is stereo. Yes, every audio cable is stereo, but so are all control signals as well. By altering any of these control signals, their corresponding audio will be affected. And plenty of modules are ready to help you Stereo-ize your signals…
+
+ Getting more with less cords. For signals that are needed regularly, we have the option of pre-cords . These clickable icons appear beside in ports, allowing common connections to be made wirelessly. And with The Grid ’s quick workflow gestures, new modules can be dropped directly onto ports, automatically wiring them into your patch. Work smart instead of hard.
+
+ Phase is the place. Along with pitch, timbre, and loudness, phase is another essential element of sound, capable of driving basic time functions, complex modulation synthesis, and so much more. With a dedicated category of phase modules, these concepts are freshly accessible and newly relevant for modern music production.
+
+ Interactive Help
+
+ Efficient workflow also means finding the information you need, when you need it. So each module in The Grid has an interactive help view that both describes every parameter on the module and allows you to keep tweaking the settings. 
+ And simply selecting a module displays all incoming and outgoing signals in the Inspector Panel. The details are always at your fingertips, right when you need them.
+
+ Audio, Notes, and Then Some
+
+ Best of all, this new system is a completely native part of Bitwig Studio, giving you so much more to work with than audio.
+
+ Grid devices can be nested or layered along with other devices and your plug-ins, and they are controllable from the same Open Controller API.
+
+ Song position is available as a sample-accurate signal, locking your work in The Grid to your project’s timeline.
+
+ Create a note-generating patch by adding as many Note Out modules as you wish, with all MIDI channels available.
+
+ Draw Arranger or clip-based automation for any parameter in your new grid patches, even in combination with Bitwig Studio’s existing modulators.
+
+ Modules like envelopes, LFOs, and sequencers all have modulator outputs as well. And just as Bitwig Studio’s modulators can control any parameter in The Grid , any grid signal can be used to modulate child devices.
+
+ Your hardware modular rig is completely integrated, with dedicated grid modules for sending any control, trigger, or pitch signal as CV Out and receiving any CV In .
+
+ That's just scratching the surface.
+
+ Show Me The Modules
+
+ The Grid offers some 230+ modules (and counting) for realizing your modular dreams. They are plenty diverse so here is an overview by category:
+
+ I/O (27)
+
+ Terminal modules for signals entering or exiting this Grid device, such as Velocity In , Audio Out , CV Pitch Out , and Note Out 
+ Display (8)
+
+ Visualization and note-taking modules, such as Oscilloscope and Spectrum 
+ Phase (18)
+
+ Modules that output wrapped phase signals, such as Phasor , Ø Scaler , and Ø Formant 
+ Data (13)
+
+ Lookup modules that are read with incoming phase signals, such as Pitches , Probabilities , and Ø Window 
+ Oscillator (12)
+
+ Periodic signal generators based on waveforms or samples, such as Pulse , Swarm , Sampler , and Wavetable 
+
+ Random (4)
+
+ Aperiodic and randomized signal generators, such as S/H LFO and Dice 
+ LFO (5)
+
+ Periodic low frequency oscillators, such as LFO and Transport 
+ Envelope (9)
+
+ Modules that produce or extract an envelope, often with a normaled amplifier, such as ADSR and Follower 
+ Filter (14)
+
+ Frequency-dependent amplifiers, such as Low-pass LD , SVF , and Comb 
+ Shaper (15)
+
+ Various linear and nonlinear waveshapers, such as Quantizer and Wavefolder 
+ Delay/FX (10)
+
+ Delay functions and other time-based audio FX, such as Mod Delay , Chorus+ , and All-pass Delay 
+
+ Mix (18)
+
+ Signal routing and mixing modules, such as Mixer , Split , and Stereo Width 
+ Level (22)
+
+ Amplitude-based functions, values, and converters, such as Attenuate , Bend , and AM/RM 
+ Pitch (14)
+
+ Modules that produce pitch values, such as Pitch Quantize and Zero Crossings 
+ Math (22)
+
+ Basic arithmetic operators, such as Subtract , MinMax , and Round 
+ Logic (22)
+
+ Comparators and other modules that output logic signals, such as Clock Divide , = , and XOR 
+
+ Explore More
+
+ Learn Bitwig Studio
+
+ Getting Around In The Grid 
+
+ The Grid is Bitwig Studio's modular sound-design environment, made for fun. Get a first glance, learn some new concepts, or just watch as we build things. Bring your ideas, and maybe some popcorn.
+
+ Learn More 
+
+ Learn Bitwig Studio
+
+ Modular Concepts: Basic Modulations 
+
+ This tutorial explores basic control signals, a core building block of patching.
+
+ Learn More 
+
+ Learn Bitwig Studio
+
+ How It’s Done: Wobble Bass with Stimming 
+
+ In his latest video, the producer started making a dub wobble and ended up with a whole track. A treasure trove of sound design and mixing wisdom.
+
+ Learn More 
+
+ Subscribe to our Newsletter 
+
+ Bitwig Studio | 
+
+ Bitwig Connect | 
+
+ Learn | 
+
+ Discover | 
+
+ Support | 
+
+ Try | 
+
+ Buy | 
+
+ Login | 
+ Create Account 
+
+ About Us 
+ Legal / Imprint 
+ Privacy Policy 
+ Terms & Conditions 
+ Refund Form 
+ Copyright Notices 
+
+ English 
+
+ | 
+
+ Deutsch 
+
+© Bitwig GmbH 2026. All rights reserved. 
+
+ Go to top

@@ -1,0 +1,62 @@
+URL: https://platform.stability.ai/docs/api-reference   (AUDIO sections)
+Fetched: 2026-09-02
+Method: Browser pane (page is a JS SPA; curl returns only the HTML shell)
+----
+VERBATIM EXTRACTS (AUDIO endpoints only)
+
+Nav sections present under "AUDIO": "Stable Audio 2.5", "Stable Audio 3.0".
+
+--- Stable Audio 2.x, text-to-audio: POST /v2beta/audio/stable-audio-2/text-to-audio
+"model  string  Default: stable-audio-2  Enum: stable-audio-2 stable-audio-2.5"
+"duration  number [ 1 .. 190 ]  Default: 190  Controls the duration in seconds of the generated audio."
+"steps  integer  For stable-audio-2: accepts steps between 30 and 100 (defaults to 50). For stable-audio-2.5: accepts steps between 4 and 8 (defaults to 8)."
+"output_format  string  Default: mp3  Enum: mp3 wav"
+Credits: "Stable Audio 2.0 -- By default, 20 credits per successful generation. The number of credits is
+determined by the following formula: credits = 17 + 0.06 * steps."
+"Stable Audio 2.5 -- Requests made using the Stable Audio 2.5 model have a flat rate of 20 credits per
+successful result."
+
+--- Audio-to-Audio: POST /v2beta/audio/stable-audio-2/audio-to-audio
+"Stable Audio transforms existing audio samples into new high-quality compositions up to three minutes
+long at 44.1kHz stereo using text instructions."
+"audio  required  string <binary>  The audio to be use as the starting point for the generation.
+ Supported Formats: mp3, wav.  Validation Rule: Audio must be between 6 and 190 seconds long"
+"strength  number [ 0 .. 1 ]  Default: 1 ... A value of 0 would yield audio that is identical to the
+input. A value of 1 would be as if you passed in no audio at all. Minimum value for stable-audio-2.5 is 0.01."
+"We do not allow copyrighted content to be uploaded to our platform."
+
+--- Inpaint: POST /v2beta/audio/stable-audio-2/inpaint
+"mask_start  number [ 0 .. 190 ]  Default: 30"
+"mask_end    number [ 0 .. 190 ]  Default: 190"
+Credits: "Stable Audio 2.5 -- Flat rate of 20 credits per successful generation."
+
+--- Stable Audio 3.0 (section header text)
+"Stable Audio 3.0: Fast, Best-Quality, Long-Form Music & Audio Generation
+Our most advanced audio generation model, capable of generating up to 6-minute, 44.1 kHz stereo
+compositions. Stable Audio 3.0 supports text-to-audio, audio-to-audio, and audio-inpaint workflows -
+allowing creators to upload a sound and transform it into new instruments, styles, or genres using
+natural language prompts. Ideal for music production, cinematic sound design, and remixing."
+
+"Stable Audio models were exclusively trained on licensed data from the AudioSparx music library,
+honoring opt-out requests and ensuring fair compensation for creators. Additionally, Stable Audio 3.0
+was pre-trained on licensed data from Freesound."
+
+Text-to-Audio (SA3): "This endpoint is asynchronous - it returns a generation id immediately (HTTP 202).
+Poll GET /v2beta/audio/results/{id} to retrieve the result."
+Credits: "Stable Audio 3.0 -- Flat rate of 26 credits per successful generation."
+SA3 audio-to-audio / inpaint validation rule: "Audio must be between 6 and 380 seconds long"
+SA3 inpaint: "mask_start Default: 30", "mask_end Default: 380"
+SA3 output_format: "Default: mp3  Enum: mp3 wav"
+
+NOTE: no stem / multitrack output is offered by any Stability audio endpoint in this reference.
+Rate limit: "This API is rate-limited to 150 requests every 10 seconds."
+
+--- Stable Audio 3.0 text-to-audio, exact request schema (re-read 2026-09-02)
+"POST /v2beta/audio/stable-audio/text-to-audio"
+"stable-audio-3 requires 26 credits per generation"
+"duration  number [ 1 .. 380 ]  Default: 190  Controls the duration in seconds of the generated audio."
+"steps  integer [ 4 .. 8 ]  Default: 8"
+"cfg_scale  number [ 1 .. 25 ]  Default: 1"
+"output_format  string  Default: mp3  Enum: mp3 wav"
+"202  Generation started. Use the returned id to poll for the result."
+=> max single generation = 380 seconds (6 min 20 s).

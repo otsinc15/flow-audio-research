@@ -1,0 +1,33 @@
+URL: https://help.suno.com/en/articles/2409473
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:    90163
+----
+How long will my song be? 
+ Knowledge Base 
+ Make Music Now!
+ How can we help?
+ Results
+ No results found
+ More results 
+ We use cookies to analyze website traffic and help improve our visitor experience. Privacy Policy 
+ Reject
+ Accept
+ Home 
+ Making Music 
+ How long will my song be?
+ Edited
+ In two years, we've seen Suno's models generate just 30 seconds, to now generating up to 8 minutes before extending. 
+ V2 is the oldest available model, and allowing for songs up to 1 minute and 20 seconds 
+ V3 's maximum song length is 2 minutes 
+ V3.5 and V4 improved further with 4 minutes in the initial generation.
+ V4.5 and V5 can generate up to 8 minutes of music in one shot!
+ To change between versions, locate the model dropdown to the right of the Custom mode option.
+ You can also use Extend to add more music to the end of your song. Click Here to learn more about Extend!
+ song length
+ minutes
+ duration
+ Cookie preferences 
+ Terms of Service Privacy Policy Suno on iOS 
+ Community Guidelines Blog Suno on Android 
+ Leave us feedback

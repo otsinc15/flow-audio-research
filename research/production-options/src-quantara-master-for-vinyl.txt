@@ -1,0 +1,71 @@
+URL: https://www.quantaramusic.com/learn/how-to-master-for-vinyl
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 21144
+----
+Q
+QUANTARA
+Platforms
+Genres
+Guides
+Pricing
+Open Studio →
+Home / Learn / How to Master for Vinyl: The Complete Guide
+💿 Vinyl Guide
+How to Master for Vinyl: The Complete Guide
+Vinyl mastering follows different rules than digital — no loudness target, mono bass, controlled sibilance, and a dynamic pre-master the cutting engineer can actually cut. Here is exactly how to prepare audio for vinyl, free.
+Try mastering free →All guides
+Why vinyl mastering is different from digital
+Digital mastering targets a loudness number — -14 LUFS for streaming, louder for club. Vinyl has no loudness target at all. The physical groove and the cutting lathe set the limits, and the cutting engineer, not a meter, makes the final calls. Your job is not to make the record loud; it is to deliver a clean, dynamic pre-master that cuts well and plays back without distortion.
+This single difference — physics instead of a number — is why a crushed digital master is the wrong file to send for a vinyl cut. Loud, dense masters force the cutting head to carve wide grooves, which shortens the side, lowers the achievable playback volume, and increases the risk of skipping.
+Keep it dynamic — don't send a crushed master
+Give the cutting engineer a master that sits closer to your mix level — around -14 LUFS integrated is a sane reference, but the exact number matters far less than preserving dynamics. Vinyl rewards dynamic range: transients that would be squashed on a loud streaming master translate beautifully to the groove.
+If you already have a loud digital master, do not just send that. Prepare a separate, more dynamic vinyl pre-master. One file cannot serve both a competitive streaming release and a clean vinyl cut.
+Mono the low end — but understand why
+The most repeated vinyl rule online is ‘always mono your bass.’ It is broadly true, but worth understanding rather than applying blindly. On a record, the centre/mono information is cut laterally (side to side) and the stereo information is cut vertically (depth). Loud stereo bass makes the cutting head modulate vertically — and too much vertical movement in the low end can literally lift the stylus out of the groove, causing skipping.
+So: sum low-frequency energy toward mono below roughly 100–150 Hz. This keeps the groove stable without collapsing the stereo image of everything above it. A good cutting engineer may adjust this further, but delivering a tight, mono-centred low end is the single most important thing you can do for a clean cut.
+Tame sibilance and harsh highs
+Vinyl cannot physically track exaggerated high-frequency content. The stylus struggles to follow the rapid, complex groove modulations that harsh cymbals and sibilant vocals create, and the result is distortion — worst toward the inner grooves, where the disc’s linear velocity drops and there is less groove length per revolution to encode detail.
+Control sibilance with gentle de-essing before the cut, and consider easing very high frequencies above about 10–16 kHz if the master is bright or ‘hissy.’ The goal is a smooth top end that the stylus can track cleanly from the outer groove to the label.
+Do NOT apply the RIAA curve yourself
+A common beginner mistake is trying to apply RIAA equalization to the pre-master. Don’t. The RIAA curve — which reduces bass and boosts treble to save groove space and lower surface noise — is applied at the cutting stage by the lathe, and then reversed by the listener’s turntable preamp so playback is flat. Your pre-master should be a normal, flat, full-range file. Applying RIAA yourself would double the curve and ruin the cut.
+In short: deliver your best flat, full-range, dynamic master with mono lows and controlled sibilance, and let the cutting engineer handle RIAA, groove spacing and variable pitch.
+A practical vinyl pre-master checklist
+Before you send a file for a vinyl cut: keep it dynamic (no brickwall limiting, closer to mix level); sum bass to mono below ~100–150 Hz; check the whole track in mono for phase problems that collapse the low end; de-ess and ease harsh highs; leave true peak with headroom (around -1 dBTP or lower, since loudness is not the point); export a high-resolution WAV (24-bit, your session sample rate); and label the file clearly with track order and timings for the engineer.
+Quantara Studio has a Vinyl target that applies exactly this philosophy — a dynamic, mono-controlled, sibilance-eased starting point — and lets you A/B against your original and export a clean 24-bit pre-master, free.
+Frequently asked questions
+How is vinyl mastering different from digital mastering?
+Vinyl has no loudness target — the physical groove and the cutting engineer set the limits, not a LUFS meter. You deliver a dynamic, flat, full-range pre-master with mono low end and controlled sibilance; a crushed digital master is the wrong file because loud, dense audio forces wide grooves that shorten the side and can skip.
+Should I mono the bass for vinyl?
+Yes — sum low-frequency energy toward mono below roughly 100–150 Hz. Loud stereo bass makes the cutting head modulate vertically, which can lift the stylus out of the groove and cause skipping. Mono lows keep the groove stable without collapsing the stereo image above 150 Hz.
+What LUFS should a vinyl master be?
+There is no fixed loudness target for vinyl. Aim to preserve dynamics — around -14 LUFS integrated is a sane reference, but keeping dynamic range matters far more than the exact number. Never send a crushed, brickwall-limited master for a vinyl cut.
+Do I apply the RIAA curve when mastering for vinyl?
+No. The RIAA curve is applied by the cutting lathe and reversed by the listener’s turntable preamp. Your pre-master should be flat and full-range — applying RIAA yourself would double the curve and ruin the cut. Deliver a normal dynamic master and let the cutting engineer handle RIAA.
+Can I prepare a vinyl master for free?
+Yes. Quantara Studio has a Vinyl target that keeps the master dynamic, sums the low end toward mono and eases sibilance — a safe pre-master starting point. You can A/B against your original and export a 24-bit WAV free, then send it to your cutting engineer who makes the final calls.
+Why does my vinyl sound distorted on the inner grooves?
+Inner-groove distortion happens because the disc’s linear velocity drops toward the centre, leaving less groove length to encode high-frequency detail. Harsh highs and sibilance the stylus cannot track then distort. Ease very high frequencies and de-ess before the cut, and keep loud, bright tracks earlier on the side.
+Related guides
+Spotify mastering
+Guide →
+Apple Music
+Guide →
+Master Suno songs
+Guide →
+Master AI music
+Guide →
+Mixing vs mastering: what's the difference?
+Learn →
+What is LUFS?
+Learn →
+Is AI mastering just making it louder?
+Learn →
+What is True Peak (dBTP)?
+Learn →
+Put it into practice — free
+Open Quantara Studio →
+HomeMastering guidesLearnAPIStudio
+
+© 2026 Quantara Music · quantaramusic.com

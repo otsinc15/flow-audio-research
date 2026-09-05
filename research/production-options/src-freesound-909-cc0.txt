@@ -1,0 +1,809 @@
+URL: https://freesound.org/search/?q=TR-909&f=license%3A%22Creative+Commons+0%22
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 215727
+----
+Freesound - Search 
+
+ Log in to Freesound
+
+ Username: 
+
+ Password: 
+
+ Log in 
+
+ Problems logging in? 
+
+ Don't have an account? Join now 
+
+ Problems logging in?
+
+ Enter your email or username below and we'll send you a link to help you login into your account.
+
+ Send me a link 
+
+ Back to log in 
+
+ Almost there!
+
+ We've sent a verification link by email
+
+ Didn't receive the email? Check your Spam folder, it may have been caught by a filter. If you still don't see it, you can resend the verification email .
+
+ Default title
+
+ Yes 
+
+ Cancel 
+
+ Sounds 
+
+ Tags 
+
+ Forum 
+
+ Map 
+
+ Sounds 
+
+ Packs 
+
+ Forum 
+
+ Map 
+
+ Tags 
+
+ Random sound 
+
+ Charts 
+
+ Donate 
+
+ Help 
+
+ Log in 
+
+ Join 
+
+ 712 sounds
+
+ Sort: 
+
+ Automatic by relevance 
+
+ Duration (longest first) 
+
+ Duration (shortest first) 
+
+ Date added (newest first) 
+
+ Date added (oldest first) 
+
+ Downloads (most first) 
+
+ Downloads (least first) 
+
+ Rating (highest first) 
+
+ Rating (lowest first) 
+
+ Search in
+
+ Tags
+
+ Sound name
+
+ Description
+
+ Pack name
+
+ Sound ID
+
+ Username
+
+ Duration
+
+ - seconds 
+
+ Other
+
+ Only geotagged sounds
+
+ Only remix sounds
+
+ Group sounds by pack
+
+ Display results as packs
+
+ Display results in grid
+
+ Display results in map
+
+ Apply advanced search filters 
+
+ Category 
+
+ Music 
+ (248)
+
+ Instrument samples 
+ (243)
+
+ Sound effects 
+ (157)
+
+ Soundscapes 
+ (48)
+
+ Speech 
+ (16)
+
+ Tags 
+
+ drum
+
+ loop
+
+ bass
+
+ 909
+
+ electronic
+
+ 808
+
+ snare
+
+ analog
+
+ beat
+
+ 606
+
+ trance
+
+ dubstep
+
+ synth
+
+ drums
+
+ tr-909
+
+ kick
+
+ kit
+
+ processed
+
+ music
+
+ vintage
+
+ drummachine
+
+ roland
+
+ mod
+
+ modified
+
+ psy
+
+ psytrance
+
+ goa
+
+ goatrance
+
+ psy-trance
+
+ goa-trance
+
+ field-recording
+
+ funk
+
+ 707
+
+ groove
+
+ techno
+
+ 1-shot
+
+ bass-groove
+
+ bass-loop
+
+ bass-recording
+
+ bass-sample
+
+ bass-samples
+
+ beats
+
+ compressor
+
+ drum-hits
+
+ fender-jazz-bass
+
+ fender-pbass
+
+ funk-bass
+
+ funky-bass-loop
+
+ glitch
+
+ jazz-bass
+
+ Type 
+
+ wav 
+ (619)
+
+ mp3 
+ (46)
+
+ aiff 
+ (33)
+
+ flac 
+ (12)
+
+ ogg 
+ (2)
+
+ Channels 
+
+ 1 
+ (189)
+
+ 2 
+ (523)
+
+ Samplerate 
+
+ 22046 
+ (3)
+
+ 44100 
+ (528)
+
+ 48000 
+ (108)
+
+ 96000 
+ (40)
+
+ 192000 
+ (33)
+
+ Packs 
+
+ Modified 606 
+ (40)
+
+ TR-909 Drum Hits 
+ (30)
+
+ Upgraded snares minipack 
+ (28)
+
+ Beats 
+ (28)
+
+ Mã Moóc Xơ - Morse Code - Código Morse - 25 
+ (24)
+
+ 505 ONE SHOTS 
+ (23)
+
+ TRANCE LOOP PACK 04 
+ (20)
+
+ Records for Soundeffects 
+ (19)
+
+ Roland TR08 100% gain, default tuning 
+ (16)
+
+ Roland TR606 sampleset 
+ (16)
+
+ Users 
+
+ choomaque-crispydinner
+
+ TSP-Talk
+
+ zgump
+
+ Tr4ck3r
+
+ oceansonmars
+
+ GRD-music-
+
+ vdb4f
+
+ DJ_SoMaR
+
+ SieuAmThanh
+
+ KatHakaku
+
+ Bitdepth 
+
+ 16 
+ (294)
+
+ 24 
+ (220)
+
+ 32 
+ (150)
+
+ Bitrate 
+
+ 128 
+ (33)
+
+ 148 
+ (1)
+
+ 320 
+ (6)
+
+ 324 
+ (2)
+
+ license:"Creative Commons 0" 
+
+ Classic_TR_909_KICK_JdXi_4 
+
+ Classic TR-909 hits Made with my Roland JdXi synth
+https://www.grdmusic.com
+
+ 606
+
+ 707
+
+ 808
+
+ 909
+
+ Bass
+
+ GRD-music- 
+ January 8th, 2018
+
+ January 8th, 2018
+
+ TR-909 Drum Hits
+
+ 218
+
+ 2
+
+ See 30 results from same pack 
+
+ DABOOKgroove01.wav 
+
+ (4) 
+
+ A very basic roland TR-909 groove.
+
+ Roland
+
+ TR-909
+
+ acid
+
+ beat
+
+ drummachine
+
+ D
+
+ dabook 
+ May 2nd, 2013
+
+ May 2nd, 2013
+
+ 313
+
+ 1
+
+ CRDN_UpgrKick_014.wav 
+
+ (3) 
+
+ Heavily processed, strong-punching TR-909 kick drum
+
+ breakbeat
+
+ drum-n-bass
+
+ dubstep
+
+ kick
+
+ processed
+
+ choomaque-cr... 
+ October 24th, 2014
+
+ October 24th, 2014
+
+ Upgraded kicks mini…
+
+ 389
+
+ 2
+
+ See 14 results from same pack 
+
+ hard 909 fill.wav 
+
+ (8) 
+
+ a hard hitting Roland TR 909 fill. Very industrial sounding.
+
+ 909
+
+ Roland
+
+ TR
+
+ beat
+
+ drum
+
+ phluidbox 
+ July 19th, 2012
+
+ July 19th, 2012
+
+ phluidbox pack 1
+
+ 332
+
+ 1
+
+ Re909brk-2.wav 
+
+ (7) 
+
+ An Indus-jungle drumloops done with fl7 and rebirth rb338. Tr-909's sounds inside
+
+ break
+
+ drum
+
+ indus
+
+ jungle
+
+ loop
+
+ D
+
+ Dolfeus 
+ October 31st, 2007
+
+ October 31st, 2007
+
+ Beats
+
+ 246
+
+ 0
+
+ See 2 results from same pack 
+
+ CRDN_UpgrSn_019.wav 
+
+ Heavily processed, strong-punching TR-909 snare drum
+
+ 1-shot
+
+ 909
+
+ drum
+
+ dubstep
+
+ processed
+
+ choomaque-cr... 
+ October 24th, 2014
+
+ October 24th, 2014
+
+ Upgraded snares min…
+
+ 195
+
+ 0
+
+ See 28 results from same pack 
+
+ loop165.wav 
+
+ (31) 
+
+ Maybe little experimental and odd drum loop. Actually only the closed hi-hat and snare rim are original TR-909 samples used in this, rest of the samples sound similar …
+
+ 909
+
+ drum
+
+ kick
+
+ loop
+
+ snare
+
+ Vrezerino 
+ October 18th, 2007
+
+ October 18th, 2007
+
+ 536
+
+ 0
+
+ New House rmx_class4.wav 
+
+ (9) 
+
+ Based on one of my house song but this part breaks, the beat is made with tr909's and drum kit's sounds and over it there is strings and …
+
+ breakbeat
+
+ cut
+
+ epiano
+
+ fl
+
+ loop
+
+ D
+
+ Dolfeus 
+ December 16th, 2007
+
+ December 16th, 2007
+
+ A lots of loops
+
+ 203
+
+ 2
+
+ JLOBKICKPACK - Marker #9.wav 
+
+ (4) 
+
+ Heavily processed kick drums. Source - kick samples from analog drum machines and synthesizer like Nord Modular, Quasimidi Technox, Acces Virus T, Roland TR-909
+
+ hard-kick
+
+ hardstyle
+
+ punchy-kick
+
+ choomaque-cr... 
+ February 12th, 2011
+
+ February 12th, 2011
+
+ 368
+
+ 0
+
+ irregular heartbeat.wav 
+
+ (44) 
+
+ took a sample of a tr909 kick drum, stretched it, added some reverb, bass boost, eq, compression, split the track and offset it slightly to create an irregular …
+
+ beat
+
+ body
+
+ heartbeat
+
+ pulse
+
+ Z
+
+ zimm 
+ March 31st, 2007
+
+ March 31st, 2007
+
+ heartbeat body
+
+ 3.2K
+
+ 3
+
+ See 2 results from same pack 
+
+ LRSN_MK3_R2- - Marker #9.wav 
+
+ (4) 
+
+ You may don't believe me, but i made this sound from raw Roland TR-909 snare sample. You can use it to produce hard and modern breakbeat-style sound.
+
+ breakbeat
+
+ drum
+
+ drum-n-bass
+
+ heavily-processed
+
+ mastered
+
+ choomaque-cr... 
+ June 29th, 2011
+
+ June 29th, 2011
+
+ LAYERED SNARES MK3
+
+ 792
+
+ 0
+
+ See 5 results from same pack 
+
+ nighthawk__SNARE.wav 
+
+ (12) 
+
+ Snare drum
+Source: TR 909 snare
+
+ bass
+
+ drum
+
+ dubstep
+
+ electronic
+
+ jungle
+
+ N
+
+ n1ghthawk 
+ December 21st, 2012
+
+ December 21st, 2012
+
+ 1.3K
+
+ 3
+
+ Pendulum__SNARE.wav 
+
+ (15) 
+
+ Digital snare drum (tribute to Pendulum)
+
+Source: TR 909 snare
+
+ bass
+
+ dnb
+
+ drum
+
+ drums
+
+ electronic
+
+ N
+
+ n1ghthawk 
+ December 20th, 2012
+
+ December 20th, 2012
+
+ Pendulum Kits
+
+ 1.9K
+
+ 4
+
+ 909 TR Crash Cymbal 
+
+ 909 crash cymbal, used in hardcore techno songs and some other edm genres
+
+ 909
+
+ 909TR
+
+ hardcore
+
+ techno
+
+ extremonomia 
+ January 12th, 2024
+
+ January 12th, 2024
+
+ 105
+
+ 0
+
+ TR909.wav 
+
+ 16Bit; 44 Khz; Samples were created in Steem Engine StSpeech
+
+ 8-bit
+
+ atari
+
+ engine
+
+ speech
+
+ steem
+
+ M
+
+ mo_damage 
+ July 10th, 2010
+
+ July 10th, 2010
+
+ Atari Speech Sample…
+
+ 57
+
+ 0
+
+ See 8 results from same pack 
+
+ 1
+
+ 2 
+
+ 3 
+
+ 4 
+
+ 5 
+
+ 6 
+
+ 7 
+
+ ...
+
+ 20 
+
+ About Freesound 
+ Terms of use 
+ Privacy 
+ Cookies 
+ Developers 
+ Help 
+ Donations 
+ Blog 
+ Freesound Labs 
+ Get your t-shirt! 
+
+ © 2026 Universitat Pompeu Fabra

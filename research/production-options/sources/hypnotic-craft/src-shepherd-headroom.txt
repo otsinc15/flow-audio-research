@@ -1,0 +1,62 @@
+URL: https://productionadvice.co.uk/headroom-before-mastering/
+Fetched: 2026-09-05
+---
+How much headroom is needed before mastering ? - Production Advice 
+ Production Advice 
+ making your music sound great
+ ABOUT 
+ RESOURCES 
+ SERVICES 
+ MASTERING 
+ BLOG 
+ close
+ How much headroom is needed before mastering ? 
+ November 3rd, 2012 BY  
+ People keep asking me:
+ How much peak headroom is needed before mastering ?
+ In other words, where should the peak level be after mixing before the file is mastered ?
+ -12dB ?
+ -6dB ?
+ -3dB ?
+ -0.3dB ?
+ 0dB ?
+ There are three simple answers to this question.
+ Well, two really simple ones, and a third still-quite-simple one. Here they are:
+ 1. The Simple Answer
+ Just don't clip it.
+ Don't ever allow the level to get above zero, and everything will be fine !
+ 2. The Other Simple Answer
+ If you're saving in 32-bit floating point, it doesn't matter.
+ 32-bit float won't clip - it can store signal levels above 0dBFS (full-scale) so even if the peak level is too high at the mastering stage, it can just be turned down.
+ 3. The Final Simple Answer
+ If you're saving in fixed-point (16 or 24-bit) then avoid peaking above -3dB (*). And remember to apply dither .
+ (*) or -6dB, or -12dB
+ Wait, what ? Didn't I just say it didn't matter, provided you don't clip ?
+ A little more detail
+ Any of the three answers above will work out fine for you. But there are still good reasons for leaving more, rather than less headroom:
+ It does no harm . At 24-bit resolution, you've still got a huge signal-to-noise ratio, so there's no need to max out the peak level in the mix. Play it safe ! Even a massive 12dB of headroom will sound excellent.
+ It may avoid problems . As you get close to 0dBFS, the risk of "inter-sample" peaks crops up - especially with heavily processed, in-the-box sounds. These inter-sample peaks may add distortion at a later stage, so it's best to avoid them.
+ Analogue "emulation" plugins will distort at a much lower level, even in 32-bit floating point.  
+ Let's look at that last point in a little more detail.
+ One of the things we like about analogue gear is the soft saturation distortion it can add when you push it hard. And plugins that emulate this effect do the same.
+ So if the whole mix is running up into the red on the channels, and you're using some processing that works in this way, you may end up with much more saturation and distortion than you intended. Better to stay on the safe side and keep the levels lower to avoid this happening by mistake.
+ And that means running all the channels in the mix at a lower level, not just pulling back the master fader. 32-bit float will prevent clipping, but if all your channel faders are maxing out, their plugins could be quite heavily overcooked - and pulling the level back at the last minute won't help with that.
+ So...
+ Here's my REAL Answer
+ Allow 6dB of headroom 
+ Don't let it peak far above -6dBFS.
+ This advice is solid, regardless of the circumstances. It encourages generally sane levels throughout the mix, it prevents any risk of inter-sample clipping and you still have masses of signal-to-noise ratio at 24-bit - and, plenty at 16 bits too, assuming you dither correctly .
+ See ? Simple !
+ - Oh, and exactly what is that Max Headroom image about ? To find out, sit back and enjoy this little slice of Complete 80s Awesome
+ 🙂
+ More information
+ If you found this post helpful, there's plenty more - check out the "Start Here" link above, or you might like to try my eBook, The Essential Production Advice . To find out more, click here .
+ Filed Under:  Blog Posts , Loudness , Mastering , Mixing 
+ ABOUT IAN SHEPHERD
+ My name is Ian Shepherd - I'm a professional mastering engineer with over 25 years experience and I run the Production Advice website with over 50,000 readers each month
+ Read More... 
+ TRANSLATE
+ WANT MORE?
+ Discover the 6 Essential Steps to Releasing Your Music with Complete Confidence!
+ To get started, Click Here 
+ Copyright © 2026 · Mastering Media (Production Advice) Ltd · Privacy

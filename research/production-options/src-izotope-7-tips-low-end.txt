@@ -1,0 +1,557 @@
+URL: https://www.izotope.com/en/learn/7-tips-for-mixing-the-low-end
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 964997
+----
+Skip to content
+
+	•	Music Production Mixing & mastering software
+	•	All 
+	◦	All Music Production
+	◦	All products
+	◦	Music Production 
+	▪	All All products
+	▪	Mixing
+	▪	Mastering
+	▪	Vocal processing
+	▪	EQ
+	▪	Reverb
+	▪	Creative effects
+	◦	  
+	◦	Ozone
+	◦	Neutron 5
+	◦	Nectar 4
+	◦	Bundles
+	◦	Music Production 
+	▪	All Bundles
+	▪	Music Production Suite
+	▪	Mix and Master Bundle
+	▪	Subscription
+	◦	  
+	◦	Free plug-ins
+	•	  
+	•	Audio post Post production software
+	•	All 
+	◦	All Audio post
+	◦	All products
+	◦	RX 12
+	◦	Bundles
+	•	  
+	•	Subscription Try it free
+	•	Deals
+Support
+USD
+Region and language
+
+Search
+Country/Region
+
+	•	Afghanistan USD $
+	•	Åland Islands EUR €
+	•	Albania USD $
+	•	Algeria USD $
+	•	Andorra EUR €
+	•	Angola USD $
+	•	Anguilla USD $
+	•	Antigua & Barbuda USD $
+	•	Argentina USD $
+	•	Armenia USD $
+	•	Aruba USD $
+	•	Ascension Island USD $
+	•	Australia AUD $
+	•	Austria EUR €
+	•	Azerbaijan USD $
+	•	Bahamas USD $
+	•	Bahrain USD $
+	•	Bangladesh USD $
+	•	Barbados USD $
+	•	Belarus USD $
+	•	Belgium EUR €
+	•	Belize USD $
+	•	Benin USD $
+	•	Bermuda USD $
+	•	Bhutan USD $
+	•	Bolivia USD $
+	•	Bosnia & Herzegovina USD $
+	•	Botswana USD $
+	•	Brazil USD $
+	•	British Indian Ocean Territory USD $
+	•	British Virgin Islands USD $
+	•	Brunei USD $
+	•	Bulgaria EUR €
+	•	Burkina Faso USD $
+	•	Burundi USD $
+	•	Cambodia USD $
+	•	Cameroon USD $
+	•	Canada CAD $
+	•	Cape Verde USD $
+	•	Caribbean Netherlands USD $
+	•	Cayman Islands USD $
+	•	Central African Republic USD $
+	•	Chad USD $
+	•	Chile USD $
+	•	China USD $
+	•	Christmas Island USD $
+	•	Cocos (Keeling) Islands USD $
+	•	Colombia USD $
+	•	Comoros USD $
+	•	Congo - Brazzaville USD $
+	•	Congo - Kinshasa USD $
+	•	Cook Islands USD $
+	•	Costa Rica USD $
+	•	Côte d’Ivoire USD $
+	•	Croatia EUR €
+	•	Curaçao USD $
+	•	Cyprus EUR €
+	•	Czechia EUR €
+	•	Denmark EUR €
+	•	Djibouti USD $
+	•	Dominica USD $
+	•	Dominican Republic USD $
+	•	Ecuador USD $
+	•	Egypt USD $
+	•	El Salvador USD $
+	•	Equatorial Guinea USD $
+	•	Eritrea USD $
+	•	Estonia EUR €
+	•	Eswatini USD $
+	•	Ethiopia USD $
+	•	Falkland Islands USD $
+	•	Faroe Islands EUR €
+	•	Fiji USD $
+	•	Finland EUR €
+	•	France EUR €
+	•	French Guiana USD $
+	•	French Polynesia USD $
+	•	French Southern Territories EUR €
+	•	Gabon USD $
+	•	Gambia USD $
+	•	Georgia USD $
+	•	Germany EUR €
+	•	Ghana USD $
+	•	Gibraltar EUR €
+	•	Greece EUR €
+	•	Greenland EUR €
+	•	Grenada USD $
+	•	Guadeloupe EUR €
+	•	Guatemala USD $
+	•	Guernsey EUR €
+	•	Guinea USD $
+	•	Guinea-Bissau USD $
+	•	Guyana USD $
+	•	Haiti USD $
+	•	Honduras USD $
+	•	Hong Kong SAR USD $
+	•	Hungary EUR €
+	•	Iceland EUR €
+	•	India USD $
+	•	Indonesia USD $
+	•	Iraq USD $
+	•	Ireland EUR €
+	•	Isle of Man EUR €
+	•	Israel USD $
+	•	Italy EUR €
+	•	Jamaica USD $
+	•	Japan JPY ¥
+	•	Jersey EUR €
+	•	Jordan USD $
+	•	Kazakhstan USD $
+	•	Kenya USD $
+	•	Kiribati USD $
+	•	Kosovo USD $
+	•	Kuwait USD $
+	•	Kyrgyzstan USD $
+	•	Laos USD $
+	•	Latvia EUR €
+	•	Lebanon USD $
+	•	Lesotho USD $
+	•	Liberia USD $
+	•	Libya USD $
+	•	Liechtenstein EUR €
+	•	Lithuania EUR €
+	•	Luxembourg EUR €
+	•	Macao SAR USD $
+	•	Madagascar USD $
+	•	Malawi USD $
+	•	Malaysia USD $
+	•	Maldives USD $
+	•	Mali USD $
+	•	Malta EUR €
+	•	Martinique EUR €
+	•	Mauritania USD $
+	•	Mauritius USD $
+	•	Mayotte USD $
+	•	Mexico USD $
+	•	Moldova USD $
+	•	Monaco EUR €
+	•	Mongolia USD $
+	•	Montenegro USD $
+	•	Montserrat USD $
+	•	Morocco USD $
+	•	Mozambique USD $
+	•	Myanmar (Burma) USD $
+	•	Namibia USD $
+	•	Nauru USD $
+	•	Nepal USD $
+	•	Netherlands EUR €
+	•	New Caledonia USD $
+	•	New Zealand USD $
+	•	Nicaragua USD $
+	•	Niger USD $
+	•	Nigeria USD $
+	•	Niue USD $
+	•	Norfolk Island USD $
+	•	North Macedonia USD $
+	•	Norway EUR €
+	•	Oman USD $
+	•	Pakistan USD $
+	•	Palestinian Territories USD $
+	•	Panama USD $
+	•	Papua New Guinea USD $
+	•	Paraguay USD $
+	•	Peru USD $
+	•	Philippines USD $
+	•	Pitcairn Islands USD $
+	•	Poland EUR €
+	•	Portugal EUR €
+	•	Qatar USD $
+	•	Réunion EUR €
+	•	Romania EUR €
+	•	Russia USD $
+	•	Rwanda USD $
+	•	Samoa USD $
+	•	San Marino EUR €
+	•	São Tomé & Príncipe USD $
+	•	Saudi Arabia USD $
+	•	Senegal USD $
+	•	Serbia USD $
+	•	Seychelles USD $
+	•	Sierra Leone USD $
+	•	Singapore USD $
+	•	Sint Maarten EUR €
+	•	Slovakia EUR €
+	•	Slovenia EUR €
+	•	Solomon Islands USD $
+	•	Somalia USD $
+	•	South Africa USD $
+	•	South Georgia & South Sandwich Islands USD $
+	•	South Korea USD $
+	•	South Sudan USD $
+	•	Spain EUR €
+	•	Sri Lanka USD $
+	•	St. Barthélemy EUR €
+	•	St. Helena USD $
+	•	St. Kitts & Nevis USD $
+	•	St. Lucia USD $
+	•	St. Martin EUR €
+	•	St. Pierre & Miquelon EUR €
+	•	St. Vincent & Grenadines USD $
+	•	Sudan USD $
+	•	Suriname USD $
+	•	Svalbard & Jan Mayen EUR €
+	•	Sweden EUR €
+	•	Switzerland CHF CHF
+	•	Taiwan USD $
+	•	Tajikistan USD $
+	•	Tanzania USD $
+	•	Thailand USD $
+	•	Timor-Leste USD $
+	•	Togo USD $
+	•	Tokelau USD $
+	•	Tonga USD $
+	•	Trinidad & Tobago USD $
+	•	Tristan da Cunha USD $
+	•	Tunisia USD $
+	•	Türkiye EUR €
+	•	Turkmenistan USD $
+	•	Turks & Caicos Islands USD $
+	•	Tuvalu USD $
+	•	U.S. Outlying Islands USD $
+	•	Uganda USD $
+	•	Ukraine USD $
+	•	United Arab Emirates USD $
+	•	United Kingdom GBP £
+	•	United States USD $
+	•	Uruguay USD $
+	•	Uzbekistan USD $
+	•	Vanuatu USD $
+	•	Vatican City EUR €
+	•	Venezuela USD $
+	•	Vietnam USD $
+	•	Wallis & Futuna USD $
+	•	Western Sahara USD $
+	•	Yemen USD $
+	•	Zambia USD $
+	•	Zimbabwe USD $
+
+
+ 
+	•	Music production Mixing & mastering software
+	•	Mixing plugins
+	◦	Neutron 5
+	◦	Nectar 4
+	◦	Tonal Balance Control 3
+	◦	Insight 2
+	◦	All mixing plugins →
+	•	
+	•	Mastering plugins
+	◦	Ozone 12
+	◦	RX 12
+	◦	Tonal Balance Control 3
+	•	
+	•	Creative effects plugins
+	◦	Trash
+	◦	Vocalsynth 2
+	◦	Neoverb
+	◦	Catalyst Series
+	◦	All effects plugins →
+	•	
+	•	Plugin bundles
+	◦	Music Production Suite 9
+	◦	RX Post Production Suite 9
+	◦	Mix & Master Bundle Advanced
+	◦	Elements Suite
+	•	
+	•	Learn
+	◦	Beginner mixing guide
+	◦	How to EQ vocals
+	◦	Mastering for streaming platforms
+	◦	Digital audio basics
+	◦	All audio mastering articles →
+	•	
+	•	   
+	•	Audio post Post production software
+	•	Repair and enhancement
+	◦	RX 12 Advanced
+	◦	RX 12 Standard
+	◦	RX 12 Elements
+	◦	VEA
+	•	
+	•	Specialty tools
+	◦	Equinox
+	◦	Insight 2
+	◦	Tonal Balance Control 3
+	•	
+	•	Post production bundles
+	◦	RX Post Production Suite 9
+	◦	Music Production Suite 9
+	◦	Everything Bundle
+	◦	Elements Suite
+	•	
+	•	Learn
+	◦	Understanding spectrograms
+	◦	Repairing a distorted audio track
+	◦	Remove clicks and pops from audio
+	◦	All audio post production articles →
+	•	
+	•	   
+	•	Subscription Try it free
+	•	Learn Tips & tutorials
+	•	Deals
+	•	
+USD Region and language selector
+Total items in cart: 0 0
+	•	 
+	•	All posts 
+	•	Audio mastering 
+	•	Audio mixing 
+	•	Audio repair 
+	•	Dialogue editing 
+	•	iZotope product news 
+	•	Mixing vocals 
+	•	Music production 
+	•	Nectar 
+	•	Neutron 
+	•	Ozone 
+	•	Post Production 
+	•	Reverb 
+	•	RX 
+
+
+
+7 tips for mixing the low end
+
+Audrey Martinovich Audio mixing | Neutron | Ozone  May 28th, 2025
+Mixing low end can be a challenge for engineers working in any genre. The goal is to manage bass frequencies so that they are present without overwhelming the mix or masking instruments, making them indiscernible. 
+In this article, we’ll be exploring how to manage the low end of your mixes for a clear, punchy sound. 
+The tips in this article are geared toward those who have been mixing for a while but want to up their game a bit. For some beginner-focused tips on getting started with mixing, check out our guide on how to mix music.
+Unlock a cleaner, punchier low end in your mixes with the intelligent power of iZotope  Neutron .
+Demo Neutron free 
+
+What is the low end in mixing?
+The low end of the frequency spectrum lies between 20 Hz–250 Hz. The area of frequencies between 20 Hz–160 Hz typically hosts the most energy for low end centric sounds like kick drums, basses, etc. Once we get past 250 Hz up to about 500 Hz, we refer to that area commonly as the low midrange or “low-mids.”
+
+iZotope Carnegie Chart
+Why is mixing low end so tricky? 
+People often ask "How do I get more low end in my mix?" and for good reason. When simply turning up the bass instruments in a mix doesn't yield the results you're looking for it can be frustrating. A common problem with this approach is called masking. Low frequencies have longer waveforms which often interact with each other. When there's so much sonic content in one area of the mix, instruments compete for attention and as a result it's hard to focus on any one thing. It's all a sonic blur. 
+The other issue that arises is that bass frequencies have a lot of energy behind them. Boost these frequencies too much and your mix will start to appear louder on your meters. However in reality, most of what's driving the meters is uncontrolled bass energy. Preventing buildup of bass frequencies leaves more headroom in the mix for everything else, giving you the ability to have a louder mix in general that still sounds balanced.
+In this article, I'll be using clips from a project I'm mixing called “Coco Oils” by Tatyana Nahirniak to demonstrate some of these tips. Here's the song before and after mixing the low end.
+
+
+
+
+Let's go over the process and some essential tips for mixing the low end.
+1. Use EQ to add definition
+The first thing we need to do is "take out the trash" by removing frequencies we don't need on an instrument using subtractive EQ. For example, we can low-pass most bass instruments to give more sonic room to other instruments such as vocals and guitars. You can most likely remove frequencies above 1.5 kHz from a bass guitar before noticing a change in articulation. 
+Removing some low-mids, around 300 Hz, from a bass will allow for more mid-focused instruments such as guitar and piano to come into focus. Conversely, filtering low frequencies from higher pitched instruments will give room to the bass and kick drum. 
+On the kick and bass, I also use a high-pass filter to remove some extra sub-bass energy from a mix so frequencies we can't perceive aren't causing my meters to react. Removing 20 or 30 Hz and below from bass heavy instruments will give your mix more headroom on your meters while still allowing for plenty of bass that we can actually hear and feel. 
+When mixing low end, it is crucial to listen to the entire mix the whole time – don't get stuck in solo-mode! EQ is all about context and how instruments are interacting. This is something that's impossible to evaluate while soloing a track. I avoid soloing any track unless I'm having a hard time finding a certain frequency with the entire mix playing. Even then, I would opt to solo the couple of tracks that are causing issues, almost always listening to them together. 
+For more on EQing, check out iZotope’s guides on how to EQ bass, how to mix bass, and how to EQ drums.  
+2. Use sidechain compression 
+During the process of EQing low end, you may notice that we still have quite a bit of overlap between kick and bass. For example, maybe we are preserving 60 Hz in both bass and kick because the tracks feel anemic without this frequency present. 
+What should we do if a frequency is only a problem when the kick and bass occur at the same time? Using EQ will remove a band of frequencies for the whole song (unless it's automated) so that's not the right move in this case. A better way to deal with this problem between kick and bass is with sidechain compression.
+Sidechaining is a volume-based process, meaning it's time to get out a compressor. You'll need to use one that has a "key input" function and we'll get to why that is in a second. First, a refresher on how compression works.
+Basically, a compressor looks at the volume changes that are happening on the track and in response, evens out those changes by making the loudest parts less loud. When we sidechain, we use volume from one track to compress a different track in response. In this case, we will send the volume from a kick drum track to a compressor on a bass track that will momentarily turn down the volume on that bass track. This gives the kick more space without making a global change to the tone of the bass by getting the bass out of the way of the kick for each hit.
+
+Using Neutron, we are compressing a bass track in response to volume from a kick drum
+This works well on kick and bass because they are doing slightly different jobs in a mix. The kick is pretty much only there for rhythm. The bass provides some rhythmic content but is also a melodic foundation for the other instruments. We don't necessarily need to hear the attack of each bass note, but hearing the pitch of the note is important. When the kick is there to do the rhythm job, the bass can do the more melodic job during that beat. This is why we send the kick to compress the bass and not the other way around. 
+In this example, I used Neutron to sidechain my kick to a synth bass. The kick plays and triggers the compressor to turn down the volume of the bass. The bass effectively gets out of the way for a moment, allowing the kick to fully occupy the low end.
+
+
+
+
+When trying to figure out which track should compress which other track in response, I'd recommend using the shorter, punchier sound to trigger the compressor on a track with more sustained notes. 
+For more on improving the relationship between kick and bass, check out these tips on how to mix kick and bass.
+3. Unmask the low end 
+We've talked a lot about masking and how we can use EQ and compression to fix it. However, one of my favorite tools combines both EQ and compression to reduce frequency masking. Using multiband compression, we can isolate which frequencies we want to compress rather than compressing the entire track.
+Using the Unmask module in Neutron, I can see what areas are overlapping between my kick and bass and focus my compression only on that frequency band. This compressor only engages when there's too much energy in the frequency band I specify, giving each instrument more clarity. Now the tracks fit together like a puzzle rather than competing with each other. 
+
+Unmasking in Neutron shows what frequencies are overlapping and corrects the problem areas
+
+
+
+
+4. Try transient shaping 
+As the low end in the mix was coming together, I started to notice that my kick drum had a bit of resonance that was competing with the bass as well. I wanted a tighter sound from my kick in general and figured removing that resonance would also allow my bass to fill that gap so I opted to use a transient shaper to highlight the attack and minimize the sustain of my kick.
+
+Transient shaping highlights the attack of the kick drum while taming resonance
+I went a step further and customized the attack and sustain for three different frequency bands. I did like a little resonance on the lowest frequencies, but turned it down completely on the low-mids of my kick. With each of these steps, I'm really trying to get at the actual problem I'm trying to solve rather than slapping on plugins that impact more than they need to. 
+Here's what the transient shaping sounds like before and after.
+
+
+
+
+For more on mixing drums and percussion, including transient shaping, check out these tips for mixing drums.
+5. Listen to your mix on different systems
+The most frustrating thing for me as a mixer is how different my mixes can sound on different systems. I have four sets of monitors in my studio that sound drastically different just so I can see how my mix will sound on these systems. It will even sound different depending on the pair of headphones you're listening through. It's quite the challenge to manage.
+The benefit of listening on multiple systems is that one system may make an issue with your mix suddenly more apparent when it sounded fine listening somewhere else. For example, a pair of headphones may lack bass, causing you to overcompensate and add too much bass. Unless you listen to the mix on speakers as well, how will you know your mix has this problem?
+On the flip side, if you only listened to your mix through very detailed, fancy monitors with a subwoofer, you might find that you needed to add more bass for it to be heard in headphones. The best place to start is on the system that you use the most to listen to music so you have a frame of reference. You already know how music is supposed to sound through that system. It is all about reference at the end of the day which brings me to the next tip.
+6. Compare your mix to reference mixes 
+When working on a mix, it's really easy to lose perspective. We get so focused on the task we are working on that we can end up going in circles and doing too much. Taking periodic breaks to rest your ears will prevent fatigue or our ears "playing tricks" on us. 
+I also recommend recalibrating your ears by listening to reference mixes and A/B-ing them with the mix you're working on. Switching between your mix and a mix you love done by another person will help your ears clue in on the differences between them, giving you more direction in mixing decisions. Listen for the balance between instruments, how much overall low end there is, and note if you can hear or feel how compression is impacting the groove. What's different between your mix and your reference? Use what you hear to guide your decisions.
+
+7. Give the low end a final polish with Ozone 
+As you're finishing your mix and listening on different systems, you might find you need to make a tonal adjustment so the mix translates better. For example, maybe you don't hear a resonance in your headphones but do on speakers. Let's listen again to “Coco Oils” with this in mind.
+Here is the mix after Neutron and before  Ozone . 
+
+
+
+It sounds pretty good, but I still wanted to get a bit more low-end punch so I used a tool in Ozone called Low End Focus. 
+
+Ozone adds some contrast to the low end on a master bus giving the kick drum more punch
+
+
+
+I selected a region from 20–60 Hz and raised the contrast, increasing the difference between low and high level content. This attenuates the low level content, resonance in this case, and brings out transients, leading to a punchier sound.
+Pulling down the contrast will decrease the difference between low and high level content. The sound will blur and smooth like some really thick analog compression. Punchy and smooth modes further accentuate these differences. The "right" settings depend on the mix. While I wanted to add punch, using the Punch setting in Low End Focus made the kick transients extra sharp sounding which wasn't right for the song. 
+Start mixing clear and punchy low end today 
+Mixing low end is one of the trickiest parts of getting a mix just right. Remember that music is about feeling so give yourself grace as you learn. You'll get better with every mix as long as you are actively listening to relationships between instruments and how they change with each process. 
+Demo Neutron free
+
+« Back to Blog
+Related Articles
+
+10 ways to fix a bad mix
+Jun 5th, 2025
+
+Understanding overdubbing: techniques and applications
+May 20th, 2025
+
+What is a drum bus? How to set one up in your session
+May 15th, 2025
+
+
+Together with Boris FX, we’re obsessed with driving creative tech forward, committed to excellence in everything you see and hear.
+
+
+Company Company
+	•	About iZotope
+	•	Contact
+	•	Work with us
+	•	Research team
+	•	Media & press resources
+	•	Enterprise and Education
+	•	Cookie Notice
+	•	Do Not Share My Personal Information
+	•	License Agreement
+	•	Accessibility Statement
+	•	Subscription Terms
+	•	Cancel Subscription
+	•	Analytics Opt-in
+Useful links Useful links
+	•	Product authorization
+	•	Knowledge base
+	•	Free audio plug-ins
+	•	Product downloads
+	•	Product portal
+	•	Loyalty program
+	•	Deals
+	•	Dealers
+	•	Product support & FAQs
+Explore Products Explore Products
+	•	RX
+	•	Ozone
+	•	Neutron
+	•	Nectar
+	•	Vocalsynth
+	•	Aurora
+	•	Neoverb
+	•	Tonal Balance Control
+	•	Music Production Suite
+	•	RX Post Production Suite
+	•	Reverb plug-ins
+	•	View all audio software
+
+Newsletter
+Email Sign up
+Social Social
+	•	
+Facebook
+Instagram
+Youtube
+Soundcloud
+
+Learn more about Learn more about
+	•	Audio mastering
+	•	Audio mixing
+	•	Audio post production
+	•	Audio repair
+	•	Dialogue editing
+	•	Music production
+	•	Reverb
+	•	Vocal production
+	•	View all topics
+
+Payment methods
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+	•	
+
+© 2026 iZotope
+	•	Privacy policy
+	•	Terms of service
+	•	Refund policy
+	•	
+
+
+

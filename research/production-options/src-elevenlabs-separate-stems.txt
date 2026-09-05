@@ -1,0 +1,165 @@
+URL: https://elevenlabs.io/docs/api-reference/music/separate-stems.md
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:     7600
+----
+> This is a page from the ElevenLabs documentation. For a complete page index, fetch https://elevenlabs.io/docs/llms.txt. For the full documentation in a single file, fetch https://elevenlabs.io/docs/llms-full.txt.
+# Stem Separation
+POST https://api.elevenlabs.io/v1/music/stem-separation
+Content-Type: multipart/form-data
+Separate an audio file into individual stems. This endpoint might have high latency, depending on the length of the audio file.
+Reference: https://elevenlabs.io/docs/api-reference/music/separate-stems
+## Servers
+- `https://api.elevenlabs.io` (Production, default)
+- `https://api.us.elevenlabs.io` (Production US)
+- `https://api.eu.residency.elevenlabs.io` (Production EU)
+- `https://api.in.residency.elevenlabs.io` (Production India)
+- `https://api.sg.residency.elevenlabs.io` (Production Singapore)
+## Request
+### Query parameters
+- `output_format` (enum, optional) — Output format of the generated audio. Formatted as codec_sample_rate_bitrate. So an mp3 with 22.05kHz sample rate at 32kbs is represented as mp3_22050_32. MP3 with 192kbps bitrate requires you to be subscribed to Creator tier or above. PCM with 44.1kHz sample rate requires you to be subscribed to Pro tier or above. Note that the μ-law format (sometimes written mu-law, often approximated as u-law) is commonly used for Twilio audio inputs.
+ - Allowed values: `mp3_22050_32`, `mp3_24000_48`, `mp3_44100_32`, `mp3_44100_64`, `mp3_44100_96`, `mp3_44100_128`, `mp3_44100_192`, `pcm_8000`, `pcm_16000`, `pcm_22050`, `pcm_24000`, `pcm_32000`, `pcm_44100`, `pcm_48000`, `ulaw_8000`, `alaw_8000`, `opus_48000_32`, `opus_48000_64`, `opus_48000_96`, `opus_48000_128`, `opus_48000_192`
+### Body (multipart/form-data)
+- `file` (file, required) — The audio file to separate into stems.
+- `stem_variation_id` (enum, optional) — The id of the stem variation to use.
+- `sign_with_c2pa` (boolean, optional) — Whether to sign the generated song with C2PA. Applicable only for mp3 files.
+## Response
+### 200
+ZIP archive containing separated audio stems. Each stem is provided as a separate audio file in the requested output format.
+- File download.
+## Examples
+**Request**
+```json
+{
+ "file": " "
+}
+```
+**SDK Code**
+```typescript
+import { ElevenLabsClient } from "@elevenlabs/elevenlabs-js";
+async function main() {
+ const client = new ElevenLabsClient();
+ await client.music.separateStems({});
+}
+main();
+```
+```python
+from elevenlabs import ElevenLabs
+client = ElevenLabs()
+client.music.separate_stems(
+ file="example_file",
+)
+```
+```go
+package main
+import (
+ "fmt"
+ "strings"
+ "net/http"
+ "io"
+)
+func main() {
+ url := "https://api.elevenlabs.io/v1/music/stem-separation"
+ payload := strings.NewReader("-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"file\"; filename=\"string\"\r\nContent-Type: application/octet-stream\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"sign_with_c2pa\"\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"stem_variation_id\"\r\n\r\n\r\n-----011000010111000001101001--\r\n")
+ req, _ := http.NewRequest("POST", url, payload)
+ req.Header.Add("Content-Type", "multipart/form-data; boundary=---011000010111000001101001")
+ res, _ := http.DefaultClient.Do(req)
+ defer res.Body.Close()
+ body, _ := io.ReadAll(res.Body)
+ fmt.Println(res)
+ fmt.Println(string(body))
+}
+```
+```ruby
+require 'uri'
+require 'net/http'
+url = URI("https://api.elevenlabs.io/v1/music/stem-separation")
+http = Net::HTTP.new(url.host, url.port)
+http.use_ssl = true
+request = Net::HTTP::Post.new(url)
+request["Content-Type"] = 'multipart/form-data; boundary=---011000010111000001101001'
+request.body = "-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"file\"; filename=\"string\"\r\nContent-Type: application/octet-stream\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"sign_with_c2pa\"\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"stem_variation_id\"\r\n\r\n\r\n-----011000010111000001101001--\r\n"
+response = http.request(request)
+puts response.read_body
+```
+```java
+import com.mashape.unirest.http.HttpResponse;
+import com.mashape.unirest.http.Unirest;
+HttpResponse response = Unirest.post("https://api.elevenlabs.io/v1/music/stem-separation")
+ .header("Content-Type", "multipart/form-data; boundary=---011000010111000001101001")
+ .body("-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"file\"; filename=\"string\"\r\nContent-Type: application/octet-stream\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"sign_with_c2pa\"\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"stem_variation_id\"\r\n\r\n\r\n-----011000010111000001101001--\r\n")
+ .asString();
+```
+```php
+ request('POST', 'https://api.elevenlabs.io/v1/music/stem-separation', [
+ 'multipart' => [
+ [
+ 'name' => 'file',
+ 'filename' => 'string',
+ 'contents' => null
+ ]
+ ]
+]);
+echo $response->getBody();
+```
+```csharp
+using RestSharp;
+var client = new RestClient("https://api.elevenlabs.io/v1/music/stem-separation");
+var request = new RestRequest(Method.POST);
+request.AddParameter("multipart/form-data; boundary=---011000010111000001101001", "-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"file\"; filename=\"string\"\r\nContent-Type: application/octet-stream\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"sign_with_c2pa\"\r\n\r\n\r\n-----011000010111000001101001\r\nContent-Disposition: form-data; name=\"stem_variation_id\"\r\n\r\n\r\n-----011000010111000001101001--\r\n", ParameterType.RequestBody);
+IRestResponse response = client.Execute(request);
+```
+```swift
+import Foundation
+let headers = ["Content-Type": "multipart/form-data; boundary=---011000010111000001101001"]
+let parameters = [
+ [
+ "name": "file",
+ "fileName": "string"
+ ],
+ [
+ "name": "sign_with_c2pa",
+ "value": 
+ ],
+ [
+ "name": "stem_variation_id",
+ "value": 
+ ]
+]
+let boundary = "---011000010111000001101001"
+var body = ""
+var error: NSError? = nil
+for param in parameters {
+ let paramName = param["name"]!
+ body += "--\(boundary)\r\n"
+ body += "Content-Disposition:form-data; name=\"\(paramName)\""
+ if let filename = param["fileName"] {
+ let contentType = param["content-type"]!
+ let fileContent = String(contentsOfFile: filename, encoding: String.Encoding.utf8)
+ if (error != nil) {
+ print(error as Any)
+ }
+ body += "; filename=\"\(filename)\"\r\n"
+ body += "Content-Type: \(contentType)\r\n\r\n"
+ body += fileContent
+ } else if let paramValue = param["value"] {
+ body += "\r\n\r\n\(paramValue)"
+ }
+}
+let request = NSMutableURLRequest(url: NSURL(string: "https://api.elevenlabs.io/v1/music/stem-separation")! as URL,
+ cachePolicy: .useProtocolCachePolicy,
+ timeoutInterval: 10.0)
+request.httpMethod = "POST"
+request.allHTTPHeaderFields = headers
+request.httpBody = postData as Data
+let session = URLSession.shared
+let dataTask = session.dataTask(with: request as URLRequest, completionHandler: { (data, response, error) -> Void in
+ if (error != nil) {
+ print(error as Any)
+ } else {
+ let httpResponse = response as? HTTPURLResponse
+ print(httpResponse)
+ }
+})
+dataTask.resume()
+```

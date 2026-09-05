@@ -1,0 +1,212 @@
+URL: https://www.attackmagazine.com/technique/tutorials/the-ultimate-delay-guide/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 276756
+----
+Attack Magazine
+Menu
+	•	News
+	•	Technique Technique
+	◦	All
+	◦	Hardware Focus
+	◦	Modular Synthesis
+	◦	Tutorials
+	◦	Beat Dissected
+	◦	Synth Secrets
+	◦	Deconstructed
+	◦	Passing Notes
+	◦	The Breakdown
+	◦	Video Tutorials
+	◦	Help
+	•	←  
+	•	Features Features
+	◦	All
+	◦	Long Reads
+	◦	Podcasts
+	◦	Interviews
+	◦	My Studio
+	◦	Track By Track
+	◦	Show & Tell
+	◦	Top Tracks
+	◦	Q&A
+	◦	Columns
+	◦	Job Envy
+	◦	Introducing...
+	◦	Quizzes
+	•	←  
+	•	Reviews Reviews
+	◦	All
+	◦	The Best...
+	◦	Gear/Software
+	◦	Books/DVDs
+	•	←  
+	•	Charts
+	•	Store
+Facebook X YouTube Instagram TikTok
+Facebook X YouTube Instagram TikTok
+SUBSCRIBE
+Search
+
+
+
+Technique » Tutorials »
+The Ultimate Delay Guide
+Share
+Facebook Twitter WhatsApp
+
+Delay may not be as complicated as some other kinds of effects but there’s still a number of things to keep straight. We take the guesswork out of choosing the right delay for your project.
+Delay – sometimes called echo – is an indispensable effect in music production. Along with reverb, it’s one of the main ways we add a sense of space and depth to a mix. While delay isn’t as multifaceted and hard to understand as, say, compressors, knowing what kind of delay to use and when can be tricky if you don’t have all of your terminology down.
+In this beginner’s guide, we’ll explore what delay is, the different kinds of delay, and ideas for when to best use them. We’ll also provide some audio examples to help illustrate the point. Click on any image for a larger version. Note that we won’t be talking about modulation effects like flange or chorus in this guide. Although they are technically delays, they fulfil a different need than traditional delays.
+And now, without further delay (ahem), our delay guide.
+Lekharna Prague
+What Is Delay?
+Delay is a time-based audio effect that recreates the phenomenon of a sound bouncing off a hard surface and then returning to the ear. Stand in an open space near a building. If you shout towards the building you should hear it reflected back at you. Contrast this with reverb, which is the same idea but the number of delays has increased so much we perceive it as a wash of sound.
+
+LEARN MORE ABOUT H-DELAY
+Compared to some other effect types, traditional delays don’t tend to have a lot of control parameters. Here are the main ones.
+	•	Delay time: This determines the speed of delay, or how often it repeats. This can be measured in milliseconds or musical beats and can often be synced to a host tempo.
+	•	Feedback: Feedback controls how long the delays continue. High feedback settings can result in self-oscillation, an effect that sounds much like guitar feedback.
+	•	Modulation: Some delay units will have modulation controls to add movement to the delay. This is usually separated into depth and rate (speed) settings.
+	•	Filters: Delays may also have a filter to EQ out portions of the audio spectrum that you don’t want to be affected.
+
+Using Delay
+Delay can be used as an insert effect on the channel itself or as a send effect for group processing. As most delay plugins these days have dry/wet blend knobs, the decision of where to put the delay is largely down to the effect you’re after. You may want a clean delay on a send so it can be applied to a variety of instruments, offering a sense of cohesion to the mix. Or, you may be after some character for just a vocal or lead. In that case, you’d want to put a tape delay directly on the channel.
+
+Insert effects are also useful for dub-style punch-in delays, where instead of a wash of heavy delay across the instrument, it pops up at strategically chosen times, such as to catch just a word or note. This can be done with automation or by duplicating the track and then deleting everything other than the part you want to dub out.
+
+Types Of Delay
+There are three main types of delay all based on the hardware that is used to deliver the effect: tape, analogue and digital. Nowadays, everything can be had in plugin form but it can be useful to understand the characteristics and limitations of the original medium to get the most out of the effect. The remaining four aren’t tied to any one type of delay (although they may be associated with one over the others). They’re more techniques or ways to expand on possibilities.
+Tape Delay
+The first delays were made using tape machines and loops of magnetic tape. The sound was recorded onto the tape by the record head and then played back via the play head. The time it took for the audio to be recorded and then played back determined the speed of the delay. Engineers added speed control and multiple play heads for multitap delays (see below). Eventually dedicated tape delay machines were released. The most famous is the Roland RE-201 although there were many different kinds.
+
+Tape delays have a dark and saturated sound due to the magnetic tape used. They sound glorious when pushed into self-oscillation as well. They were favoured by dub producers in the 1970s and continue to be popular to this day.
+Good for: vocals, drums or anything you want to add a vibe to
+We’re using Waves’ J37 Tape plugin in delay mode. We’re using the feedback type of delay with the Time parameter synced to 1/16. The tape emulation of the plugin is adding plenty of saturation and character.
+Here’s the dry drum loop:
+
+And now with tape delay:
+
+
+LEARN MORE ABOUT J37
+
+Analogue Bucket Brigade Delay
+The next evolution in delay technology was the so-called bucket brigade delay, an analogue effect developed by Philips Research Laboratories. A captured audio signal is pushed through a series of capacitors in a chip, picking up a delay with each capacitor. This is much like a series of buckets of water being passed down a line to put out a fire, hence the name. Since this could all happen on a chip, analogue delays could be much smaller than bulky tape delays, appearing in stompboxes and desktop effects units.
+
+While less saturated than tape, analogue delays still have a characteristic sound that they impart on the signal. Each capacitor adds imperfections and colour and there’s a degree of filtering employed to suppress unwanted noise naturally generated by the process. This results in a dark but smooth delay sound that adds a warm contrast to the original signal.
+Good for: keys, background percussion, mid-bass sounds
+To demonstrate an analogue delay, we’ve got Waves’ multipurpose H-Delay. It can do almost any kind of delay. To get it sounding like an old hardware BBD, we set the Analog Mode 2 and engage the LoFi button. We also adjust the filters to focus the delays on the mids – remember, hardware analogue delays had lots of filtering in the circuit so they couldn’t do crispy highs like a digital delay. Finally, we set the delay knob to 1/8 and a Feedback of around 44.
+Here’s a bright synth pad:
+
+And now with H-Delay adding BBD-style echoes.
+
+
+LEARN MORE ABOUT H-DELAY
+
+Digital Delay
+As with most other forms of technology, the next step was digital – in this case, digital recreations of bucket brigade delays. In the early 1970s, Eventide (then known as Eventide Clock Works) released the DDL 1745, a prohibitively expensive hardware digital delay that could barely manage 200 milliseconds of delay. As the decade wore on, and the price of technology fell, more hardware digital delays hit the market. By the ‘80s, you could get digital delay stompboxes and loopers, which used sound-on-sound techniques to create infinite loops.
+
+Although the sound was cleaner than the analogue version, digital delays were not 100% transparent either, with low bit rates, aliasing, and other artefacts adding to the ‘dirtiness’ of the sound. Modern digital delays can be quite clean and transparent although there is something to be said for the crunch and grit of a legacy delay unit.
+Good for: vocals, percussion, synths, just about anything
+Digital delays are especially useful for creating tight, metallic sounds. We’re using H-Delay again, this time with Analog mode off as we’re replicating digital hardware. We set the Delay time extremely fast – only 11ms – and adjust the Feedback until it starts to get hairy.
+A dry percussion loop from Ableton Live:
+
+And now with digital delay:
+
+
+LEARN MORE ABOUT H-DELAY
+
+Ping-Pong Delay
+A ping-pong delay is essentially a stereo delay. Rather than all of the delays occurring in mono, in a ping-pong delay the repeats alternate from left to right across the stereo spectrum. This can be a useful way to add width to a sound.
+Good for: filling out the stereo spectrum on keys, vocals, and percussion
+We use Waves H-Delay to add some ping-pong delay to a Rhodes sample from Splice, ‘sm_dfk_120_Am9_gettingbacktogether_dry’ from the Disco & Funk Keys pack.
+The original, dry sample:
+
+And with ping-pong delay:
+
+
+
+Multitap Delay
+Most delays offer one delay line. Mutitaps offer (you guessed it) multiple delay lines. The benefit here is that you can set each line to a separate speed or beat division, allowing for uniquely rhythmic repeats. Multitaps often offer panning of taps as well.
+Good for: rhythmic variation
+For our multitap demonstration, we’re using Waves’ SuperTap. It has six delay lines and the timing on each can be adjusted individually. We can also tweak the pan position of each tap as well as its gain.
+A dry and rather uninteresting rhythmic loop:
+
+Now with multitap delay creating a cascading delay effect:
+
+
+LEARN MORE ABOUT SUPER TAP
+
+Dub Delay
+Dub delay is less a technique than a full-on production vibe. Dub producers in the ‘70s found that by running vocals, guitar and drum shots through tape echo with lots of feedback they could create psychedelic soundscapes with delay. Dub delay sounds best with dark tape delays but the heavy use of echo could work with analogue and delay types too.
+Good for: dub techno, dub reggae and anything trippy
+We’ve got H-Delay loaded up on the same channel as the multitap delay but with fewer of the original sample so we can hear the plugin do its thing. To create a dub effect, we have Analog mode on setting 4 and the LoFi button engaged. We’ve also added some modulation to create the feel of unstable tape. We set the delay knob to 373ms (it sounds wonkier than synced to DAW tempo) with a good helping of Feedback to fill in the spaces between samples.
+The dry sample:
+
+And with dub delay:
+
+
+
+Slapback Delay
+Slapback was one of the first delay techniques invented. Essentially a single, short delay done with early tape delay machines, this was a popular effect on the first generation of rock ’n’ roll records. Use it on vocals, drums or rhythmic instruments for a retro feel.
+Good for: vocals, drums
+We’re back with Waves’ J37 Tape for the slapback. The controls are simple: just hit the Slap button and adjust the level of the delay. Triplet eighth-notes sounds the best with this tempo.
+The dry break:
+
+And with slapback delay:
+
+
+*Attack Magazine is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Learn more.
+FOLLOW ATTACK MAGAZINE
+Facebook X YouTube Instagram SoundCloud
+While You’re Here…
+If you like this tutorial you might enjoy our book The Secrets of Dance Music Production. It is available from the Attack store!
+
+
+VIEW MORE
+Related
+Author Adam Douglas  30th December, 2021
+Previous
+Tutorials - Learn How To Produce Disco Using Toontrack
+Next
+Tutorials - Limiting For Streaming With AI And Sonible smart:limit
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+Comment *
+Name *
+Email *
+
+
+
+© 2026 Attack Magazine
+	•	About us
+	•	Jobs
+	•	Shipping
+	•	Contact
+	•	Privacy
+	•	Advertise
+	•	Write for Attack
+Facebook X YouTube Instagram TikTok
+
+	•	
+
+A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+
+
+
+
+
+You currently have an ad blocker installed
+Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software.
+Find out how
+x
+
+Close
+
+Previous
+
+
+Next
+
+
+

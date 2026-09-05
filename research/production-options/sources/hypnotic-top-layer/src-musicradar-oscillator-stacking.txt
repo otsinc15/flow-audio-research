@@ -1,0 +1,177 @@
+URL: https://www.musicradar.com/how-to/how-to-create-evolving-ambient-pads-with-oscillator-stacking
+Fetched: 2026-09-05
+---
+How to create evolving ambient pads with oscillator stacking | MusicRadar 
+
+ Skip to main content 
+
+ Get the MusicRadar Newsletter 
+ Want all the hottest music and gear news, reviews, deals, features and more, direct to your inbox? Sign up here. 
+
+Contact me with news and offers from other Future brands
+
+Receive email from us on behalf of our trusted partners or sponsors
+
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+
+ You are now subscribed 
+ Your newsletter sign-up was successful 
+
+ An account already exists for this email address, please log in. 
+
+ How to create evolving ambient pads with oscillator stacking 
+
+Tuition
+
+By
+ Future Music 
+
+Published
+
+22 June 2017
+
+ By layering multiple oscillators and modulating each at a slow rate, you can quickly generate blissful ambience… 
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works .
+
+Share 
+
+Copy link
+
+Facebook
+
+X
+
+Whatsapp
+
+Pinterest
+
+Flipboard
+
+Email
+
+Share this article
+
+Join the conversation
+
+Follow us
+
+Add us as a preferred source on Google
+
+Newsletter
+
+Subscribe to our newsletter
+
+ The key to working real size, density and motion into any synthesised pad sound lies in oscillator layering and modulation. By stacking multiple source signals, the tonal range of a patch becomes expansive and frequency-rich, while getting those oscillators moving independently imbues the whole sound with movement and dynamism. In this tutorial, we'll show you how to build a rich, evocative ambient texture using one of the most stackable synths around: VPS Avenger. Latest Videos From MusicRadar Watch full video here: For many more power synth programming walkthroughs, get hold of the May edition of Future Music . 
+
+ Step 1: Many modern synths let you pile up multiple oscillators, combine synthesis types and dial in uber-thick unison features. To demonstrate, we’ll create a complex ambient pad with Vengeance-Sound’s insanely powerful VPS Avenger. We start by triggering the synth with a basic C minor triad. 
+
+ You may like
+
+ How to use reverb to build impressive-sounding filters, reverses, risers and pads 
+
+ How to emulate one of Jon Hopkins' signature sonic techniques with plugins 
+
+ How to replicate the sample-based sonics of a gnarly Prodigy classic 
+
+ Step 2: Let’s set up the first oscillator as the core evolving element of the pad. After dialling in some ultra-thick five-voice unison detune, we audition the synth’s wavetable oscillators, settling on an organ-style wavetable. A free-running LFO is used to modulate the wavetable index for a constantly evolving timbre. 
+
+ Step 3: Next, a contrasting wavetable type is called up as the second oscillator. A different free-running LFO - this time set to a more jagged curve shape - slowly modulates this oscillator’s wavetable index. The same LFO also modulates this oscillator’s level for more motion. Get the MusicRadar Newsletter Want all the hottest music and gear news, reviews, deals, features and more, direct to your inbox? Sign up here. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors 
+
+ Step 4: A third, sine wave oscillator is then used to provide basic solidity and consistency in the low-mids. After that, we program a fourth wavetable oscillator via the synth’s tempo-synced step sequencer, to provide a rhythmic ‘blip’ pattern that rides above the floatier elements. 
+
+ Step 5: Let’s add further movement. The jagged LFO from Step 3 is used to modulate the sequenced oscillator’s FM amount, which gently morphs the rhythmic blips in and out of a state of inharmonic noise for added high-end texture. The same LFO also subtly wobbles the overdriven low-pass filter cutoff. 
+
+ Step 6: Finally, we call upon Avenger’s plentiful effects for a splash of character: the Vinylizer module mixes in vinyl crackle and noise; Chorus adds swimming width; a Bitcrusher fades in treble fuzz and grit; and some ping-pong Delay injects ambience and lush repeats. 
+
+Future Music
+
+ Future Music is the number one magazine for today's producers. Packed with technique and technology we'll help you make great new music. All-access artist interviews, in-depth gear reviews, essential production tutorials and much more. Every marvellous monthly edition features reliable reviews of the latest and greatest hardware and software technology and techniques, unparalleled advice, in-depth interviews, sensational free samples and so much more to improve the experience and outcome of your music-making. 
+
+ Read more 
+
+ Music Production Tutorials 
+
+ How to use reverb to build impressive-sounding filters, reverses, risers and pads 
+
+ Artists 
+
+ How to emulate one of Jon Hopkins' signature sonic techniques with plugins 
+
+ Artists 
+
+ How to replicate the sample-based sonics of a gnarly Prodigy classic 
+
+ Plugins 
+
+ How to get recognisable pop sounds and effects using only Logic’s stock plugins 
+
+ Artists 
+
+ How to get Radiohead’s resonant National Anthem vocal effect in software 
+
+ Guitars 
+
+ Introducing Textures, the granular synth pedal from MXR that dreamy ambient tones are made of 
+
+ Latest in Synths 
+
+ Keyboards & Pianos 
+
+ The 13-note Orphea is the one-octave synth and MIDI keyboard that fits in the palm of your hand 
+
+ Artists 
+
+ How going back to her Korg M1 demo helped Donna Lewis to create one of the biggest US hits of 1996 
+
+ Tech 
+
+ “Analogue is better than digital, Behringer gear is garbage and your cheap-ass monitors are ruining your mixes”: 10 of the most enduring music tech myths busted 
+
+ Digital Synths 
+
+ “An exceptionally accurate model of the original Prophet, with a clutch of incredibly useful enhancements”: GForce Prophet-5 review 
+
+ Synths 
+
+ “A fantastic-sounding instrument, with the concept of the supersaw placed at the very core of its makeup”: Native Instruments SuperStarSaw review 
+
+ Synths 
+
+ “A worthy successor – but unlikely to become as iconic as its predecessor”: Korg MicroKorg 2 review 
+
+ Latest in Tuition 
+
+ Music Theory And Songwriting 
+
+ 10 music theory tricks every producer and songwriter should know 
+
+ Keyboards & Pianos 
+
+ Here's everything you need to know about keyboard sizes but were afraid to ask 
+
+ Music Production Tutorials 
+
+ How to use a mixing console 
+
+ Artists 
+
+ How to get Radiohead’s resonant National Anthem vocal effect in software 
+
+ Music Production Tutorials 
+
+ Build your own expressive talkbox with plugins 
+
+ Artists 
+
+ How to emulate one of Jon Hopkins' signature sonic techniques with plugins 
+
+ Close 
+
+Please login or signup to comment
+
+ Please wait... 
+
+Login
+
+Sign Up

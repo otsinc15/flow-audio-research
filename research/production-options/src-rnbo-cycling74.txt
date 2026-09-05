@@ -1,0 +1,35 @@
+URL: https://rnbo.cycling74.com/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:   395530
+----
+RNBO | Cycling '74 
+ Learn 
+ Explore 
+ Reference 
+ Learn Explore Reference 
+ Object Reference
+ Objects & Operators 
+ Codebox Operators 
+ API Reference
+ C++ API Reference 
+ JavaScript API Reference 
+ RNBO
+ A library and toolchain that can take Max-like patches, export them as portable code, and directly compile that code to targets like a VST, a Max External, or a Raspberry Pi.
+ RNBO lets you export the work you do in Max. The goal with RNBO is to give you the best of Max—rapid iteration, creative exploration—with the freedom to take the resulting work and use it outside of Max.
+ Without writing any code, you could export an audio plugin that will run in another Digital Audio Workstation or run your RNBO patch on a Raspberry Pi. You can also export to C++ or Web Assembly code for your desktop, mobile, or web applications.
+ Get Started
+ Check out what you can do with RNBO
+ Learning Synths and RNBO
+ See how RNBO helped the Learning Music team at Ableton to make an online, interactive playground for learning how synthesizers work.
+ RNBO Quickstart
+ Export your first VST audio plugin with RNBO Quickstart.
+ Guitar Pedals Package
+ Check out the RNBO Guitar Pedals package to explore classic effects implemented as export-ready RNBO patches.
+ Raspberry Pi Export
+ Learn how to export to a Raspberry Pi and build your own portable, MIDI instrument.
+ Quick Links
+ Resources Versions 
+ Other Resources
+ cycling74.com RNBO FAQ 
+ Terms and Conditions Privacy Policy © 2022 Cycling '74

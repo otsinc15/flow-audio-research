@@ -1,0 +1,55 @@
+URL: https://www.rolandcloud.com/legal/eula
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 17642
+----
+Roland Cloud 
+
+ Skip to Content 
+
+ Toggle navigation 
+
+ Shop 
+
+ News 
+
+ Memberships 
+
+ Support 
+
+ About 
+
+ Roland Cloud Manager 
+
+ My Account 
+
+ Sign Out 
+
+ Roland Cloud Manager 
+ My Account 
+
+ Not Found - 404
+
+ Contact Us 
+
+ News 
+
+ Support 
+
+ Policies 
+
+ About Us 
+
+ © . Roland Cloud. All Rights Reserved.
+
+ × 
+ Choose Language
+
+ English - United States 
+
+ Japanese - Japan 
+
+ Spanish - Mexico 
+
+ Version 2.1.0.26786

@@ -1,0 +1,17 @@
+URL: https://pypi.org/pypi/supriya/json
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 1400215
+----
+name: supriya
+latest version: 26.8b0
+license: None
+license classifiers: 
+requires_python: >=3.10
+summary: A Python API for SuperCollider
+home_page: None project_urls: {'documentation': 'https://supriya-project.github.io/supriya', 'homepage': 'https://github.com/supriya-project/supriya', 'repository': 'https://github.com/supriya-project/supriya'}
+--- macOS arm64 wheels for latest version ---
+(no macosx wheels)
+(total files in 26.8b0: 2; sdist present: True)
+upload_time of latest: ['2026-08-25T07:44:53']

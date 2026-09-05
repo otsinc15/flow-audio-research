@@ -1,0 +1,922 @@
+URL: https://www.kvraudio.com/forum/viewtopic.php?t=494912
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 178692
+----
+Certain mid 90's kick drum - Sound Design Forum - KVR Audio 
+
+ Sign In Create Account 
+ News #KVRDeals & Giveaways Instruments Effects Hosts Soundware Mobile Hardware Free Developer Tools Education, Training, Tutorials, etc. Offers, Competitions & Events NAMM News Archive (by month) 
+
+ Plugins, Apps, Sounds, etc. KVR Marketplace What's New? Search Developers / Brands Product Reviews Product Rankings Product Ratings Groups: Whats's in? Patches & Presets Downloads & Uploads 
+
+ Marketplace 
+
+ Forum My My Forums Edit 
+
+ LP All Search the forum Unanswered Posts 
+
+ MyKVR 0 KVR Studio Manager (Beta) Articles, Interviews, Reviews & More Newsletters, Giveaways, Social & RSS KVR Marketplace News KVR Audio Weekly Newsletter KVRDeals Newsletter Giveaways Facebook Bluesky Instagram YouTube X / Twitter RSS Feeds 
+
+ Special Events KVR Developer Challenge KVR Readers' Choice Awards KVR Guitar Month Polls & Surveys KVR Celebrates 10 Years (2010) 
+
+ Videos Music by KVR Members Contact, About, Submit & More Are you an Audio Software or Plugin Developer? Take control of your brand at KVR! How to Submit News, Plugins, etc. Advertise @ KVR Audio About / Contact Us Rules & FAQ Privacy Statement 
+
+ Products PDB Forum FRM LP Marketplace MP Deals What's New 
+ 0 0 items | $ 0.00 CHECKOUT 
+
+ Log In Create An Account 
+
+ KVR Audio
+
+ Pro Audio Forum - VST, AU, AAX Plugin and Audio Software Discussion
+
+ Skip to content 
+
+ Quick Forum Links 
+
+ Members 
+
+ The team 
+
+ FAQ 
+
+ KVR Extended FAQ & Rules 
+
+ RSS Feed of this forum 
+
+ Login 
+
+ Register 
+
+ KVR Forum index 
+
+ Sound Design 
+
+ Certain mid 90's kick drum 
+
+ How to make that sound...
+
+ Moderator: KVR Moderators (Main) 
+
+ Post Reply 
+
+ New Topic 
+
+ 29 posts
+ 
+ 1 
+
+ 2 
+
+ Next 
+
+ RELATED
+PRODUCTS Products related to this topic can be added here
+
+ Certain mid 90's kick drum 
+ 2017-11-20T16:58:15+00:00 
+ Ive been trying to recreate this kick drum for hours now, with no sucess. 
+
+It sounds like a simple kick but in fact to get it right has proven too hard.
+
+Making a hard kick normally isnt that hard, but this one has got me, because I cannot make it sound remotely as full. 
+
+Any help and guidance is appreciated, as this style of music is long since gone, but I have an itch to try to write some. But getting this kick is essential. 
+
+Kick comes in about 1:05 
+
+Thanks in advance. 
+
+ LeVzi 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=184424 
+
+ LeVzi LeVzi 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=184424 
+
+ Banned 
+
+ 4491 posts since 8 Jul, 2008 from UK
+
+ Post 
+ 
+ by LeVzi » Mon Nov 20, 2017 4:58 pm 
+
+ 0 
+
+ Quote 
+
+ Ive been trying to recreate this kick drum for hours now, with no sucess. 
+
+It sounds like a simple kick but in fact to get it right has proven too hard.
+
+Making a hard kick normally isnt that hard, but this one has got me, because I cannot make it sound remotely as full. 
+
+Any help and guidance is appreciated, as this style of music is long since gone, but I have an itch to try to write some. But getting this kick is essential. 
+
+Kick comes in about 1:05 
+
+Thanks in advance. 
+
+ Don't trust those with words of weakness, they are the most aggressive 
+
+ Top 
+
+ Ari-S Ari-S 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=328131 
+
+ KVRist 
+
+ 129 posts since 2 May, 2014 from The Netherlands
+
+ Post 
+ 
+ by Ari-S » Tue Nov 21, 2017 1:48 am 
+
+ 0 
+
+ Quote 
+
+ how about a low-passed 909 kick with heavy tape saturation?
+
+ Turn off your Brain & Turn on your Heart
+
+ Top 
+
+ andymcbain andymcbain 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=391657 
+
+ KVRian 
+
+ Contact andymcbain 
+
+ Facebook 
+
+ 631 posts since 10 Jan, 2017 
+
+ Contact: 
+
+ Contact andymcbain 
+
+ Facebook 
+
+ Post 
+ 
+ by andymcbain » Tue Nov 21, 2017 3:05 pm 
+
+ 0 
+
+ Quote 
+
+ As above I would suspect it's a straight up 909 with saturation - at the time it was probably a sample from a cheaper module just overdriven to f**k through an analogue desk.
+
+Experiment with saturation types - and also the tuning of the kick. 
+
+Good luck!
+
+ http://www.facebook.com/andymcbainmusic 
+
+ Top 
+
+ tedannemann tedannemann 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=373438 
+
+ KVRist 
+
+ 265 posts since 25 Jan, 2016 from in my DAW
+
+ Post 
+ 
+ by tedannemann » Tue Nov 21, 2017 3:24 pm 
+
+ 0 
+
+ Quote 
+
+ This type of kick was all over the place on sample cds in the 90s. Zero-G, Bestservice or Ueberschall comes to mind. For DIY stuff just search on YouTube for "how to make a hardstyle kick".
+
+ Top 
+
+ TIMT TIMT 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=202586 
+
+ KVRian 
+
+ 1081 posts since 8 Mar, 2009 
+
+ Post 
+ 
+ by TIMT » Wed Nov 22, 2017 6:59 am 
+
+ 0 
+
+ Quote 
+
+ It's a 909 clipped to death on a Soundcraft desk i knew Darren Mew (Styles of Force&Styles)was at least using a Soundcraft desk with his early Breeze and Styles stuff before he went completely ITB so i'd assume he was using some of the same gear for the early Force&Styles stuff too.all the UK Hardcore peeps had similar setups alternating between Soundcraft and Mackie desks and very few of them used actual drum machines(apart from maybe Scott Brown) and used mostly stock data disks that came with whatever sampler they had.Roland and early Akais were pretty popular with most of them.it's essentially the exact same method as to how the kicks were done in German Techno by the likes of Marc Acardipane and "2nd wave"Detroit Techno by Jeff Mills etc 909 driven hot into cheap transistor based desk
+
+ I
+
+ Top 
+
+ LeVzi LeVzi 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=184424 
+
+ Banned 
+
+ Topic Starter 
+
+ 4491 posts since 8 Jul, 2008 from UK
+
+ Post 
+ 
+ by LeVzi » Wed Nov 22, 2017 7:59 am 
+
+ 0 
+
+ Quote 
+
+ Thank you everyone i'll try the suggestions,
+
+but TIMT thats really interesting because yes its Darren and Pauls kick drum im trying to emulate. 
+
+Trying to find a clean sample of it is near impossible tbh, but a 909 overdriven and saturated is something i'll try. 
+
+Thanks 
+
+ Don't trust those with words of weakness, they are the most aggressive 
+
+ Top 
+
+ TIMT TIMT 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=202586 
+
+ KVRian 
+
+ 1081 posts since 8 Mar, 2009 
+
+ Post 
+ 
+ by TIMT » Wed Nov 22, 2017 11:51 am 
+
+ 0 
+
+ Quote 
+
+ tedannemann wrote: This type of kick was all over the place on sample cds in the 90s. Zero-G, Bestservice or Ueberschall comes to mind. For DIY stuff just search on YouTube for "how to make a hardstyle kick".
+
+Yeah,there was a sample cd put out by Brisk and Dougal i think for Zero-G that if i recall has a lot of those kind of overcooked 909 through a desk kicks
+
+ I
+
+ Top 
+
+ TIMT TIMT 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=202586 
+
+ KVRian 
+
+ 1081 posts since 8 Mar, 2009 
+
+ Post 
+ 
+ by TIMT » Wed Nov 22, 2017 11:57 am 
+
+ 0 
+
+ Quote 
+
+ LeVzi wrote: Thank you everyone i'll try the suggestions,
+
+but TIMT thats really interesting because yes its Darren and Pauls kick drum im trying to emulate. 
+
+Trying to find a clean sample of it is near impossible tbh, but a 909 overdriven and saturated is something i'll try. 
+
+Thanks 
+
+If you can find some vinyl rips on Juno etc of early Scott Brown tunes like really early in the Evolution Records or Twisted Vinyl,Bouncy Techno catalogue, a lot of them started off with essentially just the similarly processed 909 kicks (through a Mackie 8bus and VLZ in his case)and almost nothing else you can try swiping a few from there.another good contender would be a lot of the earlier Dutch Hardcore records like Forze,Rotterdam Records and TerrorTrax.they all start off with essentially just distorted kickdrums in a lot of cases too.one of them is bound to be very similar in processing to the Force&Styles example
+
+Had a quick play in Sytrus ended up having to stick with the really punchy 909 because i couldn't get the more relaxed envelope to sound right without sounding like a generic synth kick so it's rather in a similar vein than being a close match 
+
+it's all in Sytrus,no external FX
+
+ https://clyp.it/dt2xbtzt 
+
+i'll go into more detail if its round abouts what you was after
+
+ I
+
+ Top 
+
+ andymcbain andymcbain 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=391657 
+
+ KVRian 
+
+ Contact andymcbain 
+
+ Facebook 
+
+ 631 posts since 10 Jan, 2017 
+
+ Contact: 
+
+ Contact andymcbain 
+
+ Facebook 
+
+ Post 
+ 
+ by andymcbain » Wed Nov 22, 2017 2:29 pm 
+
+ 0 
+
+ Quote 
+
+ TIMT wrote: It's a 909 clipped to death on a Soundcraft desk i knew Darren Mew (Styles of Force&Styles)was at least using a Soundcraft desk with his early Breeze and Styles stuff before he went completely ITB so i'd assume he was using some of the same gear for the early Force&Styles stuff too.all the UK Hardcore peeps had similar setups alternating between Soundcraft and Mackie desks and very few of them used actual drum machines(apart from maybe Scott Brown) and used mostly stock data disks that came with whatever sampler they had.Roland and early Akais were pretty popular with most of them.it's essentially the exact same method as to how the kicks were done in German Techno by the likes of Marc Acardipane and "2nd wave"Detroit Techno by Jeff Mills etc 909 driven hot into cheap transistor based desk
+
+It's great hearing insider knowledge on the more underground dance styles. Thanks for sharing 
+
+ http://www.facebook.com/andymcbainmusic 
+
+ Top 
+
+ LeVzi LeVzi 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=184424 
+
+ Banned 
+
+ Topic Starter 
+
+ 4491 posts since 8 Jul, 2008 from UK
+
+ Post 
+ 
+ by LeVzi » Thu Nov 23, 2017 7:46 am 
+
+ 0 
+
+ Quote 
+
+ TIMT wrote: LeVzi wrote: Thank you everyone i'll try the suggestions,
+
+but TIMT thats really interesting because yes its Darren and Pauls kick drum im trying to emulate. 
+
+Trying to find a clean sample of it is near impossible tbh, but a 909 overdriven and saturated is something i'll try. 
+
+Thanks 
+
+If you can find some vinyl rips on Juno etc of early Scott Brown tunes like really early in the Evolution Records or Twisted Vinyl,Bouncy Techno catalogue, a lot of them started off with essentially just the similarly processed 909 kicks (through a Mackie 8bus and VLZ in his case)and almost nothing else you can try swiping a few from there.another good contender would be a lot of the earlier Dutch Hardcore records like Forze,Rotterdam Records and TerrorTrax.they all start off with essentially just distorted kickdrums in a lot of cases too.one of them is bound to be very similar in processing to the Force&Styles example
+
+Had a quick play in Sytrus ended up having to stick with the really punchy 909 because i couldn't get the more relaxed envelope to sound right without sounding like a generic synth kick so it's rather in a similar vein than being a close match 
+
+it's all in Sytrus,no external FX
+
+ https://clyp.it/dt2xbtzt 
+
+i'll go into more detail if its round abouts what you was after
+
+Thanks, I actually have the Brisk and Dougal sample pack, at least I remember now I do, as I forgot. I'll check through it. I have a few sample packs I bought from the hardcore lads, I have a slipmatt and bunter one, but there is no kick like the force & styles kick. Their kick almost sounds like a distorted Tom drum to me too, very punch, bouncy, almost slap like. A lot of that era hardcore used similar, so recreating it is going to be hard unless I get a sample. Going through all my old tracks, you are right about that, there are plenty that just opened with a kick that is similar, but most are vinyl rips and not of the best quality.
+
+ Don't trust those with words of weakness, they are the most aggressive 
+
+ Top 
+
+ TIMT TIMT 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=202586 
+
+ KVRian 
+
+ 1081 posts since 8 Mar, 2009 
+
+ Post 
+ 
+ by TIMT » Thu Nov 23, 2017 9:21 am 
+
+ 0 
+
+ Quote 
+
+ LeVzi wrote: TIMT wrote: LeVzi wrote: Thank you everyone i'll try the suggestions,
+
+but TIMT thats really interesting because yes its Darren and Pauls kick drum im trying to emulate. 
+
+Trying to find a clean sample of it is near impossible tbh, but a 909 overdriven and saturated is something i'll try. 
+
+Thanks 
+
+If you can find some vinyl rips on Juno etc of early Scott Brown tunes like really early in the Evolution Records or Twisted Vinyl,Bouncy Techno catalogue, a lot of them started off with essentially just the similarly processed 909 kicks (through a Mackie 8bus and VLZ in his case)and almost nothing else you can try swiping a few from there.another good contender would be a lot of the earlier Dutch Hardcore records like Forze,Rotterdam Records and TerrorTrax.they all start off with essentially just distorted kickdrums in a lot of cases too.one of them is bound to be very similar in processing to the Force&Styles example
+
+Had a quick play in Sytrus ended up having to stick with the really punchy 909 because i couldn't get the more relaxed envelope to sound right without sounding like a generic synth kick so it's rather in a similar vein than being a close match 
+
+it's all in Sytrus,no external FX
+
+ https://clyp.it/dt2xbtzt 
+
+i'll go into more detail if its round abouts what you was after
+
+Thanks, I actually have the Brisk and Dougal sample pack, at least I remember now I do, as I forgot. I'll check through it. I have a few sample packs I bought from the hardcore lads, I have a slipmatt and bunter one, but there is no kick like the force & styles kick. Their kick almost sounds like a distorted Tom drum to me too, very punch, bouncy, almost slap like. A lot of that era hardcore used similar, so recreating it is going to be hard unless I get a sample. Going through all my old tracks, you are right about that, there are plenty that just opened with a kick that is similar, but most are vinyl rips and not of the best quality.
+
+It's not the tom,it's definitely the 909 kick on its more relaxed setting.not the signature "pwew pwew"kind of pitch envelope,but the one that is mid way between that and an 808.the rest is the desk distortion with either lowshelving with a Q or a highpass filter.the Mackies don't have resonant highpass filters and i don't believe the Soundcraft mixers do either so it's probably a low shelf fashioned into a highpass filter,by cutting with it and either using the Q or a peak band to provide the would be resonance of a highpass filter.transistor desk distortion is a bit weird when you go a bit mad with it starts doing something akin to wavefolding which what you sort of hear there on that Force&Styles kicks release,well it has some semblance of rectifying too.the kick itself is probably pretty thin and it's likely the clap which is making up for an absence of transient/attack and the distance between the kick and the offbeat bass is what provides that old skool "bounce"at that tempo.it's not completely quantized they played with sample start points and fades to get a sort of reverse like quality into the kick (not a blatant reverse,but the effect of one when the 2 envelopes play within split hairs of one another)sometimes the rimshot is layered in there as well as the clap and CHH of the 909 but it's not the case in this track,it's just the 909 kick,clap
+
+So,the recipe is essentially kick+clap on a mixer track or buss,lowshelf filter with high Q and or peak/bell filter round about the stopband of the lowshelf(before the clipping),murder through transistor based clipping(hard clipping essentially),eq again (similar to the first settings with some dip around 180-200hz and 800-2000hz in the case of your example)perhaps record it,rinse it through the same chain,repeat till happy
+
+I've not found many(read none) distortion plugins that go to these lengths of clipping though and not sound just plain horrible,plastic,thin etc etc,so good luck with that part 
+
+ I
+
+ Top 
+
+ LeVzi LeVzi 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=184424 
+
+ Banned 
+
+ Topic Starter 
+
+ 4491 posts since 8 Jul, 2008 from UK
+
+ Post 
+ 
+ by LeVzi » Thu Nov 23, 2017 11:03 am 
+
+ 0 
+
+ Quote 
+
+ Im probably gonna run with Ohmcide or Devastor for distortion, I have some nice 909 samples to work with, can fatten them up like the old scottish bouncy techno kick, but seems to "tinny" for this force & styles kick. 
+
+Was quite a common kick in that mid to late 90's era, must be a track with a clean kick sample somewhere so at least I can hear it better. 
+
+Really interesting reading your chain , using the clap for the high end of it, or maybe cutting and distorting just the top end of a 909 and layering it ?
+
+ Don't trust those with words of weakness, they are the most aggressive 
+
+ Top 
+
+ Oden Oden 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=242532 
+
+ KVRist 
+
+ 236 posts since 30 Oct, 2010 
+
+ Post 
+ 
+ by Oden » Sat Nov 25, 2017 1:14 pm 
+
+ 0 
+
+ Quote 
+
+ TIMT wrote: It's a 909 clipped to death on a Soundcraft desk i knew Darren Mew (Styles of Force&Styles)was at least using a Soundcraft desk with his early Breeze and Styles stuff before he went completely ITB so i'd assume he was using some of the same gear for the early Force&Styles stuff too.all the UK Hardcore peeps had similar setups alternating between Soundcraft and Mackie desks and very few of them used actual drum machines(apart from maybe Scott Brown) and used mostly stock data disks that came with whatever sampler they had.Roland and early Akais were pretty popular with most of them.it's essentially the exact same method as to how the kicks were done in German Techno by the likes of Marc Acardipane and "2nd wave"Detroit Techno by Jeff Mills etc 909 driven hot into cheap transistor based desk
+
+The Soundcraft saturation seems to sound really good on 909s, even if not driven to completely over the top sounds as in the example. I think Rank-1 used a Soundcraft desk as well to saturate their 909s and it sounded great, but of course I am not sure.
+
+I wish there was a VST just for this purpose.
+
+One tip, you can check whether it's a sample or the real TR-909 by lining a few hits up and inverting the polarity. The real 909 has a bit of variance in the pitch envelope each hit so it won't cancel. A sample will.
+
+ Top 
+
+ TIMT TIMT 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=202586 
+
+ KVRian 
+
+ 1081 posts since 8 Mar, 2009 
+
+ Post 
+ 
+ by TIMT » Sun Nov 26, 2017 8:34 am 
+
+ 0 
+
+ Quote 
+
+ Oden wrote: TIMT wrote: It's a 909 clipped to death on a Soundcraft desk i knew Darren Mew (Styles of Force&Styles)was at least using a Soundcraft desk with his early Breeze and Styles stuff before he went completely ITB so i'd assume he was using some of the same gear for the early Force&Styles stuff too.all the UK Hardcore peeps had similar setups alternating between Soundcraft and Mackie desks and very few of them used actual drum machines(apart from maybe Scott Brown) and used mostly stock data disks that came with whatever sampler they had.Roland and early Akais were pretty popular with most of them.it's essentially the exact same method as to how the kicks were done in German Techno by the likes of Marc Acardipane and "2nd wave"Detroit Techno by Jeff Mills etc 909 driven hot into cheap transistor based desk
+
+The Soundcraft saturation seems to sound really good on 909s, even if not driven to completely over the top sounds as in the example. I think Rank-1 used a Soundcraft desk as well to saturate their 909s and it sounded great, but of course I am not sure.
+
+I wish there was a VST just for this purpose.
+
+One tip, you can check whether it's a sample or the real TR-909 by lining a few hits up and inverting the polarity. The real 909 has a bit of variance in the pitch envelope each hit so it won't cancel. A sample will.
+
+Well you aren't accounting for jitter which could also exhibit a similar property as jitter is not periodic and it doesn't modulate at one set rate so can also have the perception or effect rather of affecting the pitch envelopes of the hits.considering not a lot of these guys owned the actual drum machines it's a strong likely hood that they was running them off of old rack samplers and keyboard workstations.probably the same gear and setups that other "Rave"music acts at the time used like Altern-8 and The Prodigy
+
+Yeah,solid state desk saturation or distortion is pretty nice to use,but a lot of the 1st Gen Mackie desks have a really high noise floor(very little experience with Soundcraft mixers apart from a week with a Ghost) so there is that "issue".one way to attain a similar sound is to get a solid state mic pre with op-amps or if you wish to stay ITB UAD2's Neve pre and the one in the SSL channel for Unison Pre is pretty good at getting that heft that is usually sorely missed with native offerings
+
+ I
+
+ Top 
+
+ Oden Oden 
+ https://www.kvraudio.com/forum/memberlist.php?mode=viewprofile&u=242532 
+
+ KVRist 
+
+ 236 posts since 30 Oct, 2010 
+
+ Post 
+ 
+ by Oden » Sun Nov 26, 2017 12:17 pm 
+
+ 0 
+
+ Quote 
+
+ TIMT wrote: Oden wrote: TIMT wrote: It's a 909 clipped to death on a Soundcraft desk i knew Darren Mew (Styles of Force&Styles)was at least using a Soundcraft desk with his early Breeze and Styles stuff before he went completely ITB so i'd assume he was using some of the same gear for the early Force&Styles stuff too.all the UK Hardcore peeps had similar setups alternating between Soundcraft and Mackie desks and very few of them used actual drum machines(apart from maybe Scott Brown) and used mostly stock data disks that came with whatever sampler they had.Roland and early Akais were pretty popular with most of them.it's essentially the exact same method as to how the kicks were done in German Techno by the likes of Marc Acardipane and "2nd wave"Detroit Techno by Jeff Mills etc 909 driven hot into cheap transistor based desk
+
+The Soundcraft saturation seems to sound really good on 909s, even if not driven to completely over the top sounds as in the example. I think Rank-1 used a Soundcraft desk as well to saturate their 909s and it sounded great, but of course I am not sure.
+
+I wish there was a VST just for this purpose.
+
+One tip, you can check whether it's a sample or the real TR-909 by lining a few hits up and inverting the polarity. The real 909 has a bit of variance in the pitch envelope each hit so it won't cancel. A sample will.
+
+Well you aren't accounting for jitter which could also exhibit a similar property as jitter is not periodic and it doesn't modulate at one set rate so can also have the perception or effect rather of affecting the pitch envelopes of the hits.considering not a lot of these guys owned the actual drum machines it's a strong likely hood that they was running them off of old rack samplers and keyboard workstations.probably the same gear and setups that other "Rave"music acts at the time used like Altern-8 and The Prodigy
+
+Yeah,solid state desk saturation or distortion is pretty nice to use,but a lot of the 1st Gen Mackie desks have a really high noise floor(very little experience with Soundcraft mixers apart from a week with a Ghost) so there is that "issue".one way to attain a similar sound is to get a solid state mic pre with op-amps or if you wish to stay ITB UAD2's Neve pre and the one in the SSL channel for Unison Pre is pretty good at getting that heft that is usually sorely missed with native offerings
+
+I think it should not be that difficult to distinguish jitter/tape warble and the pitch envelope changing, jitter's effect is very small at such low frequency and it goes back and forth. As I recall, with the TR-909 the pitch envelope is all over the place if you line the hits up (ok the difference is still small but easily visible).
+
+Thanks for the suggestions, unfortunately I don't own UAD. And I agree, those recordings are noisy as hell, but the saturation is nice. How does the desk saturation work anyway? Maybe it would be manageable to build a stomp-box.
+
+ Top 
+
+ Post Reply 
+
+ Display: All posts 1 day 7 days 2 weeks 1 month 3 months 6 months 1 year 
+ Sort by: Author Post time Subject 
+ Direction: Ascending Descending 
+
+ 29 posts
+ 
+ 1 
+
+ 2 
+
+ Next 
+
+ Return to “Sound Design” 
+
+ Jump to 
+
+ The Main Forums 
+
+ ↳ KVR Developer Challenge 2026 
+
+ ↳ KVR Studio Manager 
+
+ ↳ Getting Started (AKA What is the best...?) 
+
+ ↳ Instruments 
+
+ ↳ Effects 
+
+ ↳ Hosts & Applications (Sequencers, DAWs, Audio Editors, etc.) 
+
+ ↳ Guitars 
+
+ ↳ Mobile Apps and Hardware 
+
+ ↳ Soundware 
+
+ ↳ Samplers, Sampling & Sample Libraries 
+
+ ↳ Hardware (Instruments and Effects) 
+
+ ↳ Modular Synthesis 
+
+ ↳ Sound Design 
+
+ ↳ Production Techniques 
+
+ ↳ Music Theory 
+
+ ↳ Computer Setup and System Configuration 
+
+ ↳ DSP and Plugin Development 
+
+ ↳ DIY: Build it and they will come 
+
+ ↳ Music Cafe 
+
+ ↳ Machine Learning and AI for Music Creation 
+
+ ↳ Sell & Buy (+Special Offers, Deals & Promos) 
+
+ ↳ KVR Experts 
+
+ ↳ Everything Else (Music related) 
+
+ ↳ Off Topic 
+
+ ↳ Off Topic Classics 
+
+ Official Company Forums 
+
+ ↳ 2getheraudio 
+
+ ↳ accSone 
+
+ ↳ Acon Digital 
+
+ ↳ AcousticsampleS 
+
+ ↳ AcousModules 
+
+ ↳ Agitated State 
+
+ ↳ AIR Music Technology 
+
+ ↳ AMG 
+
+ ↳ Ample Sound 
+
+ ↳ Antares Audio Technologies 
+
+ ↳ Apisonic Labs 
+
+ ↳ APU Software 
+
+ ↳ apulSoft 
+
+ ↳ AriesCode 
+
+ ↳ Arts Acoustic 
+
+ ↳ Arturia 
+
+ ↳ Audjoo 
+
+ ↳ AudioSpillage 
+
+ ↳ Audiority 
+
+ ↳ Best Service 
+
+ ↳ Big Tick 
+
+ ↳ Bitwig 
+
+ ↳ Controller Scripting 
+
+ ↳ Blue Cat Audio 
+
+ ↳ Cherry Audio 
+
+ ↳ CWITEC 
+
+ ↳ Embertone 
+
+ ↳ energyXT 
+
+ ↳ Eventide 
+
+ ↳ Expert Sleepers 
+
+ ↳ forward audio 
+
+ ↳ Future Audio Workshop 
+
+ ↳ FXpansion 
+
+ ↳ g200kg 
+
+ ↳ Harrison Mixbus 
+
+ ↳ HG Fortune 
+
+ ↳ Homegrown Sounds 
+
+ ↳ HoRNet Plugins 
+
+ ↳ Ilya Efimov Production 
+
+ ↳ Image Line 
+
+ ↳ Impact Soundworks 
+
+ ↳ Indiginus 
+
+ ↳ Insert Piz Here 
+
+ ↳ Ju-X 
+
+ ↳ Kirk Hunter Studios 
+
+ ↳ Kirnu 
+
+ ↳ Kong Audio 
+
+ ↳ Krotos 
+
+ ↳ Kuassa 
+
+ ↳ KV331 Audio 
+
+ ↳ LennarDigital 
+
+ ↳ Les Productions Zvon 
+
+ ↳ Liqube Audio 
+
+ ↳ Loomer 
+
+ ↳ LVC-Audio 
+
+ ↳ Maizesoft 
+
+ ↳ Manytone Music 
+
+ ↳ Media Overkill (MOK) 
+
+ ↳ MeldaProduction 
+
+ ↳ Mellowmuse 
+
+ ↳ MIDIMood 
+
+ ↳ moForte 
+
+ ↳ Mozaic Beats 
+
+ ↳ mucoder 
+
+ ↳ MusicDevelopments 
+
+ ↳ Tips & Tricks 
+
+ ↳ MusicLab 
+
+ ↳ MuTools 
+
+ ↳ New Sonic Arts 
+
+ ↳ NUSofting 
+
+ ↳ Oli Larkin Plugins 
+
+ ↳ Orange Tree Samples 
+
+ ↳ patchpool 
+
+ ↳ Photosounder 
+
+ ↳ PlugInGuru 
+
+ ↳ Polyverse Music 
+
+ ↳ Precisionsound 
+
+ ↳ Premier Sound Factory 
+
+ ↳ Psychic Modulation 
+
+ ↳ Realitone 
+
+ ↳ Resonance-Sound 
+
+ ↳ Reveal Sound 
+
+ ↳ Roger Linn Design 
+
+ ↳ rs-met 
+
+ ↳ S3A: Spatial Audio 
+
+ ↳ SaschArt 
+
+ ↳ Smart Electronix 
+
+ ↳ sonible 
+
+ ↳ SonicBirth 
+
+ ↳ Sonic Reality / eSoundz.com 
+
+ ↳ Soundiron 
+
+ ↳ SPC Plugins 
+
+ ↳ Sugar Bytes 
+
+ ↳ TAL Software 
+
+ ↳ Tokyo Dawn Labs 
+
+ ↳ Tracktion 
+
+ ↳ Tweakbench 
+
+ ↳ u-he 
+
+ ↳ u-he Linux support 
+
+ ↳ United Plugins 
+
+ ↳ VAZ Synths 
+
+ ↳ Virharmonic 
+
+ ↳ xoxos 
+
+ ↳ XSRDO - SynthCraft 
+
+ ↳ ZynAddSubFX 
+
+ Site Stuff 
+
+ ↳ Site Stuff 
+
+ Archived Forums 
+
+ ↳ AlgoMusic 
+
+ ↳ easytoolz 
+
+ ↳ Elevayta 
+
+ ↳ Hollow Sun 
+
+ ↳ LinPlug 
+
+ ↳ Muse Research and Development 
+
+ ↳ Shuriken 
+
+ ↳ SoHa Sound Design 
+
+ ↳ Soniccouture 
+
+ ↳ Topten Software 
+
+ ↳ Valhalla DSP 
+
+ ↳ CK Modules & VST 
+
+ ↳ Sennheiser AMBEO 
+
+ ↳ Muon Software 
+
+ ↳ Westgatesounds.net 
+
+ ↳ Squaredheads 
+
+ ↳ Sonigen 
+
+ ↳ CFA-Sound 
+
+ ↳ Back In Time Records 
+
+ ↳ Livelab.dk 
+
+ ↳ Skytopia 
+
+ ↳ audioD3CK 
+
+ ↳ Inspire Audio 
+
+ ↳ Krakli 
+
+ ↳ Drumdrops 
+
+ ↳ Futucraft 
+
+ ↳ OverTone DSP 
+
+ ↳ RaXnTraX 
+
+ ↳ solar3d-software 
+
+ ↳ Signaldust 
+
+ ↳ Soundemote 
+
+ ↳ ReleaseLab (Powered by Artist Expansion) 
+
+ ↳ Wolfgang Palm 
+
+ ↳ UJAM 
+
+ KVR Forum index 
+
+ All times are UTC 
+
+ Delete cookies 
+
+ Powered by phpBB ® Forum Software © phpBB Limited 
+
+ Privacy 
+ 
+ |
+ 
+ Terms 
+
+ What's New @ KVR Audio? 
+
+ Submit: News, Plugins, Hosts & Apps | Advertise @ KVR | Developer Account | About KVR / Contact Us | Privacy Statement 
+
+ © KVR Audio, Inc. 2000-2026
+
+ Log In To KVR Audio

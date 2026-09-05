@@ -1,0 +1,74 @@
+URL: https://www.goldbaby.co.nz/faq.html
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 21528
+----
+goldbaby faq 
+
+ home 
+ products 
+ formats logic pro 
+ ableton live 
+ maschine 
+ kontakt 
+ battery 
+ geist 
+ 16 bit samplers 
+ prophet x 
+ tal-sampler 
+ tal-drum 
+ other samplers 
+ 
+ free packs 
+ reviews 
+ support contact 
+ faq 
+ 
+ artists 
+ about 
+
+ view cart 
+
+ faq 
+
+ If the product you have purchased has a PDF document included, I would recommend reading it as it has helpful information about the product and its installation. 
+
+ * How soon will I get the product once I have purchased it? 
+ This shop has an automated system... so once your order has been processed successfully, you should get the download instantly! 
+
+ * Where is my confirmation email? 
+ If you haven't received an email confirmation for your purchase, there could be several reasons for this. First, you may want to check your spam folder as sometimes emails may be mistaken for junk mail. Also, make sure you have used the correct email address when ordering. If all else fails, contact us , and we will investigate. 
+
+ * Are Goldbaby's sounds royalty-free? 
+ Yes, Goldbaby sounds are 100% royalty-free. Purchasing a pack gives you a license to use the sounds in your recordings. Goldbaby is the owner and master licensee of all sounds sold on this site, and the license granted to you is non-transferable. You may not re-distribute these sounds, either in native format or reformatted for use as samples, multi-samples, programs, or patches in a sampler, sample playback unit, website, or computer. However, you can use our sounds in commercially released compositions without paying any additional royalties or fees. This license is revoked If your order is refunded. See Terms and Conditions for more info. 
+
+ * What about hardware samplers? 
+ Many customers have 16-bit hardware samplers and use batch converters to convert my samples to 16 bit. It is reasonably easy to do, and there are plenty of software solutions that can do it. 
+
+ * What are Zip files, and how do I uncompress them? 
+ Download and install WinZip from http://www.winzip.com ... if you have a PC. Then right-click and use the Winzip Extract to here tab. On Mac, just double-click the zip file. 
+
+ * My internet connection is very slow, do you offer the products on CD? 
+ Yes, we do! When ordering a product, you are given the option of adding a backup CD to your order. 
+
+ * The Kontakt doesn't work correctly. Why? 
+ You will need the full version of Kontakt to use the Kontakt patches. The free player will only load them in demo mode. 
+
+ All brand names and trademarks mentioned on this site are used only for reference purposes. Goldbaby is not affiliated or a representative of any of the companies mentioned. 
+
+ If you have any other questions then feel free to contact me 
+
+ © goldbaby 2021 
+
+ terms and conditions 
+
+ privacy policy 
+
+ faq 
+
+ subscribe 
+
+ We use cookies to improve your site experience. By using our website, you consent to this in accordance with the cookie section in our Privacy Policy.
+
+ privacy policy agree/close

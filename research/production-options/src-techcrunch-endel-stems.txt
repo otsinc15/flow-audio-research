@@ -1,0 +1,130 @@
+URL: https://techcrunch.com/2022/05/20/endel-sony-partnership/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:   234646
+----
+Sony's new headphones boast Endel's generative soundscapes 
+ TechCrunch Desktop Logo 
+ TechCrunch Mobile Logo 
+ Latest 
+ Startups 
+ Venture 
+ Apple 
+ Security 
+ AI 
+ Apps 
+ Disrupt 2026 
+ Events 
+ Podcasts 
+ Newsletters 
+ Search Submit 
+ Site Search Toggle 
+ Mega Menu Toggle 
+ Topics
+ Latest 
+ AI 
+ Amazon 
+ Apps 
+ Biotech & Health 
+ Climate 
+ Cloud Computing 
+ Commerce 
+ Crypto 
+ Enterprise 
+ EVs 
+ Fintech 
+ Fundraising 
+ Gadgets 
+ Gaming 
+ Google 
+ Government & Policy 
+ Hardware 
+ Instagram 
+ Layoffs 
+ Media & Entertainment 
+ Meta 
+ Microsoft 
+ Privacy 
+ Robotics 
+ Security 
+ Social 
+ Space 
+ Startups 
+ TikTok 
+ Transportation 
+ Venture 
+ More from TechCrunch
+ Staff 
+ Events 
+ Startup Battlefield 
+ StrictlyVC 
+ Newsletters 
+ Podcasts 
+ Videos 
+ Partner Content 
+ TechCrunch Brand Studio 
+ Contact Us 
+ Image Credits: Sony / Endel 
+ Endel’s generative soundscapes show up in Sony’s new headphones
+ Haje Jan Kamps 
+ 10:07 AM PDT · May 20, 2022 
+ The other day, Brian reported on Sony’s new LinkBuds headphones , including its partnership with “what if Brian Eno was a piece of computer software” app Endel . The company uses really fascinating AI technology to generate soundscapes and music tracks to help your brain do its best work — to help you focus deeper, sleep more easily or to relax you. I spoke with one of Endel’s founders to learn more about the tech and its deal with Sony.
+ “Endel is first and foremost a technology that was built to help you focus, relax and sleep. And the way this technology works, it procedurally generates a soundscape in real time on the spot, on the device. It is personalized to you based on a number of inputs that we collect about you; things like the time of day, your heart rate, the weather, your movement and your circadian rhythms, like how much sleep you got last night,” explains Oleg Stavitsky, CEO and co-founder at Endel. “This technology listens to all of this data, plugs into the algorithm, which creates the soundscape in real time, which allows us to react in real time to the changes in you. Using this technology, we are building an ecosystem of products, so that our soundscapes can follow you everywhere during the day across all these channels and platforms. We are pretty much everywhere at this point; iOS, Android, Apple Watch, Mac or Apple TV, Alexa… you name it.”
+ In reviewing the product I did stumble across a couple of glaring omissions in where it is available: There was no way of streaming it to my Sonos speakers (the workaround is to install Alexa on Sonos), and the Endel app doesn’t support casting, so you can’t stream to Google Home either .
+ Running the app using earphones, however, creates an intimate and beautiful experience. The audio tracks are Eno-esque in their expansiveness; it’s like a slowly evolving ambient soundtrack to your day. Sitting at my desk, I felt myself focus; a combination of the music and blocking and drowning out distractions.
+ The soundscapes are stem -based — professional music industry jargon for snippets of sounds, think of them as samples. The app has a huge library of samples and stems, and the algorithm picks the right stems to sequence the audio together. On top of the basic sequencing, the software runs additional adjustments on top.
+ “We have a few AI systems on top of that sequencer; AI systems that generate melodies basically. There are millions and millions and millions of variations,” says Stavitsky. “Some of the soundscapes on the app are done in collaboration with some of the biggest artists on the planet. We have Grimes and Miguel and James Blake and Plastic Man and others that we’ve worked with, so they are good. The way they work with us is they prepare a stem pack, a sound pack. They never submit a musical composition. They just are the building blocks that the algorithm then uses to assemble tracks on the fly.” 
+ The company says it’s approached by companies all the time, and have to consider whether partnerships are a cost or a benefit at any given time. It decided to say “yes” to headphones giant Sony, resulting in this collaboration.
+ “Sony’s headphones innovation department approached us. They said we’re working on this new model that will somehow understand the context of where you are, and we want those headphones to proactively activate a certain soundscape,” says Stavitsky, “ I’m frankly very, very skeptical about all these integrations, for a number of reasons. There’s always an opportunity cost. Being a small company, you’re wondering if we should do this. What got me excited about this is that the fundamental idea of Endel is that it’s an always-on soundscape that follows you everywhere during the day. Sometimes you can barely hear it, and sometimes it’s like front and center and it shields you from the rest of the world. I think this idea of headphones that proactively trigger a certain kind of soundscape depending on the context of what’s happening with you is exactly how we envision how our product is used. This is just going to be one huge play button — you press that button, and it listens to your calendar, listens to your heart rate, and it proactively shifts between all of the soundscapes. That’s what we are working toward, and these headphones make that real.”
+ Topics
+ AI , Brian Eno , Endel , Hardware , headphones , Sony 
+ When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. 
+ Haje Jan Kamps 
+ At TechCrunch, Haje (He/Him) covered general tech news and focused mostly on hardware. He has founded several companies to varying degrees of success, spent a while in the VC world, and has been a journalist and TV producer since the dawn of his career. He is more-than-averagely interested in photography and can often be found with a camera slung over his shoulder. He wrote a book about pitching startups to investors, and you can find him on @Haje on Twitter, or at Haje.me for everything else. 
+ View Bio 
+ October 13 – 15
+ San Francisco
+ Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?
+ REGISTER NOW 
+ Most Popular
+ Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI 
+ Amanda Silberling 
+ Microsoft tests fix for latest hours-long Outlook outage 
+ Sarah Perez 
+ MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario 
+ Sarah Perez 
+ Musk’s faster path to more gas turbines comes with pollution problem 
+ Connie Loizos 
+ Hugging Face is selling a cute $399 open source duck robot, Microduck 
+ Rebecca Bellan 
+ Nvidia closes in on Hugging Face acquisition 
+ Connie Loizos 
+ Viral AI startup Instinct has raised $350M at a $2.5B valuation 
+ Lucas Ropek 
+ Loading the next article 
+ Error loading the next article 
+ X 
+ LinkedIn 
+ Facebook 
+ Instagram 
+ youTube 
+ Mastodon 
+ Threads 
+ Bluesky 
+ TechCrunch 
+ Staff 
+ Contact Us 
+ Advertise 
+ Site Map 
+ Terms of Service 
+ Privacy Policy 
+ RSS Terms of Use 
+ Code of Conduct 
+ OpenAI 
+ Hugging Face 
+ Flock 
+ Startup Battlefield 
+ Disrupt 2026 
+ Tech Layoffs 
+ ChatGPT 
+ © 2026 TechCrunch Media LLC.

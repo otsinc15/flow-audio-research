@@ -1,0 +1,666 @@
+URL: https://freesound.org/help/faq/#what-licenses-are-available
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 70926
+----
+Freesound - Help - Frequently Asked Questions 
+
+ Log in to Freesound
+
+ Username: 
+
+ Password: 
+
+ Log in 
+
+ Problems logging in? 
+
+ Don't have an account? Join now 
+
+ Problems logging in?
+
+ Enter your email or username below and we'll send you a link to help you login into your account.
+
+ Send me a link 
+
+ Back to log in 
+
+ Almost there!
+
+ We've sent a verification link by email
+
+ Didn't receive the email? Check your Spam folder, it may have been caught by a filter. If you still don't see it, you can resend the verification email .
+
+ Default title
+
+ Yes 
+
+ Cancel 
+
+ Sounds 
+
+ Tags 
+
+ Forum 
+
+ Map 
+
+ Sounds 
+
+ Packs 
+
+ Forum 
+
+ Map 
+
+ Tags 
+
+ Random sound 
+
+ Charts 
+
+ Donate 
+
+ Help 
+
+ Log in 
+
+ Join 
+
+ Frequently Asked Questions
+
+ About Freesound 
+ What is this site anyway? 
+
+ Wait... This is all... free? 
+
+ Who is behind this site? 
+
+ 20 years have passed... 
+
+ Licenses 
+ What do I need to do to legally use the files on freesound? 
+
+ How do I credit/attribute? 
+
+ License restrictions when publishing new sounds that include/modify/remix other sounds 
+
+ Creative Commons says Sampling+ is "retired", why do you still use it? 
+
+ A Freesound sound I used in a YouTube video got copyright claimed - what should I do? 
+
+ I want to download large amounts of sounds from Freesound to train an Artificial Intelligence (AI) model, can I do that? 
+
+ Can my sounds be used to train Generative Artificial Intelligence (Gen AI) models? 
+ Training Gen AI models with voice recordings 
+
+ How will my Gen AI preferences be applied? 
+
+ Account 
+ I can't log in! Help! 
+
+ I want to reset my password! Where should I go? 
+
+ When I log in, it says my account is inactive. How do I activate it? 
+
+ Hey, I forgot my username. Can you help? 
+
+ How do I delete myself from your site? 
+
+ How do I change my username? 
+
+ Sounds 
+ How do I download a sound? 
+
+ How do I delete a sound? 
+
+ This file has a weird format (flac?? ogg??), how can I play/open/convert it on my computer? 
+
+ How should I describe my sounds? 
+
+ The Broad Sound Taxonomy 
+
+ What sounds are legal to put on freesound? 
+
+ Can I upload music or songs? 
+
+ Can I upload AI-generated content? 
+
+ Hey, do you have this sound: ...? 
+
+ What's the maximum allowed duration allowed for a sound? 
+
+ I hear a high-pitched squeaking in the audio preview - what is that? 
+
+ I have many sounds to upload, is there a way to describe many sounds in bulk? 
+
+ New Freesound user interface 
+ What are the new features brought by the new user interface? 
+
+ Other questions 
+ How do I cite Freesound in a research context? 
+
+ I have a question not answered here... 
+
+ About Freesound 
+
+ What is this site anyway? 
+
+ Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse. Freesound provides new and interesting ways of accessing these samples, allowing users to:
+
+ browse the sounds in new ways using keywords, a "sounds-like" type of browsing and more
+
+ upload and download sounds to and from the database, under the same creative commons license
+
+ interact with fellow sound-artists!
+
+ We also aim to create an open database of sounds that can also be used for scientific research. Many audio research institutions have trouble finding correctly licensed audio to test their algorithms. Many have voiced this problem, but so far there hasn't been a solution.
+
+ Wait... This is all... free? 
+
+ As long as you follow the legal guidelines described below in the Licenses section, ... yup! Some sounds you cannot use commercially, and many of the sounds you need to credit the author. See one section below!
+
+ Who is behind this site? 
+
+ Freesound was started in 2005 at the Music Technology Group of Universitat Pompeu Fabra , a public university from Barcelona, Spain. Currently, it is being maintained and developed by the Freesound team, which is composed of current and former researchers and students of the research group.
+
+ Freesound is possible thanks to the support of the Phonos Foundation , the Universitat Pompeu Fabra, and thanks to everyone in the Freesound community who contribute with sounds and making donations . Check our sustainability reports for more information about how Freesound is sustained.
+
+ Currently the Freesound team at the MTG is formed by:
+
+ Alastair Porter: system administrator and developer
+
+ Arhan Vhora: researcher
+
+ Blazej Kotowski: researcher
+
+ Domonkos Kostyál: developer
+
+ Frederic Font: lead developer, researcher and admin
+
+ Panagiota Anastasopoulou: researcher
+
+ Sonia Espí: administration
+
+ Bram de Jong: Freesound original developer, Freesound's BDFL and guru
+
+ Xavier Serra: head of the Music Technology Group
+
+ Former members: Benno Weck, Quim Marcé, Gonzalo Nieto, Pablo Zinemanas, António Ramires, Eduardo Fonseca, Xavier Favory, Philip Tovstogan, Andrés Ferraro, Gerard Roma, Nuno Hespanhol, Vincent Akkermans, Stelios Togias, Jordi Funollet
+
+ Furthermore, Freesound would not be possible without the help of the great team of sound moderators, members of the Freesound community themselves, who do this task voluntarily, and also the incredible work of Sam Headphaze handling support requests.
+
+ 20 years have passed... 
+
+ On 2025, we celebrated our 20th anniversary! To celebrate it, we hold a composition contest, we prepared an exhibition and organised the Freesound Day, a day full of talks from members of the Freesound community. The submissions to the composition contest, the materials of the 20th anniversary exhibition and the video recordings of the Freesound Day talks are available here . Also, the Universitat Pompeu Fabra has published a long article about Freesound and it's 20 years of history. You can check it out here .
+
+ Licenses 
+
+ What do I need to do to legally use the files on freesound? 
+
+ Well, it depends on what you want to do and which files you want to use. First of all, freesound lets the user select one of three licenses for their sounds. And, we used to have a 4th license, which complicates matters. Depending on the license there are things you can and can't do with the files. Let's start with the licenses. Creative commons has a really nice page explaining them:
+
+ zero (cc0): http://creativecommons.org/publicdomain/zero/1.0/ 
+
+ attribution (by): http://creativecommons.org/licenses/by/4.0/ 
+
+ attribution noncommercial (by-nc): http://creativecommons.org/licenses/by-nc/4.0/ 
+
+ We aren't lawyers so this isn't legal advice, but here's our summary: for the "zero" license you can do pretty much what you want with the sound. You could even sell the sound, ... but you can't claim you are the author! For "attribution" you should always mention the original creators of the sounds when you use them. "Noncommercial" works like attribution, but you can't earn any money with the piece of work you create! As with all licenses the original creator can give you permission to use the sound outside of the original license.
+
+ The content of the Freesound website is uploaded by the users of the site. As per our terms of service our users are required to follow the rules and not upload any copyrighted material. However, like all content on the internet, there might be cases where the users of our site are (un)knowingly uploading illegal content. If you find such content, make sure that you click the "Flag it!" link on the page which contains the sound.
+
+ In freesound "1" we had an additional license called Sampling+:
+
+ sampling plus: http://creativecommons.org/licenses/sampling+/1.0/ 
+
+ Our interpretation of this license: you can do pretty much what you could do with the attribution noncommercial license, but additionally you can't make commercial advertisement with the sound. You can't make a track with Sampling+ samples to sell a car, for example. Sampling+ is being removed by creative commons because it's a difficult license to interpret, see below for more on that.
+
+ Now I can already hear you saying, "attribution", how should I do that, so see the next section!
+
+ How do I credit/attribute? 
+
+ Crediting people is easy, just say something like this:
+
+ This [video/theatre piece/...] uses these sounds from freesound:
+"sound1" by user1 ( http://freesound.org/s/soundID/ ) licensed under CCBYNC 4.0
+"sound2", "sound3" by user2 ( http://freesound.org/people/user2/ ) licensed under CCBY 4.0
+etc..
+
+ The official Creative Commons guidelines for attribution can be found here:
+ How To Give Attribution - Creative Commons 
+
+ If you want to know which files you have downloaded since you joined freesound, you can see this in the attribution list .
+
+ If you have a particularly long list of files or very little space to attribute sounds you can always do:
+
+ This [video/theatre piece/...] uses many sounds from freesound,
+for the full list see here: http://www.mysite.com/work-credits.html
+
+ If you want to see a practical example from the video game Minecraft 
+
+ License restrictions when publishing new sounds that include/modify/remix other sounds 
+
+ In the event of using sounds in Freesound to create new sounds, the following table helps you understanding how you can mix them, what can the resulting license/s be, and what the attribution obligations are. Lets say that a user B adds a new sound of her own that 
+includes/modifies/remixes a sound from another user A, then:
+
+ License of sound of A 
+ B wants to distribute the new sound under 
+ Can B do this? 
+
+ cc0 cc0 Yes 
+
+ cc0 by Yes (*) 
+
+ cc0 by-nc Yes (*) 
+
+ by cc0 No 
+
+ by by Yes (**) 
+
+ by by-nc Yes (**) 
+
+ by-nc cc0 No 
+
+ by-nc by No 
+
+ by-nc by-nc Yes (**) 
+
+ (*) If a third user C uses the sound from B, she must attribute to B.
+
+ (**) B must attribute the sound to A. If a third user C uses the sound from B, she must attribute both A and B.
+
+ Creative Commons says Sampling+ is "retired", why do you still use it? 
+
+ Retired just means that Creative Commons is no longer recommending this particular license. 
+If you want to read in detail why, have a look at their blog post which explains it all in detail.
+
+ We would love to remove all Sampling+ licenses from our site, but the sounds on freesound are not our sounds, they are the sounds of our users. So, we can't simply change the licenses for the users, we have to ask them to change the license. This is exactly what happens when an old freesounder signs into their old account: we ask them to upgrade all their samples to a new license. Again, you can see how we do that in the creative commons blog post . Until all old users have signed into freesound once, there will always be Sampling+ sounds on freesound...
+
+ A Freesound sound I used in a YouTube video got copyright claimed - what should I do? 
+
+ This is an unfortunate consequence of systems such as YouTube Content ID Scanning. 
+
+ For example, a lot of the sound effects from this site are being used "raw" in songs ("raw" which means "unchanged"; so without any editing, extra plugins etc. things that change the sound).
+
+ So if an artist creates a song that contains all of, or even a snippet of, a "raw" sound effect from this site, and then the artist also submits their song to the YouTube Content ID Scanning system, then if another person uses the same sound effect in a YouTube video, the ID scan will discover a match. If the sound was modified with plugins, stretched or slowed, etc., then the system is less likely to find a match.
+
+ When a match is found, the artist/publisher that submitted their work to YouTube Content ID gets notified that a video has been uploaded that contains a match with their submitted song, and then they may raise a copyright claim on the video.
+
+ Most often this can be (and has been) resolved by disputing the copyright claim through YouTube and explaining the situation. To support this, you can provide evidence that the Freesound upload predates the copyrighted work (e.g. provide a link to the Freesound sound page followed by the release date of their copyrighted work).
+
+ I want to download large amounts of sounds from Freesound to train an Artificial Intelligence (AI) model, can I do that? 
+
+ In general the answer is "yes as long as individual sounds' Creative Commons licenses are respected". That basically means that you have to provide attribution if you use CC-BY sounds and also that you have to exclude CC-BY-NC sounds if training the model in a commercial setting. If the model you are training is a "generative model", then further restrictions might apply (see the next section).
+
+ In order to reduce website strain through web crawlers and ease access for new research, we provide Data Packs for AI training to institutions. 
+These can include universities, research teams, companies.
+Therefore, for downloading large amounts of data you should use the Freesound Data Packs Portal instead of the Freesound API. 
+Please contact us using the web form for further details.
+
+ Can my sounds be used to train Generative Artificial Intelligence (Gen AI) models? 
+
+ This question is subject of extensive debate, and there is no single unanimous response for it. Nevertheless, in an effort to clarify the situation, as of July 2026 Freesound has introduced a new Generative AI preferences panel through which sound uploaders can make a statement about their preferences regarding the use of their sounds for training Gen AI models. Using this preference panel, additional preferences can be expressed on top of those already defined by the corresponding Creative Commons license applied to each sound . Note that these additional preferences are applied to all uploaded sounds by a specific user , and are independent of the individual license of each sound. The following options are provided:
+
+ No additional preferences : Sounds remain subject to the corresponding Creative Commons license terms. Here is a summary of our interpretation of the Creative Commons terms applied to the use case of training AI models:
+ 
+ CCO sounds have no restrictions.
+
+ CC-BY sounds require disclosure of the training set of the AI model.
+
+ CC-BY-NC sounds require disclosure of the training set of the AI model and the model may not be trained in a commercial setting or used for commercial purposes.
+
+ Open Source Models only : Sound uploaders express a preference for their sounds to be used for training Gen AI models only when the Creative Commons license terms summarised above are met, and when the trained models are released as Open Source Models and made freely available to the public. Note that selecting this option does not supersede the non-commercial clause of CC-BY-NC sounds, therefore model developers should consider excluding CC-BY-NC sounds when training a model in a commercial setting or if the model is to be used for commercial purposes.
+
+ Non-Commercial Open Source Models only : Sound uploaders express a preference for their sounds to be used for training Gen AI models only when the Creative Commons license terms summarised above are met, and when the trained models are released as Open Source Models, made freely available to the public, and not trained in a commercial setting nor used for commercial purposes. Note that by using this option, sound uploaders can express a preference against the use of their sounds for training commercial Gen AI models even if the individual sound licenses do not have the non-commercial clause (i.e. for CCO and CC-BY sounds).
+
+ No generative AI : By selecting this option, sound uploaders express their preference that their uploaded sounds not be used for training any type of generative AI models.
+
+ Note that when using the term Open Source Models , we refer to the definition of Open Source AI by the Open Source Initiative (OSI) . In short, that means that for a model to be considered an Open Source Model, it needs to be released under terms that grant the freedom to use, study, modify and share the model , including their code, model weights and training documentation.
+
+ Also, the Non-Commercial preference for models can be understood in the same way as the NonCommercial clause of Creative Commons licenses .
+
+ The summary of the Creative Commons terms included above is based on our interpretation of how the Creative Commons licenses apply to the generative AI context, which was originally published in the Freesound in the era of generative Artificial Intelligence blog post in June 2024. Please note that uploader's own interpretation might differ from ours.
+
+ Training Gen AI models with voice recordings 
+
+ Complementarily to the preference options above, sound uploaders can make an extra statement to opt-out from Gen AI model training for the particular case of voice recordings. This option is designed to express a preference against the use of such sounds for training models that may generate speech that could be misused to impersonate real people. Note that Creative Commons licenses primarily address copyright-related rights, but voice cloning may involve additional rights, such as personality rights.
+
+ The Generative AI preferences panel includes a checkbox that users can tick to express their preference that their sounds classified under the "Speech > Solo speech" BST category not be used for the purpose of training Gen AI models. If this option is selected, then the No generative AI option above will be applied to all uploaders' sounds classified that category, effectively overriding the global preference.
+
+ How will my Gen AI preferences be applied? 
+
+ Third party model developers typically obtain Freesound data either using the Freesound API or by accessing the Freesound Data Packs Portal . Here is how the preferences can be applied in each of the cases:
+
+When using the Freesound API, the Gen AI preferences expressed by sound uploaders can be used for filtering sounds . In this way, model developers can take user preferences into account when training AI models. 
+
+Through the Freesound Data Packs Portal model developers can download data packs that include sound and metadata dumps. These contain clear information about the uploader preferences regarding Gen AI and the circumstances under which those preferences apply (in accordance with the Creative Commons license terms and uploaders' Gen AI training preferences). The Freesound Data Packs Portal provides tools for filtering out sounds in accordance to the type of model to be trained and its intended use. Data Packs are regularly updated, not only including new sounds but also changes in user preferences. 
+
+ Account 
+
+ For all the sections below, please make sure you check your spam folder for the emails we send you.
+
+ I can't log in! Help! 
+
+ Did you try logging in with your username rather than your email address?
+
+ Have you activated your account? https://freesound.org/home/reactivate/ 
+
+ I want to reset my password! Where should I go? 
+
+ Please go here: https://freesound.org/home/password_reset/ 
+
+ When I log in, it says my account is inactive. How do I activate it? 
+
+ This should help: https://freesound.org/home/reactivate/ 
+
+ Hey, I forgot my username. Can you help? 
+
+ Sure! Go here... https://freesound.org/home/username/ 
+
+ How do I delete myself from your site? 
+
+ You can find the option to delete yourself in your settings page . When you delete your account, all your personal data will be removed. We will still keep records of your downloads, ratings, comments, etc., and these will still be visible in Freesound, but will be assigned to an anonymized user account with a name similar to "Deleted User XXX".
+
+ If you have uploaded sounds, you'll be given the option to either keep the sounds (and packs) or to delete them. If you chose to keep your sounds, these will still be available for other users in Freesound but sounds will appear to be uploaded by an anonymized user account. In this way, the Freesound community can still download and reuse the sounds you created.
+
+ How do I change my username? 
+
+ You can change your username in your settings page . However, be aware that you can only change your username a limited number times.
+
+ Contact us via the contact form if you have trouble changing your username.
+
+ Sounds 
+
+ How do I download a sound? 
+
+ To download a sound, first make sure you are logged into your registered account. Then, navigate to a sound's full description page by clicking on the title of the sound on either the search results list or any link on the site. Example of what this page looks like: https://freesound.org/s/406900 
+
+ On that page you will find a big red download button on the right-hand side of the screen. Click on this and your download should begin. If that doesn't start downloading the file, but instead takes you to another page with a streaming player, you might have to Right-click on the download button and select "save target as" or "save link as" depending on your browser. Do this for each sound you want to download.
+
+ How do I delete a sound? 
+
+ Navigate to the "Manage Sounds" section by clicking on your avatar at the top of any page. You can use the filter to search for specific sounds and check the boxes to delete multiple at once. 
+
+ This file has a weird format (flac?? ogg??), how can I play/open/convert it on my computer? 
+
+ We support 4 formats at freesound:
+
+ mp3 is mpeg 2, layer III. We don't really need to explain this :-)
+
+ FLAC (.flac or .fla) is the Free Lossless Audio Codec, an open-source compression scheme that can cut the size of an audio file in half (on average) while not losing any quality in the process. It's basically ZIP for audio files. Using FLAC is good for Freesound because it saves on disk space and bandwidth usage, reduces download times, but doesn't degrade the quality of the sample like mp3 or another lossy codec would.
+
+ Ogg Vorbis (.ogg) is an open-source lossy audio codec comparable to modern AAC Audio (as used in the iTunes store, etc.). It does degrade the quality of the sample somewhat in order to save on space, but it is much more efficient at this than an older format like mp3. An Ogg file can have the same quality as an mp3 file using less space, or better quality using the same space.
+
+ AIFF/WAV (.aiff or .aif/.wav) are both uncompressed audio formats. Files in this format are considered by some to be easier to work with because there is no extra conversion step in most cases. However, this comes at the price of a much larger file.
+
+ All file types can be opened with the free audio editor Audacity . If you want to save files as mp3 files in audacity you will need to follow this audacity faq 
+
+ Other recommendations for sound conversion software are:
+
+ Mac: 
+ Max 
+
+ MacFlac 
+
+ OggDrop 
+
+ VLC 
+
+ Media Human Audio Converter 
+
+ Windows: 
+ dBpowerAmp + Flac plugin 
+
+ VLC 
+
+ Media Human Audio Converter 
+
+ How should I describe my sounds? 
+
+ It is important to have a description of a sound, it can help you find specific sounds through the search for example. What use is our major sound library going to have if you are not able to find a specific sound when you need it. The purpose of description is, on one hand to provide information (preferably deep) about the sound, from where it comes, it's peculiarities and the tools used to create/record it ... and at the other hand to be used when doing a search.
+
+ However, this is a problem that all sound libraries have. So perhaps its best to have a look at how they solve this problem and then turn to our specific situation here at freesound and see if we can adapt their model to ours. In sampling, especially the big part of sampling that contains field recordings, there are several layers in which we can describe sounds. 
+
+ Macro
+
+ Meso
+
+ Micro
+
+ Technical
+
+ We will take a simple example "car crash sound" and improve its description.
+
+ Macro 
+
+ First of all, there is the macro description. This describes the whole event of a sound. For example "this is a recording of a car crash". For somebody looking for a sound of a car crash this description is perfect.
+
+ Meso 
+
+ However, what if your looking for the sound of metal and glass breaking? This car crash could be very useful, but perhaps if you hadn't come up with that you might not have located this source. So in order for this to work you need to break up the sample in smaller events.
+
+ Our description: "Car Crash: breaking of glass, crushing metal on metal, burning rubber." 
+
+ Micro 
+
+ This is the level in which you use the same kind of language usually found in modular synthesis. The Envelope of a sound, the timbral aspects etc.
+
+ Our description: "Car Crash: breaking of glass, crushing metal on metal, burning rubber. Hard impact sounds, glass shards falling to the floor." 
+
+ Technical Description 
+
+ Another important factor is the technology used to create the sample. Make sure you list:
+
+ Recorder: MD, DAT, HDD, (if pc, what kind of soundcard)
+
+ Microphone: model & type: Shure SM57 dynamic mike
+
+ Processing: If so, what kind.
+
+ Our description: "Car Crash: breaking of glass, crushing metal on metal, burning rubber. Hard impact sounds, glass shards falling to the floor. Recorded with a SoundDevices recorder and stereo microphone (rode NT4). The sound was post-processed to make the impacts more dramatic (compression with waves C4)." 
+
+ Another way to attack the problem is to try to answer these questions:
+
+ from where: the source of the sound.
+
+ what: what do I hear, try to describe the sound.
+
+ where: if you sampled or recorded this sound, where did you do it?
+
+ method: what gear did you use to sample the sound?
+
+ purpose: why did you record this sound? what purpose can it fill?
+
+ Our description now finally becomes: "Car Crash: breaking of glass, crushing metal on metal, burning rubber. Hard impact sounds, glass shards falling to the floor. Recorded with a SoundDevices recorder and stereo microphone (rode NT4). The sound was post-processed to make the impacts more dramatic (compression with waves C4). Recorded on windy afternoon in Melbourne centre for our new movie The Car Crash. The car we destroyed was a Fiat Panda." 
+
+ The Broad Sound Taxonomy 
+
+ Freesound categorizes sounds into broad categories using the Broad Sound Taxonomy (BST). 
+The BST consists of 5 top-level classes, and 23 second-level classes, and is designed to be a simple yet comprehensive system to organize sounds. By using this taxonomy, we ensure that sounds are easier to find, whether you're searching, browsing, or filtering results. The BST was added to Freesound on April 2025. 
+
+ Here you will find the class list, class definitions, examples , and other relevant information about the Broad Sound Taxonomy.
+
+ What sounds are legal to put on freesound? 
+
+ First off, we're not copyright lawyers, so these guidelines should not be seen as legal advice ;-)
+
+ You recorded the sound yourself : If you recorded the sound yourself, consider the source(s). If you recorded a part of a commercial song, chances are very high that you derived (that's a fancy way of saying sampled) your work from a "copyright" or "all rights reserved" source. This is not legal, so we can't allow these sounds on freesound. If you recorded the radio or television, the same applies, the broadcast you recorded is copyrighted by the entity broadcasting... All of these are not legal. What is legal, you ask? Well, you could record street noise, birds, an overhead airplane, a faucet running, a door slamming, a siren, a car alarm, .... So many sounds are not from a source which has copyright on the sound. Most of the time only human-made sounds can be copyrighted! And even when they are human made (say, protesters in the street, or a street vendor) you can get away with uploading them to freesound. If you record a single person, always ask their permission to upload the sounds!
+
+ You created the sound yourself : The same applies as for recording - consider the sources! If you cut a piece from a song by Madonna, guess what, you shouldn't put it on freesound! There are limits to this of course: if you cut a piece of sound from a song and then process it until it's completely unrecognizable, that's fine!
+
+ You downloaded the sound from somewhere : this one is really tricky! There are a lot of sites out there that have sounds that are "free". However, "free" is a tricky concept! Free to do what exactly? Free to sell? Free to use...? If you don't know very well what you are doing, don't upload random sounds you found on the internet, it's probably not legal. One exception to this are sounds that are already licensed under a clear license that is compatible with the ones we use, for example a creative commons one.
+
+ You took the sound from a game/video/application/... : this is not legal in 99.9% of cases! The creators of the game probably have copyright on all the sounds in the game!
+
+ You sampled a synthesiser : aah, another tricky one. If the synthesiser is an analog one (think "old moog") you're probably fine, however if the synth you sampled from is a digital "ROM" synth, you might actually be recording the samples stored in the memory of the synth. And this is illegal! Some examples: PCM drum machines like the TR-707, TR-909 (cymbals and hi-hats), Linn Drum, Boss DR 550 etc... are all digital synths you should not sample. ROM samples like the Korg Wavestation internal ROM samples are also not legal to post on freesound. To make matter more crazy, if you have a digital "virtual" analog and you created some patches on it, those are fine to sample too, but if you buy a pack of presets from someone, those might not be legal.
+
+ If you have any doubts about your sound being legal or not to post try asking in the legal questions forum , but don't forget we aren't lawyers.
+
+ Can I upload music or songs? 
+
+ Yes and no. Freesound isn't meant for sharing songs, it's for sounds! 
+
+ For songs there are a lot of great already existing sites like:
+
+ ccMixter 
+
+ Soundcloud 
+
+ Free Music Archive 
+
+ Bandcamp 
+
+ There is some musical content that’s okay to upload here. Things like stems, loops, riffs, a cappella vocals, melodies, solo instrumentals and original street performances (with permission). If you have made music and want it to be accepted, try sharing the individual elements as stems or loops. Make sure it’s tagged and described well with musical info (e.g. BPM, key, chord progression etc). Lastly, It’s also important that you created the loops yourself, so no copyrighted samples or melodies!
+
+ Here are a couple of examples of musical sounds that are acceptable:
+
+ Example #1 
+
+ Example #2 
+
+ We understand that there can be a blurred line between music and something more experimental. Making this distinction is sometimes difficult (soundscapes come to mind), but if you made it you probably know in your heart if it's a song or a sound... So don’t be offended if your sound gets rejected by a moderator. We'll try our best to be objective about it based on the guidelines above, and if you include lots of information in the description it will help make moderation quick and easy.
+
+ Can I upload AI-generated content? 
+
+ Yes, AI generated audio/sounds created with generative AI models is permitted as long as it is marked with the GenAI tag and the model is indicated in the description.
+
+ Hey, do you have this sound: ...? 
+
+ All the sounds on freesound are made by our users, Freesound itself does not create or record the sounds!
+
+ If you're struggling to find the particular sound you want. Try using the advanced search feature. After entering a search the option will be visible underneath the text box. You'll have more options to filter out unwanted sounds and refine your search. 
+
+ If that doesn't help you could try asking in the Sample Request Forum .
+
+ What's the maximum allowed duration allowed for a sound? 
+
+ Sounds uploaded to Freesound can be of any duration, but there is a file size upper limit of 1GB. Note that when uploading multiple files at once, the size limit is applied to the sum of all file sizes. Therefore you can, for example, upload 4x250MB files, but not 3x500MB.
+
+ I hear a high-pitched squeaking in the audio preview - what is that? 
+
+ When you preview the sounds with the in-site player, before downloading, you're listening to mp3 or ogg previews of the sounds encoded in relatively low bit rates to save bandwidth. No (dynamics) compression is applied at all out of that which the mp3 or ogg encoder itself might add (which should be minimal or none).
+
+ When you download the sound you get the exact same original file that was uploaded, no transcoding nor any kind of editing at all, without the artefacts.
+
+ I have many sounds to upload, is there a way to describe many sounds in bulk? 
+
+ You can describe your uploaded audio files in batches of 10 sounds using the Freesound describe sounds page. However, if you have many sounds to describe this can become a tedious process. Luckily, if you have demonstrated being a faithful Freesound user (and have already uploaded 40 sounds or more), when you go to the describe sounds page you'll see an extra option named Bulk description of files . If you don't see that option and still need to describe files in bulk, please fill a request using our contact form .
+
+ Using that option you can provide descriptions for several files at once by uploading a data file which contains all the necessary metadata information. We support data files in CSV , XLS , and XLSX formats. Data files must be created following the instructions below.
+
+ Using this method you can describe hundreds of sounds at a time, this means you have to double check that all the metadata you provide is correct because you won't be able to modify the descriptions in bulk at a later time. We recommend that before uploading any large collection, you first try by batch describing a small number of test sounds and see if it all looks good. After that you can do the rest :)
+
+ Instructions for creating a data file with sound descriptions: 
+
+ 1) Download one of the following data file templates: CSV , XLS , XLSX .
+
+ 2) Open the template file with any spreadsheet editor software like LibreOffice Calc , Microsoft Excel or Google Spreadsheets . XLS and XLSX should work well with any of these options and possibly other similar software. CSV has better support in LibreOffice Calc and Google Spreadsheets.
+
+ 3) Fill in the metadata of your sounds by adding one new row per sound . You can delete the example rows provided in the template, but don't delete the header row . This is a description of what should go in each column of a row:
+
+ audio_filename : filename of the sound to describe (must be one of the filenames listed above in "Your uploaded files" section).
+
+ name (optional): name to be given to the sound. If left blank, audio_filename will be taken as a default.
+
+ tags : tags for the sound, separated with spaces like in the standard audio description forms.
+
+ geotag : geotag information for the sound. The geotag should be indicated as " latitude, longitude, zoom ". Latitude must be in the range [-90, 90]. Longitude must be in the range [-180, 180]. Zoom must be in the range [11, 19]. If this field is left blank, no geotag will be added to the sound. For example: " 41.40348, 2.189420, 18 " is a valid geotag. Try our geotag picker tool , it will help you choosing the right values for the geotag field.
+
+ description : textual description given to the sound. Can be multiline like sound descriptions introduced using the standard describe interface.
+
+ license : name of the license to be given to the sound. Must be one of " Creative Commons 0 ", " Attribution ", or " Attribution Noncommercial ".
+
+ pack_name (optional): name of the pack in which the sound should be included. If there exists no pack with this name, a new pack will be created. If this field is left blank, the sound won't be included in any pack.
+
+ is_explicit : must be " 1 " if sound contains explicit content, or " 0 " if it does not.
+
+ bst_category : must be one of the subcategory IDs from the Broad Sound Taxonomy.
+
+ 4) Save the file in either CSV, XLS or XLSX format. If saving in CSV format, make sure that comma is used as the delimiter character. 
+
+ New Freesound user interface 
+
+ What are the new features brought by the new user interface? 
+
+ In November 2023, a new Freesound user interface (codenamed Beast Whoosh , or simply Freesound 3 ) was released (and the old UI removed). The new UI not only updates the graphical design of the website but it also introduces a ton of improvements in terms of workflow and features. Also, it provides new ground for adding more new features in the future. What follows is a list of the most important changes and new features implemented by the new Beast Whoosh user interface:
+
+ Updated overall look and feel to be plain and make navigation easier.
+
+ Responsive design that adapts to mobile phones and tablets.
+
+ The new UI includes a light theme and a dark theme that can be configured in your account settings.
+
+ Different website sections are now available through the upper menus.
+
+ Some detailed information like sound downloaders, sound comments, similar sounds (and more) is now shown using modals which allow you to access that information without having to leave to a different page.
+
+ Added more sounds (and packs!) in the front page.
+
+ The "Random sound of the day" section of the front page has been turned into a sort of game in which the sound name and description is not shown initially so you can guess what the sound is before displaying that information. 
+
+ The new "Manage sounds" page will allow sound uploaders to better keep track of the upload process of their sounds and manage sounds afterwards.
+
+ You can now edit the description of multiple sounds at once , just like when you describe multiple uploaded files at once. You'll find how to do it in the manage sounds page.
+
+ In the sound description or in sound comments, you can now add timestamped annotations/comments that will render with little play buttons. See an example of this in this sound . You do that by typing some thing like #1:27 your comment to indicate that at minute 1 and 27 seconds, something happens.
+
+ The interface for describing and editing sounds now also includes a sound player so you can listen to the sound while describing/editing its information.
+
+ The new "Charts" page shows some statistics about user activity. This sort of replaces the old "People" page. If you have ideas of other statistics to add to this page, please let us now.
+
+ An option has been added to the account settings to show sound spectrograms by default in sound players (instead of the waveforms). Also, spectrogram and waveforms can be toggled in any player by doing alt+click on them.
+
+ An option has been added to the account settings do enable/disable sound playback polyphony . The default is to enable polyphony, that is to say, two enable multiple sounds playing at the same time (which is how Freesound has worked over the years). Also, even if you have the polyphony activated, you can now do alt+click on the play button on sound players to stop any other sound that was playing and start playing the selected sound.
+
+ An option has been added to the “advanced search” panel to show search results in a grid which allows to get more search results in less screen space (also, in grid mode 30 sounds are returned per page instead of 15). This addresses some concerns raised by users testing the new UI about the number of sounds visible on screen. The preference for grid display is remembered per user account.
+
+ An option has been added to the “advanced search” panel to return only remix sounds in search queries. This will only return sounds that either have been remixed or are a remix of other sounds from Freesound. 
+
+ An option has been added to the licenses filter in the search page to filter results by Free Cultural Works approved licenses (that is to say, sounds under CC-BY or CC0).
+
+ Sound bookmarks are no longer named, but they can still be categorized. Also, bookmarks are no longer public to other users. We're planning many improvements in relation to bookmarks (including a rename to Collections ), so stay tunned.
+
+ You can now bookmark a sound by doing alt+click on the bookmark button , and this will save the bookmark under the last bookmark category that was used without displaying the bookmarking interface. This is a great way of quickly adding bookmarks.
+
+ The "Map" page now has an option to filter by tag (and also embed the maps generated using that filter).
+
+ The "Search" page now has an option under the advanced search options to Display results as packs . This options effecitvely allows to search for packs in the search page.
+
+ The pages to display the full list of sounds or packs by a user now use the search page (with a username filter applied). This allows to further sort, match and filter the list of sounds.
+
+ The "Tags" page now uses the same backend as the search page, which allows to filter by tags but also to apply other filters from the search page.
+
+ The similar sounds option now returns 5 pages of similar sounds instead of only 1.
+
+ There are probably other new features and changes that I'm not listing here because I already forgot, but these should be the most important :)
+
+ Other questions 
+
+ How do I cite Freesound in a research context? 
+
+ You should reference the ACM MM'13 Freesound Technical Demo article.
+
+Frederic Font, Gerard Roma, and Xavier Serra. "Freesound technical demo." 
+
+Proceedings of the 21st ACM international conference on Multimedia. ACM, 2013.
+
+ Also, you should use the word "Freesound" instead of variants like "FreeSound", "freesound.org", etc. 
+
+ I have a question not answered here... 
+
+ Try the contact form 
+
+ About Freesound 
+ Terms of use 
+ Privacy 
+ Cookies 
+ Developers 
+ Help 
+ Donations 
+ Blog 
+ Freesound Labs 
+ Get your t-shirt! 
+
+ © 2026 Universitat Pompeu Fabra

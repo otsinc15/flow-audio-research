@@ -1,0 +1,230 @@
+URL: https://www.bitwig.com/buy/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:    81731
+----
+Buy | Bitwig 
+ Go to content 
+ Bitwig Studio
+ Bitwig Connect
+ Learn
+ Discover
+ Support
+ Try
+ Buy
+ Login
+ Username / E-mail Address 
+ Password 
+ Login 
+ Forgot your password? 
+ or 
+ Create your account here 
+ Login 
+ Login 
+ Bitwig Studio 
+ Bitwig Connect 
+ Bitwig Studio EDU 
+ Merchandise 
+ Premium Sound Content 
+ Renew / Upgrade 
+ Buy Local
+ Bitwig Studio 
+ Bitwig Connect 
+ Bitwig Studio EDU 
+ Merchandise 
+ Premium Sound Content 
+ Renew / Upgrade 
+ Buy Local
+ Bitwig Webshop
+ Welcome to the Bitwig webshop. Choose your flavor of Bitwig Studio below.
+ Bitwig Studio 
+Essentials
+ EUR
+ 99.-
+ Buy Now 
+ Your entry into the world of Bitwig Studio, with the essential tools for music creation.
+ For macOS, Windows, and Linux
+ 51 instruments, audio & note FX, and more
+ Includes the devices Polymer, Delay+, and Arpeggiator
+ Powerful sampler with slicing and hardware emulation
+ Starter modulation system with 10 modulators
+ Essential library of sounds, loops, and presets
+ ▶ 
+ Read More
+ Unlimited audio, instrument, and hybrid tracks and scenes
+ Unlimited VST/CLAP plug-ins with side-chain support
+ Professional editing and arranging tools
+ 3 audio-stretching algorithms
+ Native hardware integration with MIDI/CV compatibility, plus full MPE support and multitouch integration
+ 3 display profiles (single screen only)
+ 4/8 audio i/o busses
+ Bitwig Studio 
+Producer
+ EUR
+ 199.-
+ Buy Now 
+ Explore Bitwig Studio with professional tools for studio, stage, and beyond.
+ For macOS, Windows, and Linux
+ 105 instruments, audio & note FX, and more 
+ Includes devices in Essentials and more (e.g. Polysynth, Delay-4, and Humanize)
+ Powerful sampler with slicing and hardware emulation
+ Advanced modulation system with 18 modulators
+ Extended library of sounds, loops, and presets
+ ▶ 
+ Read More
+ Unlimited audio, instrument, and hybrid tracks and scenes
+ Unlimited VST/CLAP plug-ins with full sidechain and multi-out options
+ Professional editing and arranging tools, plus layered editing
+ Slice to Drum Machine / Sampler
+ 8 audio-stretching algorithms, including Elastique from zplane
+ Native hardware integration with MIDI/CV compatibility, plus full MPE support and multitouch integration
+ 8 display profiles for up to 3 screens
+ Unlimited audio i/o busses
+ Open multiple projects at a time to drag-and-drop between tabs, etc.
+ Audio comping in the arranger and in the Clip Launcher
+ Bitwig Studio 
+ EUR
+ 399.-
+ Buy Now 
+ Music production without limits. Design sounds. Build instruments. Make music.
+ For macOS, Windows, and Linux
+ 188 instruments, audio & note FX, and more 
+ Includes devices in Producer and more (e.g. Phase-4, Convolution, EQ+, Note Repeats, and the Spectral Suite)
+ Fully-featured sampler with slicing, hardware emulation, and 5 play modes
+ Complete modulation system with 43 modulators
+ Full library of sounds, loops, and presets
+ The Grid: our modular sound-design environment for loading and building instruments, audio FX, and note FX
+ ▶ 
+ Read More
+ Unlimited audio, instrument, and hybrid tracks and scenes
+ Unlimited VST/CLAP plug-ins with full sidechain and multi-out options
+ Professional editing and arranging tools, plus layered editing
+ Slice to Drum Machine / Sampler
+ 8 audio-stretching algorithms, including Elastique from zplane
+ Native hardware integration with MIDI/CV compatibility, plus full MPE support and multitouch integration
+ 8 display profiles for up to 3 screens
+ Unlimited audio i/o busses
+ Open multiple projects at a time to drag-and-drop between tabs, etc.
+ Audio comping in the arranger and Clip Launcher
+ Sampler includes the full multisample editor
+ Bitwig Circle Membership
+ Compare editions... 
+ Pick your own path and upgrade between flavors of Bitwig Studio without extra costs.
+ After purchase, your license is automatically registered in your Bitwig account.
+ If you do not have a Bitwig account, you'll be asked to create a new account or log in to an existing account after the purchase is completed.
+ Gift purchases, Bitwig Studio EDU, and tutorial licenses are not registered automatically.
+ Looking to renew or upgrade your license? 
+ Check your user account for upgrade/renewal offers.
+ Login 
+ Are you a student or teacher? 
+ Take a look at our educational discounts.
+ Read More 
+ 12 Months of Free Upgrades 
+ Future-proof: All Bitwig Studio updates in the following 12 months are FREE.
+ Hardware Products
+ Bitwig Connect 4/12
+ Class-compliant, 4‑in/12‑out CV- and MIDI‑enabled USB audio interface with monitor- and DAW-control functionalities and a unique Bitwig Mode. Free local shipping in the EU, UK, and US. Tax included.
+ 499 EUR 
+ More Info 
+ Buy 
+ Roto-Control Bitwig Edition
+ Special-edition motorized MIDI controller with seamless mix and plug-in control functionalities for Bitwig Studio, custom design, and a Bitwig software license. 
+Free local shipping in the EU, UK, and US. Tax included.
+ 529 EUR 
+ More Info 
+ Buy 
+ Premium Sound Content
+ PREMIUM 
+ FX Expansions - Grid Alchemy
+ 70 presets demonstrating the dizzying creative potential of FX Grid. From powerful mixing tools to wild audio reconstruction, Grid Alchemy opens up new worlds of processing to explore.
+ 24 EUR 
+ More Info 
+ Buy 
+ PREMIUM 
+ FX Expansions - Time and Texture
+ Explore space and movement with 100 intricate presets for Bitwig Studio devices Chorus+, Phaser+, Flanger+, and Delay+. Epic delay chains, rich modulation FX, and more.
+ 19 EUR 
+ More Info 
+ Buy 
+ PREMIUM 
+ FX Expansions - Heat and Color
+ A vibrant sound-shaping toolkit for effects Sweep, Filter+, and Freq Shifter+. Bring life and energy to all kinds of sounds with 90 audio FX presets, from subtle tone tweaks to radical transformations.
+ 19 EUR 
+ More Info 
+ Buy 
+ PREMIUM 
+ Percussão
+ A substantial collection of Brazilian percussion. Over 800 one shots spanning 15 instruments, plus 25 playable kits and dozens of note clips for rhythmic inspiration.
+ 19 EUR 
+ More Info 
+ Buy 
+ PREMIUM 
+ The Art of Wavetables
+ Go deep on wavetables with sonic visionary Cristián Vogel. 130 custom-designed wavetables for use as complex oscillators and modulation sources. Plus 50 wild Polymer presets showing them in action.
+ 24 EUR 
+ More Info 
+ Buy 
+ PREMIUM 
+ Hip-Hop Loops: Trap, Drill, R&B
+ Explore hip-hop’s cutting edge with this premium sound package. Over 300 loops and 150 one-shots celebrate the genre’s 21st century forms, from razor-sharp trap and drill to glossy modern R&B.
+ 24 EUR 
+ More Info 
+ Buy 
+ PREMIUM 
+ Field Goes Musical
+ Explore the musical potential of everyday sounds with exclusive field recordings transformed into leftfield percussion, melodious tones, and other components primed for your next track.
+ 19 EUR 
+ More Info 
+ Buy 
+ PREMIUM 
+ Atmospheres and Soundscapes
+ This preset package of scene-setting arps, FX, drones, pads, and more is perfect for ambient and downtempo or adding evocative detail to any composition.
+ 19 EUR 
+ More Info 
+ Buy 
+ Merchandise
+ Bitwig Tote Bag - Natural White With Space Logo
+ High quality tote bag, durable and sturdy. Natural white with orange space logo. 
+Made from 80% recycled cotton and 20% recycled polyester.
+Size: 35x37cm
+Size handles: 62cm
+ 19 EUR 
+ Buy 
+ Heavyweight Bitwig Hoodie - Navy Blue With Orange Logo Print
+ Comfy navy blue hoodie with orange Bitwig logo print. Unisex, heavy material, luxurious feel, 100% organic cotton.
+ 69 EUR 
+ More Info 
+ Bitwig Cap - Navy Blue With Bitwig Space Logo
+ Your next cap in classy navy blue with orange Bitwig space logo. Unisex style and adjustable size for all people and occasions. 100% cotton.
+ 29 EUR 
+ More Info 
+ Buy 
+ Bitwig Sweatshirt - Navy Blue With Orange Logo Print
+ Bitwig sweatshirt in navy blue with orange logo print. Unisex, heavy material, relaxed fit, crewneck, 100% organic cotton.
+ 69 EUR 
+ More Info 
+ Bitwig T-Shirt - Navy Blue With Orange Logo Print
+ Bitwig t-shirt in navy blue with orange logo print. Unisex, relaxed fit, single jersey, 100% organic cotton.
+ 29 EUR 
+ More Info 
+ Subscribe to our Newsletter 
+ Bitwig Studio | 
+ Bitwig Connect | 
+ Learn | 
+ Discover | 
+ Support | 
+ Try | 
+ Buy | 
+ Login | 
+ Create Account 
+ About Us 
+ Legal / Imprint 
+ Privacy Policy 
+ Terms & Conditions 
+ Refund Form 
+ Copyright Notices 
+ English 
+ | 
+ Deutsch 
+© Bitwig GmbH 2026. All rights reserved. 
+ Go to top

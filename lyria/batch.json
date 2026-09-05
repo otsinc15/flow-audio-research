@@ -1,0 +1,73 @@
+{
+  "_comment": "Ear-test batch: 8 x 90s instrumental hypnotic techno from lyria-realtime-exp. Scale enum C_MAJOR_A_MINOR is the A-minor value (the model does not distinguish relative keys). Run: ~/.venvs/lyria/bin/python lyria/render.py --batch lyria/batch.json --out-dir out",
+  "defaults": {
+    "seconds": 90,
+    "prompts": "hypnotic minimal dub techno:1.0, deep sub bass:0.8, dry analog kick:0.6, dubby chord stabs with delay:0.6, sparse percussion:0.4",
+    "scale": "C_MAJOR_A_MINOR",
+    "guidance": 4.0
+  },
+  "clips": [
+    {
+      "name": "t118-d30-b30",
+      "bpm": 118,
+      "density": 0.3,
+      "brightness": 0.3
+    },
+    {
+      "name": "t118-d40-b40",
+      "bpm": 118,
+      "density": 0.4,
+      "brightness": 0.4
+    },
+    {
+      "name": "t118-d50-b50",
+      "bpm": 118,
+      "density": 0.5,
+      "brightness": 0.5
+    },
+    {
+      "name": "t118-d40-bsweep",
+      "_comment": "brightness rises 0.30 -> 0.55 across the first 60s; density and bpm held so the sweep is the only variable",
+      "bpm": 118,
+      "density": 0.4,
+      "brightness": 0.3,
+      "steer": [
+        { "at_seconds": 15, "brightness": 0.35 },
+        { "at_seconds": 30, "brightness": 0.4 },
+        { "at_seconds": 45, "brightness": 0.48 },
+        { "at_seconds": 60, "brightness": 0.55 }
+      ]
+    },
+    {
+      "name": "t122-d30-b30",
+      "bpm": 122,
+      "density": 0.3,
+      "brightness": 0.3
+    },
+    {
+      "name": "t122-d40-b40",
+      "bpm": 122,
+      "density": 0.4,
+      "brightness": 0.4
+    },
+    {
+      "name": "t122-d50-b50",
+      "bpm": 122,
+      "density": 0.5,
+      "brightness": 0.5
+    },
+    {
+      "name": "t122-d40-bsweep",
+      "_comment": "same sweep at the faster tempo",
+      "bpm": 122,
+      "density": 0.4,
+      "brightness": 0.3,
+      "steer": [
+        { "at_seconds": 15, "brightness": 0.35 },
+        { "at_seconds": 30, "brightness": 0.4 },
+        { "at_seconds": 45, "brightness": 0.48 },
+        { "at_seconds": 60, "brightness": 0.55 }
+      ]
+    }
+  ]
+}

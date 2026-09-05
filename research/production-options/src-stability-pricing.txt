@@ -1,0 +1,17 @@
+URL: https://platform.stability.ai/pricing
+Fetched: 2026-09-02
+Method: Browser pane (JS SPA)
+----
+VERBATIM:
+
+"How does pricing work?  API usage is based on credits. 1 credit = $0.01."
+"Get started with 25 free credits."
+
+Audio
+"Stable Audio 3.0 | Generate up to six minutes high-quality audio with coherent structure from text
+prompts or audio samples | 26" (credits)
+"Stable Audio 2.5 | Generate up to three minutes high-quality audio with coherent structure from text
+prompts or audio samples | 20" (credits)
+
+=> Stable Audio 3.0 = $0.26 per generation of up to 6 minutes.
+=> Stable Audio 2.5 = $0.20 per generation of up to 3 minutes.

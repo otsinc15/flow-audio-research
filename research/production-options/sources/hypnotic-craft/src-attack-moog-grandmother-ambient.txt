@@ -1,0 +1,146 @@
+URL: https://www.attackmagazine.com/technique/synth-secrets/ambient-sound-design-with-a-moog-grandmother/
+Fetched: 2026-09-05
+---
+Ambient Sound Design With A Moog Grandmother - Attack Magazine 
+ Attack Magazine 
+ Menu 
+ News 
+ Technique 
+ Technique 
+ All 
+ Hardware Focus 
+ Modular Synthesis 
+ Tutorials 
+ Beat Dissected 
+ Synth Secrets 
+ Deconstructed 
+ Passing Notes 
+ The Breakdown 
+ Video Tutorials 
+ Help 
+ ← 
+ Features 
+ Features 
+ All 
+ Long Reads 
+ Podcasts 
+ Interviews 
+ My Studio 
+ Track By Track 
+ Show & Tell 
+ Top Tracks 
+ Q&A 
+ Columns 
+ Job Envy 
+ Introducing... 
+ Quizzes 
+ ← 
+ Reviews 
+ Reviews 
+ All 
+ The Best... 
+ Gear/Software 
+ Books/DVDs 
+ ← 
+ Charts 
+ Store 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ Subscribe 
+ Search 
+ Technique » Synth Secrets » Ambient Sound Design With A Moog Grandmother 
+ Ambient Sound Design With A Moog Grandmother
+ Share
+ Facebook 
+ Twitter 
+ WhatsApp 
+ This channel is sponsored by 
+ u-he are makers of award-winning software synthesisers and effects including Diva, Repro-1, Zebra2, Hive, Bazille, Presswerk and Satin.
+ Visit U-he 
+ Restricting yourself to one synth can be a great way to improve your synthesis chops. We use a Moog Grandmother Dark Series edition and Ableton Live to build up an ambient song piece by piece. 
+ With so many options available to make music, choice paralysis can often strike. Where do you start when you have literally hundreds of synthesizer plugins and hardware? One way to paradoxically encourage creativity is to restrict yourself to one instrument. This can free you from choice paralysis. It also has the added benefit of forcing you to really get to know that instrument and get the most out of it.
+ Today, we’ll be using a Moog Grandmother Dark Series edition to create an ambient-style track. We’ll build the song up piece by piece in Ableton Live, starting with bass and then adding percussion, pads, chords and FX. Finally, we’ll make use of effects plugins to complete the piece. As always, click on any image to see a larger version.
+ Here’s our finished track:
+ A Quick Overview Of Moog Grandmother 
+ Moog’s Grandmother is a two-oscillator analogue monosynth. It has a semi-modular architecture. This means that unlike a fully modular system it has a hard-wired (or normalled) signal path and will play without the use of patch cables. However, a number of additional synthesis options are available via patching. In this way, the Grandmother can become a rather flexible and formidable synthesizer.
+ Looking at the front panel starting at the left, there’s a section for controlling the arpeggiator and sequencer. Next is the single LFO with a variety of wave shapes. To the right of this is the dual-oscillator section, with each oscillator capable of playing a triangle, sawtooth, square, or narrow pulse wave (square pulse width can also be modulated). Continuing on, there’s a mixer, a section marked Utilities for patching, a filter, a single envelope (with an unusual mixer-style slider for sustain), and output and spring reverb.
+ The keyboard section of the synth includes 32 full-size keys, pitch and modulation wheels, a glide (portamento) knob, and buttons to control playback of the arpeggiator and sequencer.
+ As you can see, it’s not a particularly complicated synthesizer – at first glance, that is. Once you start patching, however, the synthesis possibilities really open up.
+ Step 1: Bass 
+ Moog’s synths are well-known for their bass and the Grandmother is no exception. Let’s start our track with some of that famous Moog bass.
+ We start with the oscillators and choose a square wave on Oscillator 1 for a nice, round sound. An octave setting of 16’ is plenty low. We don’t need to get a second oscillator involved as we want a pure tone without so many harmonics. We also make sure to turn up the volume on the mixer.
+ Next, we look at the filter section. We turn down the (quite large!) cutoff knob, stopping at 11 o’clock. This gives us a full bass sound. We could go lower for a more subby feel but we’re going to modulate the cutoff with the LFO so we need something for it to work with. We can keep keyboard tracking off as we aren’t playing any high notes. As we don’t want to lose any bass weight we keep resonance at zero.
+ We’re going for a long and slow bass sound. Let’s shape that in the Envelope section. We keep the attack at zero for a percussive start, and then a decay of around 50%. We set the sustain slider pretty high as we want our sound to continue rolling. We likewise dial in a lengthy release setting.
+ Finally, let’s use the LFO to give the famous Moog Ladder filter some movement. We choose a relatively slow rate, open the cutoff amount to around 9 o’clock, and choose a sine waveform. We have to make sure to engage the mod wheel as well or the filter won’t modulate. We also open the pulse width amount to modulate the oscillator’s square wave.
+ Arturia’s Comp Tube-STA compressor plugin is the final touch to help keep things solid.
+ Step 2: Percussion 
+ Next, let’s use white noise and the onboard step sequencer to create a percussion line. We’re thinking that open hats might be good as a way to keep the rhythm.
+ We start by turning down Oscillator 1 on the Mixer and turn up the white noise. Next, we bring up the cutoff to around 2kHz to let more highs through. We can raise the resonance as well to give it a little bite. Finally, let’s add a touch of envelope amount so the envelope affects the filter as well as the volume. Similar envelope settings from the bass above will work but let’s increase the decay a little and also reduce the release. Finally, on the LFO, we bring up the amount sent to the cutoff to modulate the filter. Remember that the mod wheel needs to be up to hear the effect.
+ Next, let’s program a basic open hat sequence. In the ARP/SEQ section, we flip the Mode switch to (REC) to arm the sequencer and then enter an 1/8-note pattern, using the Hold button to enter rests. Now, when we flip the switch to SEQ and press a key, we can hear the sequence. To sync it to MIDI, we draw in a note in Ableton Live that extends across four bars (Grandmother is set to sync to external clock by default).
+ After recording in the sequence, we decide that we like it better as a snare than an open hat, so we move the audio file over to the right so the sound lands on the offbeat.
+ Lastly, we add Arturia’s Delay Tape-201 to give the snare some space in the mix.
+ Top Tip: Use the Rate knob to change the note division when clocked to external MIDI .
+ But wait, you may be asking yourself, doesn’t Grandmother only have two oscillators? Yes, it does, but the LFO can be press-ganged into acting as a third. Pretty slick..
+ Step 3: Lead 
+ For the lead sound, let’s get the patchbay involved and unlock some of Grandmother’s additional synthesis capabilities.
+ We’re going to use two oscillators for a fuller sound. We set Oscillator 1 to sawtooth and Oscillator 2 to square, with both at an octave setting of 8’. We detune Oscillator 2 slightly for a fatter sound and dial in some pulse width modulation for movement. Next, we set the cutoff to around 2kHz, resonance to 1 o’clock for a nice, sharp sound, and add a little envelope to help open it up. On the envelope, we want a moderately slow attack and short decay with zero sustain and a touch of release. A little Glide helps the notes slide together.
+ That sounds fine but it could be a little more interesting. Sample and hold should activate things nicely. We grab a patch cable and connect the S&H Out from the Modulation section and patch it into the Input on the Attenuator. The Attenuator allows you to control how much of an effect gets applied. Think of it as a volume knob for control voltage. Next, let’s patch out from the Attenuator and into the Cutoff In on the Filter. Now the sample and hold circuit in the LFO is modulating filter cutoff. We can then adjust the LFO rate and amount of attenuation to taste.
+ The last element is the Spring Reverb. This sends the signal through a physical spring, adding a dark and metallic reverb to the sound. It’s instant vibe. A setting of about halfway sounds good.
+ After recording in some MIDI notes and editing them, here is our audio:
+ Step 4: Chords 
+ Although the Grandmother is a monosynth it’s capable of playing three-note chords, albeit from a single key press. By tuning each oscillator to a separate note, you’re able to play each one separately and make a chord. But wait, you may be asking yourself, doesn’t Grandmother only have two oscillators? Yes, it does, but the LFO can be press-ganged into acting as a third. Pretty slick. 
+ We start by setting Oscillator 1 to sawtooth wave and an octave setting of 4’. We do the same with Oscillator 2 but we turn the Frequency (tuning) knob all the way clockwise, giving us a perfect seventh.
+ Next, let’s add the third oscillator. We patch from the KB Out jack in the ARP/SEQ section and into the Rate In jack in the Modulation section. Now the LFO will track to the keyboard. Normally, the LFO can’t be heard. It is, after all, a low frequency oscillator. However, the Grandmother LFO can go into audio rate so we turn it up and tune it by ear.
+ We need to override the internal signal path so we can hear all three oscillators. First, we patch out from the Modulation Wave Out to one of the Mults (multiples) in the Utilities section. We also patch out from each oscillator’s Wave Out to the Mults. Now we’ve bypassed the mixer entirely. Next, we go out from the last remaining Mult jack and into the Input on the Filter. Now all three oscillators are audible through the filter.
+ Let’s open the filter cutoff all the way and give it a little resonance. Finally, a suitable envelope shape with moderately slow attack and medium decay, sustain and release works perfectly. A dollop of spring reverb completes the sound.
+ Step 5: FX 
+ For the synth FX, let’s again use the LFO in audio rate along with white noise to create some downer effects.
+ We start by turning down the oscillators in the Mixer and turning up the white noise. We set the cutoff to around 1 o’clock and crank up the envelope amount and resonance. We also flick the keyboard tracking switch to 1:1. This will give us a very rezzy and zappy sound that we can modulate with the LFO. For the envelope, zero attack and sustain with decay and release at halfway will work nicely.
+ Most of the fun for this sound happens in the Modulation section. We bring up the cutoff amount to full and set it to a sawtooth waveform for sharp and abrupt modulations. To get noisy, ring mod-like tones, we play the LFO rate dial as we hold notes, cranking it up and bringing it back to create variation. Working the modulation wheel is also an effective way to change up the effect.
+ Finally, we add a copy of Soundtoy’s PanMan to auto pan the effect.
+ Here’s the effect in action. The first part features the LFO pushed into audio rate, and the second half uses the mod wheel to vary the downer.
+ Here is the finished piece with an additional bass sound modulated by the LFO as well as a sampled drum beat processed by Audio Damage’s Replicant 2 and Arturia’s Bus Force . Additionally, there’s delay and reverb sends on some of the sounds, plus mild saturation and compression on the master bus.
+ Related 
+ Author Adam Douglas 
+ 8th September, 2021 
+ Synth Secrets is sponsored by 
+ u-he are makers of award-winning software synthesisers and effects including Diva, Repro-1, Zebra2, Hive, Bazille, Presswerk and Satin.
+ Download the demos and try them for yourself at  www.u-he.com 
+ Related 
+ Previous 
+ Synth Secrets - Lo-Fi Synth Lead 
+ Next 
+ Synth Secrets - Drum ‘n’ Bass Foghorn Bass With Wavetable 
+ Leave a Reply
+ Your email address will not be published. Required fields are marked * 
+ Comment * 
+ Name * 
+ Email * 
+ Δ 
+ © 2026 Attack Magazine
+ About us 
+ Jobs 
+ Shipping 
+ Contact 
+ Privacy 
+ Advertise 
+ Write for Attack 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+ Δ 
+ You currently have an ad blocker installed
+ Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software.
+ Find out how 
+ x

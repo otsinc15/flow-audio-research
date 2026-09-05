@@ -1,0 +1,32 @@
+{
+  "_comment": "Round 6 knob audition. Base = round-5 clip 01 settings with the pad/melody words stripped out. Exactly ONE knob changes per clip vs 00. Every clip carries the same seed so the knob is the only intended variable -- clip 07 re-renders the base to test whether that actually holds. Run: ~/.venvs/lyria/bin/python lyria/render.py --batch lyria/batch-round6.json --out-dir out6",
+  "defaults": {
+    "seconds": 90,
+    "prompts": "monotonous hypnotic Berlin techno loop:1.0, deep sub bass:0.8, dry analog kick:0.7, tight closed hi-hats:0.4, short dry chord stab:0.3, locked repetition:0.8, no melody:0.6, no pads:0.6, no reverb wash:0.6",
+    "bpm": 118,
+    "scale": "C_MAJOR_A_MINOR",
+    "density": 0.3,
+    "brightness": 0.3,
+    "guidance": 4.0,
+    "seed": 730118
+  },
+  "clips": [
+    { "name": "r6-00-base", "_comment": "reference point for every other clip" },
+    { "name": "r6-01-temp060", "_comment": "temperature 0.6 vs server default 1.1", "temperature": 0.6 },
+    { "name": "r6-02-guid60", "_comment": "guidance 6.0 = max prompt adherence", "guidance": 6.0 },
+    { "name": "r6-03-bright015", "_comment": "brightness 0.15, half the base", "brightness": 0.15 },
+    { "name": "r6-04-dens020", "_comment": "density 0.2, sparser than base", "density": 0.2 },
+    {
+      "name": "r6-05-negprompt",
+      "_comment": "base prompts PLUS a negative-weight repulsion prompt",
+      "prompts": "monotonous hypnotic Berlin techno loop:1.0, deep sub bass:0.8, dry analog kick:0.7, tight closed hi-hats:0.4, short dry chord stab:0.3, locked repetition:0.8, no melody:0.6, no pads:0.6, no reverb wash:0.6, ambient pads:-0.6, spacey reverb:-0.6"
+    },
+    {
+      "name": "r6-06-obd45",
+      "_comment": "bass+drums only for 45s, then the stab is allowed back in",
+      "only_bass_and_drums": true,
+      "steer": [{ "at_seconds": 45, "only_bass_and_drums": false }]
+    },
+    { "name": "r6-07-base-repeat", "_comment": "identical to 00 including seed -- does seed reproduce?" }
+  ]
+}

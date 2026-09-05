@@ -1,0 +1,88 @@
+URL: https://rolandcorp.com.au/blog/the-roland-re-201-space-echo-story
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 254312
+----
+Skip to content
+
+Skip to content
+
+
+Search
+Main Menu
+
+	•	GUITAR
+	◦	   ACOUSTIC GUITAR        AMPLIFIERS        EFFECTS          LOOP STATION        BASS        TONE TIPS            
+	•	DRUMS
+	◦	   PARENTS        LATE BEGINNER        RETURNING PLAYER          GIGGING MUSICIAN        EXPERT        HYBRID & PERCUSSION            
+	•	PIANO
+	◦	   PARENTS        LATE BEGINNER        RETURNING PLAYER          GIGGING MUSICIAN        EXPERT        INTERIOR DESIGNER            
+	•	SYNTH
+	◦	   SYNTH & SOUND DESIGN        HOME PRODUCER        GIGGING MUSICIAN          STUDIO MUSICIAN        SONG WRITER        DJ            
+	•	VIDEO
+	◦	   EVENT PRODUCTION        STREAMING        CORPORATE          EDUCATION        WORSHIP        FIXED INSTALLS            
+	•	ARTISTS
+Back in the mid-seventies, the RE-201 Space Echo unleashed a sound that came straight from outer space. This is its story…
+Contributed by Roland UK Team By Jim Bybee Over the years, Roland has created a significant number of products that have gone on to become legendary. One of the earliest examples is the Roland RE-201 Space Echo, a combination tape echo and reverb introduced in 1974. While Roland didn’t invent the tape echo itself, they took a fragile and often unreliable technology and turned it into something robust and roadworthy and the RE-201 immediately became the touring and recording studio standard in portable tape echo.
+Echoing through history
+As anyone who sings or plays an instrument knows, the acoustic space you perform in has a huge impact on the sound. If you perform in a small, dry-sounding space—such as a heavily carpeted room—the sound is small and uninspiring. But if you take that same performance to a large space with hard surfaces, the sound becomes bigger, with the natural reverberation of the room making your performance feel more alive. Since the dawn of sound amplification and recording, musicians and audio engineers sought a way to add the natural ambience of a large acoustic space to a sound in a controlled manner. This led first to natural echo chambers, where a sound was re-amplified into a large acoustic space and captured with a microphone. Later, electronic methods were developed to create artificial reverberation by amplifying sound waves through metal plates or springs. The spring reverb, first developed for use in home organs, continues to be a staple in guitar amplification. Shortly after World War II, magnetic tape technology became the standard for audio recording. Audio engineers realised they could also use their reel-to-reel tape recorders to create an echo of a sound for a unique type of artificial ambience. The effect quickly became popular, particularly when a short echo was combined with reverb. This type of “slapback” echo was an essential sound component on early rock and roll recordings, and is still popular today.
+The road to the Space Echo
+Starting in the 1950s, various inventors came up with ways to create the popular tape echo sound in portable units that could be used by touring vocalists and instrumentalists. Basically, these devices were small, self-contained recorders incorporating a single short tape loop; while popular with musicians, they were quite fragile and didn’t stand up well to the rigours of the road. In 1973, the fledgling Roland Corporation—now in its second year in business—added the very first “Space Echo” products to its lineup, the RE-100 and RE-200 tape-echo units. These were quickly superceded the following year with the RE-101 and the RE-201. In contrast with competitors’ echo units, both were affordable, built like tanks, and featured inputs for multiple types of sound sources. However, with its extended feature set, the RE-201 quickly became the Space Echo desired by musicians and audio engineers.
+Inside the RE-201 Space Echo
+The RE-201 was an engineering masterpiece. It featured a sophisticated tape-echo effect and a built-in spring reverb, with different sound variations selectable via 12 different operating modes. Front-panel controls included repeat rate (echo length), intensity (number of echo repeats), and separate levels for echo and reverb. Bass and treble controls provided EQ for the effect sound. The front panel also offered inputs for multiple sound sources, including two mics and an instrument (all with independent level controls), and a line-level device such as a mixer. Lifting the hinged lid on top of the RE-201 exposed the heart of the machine, its tape transport system. Featuring a record head, three separate playback heads, and a variable speed motor, the RE-201 was capable of producing a unique range of echo effects. The delay time was adjusted by altering the tape’s speed with the Repeat Rate knob, along with selecting one or more playback heads with the Mode Selector (multi-tap echo patterns were created when multiple heads were selected). Along with the built-in spring reverb and the ability to feed the delayed sound back into the record head for multiple echo repeats, this allowed for a combination of echo effects previously unavailable in any single portable device. A unique feature of the RE-201’s tape transport was its free-floating design. The single tape loop spooled freely into a tape chamber, with a plastic cover over the top to protect the tape. Previous designs used short tape loops spun over reels, like a miniature reel-to-reel tape recorder. The RE’s loose-spool, low-tension design created less tape wear, and also allowed for a much longer tape length; this long tape length let you create echoes over three seconds in length. The RE-201 was an instant hit, quickly becoming the tape echo of choice for musicians both on the road and in the studio. Its rich and organic sound was a source of inspiration and creativity, and it’s been heard on literally thousands of popular records since its introduction. It wasn’t always used for straight echo effects, either—by manipulating the tape speed and intensity while signal was present, you could coax a Space Echo into oscillation and pitch shift for some unreal sound effects. On the heels of the RE-201’s popularity, enhanced RE-series models were released over the years. 1977’s RE-301 added Roland’s famous chorus effect, as well as sound-on-sound recording capability. 1980 saw the introduction of two additional units: the RE-501, which added XLR inputs to the RE-301’s feature set, and the SRE-555, which was basically an RE-501 in a rackmount chassis.
+
+A classic reborn with COSM
+The RE-201 has been out of production since 1990, yet its warm, rich sound continues to make it a favourite tool for musicians. In fact, there are large numbers of original Space Echo units still in use today, a testament to its brilliant design. But replacement parts are getting harder and harder to find, making it difficult to keep the originals in working order. Now, thanks to the advanced Composite Object Sound Modelling (COSM) technology from Roland and BOSS, the RE-201 has finally been accurately resurrected in digital form as the BOSS RE-20. Housed in the popular BOSS Twin Pedal case, the RE-20 recreates every nuance and sonic detail of the original RE-201. This includes desirable quirks of tape-based audio such as wow and flutter (which adds a subtle modulation to the echo) and magnetic tape-head saturation (creating a fat, slightly compressed sound). Best of all, save for the knobs and pedals, there are no moving parts or tape to worry about! The RE-20’s control panel replicates all the knobs on the original. There’s a 12-position MODE SELECTOR, allowing you to dial in digital models of the RE-201’s three playback heads, as well as a model of the original’s spring reverb effect. Also like the RE-201, the REPEAT RATE knob dials in the “tape speed”—now digitally, of course—to change the echo time. (The front panel even has a cool indicator light that’s synchronised to the virtual tape speed.) When a signal is present, turning the knob acts just like a real Space Echo, with the pitch of the echo changing as the virtual tape’s speed catches up to the current knob setting. The INTENSITY knob lets you dial in the number of repeats, and at maximum settings it sends the echo into oscillation like the real deal. Rounding out the controls are knobs for reverb and echo volume, EQ for the effect signal, and an input level control with peak indicator. (Since the input level adjusts the dry signal as well as the effect, many guitarists through the years have used the Space Echo to push the front end of a tube amp to add an edge to their sound.) The RE-20 also adds some niceties not found on the RE-201. First off, it offers a special “long” mode that doubles the delay time over the original to six seconds. Additionally, there are stereo inputs and outputs, allowing you pass true stereo audio through the RE-20. The reverb effect is also output in stereo, unlike the original’s mono reverb (although you can use the RE-20 in mono if you wish.) Finally, there’s a switch on the back panel that bypasses the direct sound entirely; this is great when you want to use the RE-20 in the send/return loop of a mixer for recording or live sound applications. The left pedal on the RE-20 handles on/off duties, while the right pedal works a double shift. Normally, it’s used to tap in a tempo to match the echo time with your song. However, when the pedal is held down, the RE-20 goes into “twist” mode. Twist simultaneously increases the repeat rate and intensity, causing the echo sound to oscillate and the pitch to rise (it’s called “twist” because the same effect can be achieved by twisting the two corresponding knobs in real time). Since the effect is only active when the pedal is held down, it’s great for creating those classic Space Echo sci-fi sound effects on the fly. Another way to control twist is by connecting an optional expression pedal, such as the BOSS EV-5. If desired, you can adjust other parameters with the pedal instead, such as repeat rate, intensity, or echo level.
+Lost in space
+If you’re looking for that classic Space Echo vibe, you’ll find every last drop in the RE-20. It’s a dead ringer for the sound of the RE-201, but without all the maintenance hassles of keeping up an original specimen. And since it’s a BOSS Twin Pedal, it fits on a pedalboard right along with your other stompboxes—try that with a vintage RE-201! Check out the RE-20 and add the legendary sound of a retro inspiration machine to your rig today.
+Space Echo Power users include:
+Portishead Underworld Fatboy Slim Dust Brothers Jean Michel-Jarre Mr. Oizo Bob Marley Vangelis Sneaker Pimps Future Sound of London The Orb KISS Sublime Luke Vibert Radiohead Lauryn Hill Tomita Lee “Scratch” Perry King Tubby Tim Simenon Sonic Youth Brian Eno Boards of Canada Bon Iver Throbbing Gristle Zombie Nation Pink Floyd Noel Gallagher of Oasis Leftfield Yngwie Malmsteen Mick Jones / The Clash Nick McCabe / The Verve Hank Marvin / The Shadows Randy Rhoads / Ozzy Osbourne
+Related Articles
+Demystifying the Magic of Tape Echo Evolution of the Roland Space Echo
+Related Products
+RE-20
+The Rebirth of a Roland Classic.
+Find a Store
+Or Keep In Touch
+Facebook-f Youtube Instagram Linkedin-in
+	•	Boss Australia
+	•	Roland Pro A/V Australia
+	•	Roland NZ
+	•	BOSS Tone Central
+	•	Roland Apps
+PRODUCTS
+	•	Featured Products
+	•	Piano
+	•	Organs
+	•	Synthesizers
+	•	Keyboards
+	•	Guitar & Bass
+	•	Drums & Percussion
+	•	Production
+	•	Amplifiers
+	•	AIRA & DJ
+	•	Pro Audio
+	•	Pro Video
+	•	Accessories
+	•	Apps
+SUPPORT
+	•	Updates & Drivers
+	•	Owner's Manual
+	•	Support Documents
+	•	Quick Start Video
+	•	Power Adaptors
+	•	Support News
+	•	Warranty / Consumer Guarantee
+	•	Repairs
+COMPANY
+	•	Company Overview
+	•	Roland Australia
+	•	Contact Us
+	•	Corporate Strategy
+	•	History
+	•	Privacy and Cookie Policies
+	•	Warranty / Consumer Guarantee
+	•	Employment Opportunities
+	•	Promotion
+DEALER LOGIN

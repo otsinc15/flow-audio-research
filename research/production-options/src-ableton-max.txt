@@ -1,0 +1,417 @@
+URL: https://www.ableton.com/en/live/max-for-live/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:   139804
+----
+Max for Live | Ableton 
+ Skip to main content 
+ Skip to footer 
+ Ableton 
+ Menu 
+ Live 
+ Push 
+ Move 
+ Note 
+ Link 
+ Shop 
+ Packs 
+ Help 
+ More 
+ Try Live 12 for free
+ Cart 
+ Account 
+ Log in or register 
+ More on Ableton.com:
+ Blog 
+ Ableton for the Classroom 
+ Ableton for Colleges and Universities 
+ Certified Training 
+ About Ableton 
+ Jobs 
+ Apprenticeships 
+ More from Ableton:
+ Ableton Learn
+ Start making music with beginner-friendly lessons and sounds from experienced artists.
+ Learning Music
+ Learn the fundamentals of music making right in your browser.
+ Learning Synths
+ Get started with synthesis using a web-based synth and accompanying lessons.
+ Making Music
+ Some tips from 74 Creative Strategies for Electronic Producers.
+ Live 12 
+ All new features 
+ What is Live? 
+ Learn Live 
+ Extensions 
+ Max for Live 
+ Integrated hardware 
+ Compare editions 
+ Buy now 
+ Rent-to-own 
+ Rent-to-own Live Suite over 24 monthly payments
+ Max for Live
+ What is Max for Live? 
+ Max for Live powers a range of instruments and effects included in Live. A vibrant community has produced a vast and constantly growing world of devices that expand Live’s functionality. And for those who want to go further, Max for Live lets you customize devices or even create your own from scratch. 
+ Design your system
+ Create and customize
+ Max for Live is a platform to build your own instruments and effects, tools for live performance and visuals, and much more. You can open up any of Live’s Max devices, see how they’re built, and change them to meet your needs. You can build your own from scratch using the same components. And you can even use Max to change the way Live works, including the properties of tracks, clips and scenes.
+ The Max for Live Connection Kit lets you extend and interact with Live in new and experimental ways.
+ Extend Live
+ Max for Live can completely change how Live interacts with all things external. Reconfigure connections to hardware controllers & synthesizers. Route audio to multiple sets of speakers from your Live project. Use Live to control physical objects like motors and lights using Arduino, OSC and other technologies—there are infinite possibilities for connection and control between Live and the world surrounding it.
+ Join a community of device builders
+ There’s a constantly growing collection of instruments, effects and tools. From curious tinkerers to professional designers, Max for Live’s worldwide community makes high-performance effects, customised hacks and everything in between. You can share your own, or just enjoy using the work of others.
+ Play: Bengal 
+ Play 
+ Pause 
+ : Bengal
+ Bengal – Combining the textural intricacy of FM with the freeform approach of a modular system, Bengal is a sound designer’s dream with its four operators, eight voices of polyphony, six audio effects and a flexible modulation architecture centred on an interactive virtual patchbay. 
+ Play: Grain Scanner 
+ Play 
+ Pause 
+ : Grain Scanner
+ Grain Scanner – Grain Scanner lets you design experimental noises, glitchy effects, alien textures and massive clouds of ambience. Its advanced sound engine turns any sample into a blank slate for otherworldly synth parts. 
+ Play: Flexgroove 
+ Play 
+ Pause 
+ : Flexgroove
+ FlexGroove – FlexGroove is a Max for Live device for off-the-grid MIDI sequencing. Give parts an expressive push and pull, fluidly transition from one time signature to another, or play with unconventional swing patterns. 
+ Play: Pitchloop89 
+ Play 
+ Pause 
+ : Pitchloop89
+ PitchLoop89 – Create jittery glitch effects, delayed digital shimmers and outlandish vibrato with this Max for Live pitch shifting device created in collaboration with Robert Henke and inspired by the Publison DHM 89 – an early digital effects processor. It’s a flexible tool to add character to sounds in the studio, or for in-the-moment experimentation onstage. 
+ Play: Vector Grain 
+ Play 
+ Pause 
+ : Vector Grain
+ Vector Grain – A granular looper that visualizes sound modulation by moving particles on the interface – play with attraction and magnetism or loop the particles through a flow field. 
+ Play: Tree Tone 
+ Play 
+ Pause 
+ : Tree Tone
+ Tree Tone – Grow different fractal patterns inspired by plants, then use them as resonators for internally generated noise or incoming audio. 
+ Play: Bouncy Notes 
+ Play 
+ Pause 
+ : Bouncy Notes
+ Bouncy Notes – Bounce balls up and down a piano roll to create pitch shifting delay effects or arpeggiation with this gravity-based MIDI sequencer. 
+ Check out more Max for Live devices in the Packs store 
+ Devices made by Ableton
+ In addition to the devices built by the Max for Live community, you’ll also find Max for Live devices in Live built by us. These devices are available right in the Live 12 Browser together with Live’s native Instruments and Effects. Included in the list are LFO, MIDI Monitor, the Drum Synth collection among many others.
+ Gated Delay – A delay with a gate sequencer that sends the incoming signal to a delay line on activated steps. Much like a send effect that is turned on and off in a defined rhythm. 
+ Bass – A monophonic virtual analog synthesizer that provides the entire palette of bass sounds in one device – from classically deep and clean to heavily distorted, rumbling tones. 
+ Color Limiter – Another flavor of limiting inspired by the gritty sounds achievable with hardware limiters. The Saturation and Color parameters are the key to its characterful sound. 
+ Pitch Hack – A single delay line with transposition control, as well as the ability to reverse audio, randomize the transposition interval and fold the delayed signal back into itself. 
+ Surround Panner – Multichannel Panning device for surround mixing with multi-channel speaker setups. 
+ CV Clock In – Control Live’s tempo from your Eurorack system. 
+ CV Utility – Merge multiple modulation signals to generate new shapes. 
+ Convolution Reverb – Capture the characteristic reverb of real physical spaces with advanced sound shaping. 
+ Shaper – A flexible envelope modulation device for creating custom modulation shapes. 
+ LFO – An LFO with sync to modulate up to eight device parameters with one device. 
+ Envelope Follower – Use the envelope of any audio material to control device parameters. 
+ MIDI Monitor – Monitor your MIDI data stream. 
+ See all included instruments and effects in Live 
+ Built on Max
+ What is Max?
+ For more than 20 years, Max has been an essential platform for artists and creatives who want to explore the limits of what’s possible with music, visuals and technology.
+ Head to Cycling74.com to find out more about Max 
+ Try Live 12 for free
+ Get all the features of Live 12 Suite free for 30 days. 
+ Get the trial 
+ Register Live, Push or Move 
+ About Ableton 
+ Jobs 
+ # 
+ # 
+ # 
+ # 
+ # 
+ # 
+ Education
+ Offers for students and teachers 
+ Ableton for the Classroom 
+ Ableton for Colleges and Universities 
+ Sign up to our newsletter 
+ Enter your email address to stay up to date with the latest offers, tutorials, downloads, surveys and more. 
+ Sign up 
+ Community
+ Find Ableton User Groups 
+ Find Certified Training 
+ Become a Certified Trainer 
+ Language and Location
+ Language 
+ English 
+ Deutsch 
+ Français 
+ 日本語 
+ 简体中文 
+ Español 
+ Country or Region 
+ Please choose 
+ United States 
+ United Kingdom 
+ France 
+ Germany 
+ Canada 
+ Japan 
+ China 
+ Australia 
+ Afghanistan 
+ Aland Islands 
+ Albania 
+ Algeria 
+ American Samoa 
+ Andorra 
+ Angola 
+ Anguilla 
+ Antarctica 
+ Antigua And Barbuda 
+ Argentina 
+ Armenia 
+ Aruba 
+ Australia 
+ Austria 
+ Azerbaijan 
+ Bahamas 
+ Bahrain 
+ Bangladesh 
+ Barbados 
+ Belarus 
+ Belgium 
+ Belize 
+ Benin 
+ Bermuda 
+ Bhutan 
+ Bolivia 
+ Bonaire, Sint Eustatius and Saba 
+ Bosnia And Herzegovina 
+ Botswana 
+ Bouvet Island 
+ Brazil 
+ British Indian Ocean Territory 
+ Brunei Darussalam 
+ Bulgaria 
+ Burkina Faso 
+ Burundi 
+ Cambodia 
+ Cameroon 
+ Canada 
+ Cape Verde 
+ Cayman Islands 
+ Central African Republic 
+ Chad 
+ Chile 
+ China 
+ Christmas Island 
+ Cocos (Keeling) Islands 
+ Colombia 
+ Comoros 
+ Congo 
+ Congo, The Democratic Republic Of The 
+ Cook Islands 
+ Costa Rica 
+ Cote D'Ivoire 
+ Croatia 
+ Cuba 
+ Curacao 
+ Cyprus 
+ Czech Republic 
+ Denmark 
+ Djibouti 
+ Dominica 
+ Dominican Republic 
+ Ecuador 
+ Egypt 
+ El Salvador 
+ Equatorial Guinea 
+ Eritrea 
+ Estonia 
+ Ethiopia 
+ Falkland Islands (Malvinas) 
+ Faroe Islands 
+ Fiji 
+ Finland 
+ France 
+ French Guiana 
+ French Polynesia 
+ Gabon 
+ Gambia 
+ Georgia 
+ Germany 
+ Ghana 
+ Gibraltar 
+ Greece 
+ Greenland 
+ Grenada 
+ Guadeloupe 
+ Guam 
+ Guatemala 
+ Guernsey 
+ Guinea 
+ Guinea-Bissau 
+ Guyana 
+ Haiti 
+ Heard Island And McDonald Islands 
+ Honduras 
+ Hong Kong SAR, China 
+ Hungary 
+ Iceland 
+ India 
+ Indonesia 
+ Iran (Islamic Republic Of) 
+ Iraq 
+ Ireland 
+ Isle Of Man 
+ Israel 
+ Italy 
+ Jamaica 
+ Japan 
+ Jersey 
+ Jordan 
+ Kazakhstan 
+ Kenya 
+ Kiribati 
+ Korea, Democratic People's Republic 
+ Korea, Republic Of 
+ Kuwait 
+ Kyrgyzstan 
+ Lao People's Democratic Republic 
+ Latvia 
+ Lebanon 
+ Lesotho 
+ Liberia 
+ Libya 
+ Liechtenstein 
+ Lithuania 
+ Luxembourg 
+ Macao SAR, China 
+ Madagascar 
+ Malawi 
+ Malaysia 
+ Maldives 
+ Mali 
+ Malta 
+ Marshall Islands 
+ Martinique 
+ Mauritania 
+ Mauritius 
+ Mayotte 
+ Mexico 
+ Micronesia, Federated States Of 
+ Moldova, Republic Of 
+ Monaco 
+ Mongolia 
+ Montenegro 
+ Montserrat 
+ Morocco 
+ Mozambique 
+ Myanmar 
+ Namibia 
+ Nauru 
+ Nepal 
+ Netherlands 
+ New Caledonia 
+ New Zealand 
+ Nicaragua 
+ Niger 
+ Nigeria 
+ Niue 
+ Norfolk Island 
+ North Macedonia, Republic of 
+ Northern Mariana Islands 
+ Norway 
+ Oman 
+ Pakistan 
+ Palau 
+ Palestinian Territory, Occupied 
+ Panama 
+ Papua New Guinea 
+ Paraguay 
+ Peru 
+ Philippines 
+ Pitcairn 
+ Poland 
+ Portugal 
+ Puerto Rico 
+ Qatar 
+ Reunion 
+ Romania 
+ Russian Federation 
+ Rwanda 
+ Saint Helena 
+ Saint Kitts And Nevis 
+ Saint Lucia 
+ Saint Martin (French Part) 
+ Saint Pierre And Miquelon 
+ Saint Vincent And The Grenadines 
+ Samoa 
+ San Marino 
+ Sao Tome And Principe 
+ Saudi Arabia 
+ Senegal 
+ Serbia 
+ Seychelles 
+ Sierra Leone 
+ Singapore 
+ Sint Maarten 
+ Slovakia 
+ Slovenia 
+ Solomon Islands 
+ Somalia 
+ South Africa 
+ South Georgia And The South Sandwich Islands 
+ South Sudan 
+ Spain 
+ Canary Islands (Spain) 
+ Sri Lanka 
+ Sudan 
+ Suriname 
+ Svalbard And Jan Mayen 
+ Swaziland 
+ Sweden 
+ Switzerland 
+ Syrian Arab Republic 
+ Taiwan 
+ Tajikistan 
+ Tanzania, United Republic Of 
+ Territory of the French Southern and Antarctic Lands 
+ Thailand 
+ Timor-Leste 
+ Togo 
+ Tokelau 
+ Tonga 
+ Trinidad And Tobago 
+ Tunisia 
+ Turkey 
+ Turkmenistan 
+ Turks And Caicos Islands 
+ Tuvalu 
+ Uganda 
+ Ukraine 
+ United Arab Emirates 
+ United Kingdom 
+ United States 
+ United States Minor Outlying Islands 
+ Uruguay 
+ Uzbekistan 
+ Vanuatu 
+ Vatican City State (Holy See) 
+ Venezuela 
+ Viet Nam 
+ Virgin Islands (British) 
+ Virgin Islands (U.S.) 
+ Wallis And Futuna 
+ Western Sahara 
+ Yemen 
+ Zambia 
+ Zimbabwe 
+ Contact Us 
+ Press Resources 
+ Legal Info 
+ Corporate Information 
+ Privacy Policy 
+ Cookie Settings 
+ Imprint 
+ Withdraw from Contract 
+ Made in Berlin 
+ Back to top

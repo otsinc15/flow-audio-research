@@ -1,0 +1,78 @@
+URL: https://magenta.withgoogle.com/
+Fetched: 2026-09-02
+Method: curl
+Raw bytes:    41889
+----
+Magenta 
+ Plugins 
+ Demos 
+ Blog 
+ Research 
+ Music. Art. Machine Learning.
+ Magenta is an open source research project exploring the role of machine
+ learning as a tool in the creative process.
+ Plugins 
+ Demos 
+ Blog 
+ Research 
+ What's new?
+ Magenta RealTime 2 
+ Magenta RealTime 2 (MRT2) is a state-of-the-art open model and real-time neural synthesis engine that enables you to build and play your own AI musical instruments on your laptop.
+ try now 
+ read blog 
+ view code 
+ Featured Projects
+ play 
+ read blog 
+ The Infinite Crate
+ Ashu Desai 
+ desaiashu 
+ The Infinite Crate is a DAW plugin prototype that integrates the Lyria RealTime API directly into your favorite music software.
+ play 
+ read blog 
+ DDSP-VST
+ Jesse Engel 
+ jesseengel 
+ jesseengel 
+ DDSP-VST is a DAW plugin to morph audio from one instrument to another in
+realtime and is even playable with MIDI.
+ play 
+ read blog 
+ see code 
+ Magenta Studio
+ Yotam Mann 
+ tambien 
+ yotammann 
+ Cassie Tarakajian
+ catarak 
+ Magenta Studio is a collection of music plugins for Ableton Live built on Magenta’s open source tools and models.
+It can also be downloaded as standalone, native apps with no additional dependencies.
+ play 
+ read blog 
+ see code 
+ Listen to Transformer
+ Monica Dinculescu 
+ notwaldorf 
+ notwaldorf 
+ An app to make it easier to explore and curate samples from a piano transformer.
+ See more projects. 
+ Latest Updates
+ From Hackathons to Instruments: MRT2 Out in the World 
+ A roundup of community projects and hacks built with Magenta RealTime 2.
+ Read the blog post. 
+ Magenta RealTime 2: Open & Local Live Music Models 
+ Magenta RealTime 2 is an open-source framework for developing real-time, interactive applications, powered by our new state-of-the-art open-weights live music model.
+ Read the blog post. 
+ Open-sourcing The Infinite Crate DAW plugin 
+ Today we're fully open sourcing The Infinite Crate, a DAW plugin built on the Lyria RealTime API, for developers to fork, modify, and make their own under the Apache 2.0 license.
+ Read the blog post. 
+ Lyria Camera: Soundtrack your life 
+ Lyria Camera is an app that uses Lyria RealTime to make music with your camera. By combining Gemini’s image understanding and the Lyria RealTime API, Lyria Camera generates a musical score that adapts to your environment.
+ Read the blog post. 
+ See more posts. 
+ Discord
+ Twitter
+ Blog
+ GitHub
+ Privacy
+ Terms

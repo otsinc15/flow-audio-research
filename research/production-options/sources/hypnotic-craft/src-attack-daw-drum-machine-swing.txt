@@ -1,0 +1,265 @@
+URL: https://www.attackmagazine.com/technique/passing-notes/daw-drum-machine-swing/
+Fetched: 2026-09-05
+---
+DAW & Drum Machine Swing - Attack Magazine 
+ Attack Magazine 
+ Menu 
+ News 
+ Technique 
+ Technique 
+ All 
+ Hardware Focus 
+ Modular Synthesis 
+ Tutorials 
+ Beat Dissected 
+ Synth Secrets 
+ Deconstructed 
+ Passing Notes 
+ The Breakdown 
+ Video Tutorials 
+ Help 
+ ← 
+ Features 
+ Features 
+ All 
+ Long Reads 
+ Podcasts 
+ Interviews 
+ My Studio 
+ Track By Track 
+ Show & Tell 
+ Top Tracks 
+ Q&A 
+ Columns 
+ Job Envy 
+ Introducing... 
+ Quizzes 
+ ← 
+ Reviews 
+ Reviews 
+ All 
+ The Best... 
+ Gear/Software 
+ Books/DVDs 
+ ← 
+ Charts 
+ Store 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ Subscribe 
+ Search 
+ Technique » Passing Notes » DAW & Drum Machine Swing 
+ DAW & Drum Machine Swing
+ Share
+ Facebook 
+ Twitter 
+ WhatsApp 
+ 1 2 3 4 
+ Swing functions were first introduced to drum machines 34 years ago, but the concept still causes confusion. In this extended instalment of Passing Notes we explain what the swing setting does and how you can use it to add groove to your drums and more.
+ The oldest swinger in town: the shuffle/swing function as we now know it was first introduced in Roger Linn’s 1979 LM-1 Drum Computer (click images to enlarge)
+ From changing the feel of a sequenced drum pattern to creating a completely new groove for an entire track, the swing setting found in most sequencers and drum machines can be an extremely powerful tool, but many producers find it difficult to understand exactly what it does and how it works. In this Passing Notes, we’re going to examine what swing is, take a look at how it works in different DAWs, and provide some examples of how it sounds in action.
+ Update: once you’ve read this article be sure to check out our interview with Roger Linn , the inventor of swing. 
+ What is swing? 
+ The word ‘swing’ is one of those confusing terms that often has different meanings to different people. To a jazz drummer, swing probably means something quite different to its usage in an electronic music context. Although the terms are related, they’re not quite the same. However, understanding the origins of the term in jazz and with live musicians is a useful starting point in order to understand how the swing function works in software and electronic music hardware.
+ In jazz, ‘swing timing’ often refers to a specific rhythm and notation convention, whereby the first beat is twice as long as the second, then the third beat is the same length as the first, and so on. It’s effectively a variation on triplets or 6/8 timing, often written in common time (4/4) for simplicity’s sake, with the swing timing added by the musicians. The timing itself gave its name to swing music, the 1930s offshoot of jazz based on those same lopsided rhythms.
+ (If you want to know more about this jazz-centric convention of swing timing – which is by no means essential to understanding the swing setting in your DAW or drum machine –  How Music Works  has a good basic primer.)
+ In a broader sense, swinging eventually came to be used to describe any rhythm with an off-kilter groove. Drummers ‘swing’ the beat to add a groove, introducing a slightly irregular feel to the timing of the rhythm. It’s important not to confuse swing with sloppy, imprecise timing – we’re not talking about inaccuracy here. Instead, it’s about the deliberate, subtle timing variations which musicians introduce to the way they play notes.
+ The term is mainly used in reference to drumming simply because drummers set the groove of any group and generally play repetitive rhythmic patterns, but swing could also be applied to the timing of any other instrument.
+ Swing in electronic music 
+ So how do we apply this idea of loose, fluid timing to electronic music? The earliest sequencers and drum machines played using completely rigid timing, with evenly spaced gaps in between each division of the bar. Programming was typically achieved via a step sequencer or real-time recording quantised to the nearest 16th note. On the Roland TR-808 , for instance, each of the 16 steps in a programmed beat is played with perfectly straight timing.
+ The ‘swing’ function as we now know it – originally known as ‘shuffle’, a term still used by some hardware manufacturers and software developers – was first introduced in Roger Linn ‘s 1979  LM-1 Drum Computer . Linn realised that he could approximate the effect of a human drummer playing in swing timing by quantising each drum beat to the nearest step and then delaying the playback of every other  step in the sequencer (to see how Linn introduced his ‘auto-correct’ and ‘shuffle’ features, take a look at the LM-1 manual ). But this effect was useful for more than just jazz-style triplet-derived swing timing; different delay times could replicate a variety of lazy, swinging grooves. The longer the delay, the more obvious the effect.
+ Linn’s system used percentages to express the amount of swing applied to every second step. (At this point let’s assume we’re talking about the most commonly used form of swing in dance music: 16th-note swing.) Those percentages pertain to the degree that every second 16th note is positioned in relation to the beats either side of it. So 50% swing refers to straight timing, where every second step is played exactly half way between the two beats either side of it.
+ By the mid 80s, this implementation of swing had been adopted by most other manufacturers. Adding swing to a drum beat or to melodic elements can introduce a more human feel to a pattern, but just as importantly, even the smallest amount of swing can enhance a groove in a uniquely and inexplicably appealing way.
+ Even though MIDI sequencing is now accurate enough to record and replay the nuances of a live MIDI drum performance very precisely, few of us have the accuracy with drum pads to achieve the same effect as quantised beats with swing applied. We could debate the relative merits of ‘real’ human timing versus computer timing for days on end, but it’s missing the point; human timing works well in some cases, but quantised beats and swing are equally valid and at least as effective for most dance music.
+ Related 
+ 1 2 3 4 
+ Author Greg Scarth & Oliver Curry 
+ 1st July, 2013 
+ Previous 
+ Passing Notes - Lessons From Disco 
+ Next 
+ Passing Notes - Syncopation 
+ Comments 
+ 02.07.13
+11.48 AM 
+ n94: 
+ another amazing passing notes article. thanks so much for this. i’ve been producing for 20 years and i never understood why 50% on an mpc wasn’t the same as 50% in cubase until now.
+ so why does mpc swing sound so damn good? do mpcs do something differently?
+ Report 
+ 02.07.13
+11.59 AM 
+ Magoo: 
+ Really enjoyed this article, explained a lot. Would have loved more info about the Ableton Swing function though, is there much of an explanation in the Ableton manual itself?
+ Report 
+ 02.07.13
+12.04 PM 
+ Attack: 
+ @n94
+ The short answer is no, MPCs don’t do anything differently. But there’s a little bit more to it than that. As luck would have it, we have an interview with the man himself, Roger Linn, coming tomorrow which should explain everything.
+ Report 
+ 02.07.13
+12.14 PM 
+ Attack: 
+ @ Magoo
+ Thanks for the feedback. Obviously we’d love to go into more detail about each DAW but things would quickly get out of hand. In basic terms, Ableton uses a mixture of the Linn/Logic convention where 50% = straight timing and the Cubase/FL Studio convention where 0% = straight timing. It depends which groove you pick from the groove pool. Things are made a little more complex by the different ways in which Ableton allows you to apply the groove you’ve chosen.
+ The Ableton manual explains it quite well. There’s a link to the PDF at the top of page 3 and you can also find the info here: https://www.ableton.com/en/manual/using-grooves/ 
+ We’ll be returning to explain groove templates in more detail in the future.
+ Report 
+ 02.07.13
+07.12 PM 
+ AlejandroClark: 
+ Thanks for all of these passing notes, loving them
+ Report 
+ 04.07.13
+08.25 AM 
+ O: 
+ Thanks for all these articles!
+ Report 
+ 04.07.13
+09.01 AM 
+ Jarkko: 
+ Thanks! You guys make really good job!
+ Report 
+ 05.07.13
+03.17 PM 
+ Steve t: 
+ Fantastic, very educational post. Thanks 
+ steve t
+ Report 
+ 05.07.13
+08.54 PM 
+ G_man: 
+ Just the thing i wanted to read more about. Thanks.
+G_man
+ Report 
+ 07.07.13
+07.38 AM 
+ SN: 
+ The Korg KR-55 also came out in 1979 and had a continuously variable “swing” knob. I think the Korg actually predates the LM-1 by a little bit.
+ Report 
+ 16.07.13
+09.41 AM 
+ Conor: 
+ @Attack Magazine – Another excellent article, keep up the excellent work. 
+ P.S – When can we expect some news on Attack’s music production book? 🙂
+ Report 
+ 08.08.13
+12.46 AM 
+ Larson: 
+ Thank you guys!
+ Report 
+ 16.09.13
+10.12 AM 
+ BC: 
+ OMG!! THANK YOU!! 
+ Someone FINALLY explaining to me exactly how swing works and how it should be applied! 
+ Of course, it was always readily apparent to me when swing is applied in tracks that I hear, but I never understood enough about the basis of it to apply it in my own music.
+ Thank you very much for the succinct and efficient explanation!
+ Report 
+ 17.09.13
+06.00 PM 
+ charnk: 
+ Great explaination. Exactly what I was looking for….the correct full explanation. I’ve asked a few sales reps at music equipment sites I buy from and they were dead wrong.
+ Report 
+ 23.09.13
+09.06 PM 
+ Carl: 
+ Great article! This has been one of the things that’s been bugging me for ages, but now at least I understand the fundamentals of swing, I might actually be able to apply it to good effect! 🙂
+ Report 
+ 25.11.13
+11.44 AM 
+ plyphon: 
+ ah man – so in your beat tutorials where I’ve been sticking FL to 50% swing to match your tutorials for 50% swing… that’s actually YOUR 100% swing?
+ So when you say 60% – that’s FLs 10%? Am I understanding correctly?
+ Report 
+ 25.11.13
+11.28 PM 
+ Attack: 
+ Hi Plyphon
+ You’re on the right lines but it’s not quite as simple as adding or subtracting 50 to convert from one standard to the other.
+ 0% in FL/Cubase equates to 50% in Logic/MPC. 100% in FL = 66.6% in Logic.
+ Report 
+ 04.12.13
+09.46 PM 
+ seventy77: 
+ great article and great site for information in general. really surprised me to start digging into the articles and actually find them all to be well thought out and very much right on. 
+ i’ve spent my whole life playing punk/death rock/glam/garage rock… basically rock n roll, and up until recently had always kind of ignored electronic music, or at very best it’s sometimes seemed like good, danceable wallpaper.
+ of course, like anything, once you for whatever reason become interested in it, whole new realizations begin forming and you see the subtle stuff that makes it either good or bad. so what a great bunch of articles to run into while i am learning all this stuff brand new to me. 
+ so thank you and keep it up, great writing and solid take on things.
+ for topic on hand, just writing to mention also, that people should never overlook the use of compression to alter a groove. I was really shocked when I first realized how dramatically you could change a drummer’s push or pull on the beat by messing with attack release times and compression ratio/knee.
+ not really about drum machine swing at all but just adding on to the very last part about what else is similar.
+ Report 
+ 17.12.13
+12.34 PM 
+ plyphon: 
+ @Attack,
+ That’s just really confused me – I think i’ll just continue to do it by ear!
+ Report 
+ 16.02.14
+10.58 PM 
+ Sunil: 
+ Awesome article, really well written. This is a really newbie comment but one thing i dont understand about the terminology used is when you say 50% swing = straight timing – does this mean swing is basically “OFF”? and the hats have not been affected at all?
+ Also another newbie comment – why use swing when you can just draw the hat positions exactly where you want? i.e. more flexibility. Its a genuine question, im just trying to understand the advantages of using swing, i can see some time is saved, but why else? Because doesn’t using swing also mean that each of the hats are offset exactly by the same amount (66% for example). Would’nt the hi hat pattern sound better if the first hat was 66% off, the second 60% off (for example). Or is the swing feature doing this already? 
+ Many thanks.
+ Report 
+ 03.04.14
+10.06 PM 
+ TH: 
+ “If you have to ask, you’ll never know” – Louis Armstrong when asked to define the rhytmic concept of swing.
+You should all listen jazz music ! It will help you get the groove.
+ Good article and good site by the way. Congrats !
+ Report 
+ 08.10.14
+10.47 PM 
+ Matt: 
+ This will take several reads, but thank you for the information. I wish I used Logic or an MPC though!
+ Report 
+ 03.04.15
+04.38 PM 
+ AJohn: 
+ @Attack Mpc do have something different, :), its the crystals used inside the old machines, you see, there are some small things that make the difference, but people do not realise that, same as the korg emx/esx 1
+ Report 
+ 23.04.15
+03.52 AM 
+ robo: 
+ I think the multiply/divide factor should be 4 and not 6??!
+otherwise full mpc swing (75&) would 150% in cubase which isn’t possible…
+ Report 
+ 01.02.16
+10.07 PM 
+ Pete: 
+ Hi, anyone can confirm the calculus done by robo? I thought the same when reading the article – if the formula (mul by 6) is true, then cubase would not be able to represent 75% MPC Swing..
+ Report 
+ Leave a Reply
+ Your email address will not be published. Required fields are marked * 
+ Comment * 
+ Name * 
+ Email * 
+ Δ 
+ © 2026 Attack Magazine
+ About us 
+ Jobs 
+ Shipping 
+ Contact 
+ Privacy 
+ Advertise 
+ Write for Attack 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+ Δ 
+ You currently have an ad blocker installed
+ Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software.
+ Find out how 
+ x

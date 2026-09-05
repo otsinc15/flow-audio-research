@@ -1,0 +1,218 @@
+URL: https://www.attackmagazine.com/technique/tutorials/the-theory-of-techno-parallel-chord-stabs/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 204345
+----
+Attack Magazine
+Menu
+	•	News
+	•	Technique Technique
+	◦	All
+	◦	Hardware Focus
+	◦	Modular Synthesis
+	◦	Tutorials
+	◦	Beat Dissected
+	◦	Synth Secrets
+	◦	Deconstructed
+	◦	Passing Notes
+	◦	The Breakdown
+	◦	Video Tutorials
+	◦	Help
+	•	←  
+	•	Features Features
+	◦	All
+	◦	Long Reads
+	◦	Podcasts
+	◦	Interviews
+	◦	My Studio
+	◦	Track By Track
+	◦	Show & Tell
+	◦	Top Tracks
+	◦	Q&A
+	◦	Columns
+	◦	Job Envy
+	◦	Introducing...
+	◦	Quizzes
+	•	←  
+	•	Reviews Reviews
+	◦	All
+	◦	The Best...
+	◦	Gear/Software
+	◦	Books/DVDs
+	•	←  
+	•	Charts
+	•	Store
+Facebook X YouTube Instagram TikTok
+Facebook X YouTube Instagram TikTok
+SUBSCRIBE
+Search
+
+
+
+Technique » Tutorials »
+The Theory Of Techno Parallel Chord Stabs
+Share
+Facebook Twitter WhatsApp
+
+In an excerpt from our new book, The Secrets of Techno Production, we dive into the theory of techno parallel chord stabs.
+Learning music theory can be a powerful tool in techno production, helping producers understand scales, chord progressions, and rhythmic structures.
+Even the smallest of knowledge can unlock new creative ideas, making it easier to craft but also it can change how you listen to music. Hear minor 3rds? Great. Hear 13th chords as stabs? Even better!
+But remember, techno thrives on instinct, improvisation, and the moment’s energy. Overthinking theory can sometimes kill the raw, spontaneous feel that makes techno so powerful. Many of the best tracks come from experimenting with sound rather than rigidly following theoretical rules. If there really is a secret it might be the balance of using theory as a guide, not a restriction. Learn enough to break the rules creatively, then trust your ears and intuition to shape something unique and alive.
+What is a parallel chord progression?
+A parallel chord progression is when a chord sequence moves by maintaining the same chord quality while shifting up or down by a consistent interval. Essentially, the chord shape remains the same, but its root moves to a different pitch. Depending on the context, this technique can create a smooth, cohesive sound or a dramatic, unconventional movement.
+For example, if you play a C minor chord (C–E♭–G) and then shift every note up a whole step, you get a D minor chord (D–F–A). Since both are minor, this is a parallel movement. The same applies to major, diminished, or other chord types. Underground Resistance’s classic ‘Timeline’ is a good example!
+Let’s look at a basic way to make a parallel chord techno stab progression using E minor.
+Level: Beginner | Intermediate
+Techno Parallel Chord Stabs
+Step 1
+Create an empty 2-bar MIDI clip. Take a chord from the previous walkthrough and copy-paste its notes into this MIDI File. Let’s go with E Minor. Load up Ableton’s Flash Organ preset or another Synth Keys preset. The focus in this tutorial is not so much on the sound. We have a series for that called Synth Secrets.
+
+
+
+
+Step 2
+Duplicate the three E Minor chord notes five or six times and pitch the variations either up or down (as a whole) to create different chords. Many of these won’t actually be in the E Minor key anymore, but this doesn’t really matter with parallel progressions.
+
+
+
+
+Step 3
+Shorten the chords to make them each last only one 16th-note and experiment with different rhythms. Make sure to emphasize hits that don’t occur on downbeats to introduce syncopation.
+
+
+
+
+Step 4
+Duplicate your 2-bar progression to make it a 4-bar progression, and vary it by muting some of the chords and slightly moving one or two of the others. You don’t have to copy exactly what we have done, use it as a guide. In the picture below, we’re displaying the last 2 bars of our 4-bar progression to highlight the changes made.
+
+
+
+
+Step 5
+Add additional notes to the chords, such as higher octaves of the root notes. You could also add 7ths and 9ths to the chords like we did in the previous tutorial, but we won’t do that for now.
+Remember that to achieve the parallel progression sound, all chords need to have the same shape (inversions), so any changes to one of the chords can be applied to the others.
+
+
+
+
+Step 6
+These kinds of progressions really come to life with some automation, so automate the Filter Cutoff, Reverb and Auto Pan macros. We recommend doing extended automation takes live and then choose your best moments. We’ve overdone it here for effect purposes.
+
+
+
+
+If you like this tutorial, you may enjoy our books The Secrets of Techno Production, The Secrets of Dance Music Production and The Producer’s Manual.All are available directly in the Attack Store.
+
+Follow Attack Magazine
+Facebook X YouTube Instagram SoundCloud TikTok
+
+Attack Store
+View products
+
+The Secrets Book Bundle
+Get 2 best-selling music production books. Buy more, spend less.
+Buy Now
+
+The Producers’ Book Bundle
+Get 3 best-selling music production books. Buy more, spend less.
+Buy Now
+
+Dance Music Producers’ Power Book Bundle
+Get 2 best-selling music production books. Buy more, spend less.
+Buy Now
+
+The Secrets of Techno Production
+The definitive guide to making techno.
+Buy Now
+
+The Secrets of Dance Music Production
+The world-leading book on dance music production. Comes with samples too.
+Buy Now
+
+The Producer’s Manual
+Everything you need to take a mix, from initial recording to final master.
+Buy Now
+
+FinalFinal T-Shirt
+A hilarious tribute to our never-ending battle with file naming chaos.
+Buy Now
+
+Secretos de la Producción de Música Dance
+La guía definitiva para producir música electrónica de vanguardia.
+Buy Now
+
+Max for Live: Texture
+Add texture simple to any sound. Simple an effective.
+.
+Buy Now
+
+Max For Live: Chance Engine V2
+Add controlled yet random fluctuations to your most important parameters.
+Buy Now
+
+Boots ‘n’ Cats House T-Shirt
+The sound of house music as a big back print now!
+Buy Now
+
+Untz Untz Techno T-Shirt
+Big back print techno inspired t-shirt.
+Buy Now
+
+Underground Resistance: The Final Frontier Poster
+Anti corporate, political, powerful and progressive the power house of Jeff Mills, Robert Hood and "Mad" Mike Banks needs little introduction.
+View More
+
+Max for Live: Pulse Engine V2
+A unique generative MIDI device from Manifest Audio.
+Buy Now
+
+Related
+Author Aykan Esen  20th February, 2025
+Previous
+Tutorials - What’s Up With Filters? A Practical Guide To Synthesizer Tone Control
+Next
+Tutorials - Scaler 3: Chart-Ready Chords And Compositions For Any Skill level
+Comments
+	•	 25.02.25
+	•	07.13 AM Teknik Telekomunikasi: Visit us Magister Akuntansi List and describe various types of input devices commonly used with computers (e.g., keyboard, mouse, touchpad).  Report 
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+Comment *
+Name *
+Email *
+
+
+
+© 2026 Attack Magazine
+	•	About us
+	•	Jobs
+	•	Shipping
+	•	Contact
+	•	Privacy
+	•	Advertise
+	•	Write for Attack
+Facebook X YouTube Instagram TikTok
+
+	•	
+
+A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+
+
+
+
+
+You currently have an ad blocker installed
+Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software.
+Find out how
+x
+
+Close
+
+Previous
+
+
+Next
+
+
+

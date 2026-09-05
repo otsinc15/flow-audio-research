@@ -1,0 +1,869 @@
+URL: https://www.ableton.com/en/live-manual/12/live-midi-effect-reference/
+Fetched: 2026-09-05
+---
+Live MIDI Effect Reference — Ableton Reference Manual Version 12
+ | Ableton 
+ Close Dialog 
+ Menu Menu Live 
+ Push 
+ Move 
+ Note 
+ Link 
+ Shop 
+ Packs 
+ Help 
+ More 
+ Try Live 12 for free 
+ Log in or register 
+ More on Ableton.com:
+ Blog 
+ Ableton for the Classroom 
+ Ableton for Colleges and Universities 
+ Certified Training 
+ About Ableton 
+ Jobs 
+ Apprenticeships 
+ More from Ableton:
+ Ableton Learn
+ Start making music with beginner-friendly lessons and sounds from experienced artists.
+ Learning Synths
+ Get started with synthesis using a web-based synth and accompanying lessons.
+ Making Music
+ Some tips from 74 Creative Strategies for Electronic Producers.
+ 29. Live MIDI Effect Reference
+ Live comes with a selection of custom-designed, built-in MIDI effects. These effects can modify incoming MIDI pitch, length, and velocity data in various ways. You can use a MIDI effect on its own to add variation to a pattern or combine multiple MIDI effects to create more complex note sequences.
+ All MIDI effects with pitch controls support scale awareness. When the Use Current Scale toggle in the device title bar is enabled, any pitch-related controls can be adjusted in scale degrees instead of semitones. This ensures that all note transpositions stay within a specific harmonic range.
+ To learn the basics of using effects in Live, check out the Working with Instruments and Effects chapter.
+ 29.1 Arpeggiator
+ The Arpeggiator Effect. Arpeggiator creates rhythmical patterns using the notes of a chord or a single note. It offers a complete set of both standard and unique arpeggiator features.
+ Arpeggiators are a classic element in 80s synth music. The name originates from the musical concept of the arpeggio, in which the notes comprising a chord are played as a series rather than in unison. “Arpeggio” is derived from the Italian word “arpeggiare,” which refers to playing notes on a harp.
+ The Style chooser determines the sequence of notes in the rhythmical pattern. When a style is selected, a visualization of the pattern is shown in the display. You can use the Previous Style Pattern and Next Style Pattern buttons in the display to cycle through patterns.
+ Most style patterns are common to standard arpeggiators, such as Up, Down, Converge, and Diverge. There are also a couple of unique patterns:
+ Play Order arranges notes in the pattern according to the order in which they are played. This pattern is therefore only recognizable when more than one chord or note has been played.
+ Chord Trigger repeats the incoming notes as a block chord.
+ Additionally, there are three patterns for random arpeggios:
+ Random generates a continuously randomized sequence of incoming MIDI notes.
+ Random Other generates random patterns from incoming MIDI notes, but will not repeat a given note until all other incoming notes have been used.
+ Random Once generates one random pattern from incoming MIDI notes and repeats that pattern until the incoming MIDI changes, at which point a new pattern is created.
+ The arpeggiated pattern plays at the speed set by the Rate control, which uses either milliseconds or tempo-synced beat divisions, depending on which Sync/Free Rate toggle is selected.
+ You can transpose the pattern using the Distance and Steps controls. The Distance control sets the transposition in semitones or scale degrees, while the Steps control determines how many times the pattern is transposed. The pattern initially plays at its original pitch and then repeats at progressively higher transpositions when using positive Distance values or lower transpositions when using negative values. For example, when Distance is set to +12 st and Steps is set to 2, a pattern starting with C3 will play first at C3, then C4, and finally at C5.
+ To transpose the pattern within a specified scale, use the Root and Scale choosers to select your desired settings. You can also transpose the pattern based on the clip’s scale by enabling the Use Current Scale toggle in the device title bar. When this option is enabled, the Root and Scale choosers are deactivated as these settings are determined by the clip.
+ The Gate control determines the length of the notes in the pattern as a percentage of the Rate value. Gate values above 100% result in notes that overlap, creating a legato effect.
+ When playing notes using a MIDI controller, you can enable the Hold switch to keep the pattern playing even after releasing the keys. The pattern will continue to repeat until another key is pressed. You can hold an initial set of keys and then press additional keys to add notes to a currently held pattern. To remove notes, play them a second time. This allows you to create a gradual buildup and rearrangement of the pattern over time.
+ The Pattern Offset control shifts the sequence of notes in the pattern by a specified number of steps. Imagine the pattern as a circle of notes that is played in a clockwise direction from a set start point — Pattern Offset effectively rotates this circle counterclockwise one note at a time, shifting the starting note. For example, if the offset is set to 1, the second note in the pattern plays first and the original first note plays last.
+ You can add swing to the pattern by selecting a groove from the Groove chooser. Grooves in Arpeggiator function similarly to grooves in clips. The intensity of the groove is determined by the Global Groove Amount slider in the Groove Pool or the Control Bar.
+ The pattern can be restarted at specific intervals depending on the selected Retrigger option:
+ Off — The pattern is never retriggered.
+ Note — The pattern is retriggered when a new note is played.
+ Beat — The pattern is retriggered on a specified bar or beat, as set by the Interval control.
+ The LED next to the Retrigger controls flashes each time the pattern is retriggered.
+ The Repeats control specifies how many times the pattern is repeated. By default, Repeats is set to ∞ so that the pattern plays indefinitely. Setting Repeats to 1 or 2 can emulate the strumming of a guitar, for example. You can also combine different Repeats values with various Retrigger settings to create rhythmically generated arpeggios with pauses in between.
+ You can enable the Velocity toggle to access the velocity controls for the pattern. Decay sets the time required to reach the velocity value specified by the Target control. For example, using a long Decay time and setting Target to 0 produces a gradual fade-out.
+ When the Retrigger switch is enabled, the velocity slope is retriggered each time the pattern is retriggered. Combining velocity and Beat retriggering adds rhythmic variation to the pattern’s velocity slope.
+ 29.2 CC Control
+ The CC Control Effect. CC Control lets you send MIDI CC messages to hardware devices. It features three fixed control knobs (Mod Wheel, Pitch Bend, Pressure), one customizable button for sending on/off or minimum/maximum values (Custom A), and twelve customizable control dials (Custom B - M).
+ The device’s fixed control knobs function as follows:
+ Mod Wheel – Sets the amount of modulation being applied by the receiving device.
+ Pitch Bend – Sends out pitch bend data to the receiving device. Negative values adjust the range downward and positive values adjust the range upward.
+ Pressure – Sets the amount of channel pressure/aftertouch being applied by the receiving device.
+ The Custom A button sends out on/off or minimum/maximum values, which can be toggled between by turning the button on or off. While intended for sending sustain/hold pedal messages (CC 64), this button can be assigned to any other MIDI parameter via its CC Type Chooser drop-down menu.
+ The Custom B - M controls can be renamed and assigned to any MIDI parameter via each control’s CC Type Chooser drop-down menu. Custom names and assignments for these controls are shown on Push and are saveable as presets, allowing for easy navigation and reuse. Parameter values can be set using automation lanes or modulated in real time via the device’s control dials, which can be useful both for structuring and improvising with performances.
+ In the device’s title bar, there are two toggles for switching between controls 1 - 8 and controls 9 - 16, as well as a Send button that sends out all current MIDI CC values when clicked. Enabling the Learn toggle allows you to send CC data from an incoming MIDI source to any customizable control. This provides a quick way of personalizing the device. Using Learn also makes it easy to identify which CC message an external controller is sending.
+ Note that if CC automation already exists for any CC message being sent from CC Control to a receiving device, MIDI data between the two is merged.
+ 29.3 Chord
+ The Chord Effect. As the name suggests, this effect creates a chord using the pitch of each incoming note along with up to six additional pitches.
+ You can use the Shift 1-6 controls to assign which pitches are used to contribute to a chord from a range of ±36 semitones relative to the original note. For example, setting Shift 1 to +4 semitones and Shift 2 to +7 semitones yields a major chord in which the incoming note is the root. Pitches can be set in any order — it makes no difference which Shift control is used for which pitch. The LED next to each Shift knob flashes to indicate when its corresponding note is being played.
+ Note that the same pitch cannot be assigned to multiple Shift controls. For example, you cannot set both Shift 2 and Shift 3 to +8 st. If a pitch is already assigned to a Shift control, any additional assignments of the same pitch will be deactivated.
+ In addition to setting pitches manually, you can enable the Learn toggle in the device title bar to assign pitches by playing a chord on an external MIDI controller. To do so, hold the keys you want to include in the chord. The pitch of the first held key determines the root and is not assigned to a Shift control; any subsequent pitches are assigned to the Shift controls in order. You can add more pitches by holding new keys while keeping the original keys held. Once the desired pitches are assigned, deactivate the Learn toggle.
+ When the Velocity or Chance toggle is enabled, you can adjust the dynamics of the generated note using the slider underneath each Shift control:
+ Velocity sets the velocity for a generated note. This is a relative control, with a range of 1% to 200%. At 100%, the velocity of the generated note matches the velocity of the incoming note. Varying the velocities between notes can introduce subtle overtones or dramatically alter a chord’s balance.
+ Chance sets the probability that a generated note will play when an incoming note is triggered. You can set the probability anywhere from 0% to 100%. At 100%, a note is generated for every incoming note.
+ Using both Velocity and Chance together is a good way to add dynamic variations to a generated chord.
+ You can use the Strum control to add a delay of up to 400 ms between the notes of a generated chord. At positive values, the strumming starts with the original note, followed by the notes from Shift 1 to Shift 6. At negative values, this order is reversed. You can add duplicate notes by enabling the Play Duplicate Notes When Strumming option in the device title bar’s context menu.
+ There are two additional controls that can be used to further shape the strumming:
+ Tension adjusts the speed of the strumming. At positive values, the strumming starts slowly and accelerates with each additional note, while at negative values, it starts quickly and gradually slows down.
+ Crescendo applies a velocity ramp to the strummed notes. Positive values create an upward ramp, and negative values create a downward ramp.
+ By default, pitches are set in semitones; however, you can enable the Use Current Scale toggle in the device title bar to set pitches in scale degrees.
+ You can enable the Send Per Note Events to Generated Notes option in the device title bar’s context menu to send out MPE data to the notes in a generated chord. When scale awareness is also enabled, per-note pitch bend messages follow the clip’s scale so that bent chords stay within the expected harmonic range.
+ 29.4 Note Length
+ The Note Length Effect. Note Length alters the length of incoming MIDI notes. It can also be used to trigger notes from MIDI Note Off messages, instead of the usual Note On messages.
+ The Trigger Source toggle determines whether the device is triggered by Note On or Note Off messages. When set to Note On, the length of incoming notes is determined by the Gate and Length controls. The Gate control defines how the value set by the Length control is applied. At 100%, notes play for the total duration specified by the Length control. Setting Gate to 200% doubles the length, while setting it to 50% halves the length. You can use the Time Mode toggles to adjust the length in milliseconds or tempo-synced beat divisions.
+ When the device is set to trigger from a Note Off event (the moment a note is released), the timing of an incoming note is delayed by its length — meaning the note starts at the moment it would have stopped if triggered by a Note On message. Once the initial delay is reached, the timing specified by the Gate and Length controls is applied.
+ Three additional parameters are available when using Note Off messages:
+ Release Velocity — Determines the velocity of the output note. The percentage sets the balance between the incoming note’s Note On and Note Off velocities. If your keyboard does not support MIDI Note Off velocity, you can leave this set to 0%.
+ Decay Time — Sets the time needed for an incoming note’s velocity to decay to zero. The decay begins immediately from the moment the device receives a Note On message. The value at the time of Note Off becomes the velocity of the output note.
+ Key Scale — Alters the length of output notes based on the pitch of incoming notes. At positive values, notes below C3 are made progressively longer, while notes above C3 are made shorter. Negative values invert this behavior.
+ You can enable the Latch toggle to activate note latching. When using Note On messages, triggered notes continue playing until the next Note On message is received. When using Note Off messages, notes are triggered once all keys (or a sustain pedal, if connected) are released and a new Note Off message is received. In both cases, the Gate and Length controls are deactivated, as the length of triggered notes depends on the Note On/Off messages. Additionally, the Release Velocity, Decay Time, and Key Scale controls are deactivated for Note Off messages.
+ 29.5 Pitch
+ The Pitch Effect. Pitch transposes incoming MIDI notes by ±128 semitones or ±30 scale degrees.
+ You can use the Pitch control to set the transposition for incoming pitches. By default, notes are transposed in semitones. Enable the Use Current Scale toggle in the device’s title bar to transpose notes by scale degrees.
+ The Step Up and Step Down buttons let you increase or decrease the Pitch control value by the distance set by the Step Width slider. The Step Width distance can range from 1 to 48 semitones or 1 to 30 scale degrees when Use Current Scale is enabled. All of these controls can be assigned Key and/or MIDI mappings for real-time adjustment.
+ The Lowest and Range controls define the pitch range through which notes are allowed to pass through the effect.
+ You can select an option in the Mode chooser to determine how notes outside the set range are processed:
+ In Block mode, notes outside the range are blocked from passing through. The LED next to the Range control flashes when this happens.
+ In Fold mode, notes outside the range are transposed to fit within the range.
+ In Limit mode, notes are restricted to the range. This means that any notes below the lowest note in the range are transposed up to that note, and any notes above the highest note in the range are transposed down to fit.
+ 29.6 Random
+ The Random Effect. Random adds an element of unpredictability to note sequences by randomizing the pitch of incoming notes.
+ The Chance control determines how likely it is that an incoming note’s pitch will be randomly altered. You can think of it as a dry/wet control for randomness.
+ The random value that determines the pitch change is created by two variables: the Choices and Interval controls. The Choices control defines the number of possible pitches, ranging from 1 to 24. The Interval control defines the number of possible intervals between the pitches. The values of these two controls are multiplied to determine the total range of possible pitches relative to the incoming note.
+ For example, when Chance is set to 50%, Choices is set to 1, and Interval is set to 12, repeatedly playing C3 results in half of the notes playing at C3 and half at C4, in no particular order. If you swap the Choices and Interval values by setting Choices to 12 and Interval to 1, half of the notes will play at C3, while the other half will play at any note between C#3 and C4. These examples assume that Mode is set to Random and Sign is set to Add, which are the default settings.
+ Mode determines how the randomization occurs: Random assigns pitches in no particular order, while Alt cycles through pitches in a fixed round-robin order. The Chance control behaves differently in this mode: at 100%, the next output note will always be the next note in the sequence, while at 0%, the next output note will always be the incoming note.
+ For example, when Chance is set to 100%, Choices is set to 12, and Interval is set to 1, playing C3 once plays C3, and each successive C3 plays the next semitone higher until C4, at which point the cycle starts over from C3. When Chance is set to 100% and Choices and Interval are set to 2, incoming C3s alternate between C3 and D3. This behavior is ideal for simulating upbow and downbow alternation with stringed instruments, or alternating right- and left-hand drum samples.
+ Sign determines how random pitches are generated relative to the incoming note:
+ Add generates random pitches that are higher than the original note.
+ Sub generates random pitches that are lower than the original note.
+ Bi generates random pitches that can be both higher and lower than the original note.
+ The LEDs to the right of the Chance control indicate how random pitches are assigned:
+ The + LED flashes when a pitch above the original note is generated.
+ The 0 LED flashes when the pitch remains unchanged.
+ The - LED flashes when a pitch below the original note is generated.
+ You can enable the Use Current Scale toggle in the device title bar to constrain randomly generated pitches to the clip’s scale. This ensures that the output values stay within a specific harmonic range. When using Random’s Alt mode with a defined scale, you can create the effect of a simple yet unpredictable step sequencer.
+ 29.7 Scale
+ The Scale Effect. Scale remaps notes based on a defined scale. Each incoming note is assigned an outgoing equivalent in a matrix. This means you can convert all incoming Cs to Ds, for example.
+ The Note Matrix uses a 13x13 grid where each row and column corresponds to the 12 notes in a full octave. The columns represent incoming note values, while the rows show their outgoing equivalents.
+ The black squares correspond to the black keys on a keyboard. The highlighted squares determine how each note is mapped based on the set scale. The scale mapping begins from the root note, located in the bottom left corner of the Note Matrix. You can set the root note using the Base chooser and select a scale using the Scale Name chooser. Alternatively, you can enable the Use Current Scale toggle in the device title bar to apply the clip’s root note and scale. Once enabled, the Base and Scale Name choosers are deactivated, as the clip defines these settings.
+ You can create your own scale by selecting User from the Scale Name chooser. By default, each highlighted square is mapped to its corresponding note within an octave — C outputs C, C# outputs C#, and so on. You can move highlighted squares with the mouse or delete them with mouse clicks to customize which notes are included in the scale. Removing a note from the Note Matrix means that note will no longer be output, even if played.
+ Use the Transpose slider to raise or lower the pitch of incoming MIDI notes by ±36 semitones. You could, for example, shift a melody written in C major to G major by setting Transpose to +7 st.
+ When the Scale Name is set to User, you can enable the Fold switch to automatically fold notes if their distance from the original note is greater than six semitones. For example, if an incoming C3 is mapped to an outgoing A3, enabling Fold means that C3 will map to A2 instead.
+ The Lowest and Range controls define the note range for the scale mapping. By default, all octaves are included, but you can limit the range to creatively remap some notes while leaving the rest unaffected. For example, if Lowest is set to C2 and Range is set to +36, only the notes C2 through B4 will be remapped when using a C major scale. These controls can be used in conjunction with the Transpose parameter to apply transposition only to a specific range of notes. You can, using the same settings from the example, set the Transpose control to +7 st so that only the notes between C2 and B4 are transposed, while the others remain unaffected.
+ 29.8 Velocity
+ The Velocity Effect. Velocity alters the velocity values (1-127) of incoming MIDI notes to ensure their outgoing values stay within a specified range.
+ The Velocity Curve grid shows how the incoming velocities that fall within the range set by the Range and Lowest controls (X-axis) are remapped based on the range set by the Out Hi and Out Low controls (Y-axis). The resulting curve defines how the velocity values are altered.
+ You can, for example, set Out Low to 80 and Out High to 127 to constrain all outgoing velocities to a higher range, even if the original notes were played softly. Note that if Lowest and Out Low are set to zero, and Range and Out Hi are set to 127, the effect is essentially bypassed, as all incoming velocity values will output within a similar range.
+ Velocity values can be remapped for MIDI Note On (Velocity) or Note Off (Rel. Vel.) messages, or both, depending on the option set via the Operation chooser.
+ You can choose how incoming velocities that are outside the range set with the Range and Lowest controls are processed using one of the Mode toggles:
+ In Clip mode, incoming velocities are clipped so that they stay within the range.
+ In Gate mode, incoming velocities outside the range are removed altogether. When a note is blocked by the gate, the LED below the Velocity Curve grid flashes.
+ In Fixed mode, the Out Hi value defines all outgoing velocity values, regardless of the incoming velocities.
+ Random introduces random modulation to all incoming velocities. The range of modulation is determined by the set value and is influenced by the Output Range controls. For example, when Out Hi is set to 127 and Out Low is set to 60, a Random value of 50 shifts the velocities up or down by up to 50 within the range of 60-127.
+ When using positive Random values, a gray-shaded area appears around the velocity curve to indicate that the velocities are subject to the set random range.
+ The Drive and Compand controls can be used to create a more complex velocity curve. Drive pushes all values in the curve to the outer extremes; Compand can either expand or compress the values within the boundaries of the curve.
+ Positive Drive values shift the velocities to the upper part of the range so that most notes play loudly, while negative values shift the velocities to the lower part of the range so that most notes play softly.
+ Positive Compand values expand incoming velocities to the outer boundary of the curve, shifting the outgoing values toward the higher or lower extremes. Negative Compand values compress outgoing velocities toward the mid-range.
+ You can use these two controls separately or together to further sculpt the velocity curve, creating a more defined result within the general range.
+ Ableton Reference Manual
+ Version
+ 12 | Version 11 
+ Language
+ English
+ Download PDF 1. Welcome to Live 1.1 The Ableton Team Says: Thank You 
+ 2. First Steps 2.1 Installation and Authorization 
+ 2.2 Learning About Live 2.2.1 Learn View 
+ 2.2.2 Info View 
+ 2.2.3 Other Learning Resources 
+ 2.3 Live’s Settings 2.3.1 Display & Input 
+ 2.3.2 Theme & Colors 
+ 2.3.3 Audio 
+ 2.3.4 Link 
+ 2.3.5 Tempo & MIDI 
+ 2.3.6 File & Folder 
+ 2.3.7 Library 
+ 2.3.8 Plug-Ins 
+ 2.3.9 Record, Warp & Launch 
+ 2.3.10 Licenses & Updates 
+ 3. Live Concepts 3.1 The Control Bar 
+ 3.2 The Status Bar 
+ 3.3 The Browser 
+ 3.4 Sound Similarity 
+ 3.5 Live Sets 
+ 3.6 Arrangement and Session 
+ 3.7 Tracks 
+ 3.8 Audio and MIDI 
+ 3.9 Audio Clips and Samples 
+ 3.10 MIDI Clips and MIDI Files 
+ 3.11 Devices 
+ 3.12 Clip and Device View 
+ 3.13 Scale Awareness 
+ 3.14 The Mixer 
+ 3.15 Presets and Racks 
+ 3.16 Routing 
+ 3.17 Recording New Clips 
+ 3.18 Automation Envelopes 
+ 3.19 Clip Envelopes 
+ 3.20 MIDI and Key Remote 
+ 3.21 Saving and Exporting 
+ 4. Working with the Browser 4.1 Content Pane 
+ 4.2 Search Bar 4.2.1 Saving Search Results as Custom Labels 
+ 4.3 Browser History 
+ 4.4 Filters and Tags 4.4.1 Filter Groups 
+ 4.4.2 Tags 
+ 4.4.3 Tag Editor 
+ 4.4.4 Quick Tags 
+ 4.5 Collections 
+ 4.6 Library 
+ 4.7 Places 4.7.1 Downloading and Installing Packs in the Browser 
+ 4.7.2 Pack Info 
+ 4.7.3 Splice 
+ 4.7.4 Using Ableton Cloud 
+ 4.7.5 Transferring Files from Push 3 in Standalone Mode 
+ 4.7.6 User Library 
+ 4.7.7 Current Project 
+ 4.7.8 User Folders 
+ 4.8 Navigating in the Browser 
+ 4.9 Previewing Files 
+ 4.10 Adding Content from the Browser to a Live Set 
+ 5. Managing Files and Sets 5.1 Sample Files 5.1.1 The Decoding Cache 
+ 5.1.2 Analysis Files (.asd) 
+ 5.1.3 Exporting Audio and Video 
+ 5.2 MIDI Files 5.2.1 Exporting MIDI Files 
+ 5.3 Live Clips 
+ 5.4 Live Sets 5.4.1 Creating, Opening and Saving Sets 
+ 5.4.2 Accessing a Set’s Undo History 
+ 5.4.3 Merging Sets 
+ 5.4.4 Exporting Session Clips as New Sets 
+ 5.4.5 Template Sets 
+ 5.4.6 Viewing and Changing a Live Set’s File References 
+ 5.5 Live Projects 5.5.1 Projects and Live Sets 
+ 5.5.2 Projects and Presets 
+ 5.5.3 Managing Files in a Project 
+ 5.6 Locating Missing Files 5.6.1 Manual Repair 
+ 5.6.2 Automatic Repair 
+ 5.7 Collecting External Files 5.7.1 Collect Files on Export 
+ 5.7.2 Aggregated Locating and Collecting 
+ 5.8 Finding Unused Files 
+ 5.9 Packing Projects into Packs 
+ 5.10 File Management FAQs 5.10.1 How Do I Create a Project? 
+ 5.10.2 How Can I Save Presets Into My Current Project? 
+ 5.10.3 Can I Work On Multiple Versions of a Set? 
+ 5.10.4 Where Should I Save My Live Sets? 
+ 5.10.5 Can I Use My Own Folder Structure Within a Project Folder? 
+ 6. Arrangement View 6.1 Layout 
+ 6.2 Navigation and Zooming 
+ 6.3 Transport and Playback 
+ 6.4 Launching the Arrangement with Locators 
+ 6.5 Time Signature Changes 
+ 6.6 The Arrangement Loop 
+ 6.7 Moving and Resizing Clips 
+ 6.8 Audio Clip Fades and Crossfades 
+ 6.9 Selecting Clips and Time 
+ 6.10 Using the Editing Grid 
+ 6.11 Using the …Time Commands 
+ 6.12 Splitting Clips 
+ 6.13 Consolidating Clips 
+ 6.14 Linked-Track Editing 6.14.1 Linking and Unlinking Tracks 
+ 6.14.2 Editing Linked Tracks 
+ 6.15 The Mixer in Arrangement View 
+ 7. Session View 7.1 Session View Clips 
+ 7.2 Tracks and Scenes 7.2.1 Editing Scene Tempo and Time Signature Values 
+ 7.2.2 Scene View 
+ 7.3 The Track Status Fields 
+ 7.4 Setting Up the Session View Grid 7.4.1 Select on Launch 
+ 7.4.2 Removing Clip Stop Buttons 
+ 7.4.3 Editing Scenes 
+ 7.5 Recording Sessions into the Arrangement 
+ 8. Clip View 8.1 Clip View Layout 8.1.1 Clip Title Bar 
+ 8.1.2 Clip Panels 
+ 8.1.3 Editor View Modes 
+ 8.2 Main Clip Properties Panel 8.2.1 Clip and Loop Region Settings 
+ 8.2.2 Clip Time Signature 
+ 8.2.3 Clip Groove 
+ 8.2.4 Clip Scale 
+ 8.3 Extended Clip Properties 8.3.1 Follow Action and Launch Controls 
+ 8.3.2 MIDI Clip Bank and Program Change Controls 
+ 8.4 Audio Utilities Panel 8.4.1 Warp Controls 
+ 8.4.2 Reversing Samples 
+ 8.4.3 Destructive Sample Editing 
+ 8.4.4 Clip Start and End Fades 
+ 8.4.5 Clip RAM Mode 
+ 8.4.6 High Quality Interpolation 
+ 8.4.7 Clip Gain and Pitch 
+ 8.5 Pitch and Time Utilities Panel 8.5.1 Pitch Tools 
+ 8.5.2 Time Tools 
+ 8.6 Transform and Generate Panels 
+ 8.7 Zooming and Scrolling in the Clip View’s Editor 
+ 8.8 Playing and Scrubbing Clips 
+ 8.9 Looping Clips 
+ 8.10 Clip View Sample Details 
+ 8.11 Cropping Clips 
+ 8.12 Replacing and Editing the Sample 
+ 8.13 Editing Clip Properties for Multiple Clips 
+ 8.14 Clip Defaults and Update Rate 
+ 9. Audio Clips, Tempo, and Warping 9.1 Tempo 9.1.1 Setting the Tempo 
+ 9.1.2 Tapping the Tempo 
+ 9.1.3 Nudging the Tempo 
+ 9.1.4 Clip Tempo Followers and Leaders 
+ 9.2 Warping 9.2.1 Warping Options in Settings 
+ 9.2.2 Importing Samples 
+ 9.2.3 Warp Markers 
+ 9.2.4 Warping Short Samples 
+ 9.2.5 Auto-Warping Long Samples 
+ 9.2.6 Manipulating Grooves 
+ 9.2.7 Quantizing Audio 
+ 9.3 Warp Modes 9.3.1 Beats Mode 
+ 9.3.2 Tones Mode 
+ 9.3.3 Texture Mode 
+ 9.3.4 Re-Pitch Mode 
+ 9.3.5 Complex and Complex Pro Mode 
+ 10. Editing MIDI 10.1 The MIDI Note Editor Layout 
+ 10.2 Zooming and Navigating in the MIDI Note Editor 10.2.1 Grid Snapping 
+ 10.2.2 Playback Options 
+ 10.3 Creating a MIDI Clip 
+ 10.4 Adding MIDI Notes 10.4.1 Draw Mode 
+ 10.4.2 Previewing Notes 
+ 10.5 Editing MIDI Notes 10.5.1 Non-Destructive Editing 
+ 10.5.2 Selecting Notes and Timespan 
+ 10.5.3 Find and Select Notes 
+ 10.5.4 Moving Notes 
+ 10.5.5 Changing Note Length 
+ 10.5.6 MIDI Note Stretch 
+ 10.5.7 Deactivating Notes 
+ 10.5.8 Note Operations 
+ 10.5.9 Pitch and Time Utilities 
+ 10.5.10 MIDI Tools 
+ 10.5.11 Quantizing Notes 
+ 10.5.12 Editing Velocities 
+ 10.5.13 Editing Probabilities 
+ 10.6 Folding and Scales 
+ 10.7 Editing MIDI Clips 10.7.1 Cropping MIDI Clips 
+ 10.7.2 The …Time Commands in the MIDI Note Editor 
+ 10.7.3 Looping 
+ 10.8 Multi-Clip Editing 10.8.1 Focus Mode 
+ 10.8.2 Multi-Clip Editing in the Session View 
+ 10.8.3 Multi-Clip Editing in the Arrangement View 
+ 11. MIDI Tools 11.1 Using MIDI Tools 11.1.1 Using Max for Live MIDI Tools 
+ 11.2 Transformation Tools 11.2.1 Arpeggiate 
+ 11.2.2 Chop 
+ 11.2.3 Connect 
+ 11.2.4 Glissando 
+ 11.2.5 LFO 
+ 11.2.6 Ornament 
+ 11.2.7 Quantize 
+ 11.2.8 Recombine 
+ 11.2.9 Span 
+ 11.2.10 Strum 
+ 11.2.11 Time Warp 
+ 11.2.12 Velocity Shaper 
+ 11.3 Generative Tools 11.3.1 Rhythm 
+ 11.3.2 Seed 
+ 11.3.3 Shape 
+ 11.3.4 Stacks 
+ 11.3.5 Euclidean 
+ 12. Editing MPE 12.1 Viewing MPE Data 
+ 12.2 Editing MPE Data 
+ 12.3 Drawing Envelopes 
+ 12.4 MPE in Live’s Devices and on Push 2 
+ 12.5 MPE in External Plug-ins 
+ 12.6 MPE/Multi-channel Settings 12.6.1 Accessing the MPE/Multi-channel Settings Dialog 
+ 12.6.2 The MPE/Multi-Channel Settings Dialog 
+ 13. Converting Audio to MIDI 13.1 Slice to New MIDI Track 13.1.1 Resequencing Slices 
+ 13.1.2 Using Effects on Slices 
+ 13.2 Convert Harmony to New MIDI Track 
+ 13.3 Convert Melody to New MIDI Track 
+ 13.4 Convert Drums to New MIDI Track 
+ 13.5 Optimizing for Better Conversion Quality 
+ 14. Using Grooves 14.1 Groove Pool 14.1.1 Adjusting Groove Parameters 
+ 14.1.2 Committing Grooves 
+ 14.2 Editing Grooves 14.2.1 Extracting Grooves 
+ 14.3 Groove Tips 14.3.1 Grooving a Single Voice 
+ 14.3.2 Non-Destructive Quantization 
+ 14.3.3 Creating Texture With Randomization 
+ 15. Using Tuning Systems 15.1 Loading a Tuning System 
+ 15.2 The Tuning Section 
+ 15.3 MIDI Track Options for Tuning Systems 15.3.1 Bypass Tuning 
+ 15.3.2 MIDI Controller Layouts 
+ 15.4 Learn More About Tuning Systems 
+ 16. Launching Clips 16.1 The Launch Controls 
+ 16.2 Launch Modes 
+ 16.3 Legato Mode 
+ 16.4 Clip Launch Quantization 
+ 16.5 Velocity 
+ 16.6 Clip Offset and Nudging 
+ 16.7 Follow Actions 16.7.1 Looping Parts of a Clip 
+ 16.7.2 Creating Cycles 
+ 16.7.3 Temporarily Looping Clips 
+ 16.7.4 Adding Variations in Sync 
+ 16.7.5 Mixing up Melodies and Beats 
+ 16.7.6 Creating Nonrepetitive Structures 
+ 17. Routing and I/O 17.1 Monitoring 
+ 17.2 External Audio In/Out 17.2.1 Mono/Stereo Conversions 
+ 17.3 External MIDI In/Out 17.3.1 MIDI Port Inputs and Outputs 
+ 17.3.2 Playing MIDI With the Computer Keyboard 
+ 17.3.3 Connecting External Synthesizers 
+ 17.3.4 MIDI In/Out Indicators 
+ 17.4 Resampling 
+ 17.5 Internal Routings 17.5.1 Internal Routing Points 
+ 17.5.2 Making Use of Internal Routing 
+ 18. Mixing 18.1 The Live Mixer 18.1.1 Additional Mixer Features 
+ 18.2 Audio and MIDI Tracks 
+ 18.3 Group Tracks 
+ 18.4 Return Tracks and the Main track 
+ 18.5 Using Live’s Crossfader 
+ 18.6 Soloing and Cueing 
+ 18.7 Track Delays 
+ 18.8 Keep Monitoring Latency in Recording Track Toggles 
+ 18.9 Performance Impact Track Indicators 
+ 19. Recording New Clips 19.1 Choosing an Input 
+ 19.2 Arming (Record-Enabling) Tracks 
+ 19.3 Recording 19.3.1 Recording Into the Arrangement 
+ 19.3.2 Recording Into Session Slots 
+ 19.3.3 Overdub Recording MIDI Patterns 
+ 19.3.4 MIDI Step Recording 
+ 19.4 Recording in Sync 19.4.1 Metronome Settings 
+ 19.5 Recording Quantized MIDI Notes 
+ 19.6 Recording with Count-in 
+ 19.7 Setting up File Types 
+ 19.8 Where are the Recorded Samples? 
+ 19.9 Using Remote Control for Recording 
+ 19.10 Capturing MIDI 19.10.1 Starting a New Live Set 
+ 19.10.2 Adding Material to an Existing Live Set 
+ 20. Bounce to Audio 20.1 Bouncing Individual Tracks 
+ 20.2 Bouncing Group Tracks 
+ 20.3 Pasting Bounced Audio 
+ 21. Comping 21.1 Take Lanes 
+ 21.2 Inserting and Managing Take Lanes 
+ 21.3 Recording Takes 
+ 21.4 Inserting Samples 
+ 21.5 Auditioning Take Lanes 
+ 21.6 Creating a Comp 
+ 21.7 Source Highlights 
+ 22. Stem Separation 22.1 How Stem Separation Works in Live 
+ 22.2 Separating Audio Files and Clips 22.2.1 Separation Speed vs. Quality 
+ 23. Working with Instruments and Effects 23.1 Device View 
+ 23.2 Using Devices 23.2.1 Device Title Bar 
+ 23.2.2 Device A/B Comparison 
+ 23.2.3 Live Device Presets 
+ 23.2.4 Hot-Swapping Presets 
+ 23.2.5 Saving Presets 
+ 23.2.6 Default Presets 
+ 23.3 Using Plug-Ins 23.3.1 Plug-Ins in the Device View 
+ 23.3.2 Sidechain Parameters 
+ 23.4 VST Plug-Ins 23.4.1 The VST Plug-In Folder 
+ 23.4.2 VST Presets and Banks 
+ 23.5 Audio Units Plug-Ins 
+ 23.6 Device Delay Compensation 
+ 24. Instrument, Drum and Effect Racks 24.1 An Overview of Racks 24.1.1 Signal Flow and Parallel Device Chains 
+ 24.1.2 Macro Controls 
+ 24.2 Creating Racks 
+ 24.3 Looking at Racks 
+ 24.4 Chain List 24.4.1 Auto Select 
+ 24.5 Zones 24.5.1 Signal Flow through Zones 
+ 24.5.2 Key Zones 
+ 24.5.3 Velocity Zones 
+ 24.5.4 Chain Select Zones 
+ 24.6 Drum Racks 24.6.1 Pad View 
+ 24.7 Using the Macro Controls 24.7.1 Map Mode 
+ 24.7.2 Randomizing Macro Controls 
+ 24.7.3 Macro Control Variations 
+ 24.8 Mixing With Racks 24.8.1 Extracting Chains 
+ 25. Automation and Editing Envelopes 25.1 Recording Automation in Arrangement View 
+ 25.2 Recording Automation in Session View 25.2.1 Session Automation Recording Modes 
+ 25.3 Deleting Automation 
+ 25.4 Overriding Automation 
+ 25.5 Drawing and Editing Automation 25.5.1 Drawing Envelopes 
+ 25.5.2 Editing Breakpoints 
+ 25.5.3 Stretching and Skewing Envelopes 
+ 25.5.4 Simplifying Envelopes 
+ 25.5.5 Inserting Automation Shapes 
+ 25.5.6 Locking Envelopes 
+ 25.5.7 Edit Menu Commands 
+ 25.5.8 Editing the Tempo Automation 
+ 26. Clip Envelopes 26.1 The Clip Envelope Editor 
+ 26.2 Audio Clip Envelopes 26.2.1 Clip Envelopes are Non-Destructive 
+ 26.2.2 Changing Pitch and Tuning per Note 
+ 26.2.3 Muting or Attenuating Notes in a Sample 
+ 26.2.4 Scrambling Beats 
+ 26.2.5 Using Clips as Templates 
+ 26.3 Mixer and Device Clip Envelopes 26.3.1 Modulating Mixer Volumes and Sends 
+ 26.3.2 Modulating Pan 
+ 26.3.3 Modulating Device Controls 
+ 26.4 MIDI Controller Clip Envelopes 
+ 26.5 Unlinking Clip Envelopes From Clips 26.5.1 Programming a Fade-Out for a Live Set 
+ 26.5.2 Creating Long Loops from Short Loops 
+ 26.5.3 Imposing Rhythm Patterns onto Samples 
+ 26.5.4 Clip Envelopes as LFOs 
+ 26.5.5 Warping Linked Envelopes 
+ 27. Working with Video 27.1 Importing Video 
+ 27.2 The Appearance of Video in Live 27.2.1 Video Clips in the Arrangement View 
+ 27.2.2 The Video Window 
+ 27.2.3 Clip View 
+ 27.3 Matching Sound to Video 
+ 27.4 Video Trimming Tricks 
+ 28. Live Audio Effect Reference 28.1 Amp 28.1.1 Amp Tips 
+ 28.2 Auto Filter 28.2.1 Filter Types 
+ 28.2.2 Filter Display 
+ 28.2.3 LFO Controls 
+ 28.2.4 Envelope Follower Controls 
+ 28.2.5 Filter Drive and Circuits 
+ 28.2.6 Global Controls 
+ 28.2.7 Sidechain Parameters 
+ 28.3 Auto Pan-Tremolo 
+ 28.4 Auto Shift 28.4.1 Input Section 
+ 28.4.2 Quantizer Tab 
+ 28.4.3 MIDI Tab 
+ 28.4.4 LFO Tab 
+ 28.4.5 Pitch Section 
+ 28.4.6 Vibrato Section 
+ 28.5 Beat Repeat 
+ 28.6 Cabinet 28.6.1 Cabinet Tips 
+ 28.7 Channel EQ 28.7.1 Channel EQ Tips 
+ 28.8 Chorus-Ensemble 28.8.1 Chorus-Ensemble Tips 
+ 28.9 Compressor 28.9.1 Sidechain Parameters 
+ 28.9.2 Compressor Tips 
+ 28.10 Corpus 28.10.1 Resonator Parameters 
+ 28.10.2 LFO Section 
+ 28.10.3 Filter Section 
+ 28.10.4 Global Parameters 
+ 28.10.5 Sidechain Parameters 
+ 28.11 Delay 28.11.1 Context Menu Options for Delay 
+ 28.11.2 Delay Tips 
+ 28.12 Drum Buss 
+ 28.13 Dynamic Tube 
+ 28.14 Echo 28.14.1 Echo Tab 
+ 28.14.2 Modulation Tab 
+ 28.14.3 Character Tab 
+ 28.14.4 Global Controls 
+ 28.15 EQ Eight 
+ 28.16 EQ Three 
+ 28.17 Erosion 
+ 28.18 External Audio Effect 
+ 28.19 Filter Delay 
+ 28.20 Gate 
+ 28.21 Glue Compressor 28.21.1 Sidechain Parameters 
+ 28.22 Grain Delay 
+ 28.23 Hybrid Reverb 28.23.1 Signal Flow 
+ 28.23.2 Input Section 
+ 28.23.3 Convolution Reverb Engine 
+ 28.23.4 Algorithmic Reverb Engine 
+ 28.23.5 EQ Section 
+ 28.23.6 Output Section 
+ 28.24 Limiter 
+ 28.25 Looper 28.25.1 Feedback Routing 
+ 28.26 Multiband Dynamics 28.26.1 Dynamics Processing Theory 
+ 28.26.2 Interface and Controls 
+ 28.26.3 Sidechain Parameters 
+ 28.26.4 Multiband Dynamics Tips 
+ 28.27 Overdrive 
+ 28.28 Pedal 28.28.1 Pedal Tips 
+ 28.29 Phaser-Flanger 
+ 28.30 Redux 28.30.1 Downsampling 
+ 28.30.2 Bit Reduction 
+ 28.31 Resonators 
+ 28.32 Reverb 28.32.1 Input Filter 
+ 28.32.2 Early Reflections 
+ 28.32.3 Diffusion Network 
+ 28.32.4 Chorus 
+ 28.32.5 Global Settings 
+ 28.32.6 Output 
+ 28.33 Roar 28.33.1 Input Section 
+ 28.33.2 Gain Stage Section 
+ 28.33.3 Modulation Section 
+ 28.33.4 Feedback Section 
+ 28.33.5 Global Section 
+ 28.33.6 Sidechain Parameters 
+ 28.34 Saturator 
+ 28.35 Shifter 28.35.1 Tuning and Delay Section 
+ 28.35.2 LFO Section 
+ 28.35.3 Envelope Follower Section 
+ 28.35.4 Shifter Mode Section 
+ 28.35.5 Sidechain Parameters 
+ 28.35.6 Shifter Tips 
+ 28.36 Spectral Resonator 28.36.1 Pitch Mode Section 
+ 28.36.2 Frequency Section 
+ 28.36.3 Modulation Section 
+ 28.36.4 Spectrogram 
+ 28.36.5 Global Parameters 
+ 28.36.6 Spectral Resonator Tips 
+ 28.37 Spectral Time 28.37.1 Freezer Section 
+ 28.37.2 Delay Section 
+ 28.37.3 Resolution Section 
+ 28.37.4 Global Controls 
+ 28.38 Spectrum 
+ 28.39 Tuner 28.39.1 View Switches 
+ 28.39.2 Classic View 
+ 28.39.3 Histogram View 
+ 28.39.4 Note Spellings 
+ 28.39.5 Reference Slider 
+ 28.40 Utility 
+ 28.41 Vinyl Distortion 
+ 28.42 Vocoder 28.42.1 Vocoder Tips 
+ 29. Live MIDI Effect Reference 29.1 Arpeggiator 
+ 29.2 CC Control 
+ 29.3 Chord 
+ 29.4 Note Length 
+ 29.5 Pitch 
+ 29.6 Random 
+ 29.7 Scale 
+ 29.8 Velocity 
+ 30. Live Instrument Reference 30.1 Analog 30.1.1 Architecture and Interface 
+ 30.1.2 Oscillators 
+ 30.1.3 Noise Generator 
+ 30.1.4 Filters 
+ 30.1.5 Amplifiers 
+ 30.1.6 Envelopes 
+ 30.1.7 LFOs 
+ 30.1.8 Global Parameters 
+ 30.1.9 MPE Sources 
+ 30.2 Collision 30.2.1 Architecture and Interface 
+ 30.2.2 Mallet Section 
+ 30.2.3 Noise Section 
+ 30.2.4 Resonator Tabs 
+ 30.2.5 LFO Tab 
+ 30.2.6 MIDI/MPE Tab 
+ 30.2.7 Sound Design Tips 
+ 30.3 Drift 30.3.1 Subtractive Synthesis 
+ 30.3.2 Oscillator Section 
+ 30.3.3 Filter Section 
+ 30.3.4 Envelopes Section 
+ 30.3.5 LFO Section 
+ 30.3.6 Mod Section 
+ 30.3.7 Global Section 
+ 30.4 Drum Sampler 30.4.1 Sample Controls Section 
+ 30.4.2 Playback Effects Section 
+ 30.4.3 Filter Section 
+ 30.4.4 Global Section 
+ 30.4.5 Context Menu Options for Drum Sampler 
+ 30.5 Electric 30.5.1 Architecture and Interface 
+ 30.5.2 Hammer Section 
+ 30.5.3 Fork Section 
+ 30.5.4 Damper/Pickup Section 
+ 30.5.5 Global Section 
+ 30.6 External Instrument 
+ 30.7 Impulse 30.7.1 Sample Slots 
+ 30.7.2 Start, Transpose and Stretch 
+ 30.7.3 Filter 
+ 30.7.4 Saturator and Envelope 
+ 30.7.5 Pan and Volume 
+ 30.7.6 Global Controls 
+ 30.7.7 Individual Outputs 
+ 30.8 Meld 30.8.1 General Overview 
+ 30.8.2 Oscillators 
+ 30.8.3 Oscillator Macros 
+ 30.8.4 Envelopes Tab 
+ 30.8.5 LFOs Tab 
+ 30.8.6 Matrix Tab 
+ 30.8.7 MIDI and MPE Tabs 
+ 30.8.8 Settings Tab 
+ 30.8.9 Filters 
+ 30.8.10 Mix Section 
+ 30.8.11 Global Controls 
+ 30.9 Operator 30.9.1 General Overview 
+ 30.9.2 Oscillator Section 
+ 30.9.3 LFO Section 
+ 30.9.4 Envelopes 
+ 30.9.5 Filter Section 
+ 30.9.6 Global Controls 
+ 30.9.7 Glide and Spread 
+ 30.9.8 Strategies for Saving CPU Power 
+ 30.9.9 Finally… 
+ 30.9.10 The Complete Parameter List 
+ 30.10 Sampler 30.10.1 Getting Started with Sampler 
+ 30.10.2 Multisampling 
+ 30.10.3 Title Bar Options 
+ 30.10.4 Sampler’s Tabs 
+ 30.10.5 The Zone Tab 
+ 30.10.6 The Sample Tab 
+ 30.10.7 The Pitch/Osc Tab 
+ 30.10.8 The Filter/Global Tab 
+ 30.10.9 The Modulation Tab 
+ 30.10.10 The MIDI Tab 
+ 30.10.11 Importing Third-Party Multisamples 
+ 30.11 Simpler 30.11.1 Playback Modes 
+ 30.11.2 Warp Controls 
+ 30.11.3 Filter 
+ 30.11.4 Envelopes 
+ 30.11.5 LFO 
+ 30.11.6 Global Parameters 
+ 30.11.7 Context Menu Options for Simpler 
+ 30.11.8 Strategies for Saving CPU Power 
+ 30.12 Tension 30.12.1 Architecture and Interface 
+ 30.12.2 String Tab 
+ 30.12.3 Filter/Global Tab 
+ 30.12.4 Sound Design Tips 
+ 30.13 Wavetable 30.13.1 Wavetable Synthesis 
+ 30.13.2 Oscillators 
+ 30.13.3 Sub Oscillator 
+ 30.13.4 Filters 
+ 30.13.5 Matrix Tab 
+ 30.13.6 Mod Sources Tab 
+ 30.13.7 MIDI Tab 
+ 30.13.8 Global and Unison Controls 
+ 30.13.9 Hi-Quality Mode 
+ 31. Max for Live 31.1 Setting Up Max for Live 
+ 31.2 Using Max for Live Devices 
+ 31.3 Editing Max for Live Devices 
+ 31.4 Building Max for Live MIDI Tools 
+ 31.5 Max Dependencies 
+ 31.6 Learning Max Programming 
+ 32. Max for Live Devices 32.1 Max for Live Instruments 32.1.1 DS Clang 
+ 32.1.2 DS Clap 
+ 32.1.3 DS Cymbal 
+ 32.1.4 DS FM 
+ 32.1.5 DS HH 
+ 32.1.6 DS Kick 
+ 32.1.7 DS Snare 
+ 32.1.8 DS Tom 
+ 32.2 Max for Live Audio Effects 32.2.1 Align Delay 
+ 32.2.2 Envelope Follower 
+ 32.2.3 LFO 
+ 32.2.4 Shaper 
+ 32.3 Max for Live MIDI Effects 32.3.1 Envelope MIDI 
+ 32.3.2 Expression Control 
+ 32.3.3 MIDI Monitor 
+ 32.3.4 MPE Control 
+ 32.3.5 Note Echo 
+ 32.3.6 Shaper MIDI 
+ 33. MIDI and Key Remote Control 33.1 MIDI Remote Control 33.1.1 Natively Supported Control Surfaces 
+ 33.1.2 Manual Control Surface Setup 
+ 33.1.3 Takeover Mode 
+ 33.2 The Mapping Browser 33.2.1 Assigning MIDI Remote Control 
+ 33.2.2 Mapping to MIDI Notes 
+ 33.2.3 Mapping to Absolute MIDI Controllers 
+ 33.2.4 Mapping to Relative MIDI Controllers 
+ 33.2.5 Computer Keyboard Remote Control 
+ 34. Using Push 1 34.1 Setup 
+ 34.2 Browsing and Loading Sounds 
+ 34.3 Playing and Programming Beats 34.3.1 Loop Selector 
+ 34.3.2 16 Velocities Mode 
+ 34.3.3 64-Pad Mode 
+ 34.3.4 Loading Individual Drums 
+ 34.3.5 Step Sequencing Beats 
+ 34.3.6 Real-time Recording 
+ 34.3.7 Fixed Length Recording 
+ 34.4 Additional Recording Options 34.4.1 Recording with Repeat 
+ 34.4.2 Quantizing 
+ 34.5 Playing Melodies and Harmonies 34.5.1 Playing in Other Keys 
+ 34.6 Step Sequencing Melodies and Harmonies 34.6.1 Adjusting the Loop Length 
+ 34.7 Melodic Sequencer + 32 Notes 34.7.1 32 Notes 
+ 34.7.2 Sequencer 
+ 34.8 Navigating in Note Mode 
+ 34.9 Controlling Live’s Instruments and Effects 
+ 34.10 Mixing with Push 1 
+ 34.11 Recording Automation 
+ 34.12 Step Sequencing Automation 34.12.1 Note-Specific Parameters 
+ 34.12.2 Per-Step Automation 
+ 34.13 Controlling Live’s Session View 34.13.1 Session Overview 
+ 34.14 Setting User Preferences 
+ 34.15 Push 1 Control Reference 
+ 35. Using Push 2 35.1 Setup 
+ 35.2 Browsing and Loading Sounds 
+ 35.3 Playing and Programming Beats 35.3.1 Loop Selector 
+ 35.3.2 16 Velocities Mode 
+ 35.3.3 64-Pad Mode 
+ 35.3.4 Loading Individual Drums 
+ 35.3.5 Step Sequencing Beats 
+ 35.3.6 Real-time Recording 
+ 35.3.7 Fixed Length Recording 
+ 35.4 Additional Recording Options 35.4.1 Recording with Repeat 
+ 35.4.2 Quantizing 
+ 35.4.3 Arrangement Recording 
+ 35.5 Playing Melodies and Harmonies 35.5.1 Playing in Other Keys 
+ 35.6 Step Sequencing Melodies and Harmonies 35.6.1 Adjusting the Loop Length 
+ 35.7 Melodic Sequencer + 32 Notes 35.7.1 32 Notes 
+ 35.7.2 Sequencer 
+ 35.8 Working with Samples 35.8.1 Classic Playback Mode 
+ 35.8.2 One-Shot Mode 
+ 35.8.3 Slicing Mode 
+ 35.9 Navigating in Note Mode 
+ 35.10 Working With Instruments and Effects 35.10.1 Adding, Deleting, and Reordering Devices 
+ 35.10.2 Working with Racks 
+ 35.11 Track Control And Mixing 35.11.1 Rack and Group Track Mixing 
+ 35.12 Recording Automation 
+ 35.13 Step Sequencing Automation 
+ 35.14 Clip Mode 35.14.1 Using MIDI Tracks in Clip Mode 
+ 35.14.2 Real-Time Playing Layouts 
+ 35.14.3 Sequencing Layouts 
+ 35.14.4 Note-Specific Parameters 
+ 35.15 Controlling Live’s Session View 35.15.1 Session Overview 
+ 35.16 Setup Menu 
+ 35.17 Push 2 Control Reference 
+ 36. Synchronizing with Link, Tempo Follower, and MIDI 36.1 Synchronizing via Link 36.1.1 Setting up Link and Link Audio 
+ 36.1.2 Using Link 
+ 36.1.3 Using Link Audio 
+ 36.2 Synchronizing via Tempo Follower 36.2.1 Setting Up Tempo Follower 
+ 36.3 Synchronizing via MIDI 36.3.1 Synchronizing External MIDI Devices to Live 
+ 36.3.2 Synchronizing Live to External MIDI Devices 
+ 36.3.3 Sync Delay 
+ 37. Computer Audio Resources and Strategies 37.1 Managing the CPU Load 37.1.1 The CPU Load Meter 
+ 37.1.2 CPU Load from Multichannel Audio 
+ 37.1.3 CPU Load from Tracks and Devices 
+ 37.1.4 Track Freeze 
+ 37.2 Managing the Disk Load 
+ 38. Audio Fact Sheet 38.1 Testing and Methodology 
+ 38.2 Neutral Operations 38.2.1 Undithered Rendering 
+ 38.2.2 Matching Sample Rate/No Transposition 
+ 38.2.3 Unstretched Beats/Tones/Texture/Re-Pitch Warping 
+ 38.2.4 Summing at Single Mix Points 
+ 38.2.5 Recording External Signals (Bit Depth >/= A/D Converter) 
+ 38.2.6 Recording Internal Sources at 32 Bit 
+ 38.2.7 Freezing Tracks 
+ 38.2.8 Bypassed Effects 
+ 38.2.9 Routing 
+ 38.2.10 Splitting Clips 
+ 38.3 Non-Neutral Operations 38.3.1 Playback in Complex and Complex Pro Mode 
+ 38.3.2 Sample Rate Conversion/Transposition 
+ 38.3.3 Volume Automation 
+ 38.3.4 Dithering 
+ 38.3.5 Recording External Signals (Bit Depth < A/D Converter) 
+ 38.3.6 Recording Internal Sources Below 32 Bit 
+ 38.3.7 Consolidate 
+ 38.3.8 Clip Fades 
+ 38.3.9 Panning 
+ 38.3.10 Grooves 
+ 38.4 Tips for Achieving Optimal Sound Quality in Live 
+ 38.5 Conclusion 
+ 39. MIDI Fact Sheet 39.1 Ideal MIDI Behavior 
+ 39.2 MIDI Timing Problems 
+ 39.3 Live’s MIDI Solutions 
+ 39.4 Variables Outside of Live’s Control 
+ 39.5 Tips for Achieving Optimal MIDI Performance 
+ 39.6 Summary and Conclusions 
+ 40. Accessibility and Keyboard Navigation 40.1 Menu and Keyboard Navigation Settings 40.1.1 Using Tab for Navigation 
+ 40.1.2 Settings Menu 
+ 40.1.3 Options Menu 
+ 40.1.4 Speak Help Text 
+ 40.2 Audio Setup 
+ 40.3 Connecting MIDI Devices 
+ 40.4 Navigating in Live 40.4.1 Navigate Menu 
+ 40.5 Editing Automation and Modulation Envelopes 40.5.1 Navigating Between Breakpoints 
+ 40.5.2 Selecting and Editing Breakpoints 
+ 40.5.3 Switching Between Automation Envelopes in Arrangement View 
+ 41. Live Keyboard Shortcuts 41.1 Showing and Hiding Views 
+ 41.2 Keyboard Focus and Navigation 
+ 41.3 Working with Sets and the Program 
+ 41.4 Working with Devices and Plug-Ins 
+ 41.5 Editing 
+ 41.6 Adjusting Values 
+ 41.7 Commands for Breakpoint Envelopes 
+ 41.8 Loop Brace and Start/End Markers 
+ 41.9 Zooming, Display and Selections 
+ 41.10 Clip View Editor View Modes 
+ 41.11 Clip View Sample Editor 
+ 41.12 Clip View MIDI Note Editor 
+ 41.13 Grid Snapping and Drawing 
+ 41.14 Global Quantization 
+ 41.15 Session View 
+ 41.16 Arrangement View 
+ 41.17 Comping 
+ 41.18 Bounce to Audio 
+ 41.19 Commands for Tracks 
+ 41.20 Transport 
+ 41.21 Audio Engine 
+ 41.22 Browser 
+ 41.23 Similar Sample Swapping 
+ 41.24 Key/MIDI Map Mode and the Computer MIDI Keyboard 
+ 41.25 Momentary Latching Shortcuts 
+ 41.26 General Keyboard Navigation and Workflow 41.26.1 Using Tab for Navigation 
+ 41.26.2 Navigating Between Controls in the Settings Menu 
+ 41.27 Editing Automation and Modulation Envelopes with the Keyboard 
+ 41.28 Accessing Menus 
+ 41.29 Using Live’s Context Menu 
+ 42. Credits 
+ Sign up to our newsletter 
+ Enter your email address to stay up to date with the latest offers, tutorials, downloads, surveys and more.
+ Register Live, Push or Move 
+ About Ableton 
+ Jobs 
+ Education
+ Offers for students and teachers 
+ Ableton for the Classroom 
+ Ableton for Colleges and Universities 
+ Community
+ Find Ableton User Groups 
+ Find Certified Training 
+ Become a Certified Trainer 
+ Language and Location
+ Language English Deutsch Français 日本語 简体中文 Español 
+ Country or Region Please choose United States United Kingdom France Germany Canada Japan China Australia Afghanistan Aland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua And Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia And Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, The Democratic Republic Of The Cook Islands Costa Rica Cote D'Ivoire Croatia Cuba Curacao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island And McDonald Islands Honduras Hong Kong SAR, China Hungary Iceland India Indonesia Iran (Islamic Republic Of) Iraq Ireland Isle Of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic Korea, Republic Of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao SAR, China Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States Of Moldova, Republic Of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia, Republic of Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Russian Federation Rwanda Saint Helena Saint Kitts And Nevis Saint Lucia Saint Martin (French Part) Saint Pierre And Miquelon Saint Vincent And The Grenadines Samoa San Marino Sao Tome And Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia And The South Sandwich Islands South Sudan Spain Canary Islands (Spain) Sri Lanka Sudan Suriname Svalbard And Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan Tajikistan Tanzania, United Republic Of Territory of the French Southern and Antarctic Lands Thailand Timor-Leste Togo Tokelau Tonga Trinidad And Tobago Tunisia Turkey Turkmenistan Turks And Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Vatican City State (Holy See) Venezuela Viet Nam Virgin Islands (British) Virgin Islands (U.S.) Wallis And Futuna Western Sahara Yemen Zambia Zimbabwe 
+ Contact Us Press Resources Legal Info Corporate Information Privacy Policy Cookie Settings Imprint Withdraw from Contract 
+ Made in Berlin

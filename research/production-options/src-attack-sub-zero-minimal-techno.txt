@@ -1,0 +1,150 @@
+URL: https://www.attackmagazine.com/technique/beat-dissected/sub-zero-minimal-techno/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 133081
+----
+Attack Magazine
+Menu
+	•	News
+	•	Technique Technique
+	◦	All
+	◦	Hardware Focus
+	◦	Modular Synthesis
+	◦	Tutorials
+	◦	Beat Dissected
+	◦	Synth Secrets
+	◦	Deconstructed
+	◦	Passing Notes
+	◦	The Breakdown
+	◦	Video Tutorials
+	◦	Help
+	•	←  
+	•	Features Features
+	◦	All
+	◦	Long Reads
+	◦	Podcasts
+	◦	Interviews
+	◦	My Studio
+	◦	Track By Track
+	◦	Show & Tell
+	◦	Top Tracks
+	◦	Q&A
+	◦	Columns
+	◦	Job Envy
+	◦	Introducing...
+	◦	Quizzes
+	•	←  
+	•	Reviews Reviews
+	◦	All
+	◦	The Best...
+	◦	Gear/Software
+	◦	Books/DVDs
+	•	←  
+	•	Charts
+	•	Store
+Facebook X YouTube Instagram TikTok
+Facebook X YouTube Instagram TikTok
+SUBSCRIBE
+Search
+
+
+
+Technique » Beat Dissected »
+Sub-Zero Minimal Techno
+Share
+Facebook Twitter WhatsApp
+
+Our in-house beatsmith turns his attentions to a raw, stripped-down techno groove with painstakingly processed percussion.
+Beat Dissected is a regular series in which we deconstruct drum patterns, showing you how to recreate them in any DAW. Just copy our grid in your own software to recreate the loop.
+Here’s the beat we’re building today:
+http://www.attackmagazine.com/wp-content/uploads/2013/02/step_5_full.mp3
+To download the samples for this beat, click here. The samples are provided on a completely royalty-free basis. They may not be sold or given away, either in whole or in part.
+You must register for a free Attack account and sign up to receive our newsletter in order to download the samples. New members can register here. Existing members can log in here.
+Spec
+Tempo
+125-130
+Swing
+55-70%
+Sounds
+Heavily processed drum machine samples
+Step 1
+Start the beat by laying down a kick drum playing a simple four-to-the-floor pattern.
+Choose a sound that has a strong transient and a club-friendly, subby low end. We’re looking for something really weighty here.
+You’ll notice our sound also has a nice gritty bite to it – we’ve routed the signal to a parallel bus and then added a tape saturation plugin driven fairly hard to bestow some girth and clout to the sound. Blend the saturated channel back in with the original until you find the right level of grime.
+
+http://www.attackmagazine.com/wp-content/uploads/2013/02/Step_1.mp3
+
+Step 2
+In many ways the hats in this beat are the defining elements. The sound is layered from two individual samples – Hat 1 has a loose, brushy sound which sounds almost like a shaker; Hat 2 is a tight, snappy and more classic sample. Layering the two gives a pleasingly fat result with a rampant attack and a rounded decay.
+Hat 2 plays straight off-beats. Hat 1 also supplies an additional ghost hit at a lower velocity on the eighth division of each bar. You can start experimenting with swing at this stage. Higher swing levels will add a jacking feel to the groove.
+
+http://www.attackmagazine.com/wp-content/uploads/2013/02/Step_2.mp3
+
+Step 3
+Snare time. We’ve used an 808 snare sample run through a compressor (to tighten it up) and tape saturator (to give it some body), which sounds on the 2nd and 4th beat of each bar. An additional ghost snare hits immediately before each new bar to drive things forward. The level of 16th note swing you apply will affect the timing of this ghost snare.
+It’s worth spending some time auditioning different snare sounds; with simple beats like this one you can change the entire feel of the loop just by swapping one sample for another.
+
+http://www.attackmagazine.com/wp-content/uploads/2013/02/Step_3.mp3
+
+Step 4
+A quirky, snappy percussive hit is introduced to make things a little more complex. Rimshot samples are a good place to start. Editing the sample’s attack and decay times can deliver very different results. We’ve chosen to leave our hit pretty tight, but you can keep the beat interesting by automating the envelope parameters over time, or even introducing two instances of the same sample with slightly different envelope settings to add variation. You may also want to add a subtle halo of reverb to the hit to bring it to life (subtle room ambience can work well, but not anything too extreme).
+
+http://www.attackmagazine.com/wp-content/uploads/2013/02/Step_4.mp3
+
+Step 5
+The final step is about polish, detail and variation as much as anything else, and is not essential. First up, we’ve added a breathy pitched vocal stab towards the end of the loop (you could use this one at the end of an 8/16-bar section).
+Secondly, we’ve inserted a short reversed cymbal, buried quite low in the mix. Both elements provide a useful optional variation to keep the arrangement interesting. You may want to introduce these sounds at specific points in the track, muting them at others.
+
+http://www.attackmagazine.com/wp-content/uploads/2013/02/step_5_full1.mp3
+Related
+20th February, 2013
+Previous
+Beat Dissected - 90s Jersey House
+Next
+Beat Dissected - Dirty Indie-Dance
+Comments
+	•	 24.06.13
+	•	09.05 PM Buzzbrain: Thanks for laying down some minimal flow. These ideas are great to get some tracks moving along!  Report 
+	•	 11.07.13
+	•	05.48 PM Ed: Great! Thank you.  Report 
+	•	 06.08.13
+	•	11.29 PM Lettuce: thanks for this…  Report 
+	•	 11.08.13
+	•	04.12 PM Chris: Very helpful. Thank you!  Report 
+	•	 20.12.13
+	•	06.38 AM Aaron: This is great.  Report 
+	•	 08.07.15
+	•	10.02 PM Sergio: Thanks!!!!  Report 
+	•	 05.01.17
+	•	03.03 AM miscend: Are these Bodzin like drum patterns?  Report 
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+Comment *
+Name *
+Email *
+
+
+
+© 2026 Attack Magazine
+	•	About us
+	•	Jobs
+	•	Shipping
+	•	Contact
+	•	Privacy
+	•	Advertise
+	•	Write for Attack
+Facebook X YouTube Instagram TikTok
+
+	•	
+
+A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+
+
+
+
+
+You currently have an ad blocker installed
+Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software.
+Find out how
+x

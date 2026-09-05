@@ -1,0 +1,14 @@
+URL: https://huggingface.co/stabilityai/stable-audio-open-small
+Fetched: 2026-09-02
+Method: WebFetch (model card page; the /raw/main/README.md endpoint is gated and returns "Access to model stabilityai/stable-audio-open-small is restricted")
+----
+VERBATIM EXTRACTS FROM MODEL CARD:
+
+Max audio length: "variable-length (up to 11s) stereo audio at 44.1kHz"
+Sample rate: 44.1 kHz
+Parameter count: "0.5B params"
+License: Stability AI Community License
+Commercial use clause: "For commercial use, please refer to https://stability.ai/license"
+On-device: model card references an Arm Learning Path guide for optimising the model "for maximum performance on Arm CPUs" / mobile deployment.
+
+NOTE: no stem-output statement on the card. No Apple-Silicon/MLX claim on the card itself.

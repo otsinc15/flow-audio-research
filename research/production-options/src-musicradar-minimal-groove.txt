@@ -1,0 +1,258 @@
+URL: https://www.musicradar.com/how-to/how-to-create-a-minimal-drum-groove-in-your-daw
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 1081562
+----
+Skip to main content
+
+MusicRadar
+THE NO.1 WEBSITE FOR MUSICIANS
+
+
+
+
+
+
+
+
+Search
+
+	•	
+	•	Artist news 
+	•	Guitars 
+	•	Controllers 
+	•	Drums 
+	•	Keyboards & Pianos 
+	•	Guitar Amps 
+	•	Music Gear Reviews 
+	•	Synths 
+	•	Software & Apps 
+	•	More 
+
+
+MORE
+	•	Christine McVie's masterpiece
+	•	Macca vs Phil Collins
+	•	Music theory tricks
+	•	Kiss From a Rose
+	•	95k+ free music samples
+	•	Yes
+
+
+	1	Tutorials Music Production Tutorials
+How to create a minimal drum groove in your DAW
+Tuition
+By Future Music
+
+Published 20 July 2020
+Let’s use samples to build a classic minimal house-style drum pattern
+
+Share
+Share this article
+Join the conversation
+Add us as a preferred source on Google
+
+Newsletter
+Subscribe to our newsletter
+
+Here's how to create a minimal house groove with samples and a few stock effects.
+
+
+(Image credit: Future)
+Step 1: Our minimal beat starts with a 4x4 groove at 122bpm. We use a selection of sampled drums – minimal staples of a 909 snare and closed hi-hat, with FM kick and clap sounds from the Elektron Digitone. We program kicks on each beat, hi-hats on off-beats and a clap and snare hit on two and four.
+
+(Image credit: Future)
+Step 2: We’ve compressed, EQed and added a little reverb to each sound before loading them into our Drum Rack, so they’re mostly good to go. We use Ableton Simpler’s ADSR amp envelope to tame each sound a little for that tight, punchy minimal sound we’re after. We filter the kick, snare and clap to stop their frequencies overlapping too much.
+
+(Image credit: Future)
+Step 3:To make the beat sound less straight, we nudge the snare and clap off the grid a little and play around with their velocities. We’ve also added a subtle reverb to the closed hat that gives the top end shimmer and space.
+
+
+(Image credit: Future)
+Step 4: Now to add a little interest. We create a second Drum Rack and add a selection of percussive found sounds – knocks, clunks, and fizzy noises. We program these to add groove around our straight hi-hats.
+YOU MAY LIKE
+	•	
+	•	 6 steps for perfectly capturing a real drum performance in your DAW
+	•	
+	•	 How to replicate the sample-based sonics of a gnarly Prodigy classic
+	•	
+	•	 SampleRadar: 493 free hardware drum machine samples
+
+(Image credit: Future)
+Step 5: We want these found sounds to sit back in the mix but also have a little movement. To achieve that, we process the drum rack with a small amount of reverb, subtle dotted eighth note delay and an automated band-pass filter modulated by a slow LFO.
+
+(Image credit: Future)
+Step 6: Finally we create another Drum Rack containing two percussive white noise hits. We create a sparse sequence, three bars long, which will result in slightly unusual phrasing. A modulated stereo delay turns this into more of an FX sound. We turn down both our noise and found sound kits so they sit back in the mix. 
+Get the MusicRadar Newsletter
+Want all the hottest music and gear news, reviews, deals, features and more, direct to your inbox? Sign up here.
+
+
+Contact me with news and offers from other Future brands
+
+Receive email from us on behalf of our trusted partners or sponsors
+
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+
+
+
+
+
+Future Music
+
+Future Music is the number one magazine for today's producers. Packed with technique and technology we'll help you make great new music. All-access artist interviews, in-depth gear reviews, essential production tutorials and much more. Every marvellous monthly edition features reliable reviews of the latest and greatest hardware and software technology and techniques, unparalleled advice, in-depth interviews, sensational free samples and so much more to improve the experience and outcome of your music-making.
+
+READ MORE
+
+Drums
+6 steps for perfectly capturing a real drum performance in your DAW
+
+
+ 
+ 
+
+Artists
+How to replicate the sample-based sonics of a gnarly Prodigy classic
+
+
+ 
+ 
+
+Samples
+SampleRadar: 493 free hardware drum machine samples
+
+
+ 
+ 
+
+Drum Machines
+The best plugins for re-creating the grit and punch of classic analogue drum machines
+
+
+ 
+ 
+
+Drum Machines
+Want crispy, retro digital drum machine sounds? Here’s our top picks of the plugin options that emulate the pioneering classics
+
+
+ 
+ 
+
+Tech
+Exploring how Harry Styles brought the sounds of minimal techno to pop with Aperture
+
+
+ 
+ 
+LATEST IN MUSIC PRODUCTION TUTORIALS
+
+Music Production Tutorials
+How to use a mixing console
+
+
+ 
+ 
+
+Artists
+How to replicate Charli XCX’s sonic characteristics
+
+
+ 
+ 
+
+Artists
+How to re-create Drake’s smooth Burning Bridges sound using plugins
+
+
+ 
+ 
+
+Artists
+How to get Radiohead’s resonant National Anthem vocal effect in software
+
+
+ 
+ 
+
+Music Production Tutorials
+Build your own expressive talkbox with plugins
+
+
+ 
+ 
+
+Artists
+How to recreate the ’90s-channelling energy of a PinkPantheress banger
+
+
+ 
+ 
+LATEST IN TUITION
+
+Music Theory And Songwriting
+10 music theory tricks every producer and songwriter should know
+
+
+ 
+ 
+
+Keyboards & Pianos
+Here's everything you need to know about keyboard sizes but were afraid to ask
+
+
+ 
+ 
+
+Music Production Tutorials
+How to use a mixing console
+
+
+ 
+ 
+
+Artists
+How to get Radiohead’s resonant National Anthem vocal effect in software
+
+
+ 
+ 
+
+Music Production Tutorials
+Build your own expressive talkbox with plugins
+
+
+ 
+ 
+
+Artists
+How to emulate one of Jon Hopkins' signature sonic techniques with plugins
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+MusicRadar is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+
+Add as a preferred source on Google
+	•	About Us
+	•	Contact Future's experts
+	•	Terms and conditions
+	•	Privacy policy
+	•	Cookies policy
+	•	Advertise with us
+	•	Accessibility Statement
+	•	Careers
+© Future Publishing Limited Quay House, The Ambury, Bath BA1 1UA. All rights reserved. England and Wales company registration number 2008885.
+
+

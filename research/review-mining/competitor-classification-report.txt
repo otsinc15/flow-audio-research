@@ -1,0 +1,444 @@
+
+========================================================================
+Focus@Will: n=463  (429 US / 34 DE)  2013-05-24 -> 2026-07-02
+  negative(1-3*)=218 (47.1%)  positive(4-5*)=245 (52.9%)
+    US: n= 429  2013-05-24 -> 2026-07-02  neg=196 (45.7%)  mean 3.36*
+    DE: n=  34  2013-11-11 -> 2025-08-23  neg=22 (64.7%)  mean 2.74*
+  mean rating = 3.32
+  -- COMPLAINTS (primary, among negatives) --
+    UX / app bugs / reliability                                     100  US  89 DE  11  avg 1.7*  mentionAll  138 (29.8%)
+    Other (uncategorized)                                            17  US  14 DE   3  avg 1.5*  mentionAll    0 ( 0.0%)
+    Price / value / paywall                                          13  US  11 DE   2  avg 1.4*  mentionAll   58 (12.5%)
+    Account / login / restore                                        12  US  12 DE   0  avg 1.3*  mentionAll   38 ( 8.2%)
+    Billing / unauthorized charges / refund anger                    12  US  12 DE   0  avg 1.2*  mentionAll   12 ( 2.6%)
+    Cancellation difficulty                                          10  US  10 DE   0  avg 1.3*  mentionAll   18 ( 3.9%)
+    Feature removed / update regression                               7  US   7 DE   0  avg 1.9*  mentionAll   10 ( 2.2%)
+    Abandonware / not updated / no new-device support                 7  US   6 DE   1  avg 1.9*  mentionAll    9 ( 1.9%)
+    Repetitiveness / lack of variety                                  6  US   3 DE   3  avg 2.5*  mentionAll   18 ( 3.9%)
+    No offline / streaming-only                                       5  US   5 DE   0  avg 2.2*  mentionAll   12 ( 2.6%)
+    Sound quality / unpleasant sounds                                 4  US   4 DE   0  avg 1.5*  mentionAll   20 ( 4.3%)
+    Paywall on launch / too little free content / "not free"          4  US   4 DE   0  avg 1.0*  mentionAll    5 ( 1.1%)
+    Misleading advertising                                            3  US   3 DE   0  avg 1.7*  mentionAll    6 ( 1.3%)
+    Battery / data drain                                              3  US   2 DE   1  avg 1.0*  mentionAll    4 ( 0.9%)
+    "Doesn't work / no effect"                                        3  US   3 DE   0  avg 2.3*  mentionAll   18 ( 3.9%)
+    Subscription model resented (was one-time / went subscription)    3  US   3 DE   0  avg 1.0*  mentionAll    3 ( 0.6%)
+    Missing platform / device support (Mac, watch, iPad, CarPlay…)    2  US   2 DE   0  avg 3.0*  mentionAll   35 ( 7.6%)
+    Free alternatives exist (YouTube / free apps)                     2  US   2 DE   0  avg 3.0*  mentionAll    2 ( 0.4%)
+    Customer support                                                  2  US   2 DE   0  avg 2.0*  mentionAll   15 ( 3.2%)
+    AI-generated music distaste ("soulless")                          1  US   1 DE   0  avg 2.0*  mentionAll    1 ( 0.2%)
+    Audible loops / short loops / audio artifacts                     1  US   1 DE   0  avg 2.0*  mentionAll    2 ( 0.4%)
+    Confusing / hard to figure out (onboarding, navigation)           1  US   0 DE   1  avg 1.0*  mentionAll    2 ( 0.4%)
+  -- PRAISE (mention-level among 245 positives) --
+    effect: focus / productivity                      176   71.8% of pos   US 170 DE   6
+    longevity / daily habit                            41   16.7% of pos   US  40 DE   1
+    price / value for money                            27   11.0% of pos   US  26 DE   1
+    effect: ADHD / neurodivergent                      22    9.0% of pos   US  22 DE   0
+    effect: anxiety / calm                             21    8.6% of pos   US  20 DE   1
+    design / UI / aesthetics                           18    7.3% of pos   US  17 DE   1
+    variety / catalog size                             17    6.9% of pos   US  16 DE   1
+    science framing                                    16    6.5% of pos   US  16 DE   0
+    one-time purchase / no subscription                11    4.5% of pos   US  11 DE   0
+    control / customization                             9    3.7% of pos   US   9 DE   0
+    integration (watch / home / desktop / shortcuts)    7    2.9% of pos   US   7 DE   0
+    offline / privacy / no account                      6    2.4% of pos   US   5 DE   1
+    effect: sleep                                       4    1.6% of pos   US   4 DE   0
+    sound quality / character                           4    1.6% of pos   US   4 DE   0
+    effect: tinnitus / noise masking                    4    1.6% of pos   US   4 DE   0
+    honesty / fair treatment / respects the user        2    0.8% of pos   US   2 DE   0
+  -- LONGEVITY co-occurrence (41 positive reviews use longevity language) --
+    control / customization                             1    2.4% of longevity reviews
+    design / UI / aesthetics                            7   17.1% of longevity reviews
+    effect: ADHD / neurodivergent                       4    9.8% of longevity reviews
+    effect: anxiety / calm                              3    7.3% of longevity reviews
+    effect: focus / productivity                       33   80.5% of longevity reviews
+    effect: sleep                                       1    2.4% of longevity reviews
+    honesty / fair treatment / respects the user        1    2.4% of longevity reviews
+    integration (watch / home / desktop / shortcuts)    3    7.3% of longevity reviews
+    offline / privacy / no account                      1    2.4% of longevity reviews
+    one-time purchase / no subscription                 1    2.4% of longevity reviews
+    price / value for money                             4    9.8% of longevity reviews
+    science framing                                     1    2.4% of longevity reviews
+    sound quality / character                           1    2.4% of longevity reviews
+    variety / catalog size                              4    9.8% of longevity reviews
+
+========================================================================
+myNoise: n=146  (127 US / 19 DE)  2024-11-01 -> 2026-08-28
+  negative(1-3*)=37 (25.3%)  positive(4-5*)=109 (74.7%)
+    US: n= 127  2024-11-01 -> 2026-08-28  neg=34 (26.8%)  mean 4.13*
+    DE: n=  19  2024-11-09 -> 2026-08-24  neg=3 (15.8%)  mean 4.32*
+  mean rating = 4.16
+  -- COMPLAINTS (primary, among negatives) --
+    UX / app bugs / reliability                                      20  US  19 DE   1  avg 2.2*  mentionAll   34 (23.3%)
+    Other (uncategorized)                                             5  US   5 DE   0  avg 2.6*  mentionAll    0 ( 0.0%)
+    Feature removed / update regression                               3  US   3 DE   0  avg 1.7*  mentionAll    8 ( 5.5%)
+    Price / value / paywall                                           2  US   1 DE   1  avg 1.0*  mentionAll   15 (10.3%)
+    Paywall on launch / too little free content / "not free"          2  US   1 DE   1  avg 2.0*  mentionAll    3 ( 2.1%)
+    Billing / unauthorized charges / refund anger                     1  US   1 DE   0  avg 1.0*  mentionAll    1 ( 0.7%)
+    Confusing / hard to figure out (onboarding, navigation)           1  US   1 DE   0  avg 1.0*  mentionAll    2 ( 1.4%)
+    Repetitiveness / lack of variety                                  1  US   1 DE   0  avg 1.0*  mentionAll    4 ( 2.7%)
+    Misleading advertising                                            1  US   1 DE   0  avg 1.0*  mentionAll    1 ( 0.7%)
+    Subscription model resented (was one-time / went subscription)    1  US   1 DE   0  avg 1.0*  mentionAll    2 ( 1.4%)
+  -- PRAISE (mention-level among 109 positives) --
+    effect: sleep                                      30   27.5% of pos   US  29 DE   1
+    control / customization                            29   26.6% of pos   US  26 DE   3
+    longevity / daily habit                            21   19.3% of pos   US  19 DE   2
+    effect: anxiety / calm                             19   17.4% of pos   US  11 DE   8
+    design / UI / aesthetics                           16   14.7% of pos   US  14 DE   2
+    effect: focus / productivity                       13   11.9% of pos   US  11 DE   2
+    effect: tinnitus / noise masking                   12   11.0% of pos   US  12 DE   0
+    one-time purchase / no subscription                11   10.1% of pos   US  10 DE   1
+    variety / catalog size                             10    9.2% of pos   US  10 DE   0
+    price / value for money                             8    7.3% of pos   US   7 DE   1
+    sound quality / character                           8    7.3% of pos   US   6 DE   2
+    honesty / fair treatment / respects the user        7    6.4% of pos   US   7 DE   0
+    integration (watch / home / desktop / shortcuts)    6    5.5% of pos   US   6 DE   0
+    science framing                                     5    4.6% of pos   US   4 DE   1
+    effect: ADHD / neurodivergent                       2    1.8% of pos   US   2 DE   0
+    adaptivity / personalization                        2    1.8% of pos   US   2 DE   0
+    offline / privacy / no account                      1    0.9% of pos   US   1 DE   0
+  -- LONGEVITY co-occurrence (21 positive reviews use longevity language) --
+    adaptivity / personalization                        1    4.8% of longevity reviews
+    control / customization                             8   38.1% of longevity reviews
+    design / UI / aesthetics                            2    9.5% of longevity reviews
+    effect: anxiety / calm                              5   23.8% of longevity reviews
+    effect: focus / productivity                        4   19.0% of longevity reviews
+    effect: sleep                                      10   47.6% of longevity reviews
+    effect: tinnitus / noise masking                    3   14.3% of longevity reviews
+    honesty / fair treatment / respects the user        1    4.8% of longevity reviews
+    integration (watch / home / desktop / shortcuts)    4   19.0% of longevity reviews
+    one-time purchase / no subscription                 2    9.5% of longevity reviews
+    price / value for money                             1    4.8% of longevity reviews
+    sound quality / character                           1    4.8% of longevity reviews
+    variety / catalog size                              4   19.0% of longevity reviews
+
+========================================================================
+Noisli: n=308  (253 US / 55 DE)  2014-05-08 -> 2026-05-23
+  negative(1-3*)=104 (33.8%)  positive(4-5*)=204 (66.2%)
+    US: n= 253  2014-05-08 -> 2026-05-23  neg=80 (31.6%)  mean 3.95*
+    DE: n=  55  2014-05-11 -> 2025-08-05  neg=24 (43.6%)  mean 3.47*
+  mean rating = 3.86
+  -- COMPLAINTS (primary, among negatives) --
+    UX / app bugs / reliability                                      27  US  25 DE   2  avg 2.1*  mentionAll   50 (16.2%)
+    Abandonware / not updated / no new-device support                20  US  12 DE   8  avg 2.2*  mentionAll   25 ( 8.1%)
+    Other (uncategorized)                                            13  US  11 DE   2  avg 2.6*  mentionAll    0 ( 0.0%)
+    Missing platform / device support (Mac, watch, iPad, CarPlay…)    9  US   7 DE   2  avg 2.3*  mentionAll   40 (13.0%)
+    Price / value / paywall                                           6  US   3 DE   3  avg 2.7*  mentionAll   16 ( 5.2%)
+    Repetitiveness / lack of variety                                  5  US   3 DE   2  avg 2.4*  mentionAll   14 ( 4.5%)
+    Missing feature: can't mix sounds / no customization              5  US   5 DE   0  avg 2.4*  mentionAll    9 ( 2.9%)
+    Audible loops / short loops / audio artifacts                     5  US   5 DE   0  avg 2.8*  mentionAll    9 ( 2.9%)
+    Sound quality / unpleasant sounds                                 4  US   0 DE   4  avg 2.5*  mentionAll   13 ( 4.2%)
+    Billing / unauthorized charges / refund anger                     3  US   3 DE   0  avg 1.0*  mentionAll    3 ( 1.0%)
+    "Doesn't work / no effect"                                        2  US   1 DE   1  avg 1.0*  mentionAll    2 ( 0.6%)
+    Free alternatives exist (YouTube / free apps)                     2  US   2 DE   0  avg 1.5*  mentionAll    3 ( 1.0%)
+    Feature removed / update regression                               1  US   1 DE   0  avg 1.0*  mentionAll    1 ( 0.3%)
+    Misleading advertising                                            1  US   1 DE   0  avg 1.0*  mentionAll    2 ( 0.6%)
+    Account / login / restore                                         1  US   1 DE   0  avg 1.0*  mentionAll    8 ( 2.6%)
+  -- PRAISE (mention-level among 204 positives) --
+    effect: sleep                                      49   24.0% of pos   US  45 DE   4
+    design / UI / aesthetics                           41   20.1% of pos   US  35 DE   6
+    effect: anxiety / calm                             40   19.6% of pos   US  32 DE   8
+    control / customization                            32   15.7% of pos   US  30 DE   2
+    longevity / daily habit                            18    8.8% of pos   US  17 DE   1
+    effect: focus / productivity                       18    8.8% of pos   US  17 DE   1
+    effect: tinnitus / noise masking                   14    6.9% of pos   US  13 DE   1
+    integration (watch / home / desktop / shortcuts)   11    5.4% of pos   US  10 DE   1
+    sound quality / character                           9    4.4% of pos   US   8 DE   1
+    price / value for money                             7    3.4% of pos   US   6 DE   1
+    variety / catalog size                              4    2.0% of pos   US   3 DE   1
+    offline / privacy / no account                      4    2.0% of pos   US   2 DE   2
+    honesty / fair treatment / respects the user        3    1.5% of pos   US   3 DE   0
+    adaptivity / personalization                        1    0.5% of pos   US   1 DE   0
+  -- LONGEVITY co-occurrence (18 positive reviews use longevity language) --
+    control / customization                             1    5.6% of longevity reviews
+    design / UI / aesthetics                            2   11.1% of longevity reviews
+    effect: anxiety / calm                              2   11.1% of longevity reviews
+    effect: focus / productivity                        1    5.6% of longevity reviews
+    effect: sleep                                       6   33.3% of longevity reviews
+    effect: tinnitus / noise masking                    3   16.7% of longevity reviews
+    offline / privacy / no account                      1    5.6% of longevity reviews
+    price / value for money                             1    5.6% of longevity reviews
+
+========================================================================
+Portal: n=612  (500 US / 112 DE)  2020-02-07 -> 2026-08-23
+  negative(1-3*)=135 (22.1%)  positive(4-5*)=477 (77.9%)
+    US: n= 500  2021-12-13 -> 2026-08-23  neg=100 (20.0%)  mean 4.33*
+    DE: n= 112  2020-02-07 -> 2026-07-24  neg=35 (31.2%)  mean 3.89*
+  mean rating = 4.25
+  -- COMPLAINTS (primary, among negatives) --
+    Price / value / paywall                                          37  US  26 DE  11  avg 2.2*  mentionAll  119 (19.4%)
+    UX / app bugs / reliability                                      17  US  13 DE   4  avg 2.0*  mentionAll   32 ( 5.2%)
+    Free alternatives exist (YouTube / free apps)                    13  US  12 DE   1  avg 2.0*  mentionAll   16 ( 2.6%)
+    Other (uncategorized)                                            13  US   8 DE   5  avg 1.8*  mentionAll    0 ( 0.0%)
+    Repetitiveness / lack of variety                                 10  US   4 DE   6  avg 2.3*  mentionAll   15 ( 2.5%)
+    Missing platform / device support (Mac, watch, iPad, CarPlay…)    9  US   8 DE   1  avg 2.0*  mentionAll  179 (29.2%)
+    Billing / unauthorized charges / refund anger                     5  US   5 DE   0  avg 1.4*  mentionAll    8 ( 1.3%)
+    Abandonware / not updated / no new-device support                 5  US   4 DE   1  avg 2.0*  mentionAll   12 ( 2.0%)
+    Account / login / restore                                         5  US   3 DE   2  avg 1.8*  mentionAll   17 ( 2.8%)
+    Paywall on launch / too little free content / "not free"          5  US   5 DE   0  avg 1.2*  mentionAll    8 ( 1.3%)
+    Sound quality / unpleasant sounds                                 4  US   3 DE   1  avg 1.8*  mentionAll   28 ( 4.6%)
+    Feature removed / update regression                               3  US   2 DE   1  avg 2.0*  mentionAll    3 ( 0.5%)
+    Confusing / hard to figure out (onboarding, navigation)           2  US   2 DE   0  avg 2.0*  mentionAll    5 ( 0.8%)
+    Subscription model resented (was one-time / went subscription)    2  US   0 DE   2  avg 2.5*  mentionAll    4 ( 0.7%)
+    Missing feature: can't mix sounds / no customization              1  US   1 DE   0  avg 3.0*  mentionAll    4 ( 0.7%)
+    Upsell / ads / nagging in-app                                     1  US   1 DE   0  avg 3.0*  mentionAll   20 ( 3.3%)
+    Battery / data drain                                              1  US   1 DE   0  avg 2.0*  mentionAll    4 ( 0.7%)
+    Cancellation difficulty                                           1  US   1 DE   0  avg 2.0*  mentionAll    7 ( 1.1%)
+    Misleading advertising                                            1  US   1 DE   0  avg 2.0*  mentionAll    2 ( 0.3%)
+  -- PRAISE (mention-level among 477 positives) --
+    design / UI / aesthetics                          155   32.5% of pos   US 124 DE  31
+    effect: anxiety / calm                            128   26.8% of pos   US  99 DE  29
+    effect: focus / productivity                      114   23.9% of pos   US  97 DE  17
+    integration (watch / home / desktop / shortcuts)   79   16.6% of pos   US  63 DE  16
+    effect: sleep                                      78   16.4% of pos   US  73 DE   5
+    longevity / daily habit                            57   11.9% of pos   US  49 DE   8
+    sound quality / character                          48   10.1% of pos   US  42 DE   6
+    price / value for money                            34    7.1% of pos   US  31 DE   3
+    one-time purchase / no subscription                31    6.5% of pos   US  23 DE   8
+    variety / catalog size                             20    4.2% of pos   US  17 DE   3
+    honesty / fair treatment / respects the user       20    4.2% of pos   US  19 DE   1
+    control / customization                            14    2.9% of pos   US  11 DE   3
+    effect: ADHD / neurodivergent                       8    1.7% of pos   US   7 DE   1
+    adaptivity / personalization                        7    1.5% of pos   US   7 DE   0
+    offline / privacy / no account                      5    1.0% of pos   US   4 DE   1
+    effect: tinnitus / noise masking                    3    0.6% of pos   US   3 DE   0
+    science framing                                     2    0.4% of pos   US   2 DE   0
+  -- LONGEVITY co-occurrence (57 positive reviews use longevity language) --
+    adaptivity / personalization                        3    5.3% of longevity reviews
+    control / customization                             2    3.5% of longevity reviews
+    design / UI / aesthetics                           25   43.9% of longevity reviews
+    effect: ADHD / neurodivergent                       1    1.8% of longevity reviews
+    effect: anxiety / calm                             16   28.1% of longevity reviews
+    effect: focus / productivity                       21   36.8% of longevity reviews
+    effect: sleep                                      17   29.8% of longevity reviews
+    honesty / fair treatment / respects the user        5    8.8% of longevity reviews
+    integration (watch / home / desktop / shortcuts)   13   22.8% of longevity reviews
+    offline / privacy / no account                      1    1.8% of longevity reviews
+    one-time purchase / no subscription                 7   12.3% of longevity reviews
+    price / value for money                             5    8.8% of longevity reviews
+    science framing                                     1    1.8% of longevity reviews
+    sound quality / character                           8   14.0% of longevity reviews
+    variety / catalog size                              6   10.5% of longevity reviews
+
+========================================================================
+Mubert: n=164  (141 US / 23 DE)  2017-10-20 -> 2026-06-17
+  negative(1-3*)=78 (47.6%)  positive(4-5*)=86 (52.4%)
+    US: n= 141  2017-10-20 -> 2026-06-17  neg=68 (48.2%)  mean 3.36*
+    DE: n=  23  2018-08-31 -> 2024-05-17  neg=10 (43.5%)  mean 3.48*
+  mean rating = 3.38
+  -- COMPLAINTS (primary, among negatives) --
+    UX / app bugs / reliability                                      17  US  13 DE   4  avg 2.3*  mentionAll   31 (18.9%)
+    Account / login / restore                                        12  US  11 DE   1  avg 1.8*  mentionAll   18 (11.0%)
+    Other (uncategorized)                                            10  US  10 DE   0  avg 1.8*  mentionAll    0 ( 0.0%)
+    Missing platform / device support (Mac, watch, iPad, CarPlay…)    8  US   5 DE   3  avg 2.6*  mentionAll   22 (13.4%)
+    Confusing / hard to figure out (onboarding, navigation)           4  US   4 DE   0  avg 1.5*  mentionAll    5 ( 3.0%)
+    Billing / unauthorized charges / refund anger                     4  US   3 DE   1  avg 1.2*  mentionAll    5 ( 3.0%)
+    Feature removed / update regression                               3  US   3 DE   0  avg 1.3*  mentionAll    5 ( 3.0%)
+    Repetitiveness / lack of variety                                  3  US   3 DE   0  avg 1.7*  mentionAll   10 ( 6.1%)
+    No offline / streaming-only                                       2  US   2 DE   0  avg 2.0*  mentionAll    4 ( 2.4%)
+    Price / value / paywall                                           2  US   1 DE   1  avg 3.0*  mentionAll   12 ( 7.3%)
+    Upsell / ads / nagging in-app                                     2  US   2 DE   0  avg 2.0*  mentionAll    8 ( 4.9%)
+    AI-generated music distaste ("soulless")                          2  US   2 DE   0  avg 2.0*  mentionAll    6 ( 3.7%)
+    Cancellation difficulty                                           2  US   2 DE   0  avg 1.5*  mentionAll    2 ( 1.2%)
+    Subscription model resented (was one-time / went subscription)    2  US   2 DE   0  avg 1.5*  mentionAll    2 ( 1.2%)
+    Paywall on launch / too little free content / "not free"          2  US   2 DE   0  avg 1.0*  mentionAll    3 ( 1.8%)
+    Free alternatives exist (YouTube / free apps)                     1  US   1 DE   0  avg 3.0*  mentionAll    1 ( 0.6%)
+    Misleading advertising                                            1  US   1 DE   0  avg 1.0*  mentionAll    2 ( 1.2%)
+    Battery / data drain                                              1  US   1 DE   0  avg 3.0*  mentionAll    1 ( 0.6%)
+  -- PRAISE (mention-level among 86 positives) --
+    design / UI / aesthetics                           16   18.6% of pos   US  12 DE   4
+    variety / catalog size                             11   12.8% of pos   US  10 DE   1
+    effect: focus / productivity                        9   10.5% of pos   US   9 DE   0
+    integration (watch / home / desktop / shortcuts)    8    9.3% of pos   US   6 DE   2
+    effect: anxiety / calm                              7    8.1% of pos   US   5 DE   2
+    control / customization                             5    5.8% of pos   US   5 DE   0
+    effect: sleep                                       4    4.7% of pos   US   3 DE   1
+    longevity / daily habit                             3    3.5% of pos   US   3 DE   0
+    honesty / fair treatment / respects the user        2    2.3% of pos   US   2 DE   0
+    sound quality / character                           2    2.3% of pos   US   2 DE   0
+    adaptivity / personalization                        2    2.3% of pos   US   2 DE   0
+    offline / privacy / no account                      2    2.3% of pos   US   2 DE   0
+    price / value for money                             1    1.2% of pos   US   1 DE   0
+    effect: tinnitus / noise masking                    1    1.2% of pos   US   0 DE   1
+  -- LONGEVITY co-occurrence (3 positive reviews use longevity language) --
+    effect: focus / productivity                        1   33.3% of longevity reviews
+    effect: sleep                                       1   33.3% of longevity reviews
+    sound quality / character                           1   33.3% of longevity reviews
+    variety / catalog size                              2   66.7% of longevity reviews
+
+========================================================================
+Dark Noise: n=327  (305 US / 22 DE)  2019-08-27 -> 2026-08-23
+  negative(1-3*)=89 (27.2%)  positive(4-5*)=238 (72.8%)
+    US: n= 305  2019-08-27 -> 2026-08-23  neg=76 (24.9%)  mean 4.10*
+    DE: n=  22  2019-09-05 -> 2026-04-28  neg=13 (59.1%)  mean 2.95*
+  mean rating = 4.02
+  -- COMPLAINTS (primary, among negatives) --
+    Other (uncategorized)                                            11  US  10 DE   1  avg 1.5*  mentionAll    0 ( 0.0%)
+    Sound quality / unpleasant sounds                                11  US   8 DE   3  avg 2.1*  mentionAll   27 ( 8.3%)
+    Price / value / paywall                                          10  US   8 DE   2  avg 1.6*  mentionAll   36 (11.0%)
+    Paywall on launch / too little free content / "not free"          9  US   8 DE   1  avg 1.0*  mentionAll    9 ( 2.8%)
+    UX / app bugs / reliability                                       8  US   8 DE   0  avg 1.5*  mentionAll   19 ( 5.8%)
+    Billing / unauthorized charges / refund anger                     5  US   4 DE   1  avg 1.8*  mentionAll    7 ( 2.1%)
+    Repetitiveness / lack of variety                                  5  US   5 DE   0  avg 1.6*  mentionAll   13 ( 4.0%)
+    Upsell / ads / nagging in-app                                     4  US   4 DE   0  avg 2.0*  mentionAll   12 ( 3.7%)
+    Subscription model resented (was one-time / went subscription)    4  US   2 DE   2  avg 1.0*  mentionAll    4 ( 1.2%)
+    Audible loops / short loops / audio artifacts                     4  US   3 DE   1  avg 2.5*  mentionAll    7 ( 2.1%)
+    Missing feature: can't mix sounds / no customization              4  US   4 DE   0  avg 2.5*  mentionAll    8 ( 2.4%)
+    Missing platform / device support (Mac, watch, iPad, CarPlay…)    3  US   3 DE   0  avg 2.7*  mentionAll   50 (15.3%)
+    "Doesn't work / no effect"                                        3  US   2 DE   1  avg 1.0*  mentionAll    6 ( 1.8%)
+    Account / login / restore                                         2  US   2 DE   0  avg 2.0*  mentionAll    5 ( 1.5%)
+    Free alternatives exist (YouTube / free apps)                     2  US   2 DE   0  avg 1.0*  mentionAll    5 ( 1.5%)
+    Customer support                                                  1  US   1 DE   0  avg 2.0*  mentionAll    1 ( 0.3%)
+    Cancellation difficulty                                           1  US   1 DE   0  avg 2.0*  mentionAll    5 ( 1.5%)
+    Feature removed / update regression                               1  US   1 DE   0  avg 3.0*  mentionAll    5 ( 1.5%)
+    Misleading advertising                                            1  US   0 DE   1  avg 1.0*  mentionAll    3 ( 0.9%)
+  -- PRAISE (mention-level among 238 positives) --
+    design / UI / aesthetics                           79   33.2% of pos   US  76 DE   3
+    effect: sleep                                      48   20.2% of pos   US  47 DE   1
+    control / customization                            40   16.8% of pos   US  40 DE   0
+    integration (watch / home / desktop / shortcuts)   30   12.6% of pos   US  30 DE   0
+    effect: anxiety / calm                             26   10.9% of pos   US  23 DE   3
+    effect: focus / productivity                       22    9.2% of pos   US  21 DE   1
+    longevity / daily habit                            17    7.1% of pos   US  16 DE   1
+    variety / catalog size                             17    7.1% of pos   US  16 DE   1
+    price / value for money                            14    5.9% of pos   US  13 DE   1
+    one-time purchase / no subscription                12    5.0% of pos   US  12 DE   0
+    honesty / fair treatment / respects the user       11    4.6% of pos   US  11 DE   0
+    effect: tinnitus / noise masking                    9    3.8% of pos   US   9 DE   0
+    sound quality / character                           8    3.4% of pos   US   8 DE   0
+    adaptivity / personalization                        3    1.3% of pos   US   3 DE   0
+    offline / privacy / no account                      2    0.8% of pos   US   2 DE   0
+    science framing                                     2    0.8% of pos   US   2 DE   0
+    effect: ADHD / neurodivergent                       1    0.4% of pos   US   1 DE   0
+  -- LONGEVITY co-occurrence (17 positive reviews use longevity language) --
+    control / customization                             4   23.5% of longevity reviews
+    design / UI / aesthetics                            6   35.3% of longevity reviews
+    effect: anxiety / calm                              5   29.4% of longevity reviews
+    effect: focus / productivity                        1    5.9% of longevity reviews
+    effect: sleep                                       4   23.5% of longevity reviews
+    effect: tinnitus / noise masking                    1    5.9% of longevity reviews
+    honesty / fair treatment / respects the user        2   11.8% of longevity reviews
+    integration (watch / home / desktop / shortcuts)    5   29.4% of longevity reviews
+    offline / privacy / no account                      1    5.9% of longevity reviews
+    one-time purchase / no subscription                 5   29.4% of longevity reviews
+    price / value for money                             3   17.6% of longevity reviews
+    sound quality / character                           3   17.6% of longevity reviews
+    variety / catalog size                              2   11.8% of longevity reviews
+
+========================================================================
+Endel: n=600  (300 US / 300 DE)  2022-10-21 -> 2026-08-30
+  negative(1-3*)=377 (62.8%)  positive(4-5*)=223 (37.2%)
+    US: n= 300  2026-03-18 -> 2026-08-29  neg=206 (68.7%)  mean 2.49*
+    DE: n= 300  2022-10-21 -> 2026-08-30  neg=171 (57.0%)  mean 2.95*
+  mean rating = 2.72
+  -- COMPLAINTS (primary, among negatives) --
+    Billing / unauthorized charges / refund anger                    86  US  70 DE  16  avg 1.1*  mentionAll   98 (16.3%)
+    Other (uncategorized)                                            63  US  26 DE  37  avg 1.7*  mentionAll    0 ( 0.0%)
+    Upsell / ads / nagging in-app                                    50  US  32 DE  18  avg 1.6*  mentionAll  118 (19.7%)
+    UX / app bugs / reliability                                      28  US  15 DE  13  avg 1.8*  mentionAll   49 ( 8.2%)
+    Cancellation difficulty                                          26  US  11 DE  15  avg 1.3*  mentionAll   52 ( 8.7%)
+    Price / value / paywall                                          24  US  12 DE  12  avg 1.5*  mentionAll  114 (19.0%)
+    Missing platform / device support (Mac, watch, iPad, CarPlay…)   15  US   3 DE  12  avg 1.9*  mentionAll   57 ( 9.5%)
+    Misleading advertising                                           13  US  12 DE   1  avg 1.3*  mentionAll   32 ( 5.3%)
+    Account / login / restore                                        12  US   4 DE   8  avg 1.2*  mentionAll   42 ( 7.0%)
+    Confusing / hard to figure out (onboarding, navigation)          11  US   3 DE   8  avg 2.4*  mentionAll   15 ( 2.5%)
+    Repetitiveness / lack of variety                                  9  US   3 DE   6  avg 1.8*  mentionAll   27 ( 4.5%)
+    Sound quality / unpleasant sounds                                 8  US   1 DE   7  avg 1.9*  mentionAll   17 ( 2.8%)
+    "Doesn't work / no effect"                                        7  US   1 DE   6  avg 1.3*  mentionAll   20 ( 3.3%)
+    Free alternatives exist (YouTube / free apps)                     7  US   5 DE   2  avg 1.3*  mentionAll    7 ( 1.2%)
+    Subscription model resented (was one-time / went subscription)    6  US   3 DE   3  avg 1.3*  mentionAll    7 ( 1.2%)
+    Feature removed / update regression                               3  US   2 DE   1  avg 2.3*  mentionAll    6 ( 1.0%)
+    Paywall on launch / too little free content / "not free"          3  US   1 DE   2  avg 1.0*  mentionAll    3 ( 0.5%)
+    Customer support                                                  2  US   1 DE   1  avg 2.0*  mentionAll   22 ( 3.7%)
+    Missing feature: can't mix sounds / no customization              2  US   1 DE   1  avg 2.0*  mentionAll    2 ( 0.3%)
+    Abandonware / not updated / no new-device support                 2  US   0 DE   2  avg 1.5*  mentionAll    4 ( 0.7%)
+  -- PRAISE (mention-level among 223 positives) --
+    effect: focus / productivity                       69   30.9% of pos   US  27 DE  42
+    effect: sleep                                      61   27.4% of pos   US  24 DE  37
+    effect: anxiety / calm                             54   24.2% of pos   US  23 DE  31
+    longevity / daily habit                            32   14.3% of pos   US  12 DE  20
+    design / UI / aesthetics                           23   10.3% of pos   US   5 DE  18
+    integration (watch / home / desktop / shortcuts)   18    8.1% of pos   US   7 DE  11
+    effect: ADHD / neurodivergent                      17    7.6% of pos   US  14 DE   3
+    variety / catalog size                              8    3.6% of pos   US   6 DE   2
+    one-time purchase / no subscription                 8    3.6% of pos   US   6 DE   2
+    control / customization                             8    3.6% of pos   US   2 DE   6
+    price / value for money                             6    2.7% of pos   US   3 DE   3
+    science framing                                     6    2.7% of pos   US   3 DE   3
+    honesty / fair treatment / respects the user        5    2.2% of pos   US   2 DE   3
+    effect: tinnitus / noise masking                    5    2.2% of pos   US   1 DE   4
+    adaptivity / personalization                        5    2.2% of pos   US   2 DE   3
+    sound quality / character                           3    1.3% of pos   US   1 DE   2
+    offline / privacy / no account                      2    0.9% of pos   US   1 DE   1
+  -- LONGEVITY co-occurrence (32 positive reviews use longevity language) --
+    control / customization                             1    3.1% of longevity reviews
+    design / UI / aesthetics                            2    6.2% of longevity reviews
+    effect: ADHD / neurodivergent                       2    6.2% of longevity reviews
+    effect: anxiety / calm                             12   37.5% of longevity reviews
+    effect: focus / productivity                       17   53.1% of longevity reviews
+    effect: sleep                                      15   46.9% of longevity reviews
+    effect: tinnitus / noise masking                    2    6.2% of longevity reviews
+    integration (watch / home / desktop / shortcuts)    1    3.1% of longevity reviews
+    one-time purchase / no subscription                 1    3.1% of longevity reviews
+    price / value for money                             2    6.2% of longevity reviews
+    science framing                                     1    3.1% of longevity reviews
+    sound quality / character                           1    3.1% of longevity reviews
+    variety / catalog size                              2    6.2% of longevity reviews
+
+========================================================================
+Brain.fm: n=427  (300 US / 127 DE)  2016-12-02 -> 2026-08-28
+  negative(1-3*)=149 (34.9%)  positive(4-5*)=278 (65.1%)
+    US: n= 300  2024-06-21 -> 2026-08-28  neg=99 (33.0%)  mean 3.84*
+    DE: n= 127  2016-12-02 -> 2026-08-02  neg=50 (39.4%)  mean 3.54*
+  mean rating = 3.75
+  -- COMPLAINTS (primary, among negatives) --
+    Other (uncategorized)                                            32  US  24 DE   8  avg 1.7*  mentionAll    0 ( 0.0%)
+    UX / app bugs / reliability                                      21  US  16 DE   5  avg 1.6*  mentionAll   46 (10.8%)
+    Price / value / paywall                                          18  US   6 DE  12  avg 1.8*  mentionAll   58 (13.6%)
+    Billing / unauthorized charges / refund anger                    11  US   9 DE   2  avg 1.1*  mentionAll   14 ( 3.3%)
+    Cancellation difficulty                                          10  US   5 DE   5  avg 1.5*  mentionAll   18 ( 4.2%)
+    Account / login / restore                                         7  US   6 DE   1  avg 1.7*  mentionAll   21 ( 4.9%)
+    Sound quality / unpleasant sounds                                 7  US   3 DE   4  avg 1.7*  mentionAll   17 ( 4.0%)
+    Paywall on launch / too little free content / "not free"          7  US   5 DE   2  avg 1.1*  mentionAll   10 ( 2.3%)
+    Missing platform / device support (Mac, watch, iPad, CarPlay…)    6  US   3 DE   3  avg 2.7*  mentionAll   27 ( 6.3%)
+    Free alternatives exist (YouTube / free apps)                     5  US   5 DE   0  avg 2.0*  mentionAll    7 ( 1.6%)
+    "Doesn't work / no effect"                                        5  US   4 DE   1  avg 1.0*  mentionAll   12 ( 2.8%)
+    No offline / streaming-only                                       5  US   2 DE   3  avg 1.4*  mentionAll    8 ( 1.9%)
+    Feature removed / update regression                               3  US   1 DE   2  avg 1.7*  mentionAll    6 ( 1.4%)
+    AI-generated music distaste ("soulless")                          3  US   3 DE   0  avg 1.0*  mentionAll    5 ( 1.2%)
+    Subscription model resented (was one-time / went subscription)    2  US   1 DE   1  avg 1.0*  mentionAll    4 ( 0.9%)
+    Upsell / ads / nagging in-app                                     2  US   2 DE   0  avg 3.0*  mentionAll   17 ( 4.0%)
+    Confusing / hard to figure out (onboarding, navigation)           2  US   2 DE   0  avg 2.0*  mentionAll    3 ( 0.7%)
+    Repetitiveness / lack of variety                                  1  US   1 DE   0  avg 3.0*  mentionAll   12 ( 2.8%)
+    Misleading advertising                                            1  US   1 DE   0  avg 1.0*  mentionAll    2 ( 0.5%)
+    Customer support                                                  1  US   0 DE   1  avg 1.0*  mentionAll   11 ( 2.6%)
+  -- PRAISE (mention-level among 278 positives) --
+    effect: focus / productivity                      178   64.0% of pos   US 132 DE  46
+    effect: sleep                                      75   27.0% of pos   US  62 DE  13
+    effect: anxiety / calm                             64   23.0% of pos   US  44 DE  20
+    effect: ADHD / neurodivergent                      46   16.5% of pos   US  44 DE   2
+    longevity / daily habit                            41   14.7% of pos   US  32 DE   9
+    price / value for money                            25    9.0% of pos   US  22 DE   3
+    science framing                                    21    7.6% of pos   US  19 DE   2
+    variety / catalog size                             18    6.5% of pos   US  16 DE   2
+    design / UI / aesthetics                           15    5.4% of pos   US   9 DE   6
+    honesty / fair treatment / respects the user       10    3.6% of pos   US  10 DE   0
+    control / customization                            10    3.6% of pos   US   7 DE   3
+    integration (watch / home / desktop / shortcuts)   10    3.6% of pos   US   6 DE   4
+    sound quality / character                           7    2.5% of pos   US   7 DE   0
+    one-time purchase / no subscription                 6    2.2% of pos   US   1 DE   5
+    adaptivity / personalization                        4    1.4% of pos   US   4 DE   0
+    offline / privacy / no account                      2    0.7% of pos   US   2 DE   0
+  -- LONGEVITY co-occurrence (41 positive reviews use longevity language) --
+    control / customization                             3    7.3% of longevity reviews
+    design / UI / aesthetics                            4    9.8% of longevity reviews
+    effect: ADHD / neurodivergent                       7   17.1% of longevity reviews
+    effect: anxiety / calm                              8   19.5% of longevity reviews
+    effect: focus / productivity                       23   56.1% of longevity reviews
+    effect: sleep                                      15   36.6% of longevity reviews
+    honesty / fair treatment / respects the user        3    7.3% of longevity reviews
+    offline / privacy / no account                      2    4.9% of longevity reviews
+    one-time purchase / no subscription                 1    2.4% of longevity reviews
+    price / value for money                             3    7.3% of longevity reviews
+    science framing                                     8   19.5% of longevity reviews
+    sound quality / character                           3    7.3% of longevity reviews
+    variety / catalog size                              5   12.2% of longevity reviews

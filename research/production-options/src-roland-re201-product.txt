@@ -1,0 +1,384 @@
+URL: https://www.roland.com/global/products/rc_re-201_space_echo/
+Fetched: 2026-09-02
+Method: curl
+HTTP: 200
+Raw bytes: 94994
+----
+
+	•	Products
+	◦	Pianos
+	◦	Synthesizers
+	◦	Keyboards
+	◦	Guitar & Bass
+	◦	Drums & Percussion
+	◦	Wind Instruments
+	◦	Production
+	◦	Amplifiers
+	◦	AIRA & DJ
+	◦	Roland Cloud
+	◦	Professional A/V
+	◦	Accessories
+	•	 TR-1000 The TR-1000 Rhythm Creator blends analog warmth, digital precision, and sampling freedom into a powerful, genre-spanning instrument.    BRIDGE CAST Take online gaming sound to the next level with BRIDGE CAST, your all-in-one solution for premium livestream audio.      
+	•	Community
+	◦	Facebook
+	◦	YouTube
+	◦	X (Twitter)
+	◦	Instagram
+	◦	Worldwide Social Network
+	•	 Facebook Roland Global Official Fan Page. Stay up to date with Roland news, artists, promotions, events, and more.    YouTube Channel This channel provides information of the Roland's best quality electronic musical instruments. Provides an overview of key features, functions and operational tips.    Worldwide Social Network Welcome to our global family. The Roland Worldwide Social Network keeps you connected to the latest products, exciting events, and much more.      
+	•	Support
+	◦	Updates & Drivers
+	◦	Owner’s Manuals
+	◦	Support Documents
+	◦	Quick Start Video
+	◦	Support News
+	◦	Legacy Product Info
+	◦	Vulnerability Disclosure Policy
+	•	 Support by Product Get the latest updates/drivers, owner's manuals, and support documents for your product.    Quick Start This channel provides instructions of the Roland's electronic musical instruments and equipment.      
+	•	Articles
+	◦	Stories
+	◦	Learn
+	◦	Discover
+	•	 Stories Spark creativity with in-depth writing on people, trends, tech, and history.    Learn Expand your knowledge with tutorials and guides from subject-matter experts.    Discover Experience Roland with an immersive collection of interactive pages and microsites.      
+	•	IR 
+	•	Sustainability 
+	•	Company 
+	•	Backstage
+	◦	Log In
+	◦	Create Account
+	•	
+	•	
+
+
+×
+
+RE-201 Space Echo
+Software Effect
+Join Now
+
+	1	Home
+	2	Roland Cloud
+	3	Legendary
+	4	RE-201 Space Echo
+Home
+RE-201 Space Echo
+	•	Features
+	•	Specs
+	•	Media
+	•	Guide/Articles
+	•	Support
+
+The Sonic Supercollider
+Introduced in 1974, the RE-201 Space Echo is one of the most famous and iconic effect processors ever created. It used analog tape to create its distinctive multi-head delay effect and has been a staple of performers, producers, and mix engineers for the past fifty years. Lovingly crafted by the makers of the original Space Echo, you can now have the genuine character of this ultra-versatile and transformative effect in your DAW.
++ Highlights
+	•	The only authentic Roland RE-201 Space Echo plug-in
+	•	Iconic tape delay and echo sounds with multiple head combinations and spring reverb
+	•	Resizable, high-resolution interface brings the feel of using the original hardware
+	•	Highly detailed and historically accurate graphics with pristine and aged appearances
+	•	Explore over 50 expertly crafted presets
+	•	Perfect for all kinds of sources, including keyboards, guitars, drums, vocals, and more
+	•	Extended parameters for new sounds and modern production techniques
+	•	Six tape-speed LFO shapes with tempo sync plus rate and depth controls
+	•	Adjust the physical condition of the unit, tape wow and flutter, and motor torque
+	•	Support for VST3, AU, and AAX plug-in formats
+
+
+
+
+
+
+
+Echoes of 1974.
+The mid-’70s were an exciting time for music performance and production. Artists began to focus more on sonics and experimented with emerging technologies to harness new sounds. Tape-based echoes were the first delays available and were developed as early as the 1940s. But a few decades later, contemporary engineering would make them more feasible for widespread use. Enter the Roland RE-201 Space Echo.
+
+Classic tracks featuring the RE-201 ▼
+
+
+
+
+Pulse. Warp. Collapse. Repeat.
+The original RE-201 was one of the premier tape echo units of its era, remaining in continuous production until the late 1980s. Its three evenly spaced heads produced a wider range of echo effects than typical single-head designs, while an innovative free-running tape system provided superior performance with minimal tape wear. A spring reverb was also built in, making it a one-stop-shop for all things ambient. Grab-and-go controls enabled quick access to single delays, different head combinations, and cool real-time effects like glitchy pitch shifts and intense self-oscillation.
+An authentic Roland original— now in your DAW.
+The RE-201 is a complex hardware effect, from the preamp design to the unique multi-head tape mechanism and integrated spring reverb. Using the latest modeling technologies and exhaustive analysis of several vintage RE-201s—including a pristine original unit from the Roland factory archive—the RE-201 Space Echo plug-in brings the authentic Space Echo experience to life like no other plug-in can.
+
+Every element and interaction must be faithfully replicated to accurately convey its unique analog vibe. As the makers of the original, we’ve leveraged decades of research to deliver a complete recreation straight to your studio. Our engineers have fully reproduced everything contributing to the RE-201’s immortal character, including the tape path, record/playback mechanism, motor variations, preamp coloration, tape age, and more.
+
+Enjoy the trip.
+The RE-201’s versatile delays and spring reverb instantly infuse any source with rich, retro character. You can use the delay and reverb independently or combine them for extra-spacious sounds, while the ample front-panel controls let you easily shape your sound for extra expression. Regardless of how you use it, the RE-201 will take your tracks to new and unexplored territories.
+
+Sounds great with everything.
+You might be surprised just how versatile the Space Echo sound can be. It brings life and movement to keys, guitars, drums, vocals, and more. From subtle to dreamy to utterly bizarre, this coveted effect has been heard on thousands of tracks over the decades and remains the secret weapon of a legion of producers. It’s instantly gratifying but also rewards deeper exploration.
+
+Wow. And flutter.
+Different RE-201 units exhibit unique sonic characteristics depending on their age, tape life, and how well they’ve been maintained. Our plug-in offers controls for adjusting the overall condition, tape wow and flutter, and even the motor torque, letting you dial in everything from a brand-new Space Echo to an aging unit dripping with vintage personality.
+
+Instant gratification.
+While you can easily dial in your own delay and reverb sounds, the RE-201 plug-in features a wealth of expertly crafted presets to add dimension to any source. There are presets designed for channel inserts and all-wet versions for effect returns, allowing you to apply the Space Echo sound to single tracks or multiple instruments at once.
+Travel to a new space and time.
+While we’ve brought the authentic sound and behavior of the original unit to this plug-in recreation, we’ve also added extended capabilities for modern productions. There’s a stereo mode for extra-wide sounds, along with six tape-speed LFO shapes with rate and depth controls and tempo-sync support to drastically change the feel.
+
+
+Colorful saturation.
+Key factors in the RE-201’s unique and pleasing character are modeled with remarkable realism. The inherent sound of the tape saturation and the warm, velvety tones of the integrated preamp are worth the price of admission alone. Additionally, the plug-in replicates the three inputs and volume knobs of the original hardware. By selecting an input and virtually overloading the classic ’70s transistor design, you can imbue the echo tones with everything from warm overdrive to all-out distortion.
+“I think of sound as color; if you’re a painter, delays are your blues. So, it’s like different shades of blue—dark blue, light blue, sky blue.”
+Ed O’Brien, Radiohead, on his love of delay and long-time use of the Space Echo  Read More
+
+Ed O’Brien, Photo by Alterna2
+
+Increase the intensity.
+A well-loved signature sound of the RE-201 is a result of the use—or abuse—of the onboard controls. By cranking the intensity and manipulating the delay rate and saturation levels in real time, you can create bizarre, runaway effects that take sounds from mild to wild. You’ve been warned.
+More tracks featuring the RE-201 ▼
+
+
+
+
+
+
+
+
+Lee "Scratch" Perry, Photo by Luke Awtry
+Musical icons.
+The RE-201 has found its way into diverse musical genres, including dub, trip hop, alternative, punk, rockabilly, and more. It’s been used by an array of iconic artists, including dub pioneers Lee “Scratch” Perry and King Tubby, who made use of the unit’s unique feedback and saturation qualities. The Space Echo became a major feature of Portishead recordings and is responsible for everything from the dreamy ambiance of Vini Reilly’s Durutti Column records to the mangled, feedback-induced loops of Radiohead.
+
+Try the RE-201 Space Echo today.
+The RE-201 Space Echo Software Effect is available exclusively with Roland Cloud Ultimate membership, which you can try for free with a 30-day all-access trial. Roland Cloud also gives you independent access to a universe of creative tools for computer-based music production, including software versions of vintage Roland instruments, ZENOLOGY, Sound Packs, Wave Expansions, GALAXIAS, Zenbeats, and much more.   Join Roland Cloud
+Try the RE-201 Space Echo for free with a Roland Cloud 30-day trial membership.
+
+
+
+Specifications
+Effect settings
+59 patches
+*Includes 1 rewritable setting.
+Sampling Frequency
+44.1 kHz, 48 kHz, 88.2 kHz, 96 kHz, 176.4 kHz, 192 kHz
+Plug-In Formats
+VST 3.7 (64 bits)
+AU
+AAX
+System Requirements (macOS)
+Minimum Operating System
+macOS 12
+Host Application
+VST version: VST 3.7 compatible
+Audio Units (AU) version: V2 Audio Units compatible
+AAX Compatible
+CPU
+Intel(R) Core(TM) i5 or better(Quad-core CPU recommended)
+Apple Silicon
+RAM
+2 GB or more
+Storage Space
+150 MB or more
+Display resolution and Colors
+1280 x 800 dots or higher, 16.7 million colors or more
+Other
+You'll need Internet connectivity to Authenticate this software.
+System Requirements (Windows®)
+Minimum Operating System
+Microsoft(R) Windows(R) 10 (64-bit)
+* This does not work with the Windows(R) RT.
+* This does not work with the Windows(R) Phone.
+* This does not work on the virtual machines such as Hyper-V, Virtual PC, or Boot Camp.
+Host Application
+VST version: VST 3.7 compatible
+AAX Compatible
+CPU
+Intel(R) Core(TM) i5 or better(Quad-core CPU recommended)
+RAM
+2 GB or more
+Storage Space
+100 MB or more
+Display resolution and Colors
+1280 x 800 dots or higher, 24 bits Full Color or more
+Other
+You'll need Internet connectivity to Authenticate this software.
+* Although Roland has tested numerous configurations, and has determined that on average, a computer system similar to that described above will permit normal operation of the PLUG-OUT SOFTWARE SYNTHESIZER, Roland cannot guarantee that a given computer can be used satisfactorily with the PLUG-OUT SOFTWARE SYNTHESIZER based solely on the fact that it meets the above requirements. This is because there are too many other variables that may influence the processing environment, including differences in motherboard design and the particular combination of other devices involved.
+* Roland, BOSS are either registered trademarks or trademarks of Roland Corporation in the United States and/or other coundties.
+* Company names and product names appearing in this document are registered trademarks or trademarks of their respective owners.
+* VST is a registered trademark of Steinberg Media Technologies GmbH.
+
+
+
+
+
+
+
+
+
+	•	•
+	•	•
+	•	•
+	•	•
+	•	•
+	•	<
+	•	>
+
+Video Library
+	•	RE-201 Space Echo Overview Introduced in 1974, the RE-201 Space Echo is one of the most famous and iconic effect processors ever created.
+	•	RE-201 Space Echo Intro The only authentic plug-in recreation of Roland’s iconic tape delay.
+	•	
+	•	
+
+A Few Minutes with Switchfoot: Chad Butler & Boaz Roberts
+Drummer Chad Butler and lead guitarist Boaz Roberts discuss the power of hybrid gear and offer insight into Switchfoot’s three-decade legacy.Read more…
+
+Reverberations: Brigitte Calls Me Baby
+Brigitte Calls Me Baby’s Jack Fluegel and Devin Wessels reveal their essential BOSS pedals, stompbox discoveries, and studio secret weapons.Read more…
+
+Behind the Board: Sara Ferrero with Pet Shop Boys and Maribou State
+Sara Ferrero on touring with Pet Shop Boys and Maribou State, essential Roland and BOSS gear, and how she became an in-demand music tech.Read more…
+
+Reverberations: Joshua Mobaraki of Wet Leg
+Wet Leg guitarist and keyboardist Joshua Mobaraki unpacks his BOSS-driven rig, including the WAZA Tube Amp Expander Core, ES-8, and TU-3.Read more…
+
+A Few Minutes with Morcheeba
+Pioneers of ’90s trip-hop, Morcheeba reunites Skye Edwards and Ross Godfrey for an upcoming remix series celebrating their most recent LP.Read more…
+
+Reverberations: Bassist Charlie Jones (Part 2)—The Cult and Siouxsie Sioux
+The Cult bassist Charlie Jones on serving legendary artists, Siouxsie Sioux’s 'Mantaray,' and balancing sessions with ambitious solo albums.Read more…
+
+Reverberations: Bassist Charlie Jones (Part 1)—Robert Plant and Jimmy Page
+Charlie Jones on Robert Plant, Jimmy Page, Steve Albini, Unledded, Walking into Clarksdale, Grammy wins, and life in the Led Zeppelin world.Read more…
+
+A Few Minutes with Talulah Ruby
+Step into the elemental musical landscape of Talulah Ruby and discover how environment, consciousness, and Roland gear shape her sound.Read more…
+
+Listening Guide: Post-Rock
+Submerge yourself in this starting point for an experimental genre of rock music that floats, swirls, and unfolds.Read more…
+
+Sound Behind the Song: “Nightclubbing” by Iggy Pop
+Find out how David Bowie and Iggy Pop created a slapback-saturated swing that takes the listener on a hazy nighttime stroll through Berlin.Read more…
+
+Supercharge Your Vocal Production with Roland Cloud: RE-201 Space Echo, ZENOLOGY FX and More
+All you need is a DAW and Roland Cloud to mix your vocals like a pro. Learn how to expand your sonic horizons using these powerful tools.Read more…
+
+Reverberations: Echo & the Bunnymen Guitarist Will Sergeant
+Will Sergeant talks Echo & the Bunnymen’s iconic guitar tones, Roland and BOSS gear, and how he’s shaped the post-punk sound since 1978.Read more…
+
+Listening Guide: Ambient Music
+From droning electronic pieces to spiritual soundscapes, these records offer a beautiful entry point into this immersive genre.Read more…
+
+A Few Minutes with Ben Marc
+Jazz, hip-hop, classical, and experimental sounds coalesce in the bassist's music. Find out how he's created a space for his unique style.Read more…
+
+A Few Minutes with Death in Vegas
+From genre-blending origins to raw, emotional techno, Death in Vegas charts Richard Fearless' singular sonic journey through a vintage lens.Read more…
+
+Reverberations: Alessandro “Asso” Stefana
+Enter the enigmatic world of Alessandro Stefana—guitarist, composer, and sonic explorer—in this rare interview on sound, gear, and vision.Read more…
+
+A Few Minutes with Pachyman
+Born in Puerto Rico and based in Los Angeles, Pachyman creates hypnotic tracks that take the listener on a pilgrimage to an unusual space.Read more…
+
+Tips and Tricks: Widescreen GALAXIAS Sound Design
+Take your sound design into widescreen territory with the GALAXIAS Super Instrument, and learn to craft massive pads for electronic genres.Read more…
+
+Listening Guide: Trip-Hop
+Explore trip-hop from its early days to the current renaissance centering on a new generation of artists mining the genre's laidback beats.Read more…
+
+Songwriting with Roland Cloud: Creating Your First Demo
+All you need is a DAW and Roland Cloud to record a polished demo. Here’s a step-by-step guide to getting started.Read more…
+
+Tips and Tricks: Roland Cloud RE-201 Space Echo
+From dubby tails to glacial repeats, here's how to maximize the classic RE-201 Space Echo delay using these essential tips and tricks.Read more…
+
+History of the Space Echo
+Roland introduced the earliest Space Echo units in 1973. Journey through the phases of the legendary tape echo up to the BOSS RE-202.Read more…
+
+Space Echo Sounds and How to Use Them
+The Space Echo series has a storied history. Examine what makes a tape echo unit like the RE-201 sound exactly the way that it does.Read more…
+
+Reverberations: Ed O’Brien of Radiohead
+The echo aficionado reveals his favorite stompboxes and explains why “BOSS has been at the forefront of all this incredible music.”Read more…
+	•	
+Downloads
+	•	
+Support
+	•	Owner's Manuals
+If you have questions about operating your Roland product, please check our Knowledge Base for answers to the most common questions. You can also contact our Product Support through Roland Backstage. In addition, we have a library of Owner’s Manuals and Support Documents that you can download and reference.
+Owner's Manuals
+	•	[English] RE-201 Software Effect Owner's Manual [PDF]
+	•	 Roland Featured Products 
+	•	 Roland International 
+	•	 Worldwide Social Network 
+	•	<
+	•	>
+
+	•	International Page
+	•	Facebook
+	•	Twitter
+	•	YouTube
+	•	Instagram
+	•	SoundCloud
+	•	Change RegionFlag Icon
+Products
+	•	Featured Products
+	•	Pianos
+	•	Organs
+	•	Synthesizers
+	•	Keyboards
+	•	Guitar & Bass
+	•	Drums & Percussion
+	•	Wind Instruments
+	•	Production
+	•	Amplifiers
+	•	AIRA & DJ
+	•	Roland Cloud
+	•	Professional A/V
+	•	Accessories
+	•	Apps
+Community
+	•	Facebook
+	•	YouTube
+	•	X (Twitter)
+	•	Instagram
+	•	Worldwide Social Network
+Support
+	•	Updates & Drivers
+	•	Owner’s Manuals
+	•	Support Documents
+	•	Quick Start Video
+	•	Knowledge Base
+	•	Support News
+	•	Legacy Product Info
+	•	Vulnerability Disclosure Policy
+Articles
+	•	Stories
+	•	Learn
+	•	Discover
+IR
+	•	Management Policy
+	•	Financial Information
+	•	IR Library
+	•	Stock Information
+Sustainability
+	•	Basic Sustainability Policy
+	•	ceo_message
+	•	various_policies
+	•	Human Rights Policy
+	•	For “Environment”
+	•	In “Society”
+	•	Social Contribution Activities
+	•	Human Capital
+	•	Improvement of Customer Satisfaction
+	•	Supply Chain Management
+	•	Corporate Governance
+	•	Compliance Guidelines
+	•	Actions for the Compliance
+	•	Intellectual Property and Brand Protection
+	•	External Evaluation
+Company
+	•	Corporate Information
+	•	Philosophy
+	•	Brands
+	•	Press Releases
+	•	History
+	•	Virtual Patent Marking
+	•	 
+	•	
+	◦	Privacy Statement
+	◦	Terms of Use
+	◦	Accessibility Statement
+	◦	Worldwide Social Network
+Copyright © 2026 Roland Corporation
