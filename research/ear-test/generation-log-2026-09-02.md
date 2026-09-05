@@ -191,3 +191,25 @@ Follow-up feedback (Daniel): "definitely elements that need to be worked on — 
 - Reading: stripping the pad words produced a near-empty sub-bass loop (measured 96.5% below 150 Hz); the single-knob changes did not move it towards "hypnotic Berlin techno" in a way Daniel could steer. Seed reproducibility is real (07 bit-identical to 00) so the problem is not randomness, it is that text+numbers cannot be steered to a specific taste. Lyria-as-songwriter is out; Lyria/Suno remain candidates only as a sound/idea SOURCE curated by a human, with structure from a deterministic engine or a producer in a DAW.
 - Daniel pointed to EDM Tips, "My AI WARNING to music producers" (youtu.be/bfY2hfhEwaM, 8 May 2026, Will Darling). Its relevant claims: use generative AI as inspiration only (pull one chord/vocal into Ableton and build around it); stem-separate reference tracks to STUDY arrangement (when bass enters, what changes every 8 bars) — native in Ableton 12; Reinier Zonneveld runs a generative rig that listens to his live set and proposes ideas he mixes back in; and "commodity/background music ... AI is going to take a lot of that, and it's going to do it better and faster" — our product category by his definition, which he calls forgettable unless there is a brand/experience around it.
 - Blind-set effect: all round-6 clips known to Daniel → excluded.
+
+## 2026-09-05 ~01:20 CEST — Daniel, on headphones from Live directly: Ableton round 1 (Endel rebuild)
+
+- Heard the full loop, then kick+bass alone with the pad stopped.
+- Verdict, paraphrased closely: the pad ("that trumpet sound") is terrible — "way too loud and not interesting"; the layer on top "needs to be way more sophisticated, like a music producer working on a synthesizer with really hypnotic sounds, this has to be on point". **The bass is good.** (First bass to pass in seven rounds.)
+- Reading: kick + bass from the measured recipe (C2 long kick, E2/D2 see-saw, Operator + Saturator) pass on the first try. The Analog saw chord + tremolo reads as brass; the top layer is the whole problem for round 2.
+- Action: round 2 = keep kick and bass frozen, audition 4 different pad/top-layer designs over them, each much quieter and built from the Hawtin/Attack findings (short stab with delay as sustain, hard-filtered dark pad, sequenced single-note tick through S&H filter, resonant band-pass chord opening over 16 bars).
+
+## 2026-09-05 ~02:25 CEST — round-2 verdict (Ableton, four top layers)
+
+Daniel, from the "Ableton round 2" listening page: **04 (candidate C, the quiet D4 ticking pluck, five
+hits per bar off the grid, sample-and-hold filter, 3/16 echo) "goes in the right direction."** Because of
+that one sound he does not like pretty much any of the others (A stab, B breathing pad, D resonant chord).
+The bass is "a little bit primitive" and should be improved. Decision: from here the sound design is driven
+channel by channel in the main session with Daniel listening live, comparing instruments as we go; the track
+"definitely also needs still more channels." Round-2 build details: `ableton-r2-2026-09-05.md`.
+
+## 2026-09-05 ~03:30 CEST — live driving in Ableton: preset basses and Riemann loops
+
+- Six Live Core Library bass presets (Drift "Dub Techno Bass", Analog, Operator, Wavetable) on separate tracks, toggled by Daniel via track activators over the r1 kick: "All of that is still not what I'm looking for at all… we need better instruments, better synthesizers… not even close."
+- Riemann FREE Techno Starter loops (RHT4 kick, RHT5 bass, RHT4 perc, RHT5 texture) warped to 120.2: "way too aggressive — we don't need loops, we need instruments, synthesizers."
+- Reading: sound-character rejections again, structure untouched. Agent's view logged: professionally made presets failing points at what the sounds do (movement, processing, placement) rather than oscillator quality; Daniel's view: a real synthesizer is needed. Recommended u-he Diva demo (Vital free alternative); nothing installed yet. Handoff for the next agent: `docs/handoff-2026-09-05-endel-level-production.md`.

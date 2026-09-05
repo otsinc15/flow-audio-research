@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "ableton": {
+      "command": "/Users/othersideinc/.local/bin/uv",
+      "args": [
+        "run",
+        "--project",
+        "/Users/othersideinc/Code/otsinc15/ableton-tools/ableton-mcp",
+        "--python",
+        "3.12",
+        "ableton-mcp"
+      ],
+      "env": {
+        "ABLETON_MCP_DISABLE_TELEMETRY": "true"
+      }
+    }
+  }
+}

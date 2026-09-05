@@ -1,0 +1,149 @@
+URL: https://www.attackmagazine.com/technique/beat-dissected/spastik-style-percussive-techno/
+Fetched: 2026-09-05
+---
+Spastik-Style Percussive Techno - Attack Magazine 
+
+ Attack Magazine 
+
+ Menu 
+
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+
+ Subscribe 
+
+ Search 
+
+ Technique » Beat Dissected » Spastik-Style Percussive Techno 
+
+ Spastik-Style Percussive Techno 
+
+ Share 
+
+ Facebook 
+
+ Twitter 
+
+ WhatsApp 
+
+ In this installment of Beat Dissected we emulate the beat of ‘Spastik’, the signature track of Richie Hawtin’s Plastikman moniker. 
+
+ Spastik was released in the fall of 1993 and is easily at the top of any list of classic tunes that evoke memories of ’90s raves. A result of Hawtin’s heavily processed jams on his Roland 707, 808 and 909 drum machines, the track’s swing and rattling snare rolls showcase the British-Canadian producer’s minimalist mastery.  
+
+ Beat Dissected is a regular series in which we deconstruct drum patterns, showing you how to program them in any DAW. Just copy our grid in your own software to recreate the loop. The objective is to analyze drum programming techniques, not to recreate the artist’s beat exactly. 
+
+ To follow along download the session files! 
+
+ Your name 
+
+ Your email 
+
+ Note: by submitting this form you are joining our mailing list. Please, read our privacy policy 
+
+ Δ 
+
+ To enlarge any photo, just click on the image.  
+
+ If you find this tutorial helpful, you might also enjoy our book, The Secrets of Dance Music Production . 
+
+ Here’s the beat we’re building today: 
+
+ Spec 
+
+ Tempo 
+ 127 BPM 
+
+ Swing 
+ Manual 
+
+ Sounds 
+ Ableton 
+
+ buy prednisone online https://www.wellpharmacy.com/wp-content/uploads/2013/06/prednisone.html 
+ STEP 1  
+
+ Insert Drum Rack on a new MIDI channel and drag in the ‘Kick-808’ sample from the Drum Machines pack. 
+
+ The pattern is straightforward with the kick hitting on every quarter note. For the first half of the four-bar beat, we want to cut the lows of the kick, in order to add emphasis to the drop on the third bar. To do this insert an EQ Eight and set the highpass filter to around 82Hz. Automate the device to switch off right at the downbeat of the third bar. 
+
+ STEP 2 
+
+ Now for the snare roll. Use an 808 snare sample. We used ‘MJ_TR808_Snare2’ from the Loopmasters Mixtape pack. Change the snare’s Simpler to Classic mode to be able to easily edit its ADSR.  
+
+ Because the pattern features 32nd-notes, we slightly brought down the decay and sustain to make the sample a bit more snappy. You definitely want shorter samples with no decay while working with 32nd-notes! It is also a good idea to switch to a 1/32 grid in the piano roll to make drawing in these notes easier. 
+
+ Swing is one of the most important elements of this beat, especially because of the minimal aspect. The interaction of quantized parts with slightly moved or delayed notes creates a unique groove. With this part, as you can see in the below picture, the sixth 32nd-note between positions 1 and 1.2 is delayed. The same applies to the sixth 32nd-note between 1.3 and 1.4.  
+
+ This loop continues for all four bars except in the third bar where an extra 32nd-note is added right after the downbeat for variety. 
+
+ Here’s our progress so far: 
+
+ STEP 3 
+
+ The beat features two hi hats. One is a 909 closed hat sample – we used ‘Hihat-909-Closed’ from the Drum Essentials pack – and the other is a reversed 707 open hat sample. We went for ‘Hihat-707-Open’ from the Drum Machines pack for the latter. 
+
+ Add the Velocity MIDI device to the 909 closed hat with Random slightly increased to add some velocity variation. Insert an EQ Eight to cut the lows until around 1.8k. The hat will be layered with the snare roll so the lower frequencies are not necessary. Pan the closed hat all the way right (50R).  
+
+ The closed hat pattern is a quarter-bar loop where all four of the 16th notes are played. Make sure to nudge the fourth 16th-note slightly to the right so that it lines up with that delayed 32nd-note snare from the previous step.  
+
+ To reverse the open hat sample drag it into the arrangement view, select it and then click the ‘R’ key on your keyboard. Drag the reversed sample into your drum rack and shorten the sample length to avoid the loud ending. 
+
+ This is a very subtle part – we set the volume to -36dB – but its off timing and reversed quality really contribute to the rhythm. Program it to hit slightly before the end of every half-bar. 
+
+ Here’s how the hats sound with the kick and snare: 
+
+ STEP 4 
+
+ As with the hats, there are two ride samples. The first is used for a fill that occurs before the drop in the third bar. The second hits at the same time as every kick after the drop. This is a common trick used in the classic Detroit sound Hawtin is known for.  
+
+ For the fill ride, we used ‘Ride-707’ from the Drum Essentials pack. Increase the pitch of the sample up two semitones using the Transpose (Transp) knob and program its one hit to occur at the end of the second bar. 
+
+ The key element of the fill is a pitch-drop. To recreate this, automate Transpose in the ride’s Simpler from +2 to -2 right after it hits.  
+
+ For the second ride, we used ‘Ride 808 Long’ from the Beat Tools pack. Program it to play at the same time as every kick in the third and fourth bars and make sure to keep its volume in check – we set it to -24dB.  
+
+ STEP 5 
+
+ The final step is adding a layer to the snare roll and some quick drum bus processing.  
+
+ Drag in any snare sample with a slightly different texture to the first and copy-paste the snare MIDI from Step 2 to bars three and four for this sound. We used ‘Snare Build’ from the Build and Drop pack. We also cut some of the lows and harsh high frequencies with EQ Eight and added Live’s Reverb at 4% for a more roomy sound. 
+
+ The layer definitely adds some energy and contrast to the beat. 
+
+ Insert Live’s Glue Compressor and your favourite limiter on the drum rack’s channel. Increase the attack until the transients cut through and lower the threshold until you get about 2-3dBs of gain reduction. Use the Makeup knob to add some gain to compensate for the drop in volume.  
+
+ For the limiter, adding some loudness is enough and we used the free Max For Live device Color Limiter to achieve this. 
+
+ Here’s the final beat: 
+
+ Related 
+
+ Author Aykan Esen 26th January, 2021 
+
+ Previous 
+ Beat Dissected - Radiohead-Style Low End Layering 
+
+ Next 
+ Beat Dissected - Interplanetary Criminal-Style Garage 
+
+ Leave a Reply Your email address will not be published. Required fields are marked * Comment * Name * 
+ Email * 
+
+ Δ 
+
+ A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+
+ Δ 
+
+ You currently have an ad blocker installed 
+ Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software. 
+ Find out how x

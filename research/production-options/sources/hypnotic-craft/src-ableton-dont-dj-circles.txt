@@ -1,0 +1,106 @@
+URL: https://www.ableton.com/en/blog/dont-dj-moving-in-circles/
+Fetched: 2026-09-05
+---
+Don’t DJ on multimetric, polyrhythmic, circular music
+ | Ableton 
+ Close Dialog 
+ Menu Menu Live 
+ Push 
+ Move 
+ Note 
+ Link 
+ Shop 
+ Packs 
+ Help 
+ More 
+ Try Live 12 for free 
+ Log in or register 
+ More on Ableton.com:
+ Blog 
+ Ableton for the Classroom 
+ Ableton for Colleges and Universities 
+ Certified Training 
+ About Ableton 
+ Jobs 
+ Apprenticeships 
+ More from Ableton:
+ Ableton Learn
+ Start making music with beginner-friendly lessons and sounds from experienced artists.
+ Learning Synths
+ Get started with synthesis using a web-based synth and accompanying lessons.
+ Making Music
+ Some tips from 74 Creative Strategies for Electronic Producers.
+ All posts 
+ Artists 
+ News 
+ Downloads 
+ Tutorials 
+ Videos 
+ Loop 
+ One Thing 
+ Podcasts 
+ Artists – View posts in category: Artists Don’t DJ: Exotica On The Dancefloor
+ Tags:  
+ Techno – View posts with tag: Techno ,  
+ Repetition – View posts with tag: Repetition ,  
+ Sequencers – View posts with tag: Sequencers 
+ It’s fair to say that lately there has been an increasing interest in polyrhythms and traditional percussion within the sphere of electronic music. This is not strictly a new phenomenon – back in the 70s and 80s, artists such as Brian Eno , Jon Hassell and Adrian Sherwood were producing forward-thinking electronic music while looking outside the Western world for rhythmic and timbral inspiration – but after decades of 4/4 dominance (not least in the realms of house and techno) there seems to be an upsurge of new music seeking to break out of the rigid rhythmical structures that much of popular Western music is built on.
+ “When I go out dancing I'm often awfully bored when it's just the 4/4 meter,” explains Florian Meyer. Better known as Don’t DJ, the Berlin-based Meyer has produced several enchanting and frequently polyrhythmic records for Berceuse Heroique, Emotional Response and his own SEXES and Diskant labels. “Often complexity is very demanding,” he adds, “but with multi-metric music I have this phenomenon that it's not tiring at all. Sometimes you listen to a rhythm and you don't know how it works, but it feels good.” 
+ Don't DJ - Disparata 69
+ Throughout Meyer’s catalogue, his preference for non-standard rhythms played by exotic percussive tones and timbres is plain to hear. And while his conceptual approach to channelling these influences can change from record to record, his setup for both live and studio work usually revolves around a software sequencer sending MIDI into Ableton Live to trigger soft synths – often in addition to turntables being manipulated with textured materials instead of records. 
+ Bells, gongs, whistles and flutes all feature prominently in Don’t DJ’s sound palette – adding to the primordial, organic quality of his music. Yet, however hand-played they may seem, these sounds all come from inside the box, primarily from Live’s physical modelling instrument Collision .
+ “I like the physical modelling stuff,” Meyer explains. “It's different from using a sample, because the movement of the object after it is struck is calculated into the emerging next sound, so it always gives a bit of a natural feel.” 
+ "For me what counts is the sound itself, not that it was originally recorded by me in some circumstance that’s super special." 
+ While few would dispute that his style is rather unique, Meyer readily admits that he uses the presets in the instruments as a starting point for the sounds that make their way into his tracks. When beginning a production, he tends to focus on the rhythmic arrangement rather than the sonics, leaving the editing of the tone until later in the process. He usually adapts the parameters of the sound and applies chains of effects as a track progresses, but admits that on reaching the final stages of production he’ll sometimes discover that a channel has remained unchanged since the start. 
+ “I was asked a few times if I played a sound by hand,” Meyer reveals, “when it was actually a preset. I was amazed that no one ever came up with this, because definitely some presets people should have heard before. For me what counts is the sound itself, not that it was originally recorded by me in some circumstance that’s super special.” 
+ This approach touches on one of the guiding ideas behind Meyer’s work, crystalised in the recent Authentic Exoticism 12” on SEXES, a multimedia project started by Meyer in conjunction with Lotte Meret Effinger and Marco Buetikofer. While the philosophy behind the project is not prescriptive, the name invokes notions of cultural artifacts from distant lands, their reinterpretation within the Western world and aspirations towards authenticity.
+ “The track “Southeast Subterrane” has frogs from three different continents,” Meyer states of the closing track on the recent EP. “That’s a nice reference for me to the whole theme of this record, because these frogs make it sound authentic, but they are just some pre-recorded stuff I took from some CD. They could not ever occur naturally because they don’t even live on the same continent!” 
+ When asked what the centre of his setup might be, Meyer considers his choice of sequencer to be fundamental in shaping his particular approach to rhythm. While he has used many different software sequencers on his tracks, and even built one with a friend , he claims to mostly use the Euclidean MIDI Patterns app , which, as the name implies, makes use of Euclidean rhythms.
+ Euclidean rhythms were first theorized by Godfried Toussaint in 2004 as a real world expression of the Euclidean algorithm in mathematics. The theory posits that many of the rhythms inherent in many traditional musics can be generated by using the algorithm to calculate an equidistant space between the beats, and thus being applicable to a sequencer that operates in a circular fashion where the traditional eight or 16-step linear sequencers cannot. 
+ A brief explanation of Euclidean rhythms
+ This notion of circular rhythm ties into Meyer’s extensive use of turntables as experimental instruments, both in the studio and on stage. As one third of The Durian Brothers, and previously as part of the group Institut Für Feinmotorik, he has spent many years performing on stage with prepared turntables using materials other than records as sources of vibration for the stylus to pick up. However as Don’t DJ it is only more recently that he has taken a live show on the road, using a set-up combining a laptop running Live, a Rane mixer with Serato interface built-in, and two turntables. One of the first shows he performed was at the Freerotation festival in Wales in 2015. 
+ “The day after the gig I was sitting on the lawn outside,” Meyer recalls, “and a girl walked up and told me that when at some point I ‘made the music go faster and slower at the same time’ it involuntarily made her burst into tears!” 
+ Such a reaction is a fine example of the surreal effect that multi-metrics and polyrhythms can have on a listener, not least in the context of a festival weekend largely driven by more conventional house and techno beats. As well as the Euclidean sequencing occurring digitally, the record decks are providing additional rhythmic information from items placed on the spinning platter, creating percussive ripples at a tempo set by the turntable itself. Meyer even suggests that he is often using the turntable as a ‘sequencer’, and if you look at the visual representation of any circular sequencer from the aforementioned Euclidean MIDI Pattern software to the display on Squarp’s recent Pyramid , the movement shares similarities with the sight of objects cyclically hitting a stylus with no obvious beginning or ending.
+ Florian Meyer aka Don't DJ - photo by Robert Hamacher
+ “ This is my fascination,” says Meyer. “Could there be music where you never really have a starting point?”
+ “ The connection between the turntable and the sequencer is the circle,” he adds. “Rhythm structures are naturally displayed as a circle if you use a turntable as an instrument. For example, if you make four scratches in the locked groove of a record, with the same distance between them, then you have a four to the floor rhythm.”
+ This attraction to record decks as a means of non-linear sequencing reaches back to Meyer’s participation in Institut Für Feinmotorik, who formed in 1997. Meyer attributes the group’s formation to the combination of laziness and creativity that he and Marc Matter, Mark Brüderle and Daniel van den Eijkel found whilst smoking weed and letting a record languish in the run-out groove after a side had finished. 
+ "This is my fascination... Could there be music where you never really have a starting point?"
+ “You can listen to that locked groove for quite some time,” Meyer explains, “and it's just a small step to turn the equalizer all the way up and take out the bass, and turn the bass up on another locked groove on the second turntable, and you already have an IFF track.” 
+ What started as a stoned experiment progressed to a project with a strict manifesto, the four members restricted to using two turntables and a mixer each and forbidden from using effects, editing or even traditional records. Instead, all recordings were one-take performances and the group’s work was focused on using any possible material that would sound interesting under the needle. 
+ Institut Fuer Feinmotorik - Octogrammoticum
+ While IFF has not officially disbanded, Meyer and Matter have since moved on to form The Durian Brothers with Stefan Schwander. The sound is a step on from the precise minimalisms of IFF, with Schwander running sequences of percussion and melody alongside the turntable-based work. 
+ “ We felt open to do everything we did not permit ourselves with the IFF,” says Meyer, “and that also changed a bit how we treat the turntables. We sometimes got lazier because once you allow yourself to use effects, the turntable itself does not necessarily have to sound as great. With the Durian Brothers, maybe because of the safety of the sequencer, I feel freer to improvise. With the IFF everything was so fragile – if someone dropped out the whole thing would fall apart much more easily.”
+ The Durian Brothers - Weggeputscht
+ To come full circle on the interplay between Meyer’s concepts and his working methods, the technological development of his turntable experiments ties in with the theme he believes is at the heart of Authentic Exoticism . “This record was about hybridization,” he explains. “We talked about different aspects of hybridization in the text, the music, and also the artwork, and for me the secret theme is not the hybridization between cultures, but between humans and machines. The music is completely based on algorithms, and so is the imagery.”
+ Meyer’s exploration of prepared turntables has evolved from an organic, texture-based experiment to a freedom of expression that has in some way brought him closer to playing his instruments instinctively. Equally, his discovery of sequencers that use the Euclidean algorithm has enabled him to create a sound that evokes exotic musical traditions, even if in an entirely artificial way. It’s a conundrum that grows ever more pertinent in the digital age, where the lines between a synthetic experience and a genuine one are ill-defined. Western and non-Western cultures exchange ideas at an ever-increasing rate, and the integration of humans and their machines marches on relentlessly. 
+ Keep up with Don’t DJ on Soundcloud and Facebook 
+ Posted on Oct. 18, 2016 in Artists 
+ Tags: Techno , 
+ Repetition , 
+ Sequencers 
+ Related
+ View posts in category: Downloads 
+ Yushh: The Sound of Forward Pressure 
+ View posts in category: Podcasts 
+ Bendik Giske Embraces the Power of Minimalism 
+ View posts in category: Downloads 
+ Designing Dub Chords in Ableton Live with El Choop/Pizza Hotline 
+ Sign up to our newsletter 
+ Enter your email address to stay up to date with the latest offers, tutorials, downloads, surveys and more.
+ Register Live, Push or Move 
+ About Ableton 
+ Jobs 
+ Education
+ Offers for students and teachers 
+ Ableton for the Classroom 
+ Ableton for Colleges and Universities 
+ Community
+ Find Ableton User Groups 
+ Find Certified Training 
+ Become a Certified Trainer 
+ Language and Location
+ Language English Deutsch Français 日本語 简体中文 Español 
+ Country or Region Please choose United States United Kingdom France Germany Canada Japan China Australia Afghanistan Aland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua And Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia And Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, The Democratic Republic Of The Cook Islands Costa Rica Cote D'Ivoire Croatia Cuba Curacao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island And McDonald Islands Honduras Hong Kong SAR, China Hungary Iceland India Indonesia Iran (Islamic Republic Of) Iraq Ireland Isle Of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic Korea, Republic Of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao SAR, China Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States Of Moldova, Republic Of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia, Republic of Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory, Occupied Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Reunion Romania Russian Federation Rwanda Saint Helena Saint Kitts And Nevis Saint Lucia Saint Martin (French Part) Saint Pierre And Miquelon Saint Vincent And The Grenadines Samoa San Marino Sao Tome And Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia And The South Sandwich Islands South Sudan Spain Canary Islands (Spain) Sri Lanka Sudan Suriname Svalbard And Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan Tajikistan Tanzania, United Republic Of Territory of the French Southern and Antarctic Lands Thailand Timor-Leste Togo Tokelau Tonga Trinidad And Tobago Tunisia Turkey Turkmenistan Turks And Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Vatican City State (Holy See) Venezuela Viet Nam Virgin Islands (British) Virgin Islands (U.S.) Wallis And Futuna Western Sahara Yemen Zambia Zimbabwe 
+ Contact Us Press Resources Legal Info Corporate Information Privacy Policy Cookie Settings Imprint Withdraw from Contract 
+ Made in Berlin

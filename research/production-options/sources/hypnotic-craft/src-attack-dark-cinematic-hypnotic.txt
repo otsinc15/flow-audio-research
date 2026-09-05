@@ -1,0 +1,191 @@
+URL: https://www.attackmagazine.com/technique/beat-dissected/dark-cinematic-hypnotic-techno/
+Fetched: 2026-09-05
+---
+Dark Cinematic Hypnotic Techno - Attack Magazine 
+ Attack Magazine 
+ Menu 
+ News 
+ Technique 
+ Technique 
+ All 
+ Hardware Focus 
+ Modular Synthesis 
+ Tutorials 
+ Beat Dissected 
+ Synth Secrets 
+ Deconstructed 
+ Passing Notes 
+ The Breakdown 
+ Video Tutorials 
+ Help 
+ ← 
+ Features 
+ Features 
+ All 
+ Long Reads 
+ Podcasts 
+ Interviews 
+ My Studio 
+ Track By Track 
+ Show & Tell 
+ Top Tracks 
+ Q&A 
+ Columns 
+ Job Envy 
+ Introducing... 
+ Quizzes 
+ ← 
+ Reviews 
+ Reviews 
+ All 
+ The Best... 
+ Gear/Software 
+ Books/DVDs 
+ ← 
+ Charts 
+ Store 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ Subscribe 
+ Search 
+ Technique » Beat Dissected » Dark Cinematic Hypnotic Techno 
+ Dark Cinematic Hypnotic Techno
+ Share
+ Facebook 
+ Twitter 
+ WhatsApp 
+ In this Beat Dissected, we’re creating a beat in the style of Paula Temple’s Raging Earth — a thrilling, otherworldly masterpiece that blurs the lines between driving techno, new beat, and dystopian sci-fi soundscapes. 
+ In 2019, Paula Temple’s label Noise Manifesto released the split single Raging Earth / Raging Noise which also appears on the album ‘Edge Of Everything’. The British DJ, producer, remixer, music technology pioneer, and self-confessed “noisician”, can be found on R&S Records and Jeff Mills ’ Exhibitionist release.
+ In this edition of Beat Dissected, we won’t promise to make a carbon copy, but we will look at some music production techniques to create some grooves in the fashion of Paula’s Temple’s Raging Earth . 
+ Here’s the original track: 
+ Here’s what we’ll be making today: 
+ And here’s how the beat sounds with melody for context: 
+ Remember, click any image to enlarge! 
+ Spec
+ Tempo
+ 131 BPM 
+ Swing
+ 50% 
+ Sounds
+ Ableton 12 
+ STEP 1: THE KICKS 
+ To kick off this project, let’s layer some kicks. First, create a new MIDI track, label it ‘Drums’, set Track Volume to -10.0 dB and load in the 909 Core Kit.
+ On the Bass Drum, program in a four-beat pattern.
+ Adjust the settings to Tune 99, Attack 127 and Decay 121. The kick is pretty solid, so we’ll just make it pump more with Kick EQ 4.
+ Next, we’ll design the rumble kick to create a dystopian atmosphere. Add the ‘Kick 909 1’ sample into the rack.
+ Program in a four-to-the-floor pattern.
+ Load Delay onto the Drum Pad. Unsync and make Left 2 and Right 3. Adjust both Feedback and Dry/Wet knobs to 50%.  Add the stock Reverb, adjust Decay to 3.79 s and Dry/Wet to 68%. Grab EQ Eight and cut off the high-end as shown in the picture. Lastly, add Saturator and adjust to Medium Curve and Drive to 5.7 dB.
+ STEP 2: HI-HAT AND SNARE 
+ Now let’s drive the track to be more danceable with some rhythm.  Load in ‘Hihat Closed 56 TL’ to the Drum Rack. Turn up Volume to -8.0 dB.
+ Place a hi-hat on the third step of each quarter bar. On the lower Snare Drum, place a beat on the fifth step of bars two and four.
+ STEP 3: CALL & RESPONSE HATS 
+ To add some atmospheric pressure, let’s create a call and response.
+ Let’s drop in ‘Hihat Open 53 TL’ and ‘FX Reverse Glitch’.  On both samples, turn Volume down to -10.0 dB. For the hi-hat, place a note on bar two’s fifth and ninth beats, and bar four’s fifth beat.
+ For the FX, place a note on bar two’s eleventh and thirteenth notes.
+ STEP 4: CONGA AND SHAKER 
+ Now let’s add the ‘Conga 808 Hi’ sample to our Drum Rack. Turn the Volume down to -15.0 dB.
+ Program in the MIDI pattern from the image below. To get the rattlesnake effect, we will add the ‘Shake Deep Fried’ shaker. Program in one MIDI note on step nine of bar three. 
+ To create some tension and modulate the movement of the snake, add the 90 Degrees Auto Pan and the A Bit Tipsy Vintage Delay Echo. 
+ STEP 5: MASTERING CHAIN 
+ For the finishing touches of our sci-fi inspired track, let’s create some more atmosphere with some effects. It’s useful to group them together to have more control over the mix.
+ We can do this by dragging in Ambience Medium and turning down Dry/Wet to 18% or adjusting it to your liking. Then we can make the track sound even more spacious by adding Master Wide & Warm and selecting Heavy Compression.
+ To level everything out, add the Glue Compressor and copy the settings to Attack .3, Release .4, Threshold -16.0 dB, Makeup 6.00 dB, Range 50.0 dB and Dry/Wet 35%.
+ Top Tip: Playing around with effects’ settings with a track running is a great way to learn how they function in real-time and develop your music production workflow. 
+ With some music for context: 
+ Vamp Acid is a music producer, live techno artist, host and curator of  Hrdwre.io  based in Berlin. Find  Vamp Acid on Instagram. 
+ If you like  Beat Dissected , you may enjoy our book  The Secrets of Techno Production . Out now in the Attack Store . 
+ Follow Attack Magazine 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ SoundCloud 
+ TikTok 
+ Attack Store
+ View products 
+ The Secrets Book Bundle
+ Get 2 best-selling music production books. Buy more, spend less.
+ Buy Now 
+ The Producers’ Book Bundle
+ Get 3 best-selling music production books. Buy more, spend less.
+ Buy Now 
+ Dance Music Producers’ Power Book Bundle
+ Get 2 best-selling music production books. Buy more, spend less.
+ Buy Now 
+ The Secrets of Techno Production
+ The definitive guide to making techno.
+ Buy Now 
+ The Secrets of Dance Music Production
+ The world-leading book on dance music production. Comes with samples too.
+ Buy Now 
+ The Producer’s Manual
+ Everything you need to take a mix, from initial recording to final master.
+ Buy Now 
+ FinalFinal T-Shirt
+ A hilarious tribute to our never-ending battle with file naming chaos. 
+ Buy Now 
+ Secretos de la Producción de Música Dance
+ La guía definitiva para producir música electrónica de vanguardia.
+ Buy Now 
+ Max for Live: Texture
+ Add texture simple to any sound. Simple an effective. 
+ .
+ Buy Now 
+ Max For Live: Chance Engine V2
+ Add controlled yet random fluctuations to your most important parameters.
+ Buy Now 
+ Boots ‘n’ Cats House T-Shirt
+ The sound of house music as a big back print now!
+ Buy Now 
+ Untz Untz Techno T-Shirt
+ Big back print techno inspired t-shirt. 
+ Buy Now 
+ Underground Resistance: The Final Frontier Poster
+ Anti corporate, political, powerful and progressive the power house of Jeff Mills, Robert Hood and "Mad" Mike Banks needs little introduction.
+ View More 
+ Max for Live: Pulse Engine V2
+ A unique generative MIDI device from Manifest Audio.
+ Buy Now 
+ Related 
+ Author Vamp Acid 
+ 15th April, 2025 
+ Previous 
+ Beat Dissected - How to Program Techno Like Dave Clarke 
+ Next 
+ Beat Dissected - Dana Montana Inspired Techno 
+ Leave a Reply
+ Your email address will not be published. Required fields are marked * 
+ Comment * 
+ Name * 
+ Email * 
+ Δ 
+ © 2026 Attack Magazine
+ About us 
+ Jobs 
+ Shipping 
+ Contact 
+ Privacy 
+ Advertise 
+ Write for Attack 
+ Facebook 
+ X 
+ YouTube 
+ Instagram 
+ TikTok 
+ A WEEKLY SELECTION OF OUR BEST ARTICLES DELIVERED TO YOUR INBOX
+ Δ 
+ You currently have an ad blocker installed
+ Attack Magazine is funded by advertising revenue. To help support our original content, please consider whitelisting Attack in your ad blocker software.
+ Find out how 
+ x 
+ Close 
+ Previous 
+ Next
