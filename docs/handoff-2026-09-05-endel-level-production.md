@@ -168,7 +168,14 @@ that ran ACE-Step; anything that must run unattended goes there.
   mind either.
 - Exports: `~/Documents/AI Agent Outputs/Artifacts/flow-audio-candidates/ableton-r1/`, `ableton-r2/`
   (16-bar WAVs plus `measurements-r2.json`), earlier rounds alongside.
-- Reference audio and stems: `~/Documents/AI Agent Outputs/Artifacts/flow-audio-references/` (study only).
+- Reference audio and stems (study only, never in the repo, never into a generator), all in
+  `~/Documents/AI Agent Outputs/Artifacts/flow-audio-references/`:
+  - `ref02-endel-deeper-focus-iphone-screenrec.m4a` — Endel Deeper Focus, 7:47, Daniel's stated quality
+    bar; its Demucs stems and `results.json` in `endel-analysis/`.
+  - `ref01-late-autumn-schwarzwalder-12m51-17m45.m4a` — Christopher Schwarzwälder "Late Autumn"
+    SoundCloud set, the 12:51–17:45 stretch Daniel called "perfect", especially the break at 3:24–3:39
+    of the clip. Not yet torn down the way ref02 was.
+  - Index and provenance: `research/ear-test/reference-manifest.md`.
 - Samples: `~/Music/Ableton/flow-audio/samples/` (Riemann free pack, 223 WAV, licence in
   `loop-sources-licence-2026-09-02.md`: fine for internal tests and pre-rendered output, not for
   embedding raw in an app).
